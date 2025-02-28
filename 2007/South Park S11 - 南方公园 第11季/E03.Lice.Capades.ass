@@ -1,0 +1,506 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: South.Park.S11E03.Lice.Capades.1080p.BluRay.x264-SHORTBREHD
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 1916
+PlayResY: 1076
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,微软雅黑,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Git,Comic Sans MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Chn,微软雅黑,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,20,1
+Style: Eng,Comic Sans MS,50,&H002AF7FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.71,0:00:09.84,Chn,,0,0,0,,♪ I'm going down to South Park ♪
+Dialogue: 0,0:00:09.96,0:00:11.80,Chn,,0,0,0,,♪ Gonna have myself a time ♪
+Dialogue: 0,0:00:11.93,0:00:13.55,Chn,,0,0,0,,♪ Friendly faces everywhere ♪
+Dialogue: 0,0:00:13.68,0:00:15.14,Chn,,0,0,0,,♪ Humble folks without temptation ♪
+Dialogue: 0,0:00:15.26,0:00:16.55,Chn,,0,0,0,,♪ Going down to South Park ♪
+Dialogue: 0,0:00:16.68,0:00:18.60,Chn,,0,0,0,,♪ Gonna leave my woes behind ♪
+Dialogue: 0,0:00:18.72,0:00:20.06,Chn,,0,0,0,,♪ Ample parking day or night ♪
+Dialogue: 0,0:00:20.18,0:00:21.89,Chn,,0,0,0,,♪ People spouting "howdy neighbor" ♪
+Dialogue: 0,0:00:22.02,0:00:22.77,Chn,,0,0,0,,♪ Headed on up to South Park ♪
+Dialogue: 0,0:00:22.89,0:00:24.94,Chn,,0,0,0,,♪ Gonna see if I can't unwind ♪
+Dialogue: 0,0:00:28.57,0:00:29.78,Chn,,0,0,0,,♪ Come on down to South Park ♪
+Dialogue: 0,0:00:29.90,0:00:31.11,Chn,,0,0,0,,♪ And meet some friends of mine ♪
+Dialogue: 0,0:00:31.11,0:00:34.11,Chn,,0,0,0,,South.Park.S11E03.Lice.Capades\N{\rEng}{\c&H00ffff&}www.1000fr.com presents{\c}\N{\rEng}{\c&H00ffff&}Capture:FRM@ID Sync:FRM@mablelee{\c}\N{\rEng}双语合成 Lv&daisy
+Dialogue: 0,0:00:38.40,0:00:40.80,Chn,,0,0,0,,好啦 孩子们 快坐好吧\N{\rEng}ALRIGHT, STUDENTS, LET'S TAKE OUR SEATS.
+Dialogue: 0,0:00:41.00,0:00:43.90,Chn,,0,0,0,,学校今天有个小问题\N{\rEng}APPARENTLY, WE HAVE A LITTLE PROBLEM HERE AT THE SCHOOL
+Dialogue: 0,0:00:43.90,0:00:45.90,Chn,,0,0,0,,要和大家一起商量解决\N{\rEng}WHICH WE NEED TO TALK ABOUT.
+Dialogue: 0,0:00:46.00,0:00:46.90,Chn,,0,0,0,,我知道啦！\N{\rEng}AH, YES,
+Dialogue: 0,0:00:47.10,0:00:48.90,Chn,,0,0,0,,是关于那些犹太人的事吧\N{\rEng}YOU MEAN THE JEW PROBLEM.
+Dialogue: 0,0:00:48.90,0:00:51.50,Chn,,0,0,0,,学校当局终于要采取措施了 我很欣慰啊\N{\rEng}GOOD, GOOD, I'M GLAD WE'RE FINALLY GOING TO DO SOMETHING ABOUT IT.
+Dialogue: 0,0:00:51.50,0:00:54.50,Chn,,0,0,0,,没啊 我说的是关于头虱的事\N{\rEng}NO, I MEAN THE PROBLEM OF HEAD LICE.
+Dialogue: 0,0:00:54.60,0:00:57.40,Chn,,0,0,0,,不久前丹佛有所学校 有过一次虱子大爆发\N{\rEng}THERE'S BEEN A LICE BREAKOUT AT A SCHOOL IN DENVER
+Dialogue: 0,0:00:57.40,0:01:00.00,Chn,,0,0,0,,所以我们学校也要防患于未然\N{\rEng}AND WE NEED TO MAKE SURE NOBODY SPREADS IT HERE.
+Dialogue: 0,0:01:00.00,0:01:01.70,Chn,,0,0,0,,我们班上有人有头虱？\N{\rEng}SOMEBODY MIGHT HAVE LICE?!
+Dialogue: 0,0:01:02.90,0:01:04.90,Chn,,0,0,0,,所以今天 大家都得去学校体育馆里\N{\rEng}SO TODAY YOU ARE ALL GOING TO THE GYMNASIUM
+Dialogue: 0,0:01:04.90,0:01:07.00,Chn,,0,0,0,,好好的检查一下\N{\rEng}TO HAVE YOUR SCALPS EXAMINED.
+Dialogue: 0,0:01:07.80,0:01:09.40,Chn,,0,0,0,,这没什么必要吧\N{\rEng}THAT IS COMPLETELY UNNECESSARY.
+Dialogue: 0,0:01:09.40,0:01:11.90,Chn,,0,0,0,,大家都知道 只要穷人身上才会长虱子\N{\rEng}EVERYONE KNOWS THAT ONLY POOR PEOPLE CAN GET LICE.
+Dialogue: 0,0:01:11.90,0:01:14.40,Chn,,0,0,0,,所以只要检查Kenny就好了嘛\N{\rEng}THE ONLY ONE THAT COULD SPREAD IT HERE IS KENNY.
+Dialogue: 0,0:01:14.40,0:01:14.90,Chn,,0,0,0,,虾米?!\N{\rEng}WHAT?!
+Dialogue: 0,0:01:14.90,0:01:15.90,Chn,,0,0,0,,我操!\N{\rEng}F YOU!
+Dialogue: 0,0:01:15.90,0:01:17.50,Chn,,0,0,0,,我个人也觉得我们班没什么问题\N{\rEng}I'M SURE THIS CLASS IS CLEAN,
+Dialogue: 0,0:01:17.50,0:01:18.70,Chn,,0,0,0,,但最好还是检查一下\N{\rEng}BUT WE'RE GOING TO BE EXAMINED
+Dialogue: 0,0:01:18.70,0:01:20.60,Chn,,0,0,0,,这样就算有人真的得了虱子\N{\rEng}SO THAT IF ANYONE HAS THE LICE
+Dialogue: 0,0:01:20.60,0:01:23.00,Chn,,0,0,0,,学校也好在其传播前采取措施\N{\rEng}WE CAN STOP IT BEFORE IT SPREADS.
+Dialogue: 0,0:01:23.00,0:01:25.30,Chn,,0,0,0,,每个人的头发里都可能有头虱\N{\rEng}LICE CAN LIVE IN ANYBODY'S HAIR.
+Dialogue: 0,0:01:39.90,0:01:41.20,Chn,,0,0,0,,哈罗 Kelly.\N{\rEng}HELLO, KELLY.
+Dialogue: 0,0:01:41.30,0:01:42.50,Chn,,0,0,0,,宝贝今天还好吗？\N{\rEng}HOW'S MY BABY?
+Dialogue: 0,0:01:42.70,0:01:44.60,Chn,,0,0,0,,你是说我呢？ 还是说我们的小宝宝？\N{\rEng}YOU MEAN ME, OR THE LITTLE ONE?
+Dialogue: 0,0:01:45.00,0:01:46.40,Chn,,0,0,0,,当然是你们两个一起啦\N{\rEng}I MEAN BOTH.
+Dialogue: 0,0:01:46.40,0:01:49.60,Chn,,0,0,0,,嗯 除了在等你回家时有一些孤独\N{\rEng}WELL, BESIDES A LITTLE LONELINESS WAITING FOR DADDY TO COME HOME,
+Dialogue: 0,0:01:49.60,0:01:51.20,Chn,,0,0,0,,我想我们都还好拉\N{\rEng}I GUESS WE'RE BOTH OKAY.
+Dialogue: 0,0:01:51.60,0:01:55.60,Chn,,0,0,0,,我是如此幸运 能和你这么美丽的虱子结合\N{\rEng}HOW DID A LOUSE LIKE ME GET SO LUCKY TO HAVE A LOUSE LIKE YOU?
+Dialogue: 0,0:01:55.60,0:01:57.50,Chn,,0,0,0,,这才不是什么幸运呢 Travis\N{\rEng}LUCK HAD NOTHING TO DO WITH IT, TRAVIS.
+Dialogue: 0,0:01:58.70,0:02:02.30,Chn,,0,0,0,,大家加油啊！ 好样的!\N{\rEng}-LICE GET ER DOWN! -THAT'S IT! -GOOD!
+Dialogue: 0,0:02:04.60,0:02:05.60,Chn,,0,0,0,,你没事吧?\N{\rEng}YOU OKAY?
+Dialogue: 0,0:02:05.60,0:02:07.20,Chn,,0,0,0,,有时候\N{\rEng}SOMETIMES
+Dialogue: 0,0:02:07.50,0:02:11.40,Chn,,0,0,0,,我有些担心我们宝宝出生后 的成长环境\N{\rEng}I JUST WORRY WHAT KIND OF WORLD OUR BABY IS GOING TO GROW UP IN.
+Dialogue: 0,0:02:11.40,0:02:12.70,Chn,,0,0,0,,我还是再回丛林一趟\N{\rEng}I NEED TO RUN OUT TO THE FOREST
+Dialogue: 0,0:02:12.70,0:02:14.60,Chn,,0,0,0,,再研究分析一下好了\N{\rEng}AND DO ANOTHER SEDIMENT ANALYSIS.
+Dialogue: 0,0:02:14.60,0:02:17.50,Chn,,0,0,0,,我觉得我们似乎对这片土地 索取得太多了\N{\rEng}I'M WORRIED WE MIGHT BE OVERWORKING THE TERTIARY LAYER.
+Dialogue: 0,0:02:22.70,0:02:26.50,Chn,,0,0,0,,所有学生都按照年级的顺序排好队\N{\rEng}ALL STUDENTS MAKE SURE YOU ARE IN LINE ACCORDING TO YOUR GRADE.
+Dialogue: 0,0:02:26.50,0:02:28.20,Chn,,0,0,0,,当轮到你们检查的时候\N{\rEng}WHEN YOU REACH THE FRONT OF THE LINE,
+Dialogue: 0,0:02:28.20,0:02:32.00,Chn,,0,0,0,,你们就要进入幕布后面 把帽子脱下来好好检查\N{\rEng}YOU WILL GO BEHIND THE CURTAIN AND REMOVE ANY HATS TO BE CHECKED.
+Dialogue: 0,0:02:34.10,0:02:36.70,Chn,,0,0,0,,天哪 我真希望他们在我身上 找不出虱子\N{\rEng}BOY, I SURE HOPE THEY DON'T FIND LICE IN MY HAIR!
+Dialogue: 0,0:02:36.70,0:02:38.30,Chn,,0,0,0,,你知道你如果被检查出有虱子 会是什么后果吗？\N{\rEng}WHAT DO YOU THINK HAPPENS IF YOU DO HAVE IT?
+Dialogue: 0,0:02:38.30,0:02:39.50,Chn,,0,0,0,,他们会把你拖出去\N{\rEng}THEY DRAG YOU OUT OF HERE,
+Dialogue: 0,0:02:39.50,0:02:41.20,Chn,,0,0,0,,把你丢进一个大厕所里面\N{\rEng}PUT YOU IN THIS BIG CONTAINMENT FACILITY,
+Dialogue: 0,0:02:41.20,0:02:43.80,Chn,,0,0,0,,然后他们就会把一根插满果酱的铁棍子 狠狠地插进你的小屁眼\N{\rEng}WHERE THEY STICK A COLD METAL PIPE UP YOUR ASS WITH THIS CLEAR JELLY
+Dialogue: 0,0:02:43.80,0:02:45.50,Chn,,0,0,0,,然后再把你的小蛋蛋捏碎\N{\rEng}AND THEN THEY SHOCK YOUR BALLS.
+Dialogue: 0,0:02:46.20,0:02:46.70,Chn,,0,0,0,,我是干净的!\N{\rEng}I'M CLEAN!
+Dialogue: 0,0:02:46.70,0:02:49.00,Chn,,0,0,0,,我就知道我才不会有什么臭头虱\N{\rEng}I KNEW I DIDN'T HAVE ANY STUPID HEAD LICE!
+Dialogue: 0,0:02:49.90,0:02:51.10,Chn,,0,0,0,,这根本就没什么意义嘛\N{\rEng}THIS IS RIDICULOUS,
+Dialogue: 0,0:02:51.10,0:02:54.20,Chn,,0,0,0,,其实我们所有人都只不过是来 来陪Kenny检查而已\N{\rEng}ALL THIS JUST SO THEY CAN SEND KENNY AND HIS STUPID HEAD LICE HOME.
+Dialogue: 0,0:02:54.20,0:02:55.60,Chn,,0,0,0,,贱人 日你！\N{\rEng}DUDE! ???
+Dialogue: 0,0:02:57.50,0:02:59.10,Chn,,0,0,0,,在椅子上坐好\N{\rEng}HAVE A SEAT ON THE STOOL.
+Dialogue: 0,0:03:28.20,0:03:29.90,Chn,,0,0,0,,噢 噢 看来你有头虱哦！\N{\rEng}OH, OH... LOOKS LIKE YOU'VE GOT 'EM.
+Dialogue: 0,0:03:30.10,0:03:30.70,Chn,,0,0,0,,什么?!\N{\rEng}WHAT?!
+Dialogue: 0,0:03:30.70,0:03:31.80,Chn,,0,0,0,,你有头虱\N{\rEng}YOU HAVE LICE.
+Dialogue: 0,0:03:31.80,0:03:33.80,Chn,,0,0,0,,你叫Clyde Harris 没错吧？\N{\rEng}LET'S SEE...CLYDE HARRIS, IS IT?
+Dialogue: 0,0:03:34.10,0:03:35.00,Chn,,0,0,0,,噢 天啊!!!\N{\rEng}OH, MY GOD!!!
+Dialogue: 0,0:03:35.50,0:03:36.80,Chn,,0,0,0,,耶稣你怎么这样对我!\N{\rEng}OH, CHRIST NO!
+Dialogue: 0,0:03:36.80,0:03:39.30,Chn,,0,0,0,,别紧张嘛 这没什么大不了的\N{\rEng}NOW, NOW... IT'S ALRIGHT.
+Dialogue: 0,0:03:39.30,0:03:41.00,Chn,,0,0,0,,我们只需要打个电话给你家长\N{\rEng}WE'RE GOING TO CALL YOUR PARENTS
+Dialogue: 0,0:03:41.00,0:03:42.80,Chn,,0,0,0,,让他们带你去看医生就好了\N{\rEng}AND GET YOU TO YOUR DOCTOR.
+Dialogue: 0,0:03:42.90,0:03:44.40,Chn,,0,0,0,,你根本就不知道事态的严重性！\N{\rEng}PLEASE, YOU DON'T UNDERSTAND.
+Dialogue: 0,0:03:44.40,0:03:46.30,Chn,,0,0,0,,对其他孩子来说 我会成为永远的头虱笑料的\N{\rEng}THE OTHER KIDS ARE GONNA MAKE FUN OF ME FOREVER!
+Dialogue: 0,0:03:46.30,0:03:48.80,Chn,,0,0,0,,你的朋友们没有那么贱吧？\N{\rEng}I'M SURE YOUR FRIENDS AREN'T THAT CRUEL.
+Dialogue: 0,0:03:48.80,0:03:49.90,Chn,,0,0,0,,他们就那么贱!\N{\rEng}YES! THEY ARE!
+Dialogue: 0,0:03:51.70,0:03:52.80,Chn,,0,0,0,,总统先生!\N{\rEng}MR. PRESIDENT!
+Dialogue: 0,0:03:53.00,0:03:56.00,Chn,,0,0,0,,总统先生 大事不好啦!\N{\rEng}MR. PRESIDENT, I BELIEVE WE HAVE A SERIOUS PROBLEM!
+Dialogue: 0,0:03:56.00,0:03:58.30,Chn,,0,0,0,,环境正在发生剧变\N{\rEng}THE ENVIRONMENT IS CHANGING.
+Dialogue: 0,0:03:58.30,0:04:02.10,Chn,,0,0,0,,我想这也许是我们的过度开发而造成的\N{\rEng}I BELIEVE IT IS SOMEHOW REACTING TO OUR PRESENCE ON IT.
+Dialogue: 0,0:04:02.10,0:04:04.00,Chn,,0,0,0,,你这么说有什么根据吗?\N{\rEng}AND WHAT DO YOU BASE THIS ON?
+Dialogue: 0,0:04:04.40,0:04:06.20,Chn,,0,0,0,,这是整个世界的样子 没错吧?\N{\rEng}LOOK, THIS IS THE WORLD, RIGHT?
+Dialogue: 0,0:04:06.70,0:04:08.70,Chn,,0,0,0,,可如果这块土地是一个\N{\rEng}BUT NOW THINK OF THE WORLD...AS
+Dialogue: 0,0:04:08.70,0:04:10.20,Chn,,0,0,0,,有生命的物体\N{\rEng}A LIVING BEING.
+Dialogue: 0,0:04:11.20,0:04:13.10,Chn,,0,0,0,,如果它有着自己的意识的话\N{\rEng}IF IT WERE SOMEHOW CONSCIOUS,
+Dialogue: 0,0:04:13.10,0:04:16.20,Chn,,0,0,0,,它将会会对我们的行为 作出回应的！\N{\rEng}THEN IT WOULD ULTIMATELY BECOME AWARE OF OUR AFFECT ON IT.
+Dialogue: 0,0:04:16.60,0:04:18.50,Chn,,0,0,0,,这片土地是有意识的...\N{\rEng}RIGHT, THE WORLD IS CONSCIOUS --
+Dialogue: 0,0:04:18.50,0:04:20.20,Chn,,0,0,0,,这是我听过最冷的笑话了...\N{\rEng}IT MAKES PERFECT SENSE.
+Dialogue: 0,0:04:21.30,0:04:23.30,Chn,,0,0,0,,哈罗 有人吗？\N{\rEng}HELLO?  ANYBODY?
+Dialogue: 0,0:04:25.00,0:04:27.40,Chn,,0,0,0,,如果我们继续过度开发的话\N{\rEng}IF WE HAVE MADE TOO MUCH OF AN IMPACT,
+Dialogue: 0,0:04:27.50,0:04:30.50,Chn,,0,0,0,,也许我们会全部灭亡的\N{\rEng}THEN THAT CONSCIOUSNESS WOULD TRY TO SNUFF US OUT.
+Dialogue: 0,0:04:30.50,0:04:32.70,Chn,,0,0,0,,我觉得我们正在面临着一场\N{\rEng}I THINK WE'RE LOOKING AT A GLOBAL CATASTROPHE,
+Dialogue: 0,0:04:32.70,0:04:34.60,Chn,,0,0,0,,前所未有的大灾难\N{\rEng}THE LIKES OF WHICH WE'VE NEVER SEEN.
+Dialogue: 0,0:04:35.10,0:04:37.00,Chn,,0,0,0,,谁他妈相信你呀？\N{\rEng}POO DIGGERY AND POPPY COCK.
+Dialogue: 0,0:04:37.00,0:04:38.30,Chn,,0,0,0,,我想我们最好把所有虱子都集中起来\N{\rEng}I THINK WE NEED TO PUT ALL RESOURCES
+Dialogue: 0,0:04:38.30,0:04:40.00,Chn,,0,0,0,,大家一起商量探讨一下\N{\rEng}NOW INTO A FULL INVESTIGATION,
+Dialogue: 0,0:04:40.00,0:04:42.40,Chn,,0,0,0,,关于大迁移的可能性\N{\rEng}PERHAPS EVEN BEGIN A LICE-WIDE EVACUATION.
+Dialogue: 0,0:04:42.40,0:04:43.90,Chn,,0,0,0,,大迁移?\N{\rEng}EVACUATION?
+Dialogue: 0,0:04:44.00,0:04:45.70,Chn,,0,0,0,,可是明天是庆生节呀!\N{\rEng}TOMORROW IS THE GOOTAK FESTIVAL!
+Dialogue: 0,0:04:45.70,0:04:47.70,Chn,,0,0,0,,你知道这会造成多大的损失吗?\N{\rEng}DO YOU KNOW HOW MUCH MONEY WE WOULD LOSE?
+Dialogue: 0,0:04:47.70,0:04:49.60,Chn,,0,0,0,,以后不要再乱造谣了\N{\rEng}ESCORT MR. MAYFIELD OUT,
+Dialogue: 0,0:04:49.60,0:04:52.20,Chn,,0,0,0,,总统是不会理会你这种 哗众取宠的小把戏的\N{\rEng}THE PRESIDENT CAN'T BE BOTHERED ANY FURTHER.
+Dialogue: 0,0:04:52.40,0:04:54.00,Chn,,0,0,0,,副总统 Greg 你这贱人\N{\rEng}DAMN YOU, VICE PRESIDENT GREG,
+Dialogue: 0,0:04:54.00,0:04:56.30,Chn,,0,0,0,,你会成为千古罪人的\N{\rEng}YOU COULD BE KILLING US ALL.
+Dialogue: 0,0:04:58.80,0:04:59.90,Chn,,0,0,0,,这实在是...\N{\rEng}THIS IS SO
+Dialogue: 0,0:04:59.90,0:05:01.10,Chn,,0,0,0,,太丢脸了\N{\rEng}EMBARRASSING.
+Dialogue: 0,0:05:02.00,0:05:03.30,Chn,,0,0,0,,我是来检查听力的\N{\rEng}I HAVE AN EAR INFECTION.
+Dialogue: 0,0:05:03.30,0:05:04.90,Chn,,0,0,0,,你是因为什么缘故要来看医生?\N{\rEng}WHAT ARE YOU SEEING THE DOCTOR FOR?
+Dialogue: 0,0:05:05.90,0:05:07.40,Chn,,0,0,0,,我得了...\N{\rEng}I HAVE...
+Dialogue: 0,0:05:07.40,0:05:08.70,Chn,,0,0,0,,我得了AIDS.\N{\rEng}I HAVE AIDS.
+Dialogue: 0,0:05:10.40,0:05:11.50,Chn,,0,0,0,,Clyde Harris?\N{\rEng}CLYDE HARRIS?
+Dialogue: 0,0:05:13.70,0:05:15.80,Chn,,0,0,0,,哇 看来你的头虱问题真的很严重呢\N{\rEng}YEAH, THAT'S A PRETTY BAD LICE PROBLEM THERE,
+Dialogue: 0,0:05:15.80,0:05:17.30,Chn,,0,0,0,,你们学校的检查还真是及时呢\N{\rEng}GOOD THING THEY PULLED YOU OUT OF SCHOOL.
+Dialogue: 0,0:05:17.30,0:05:19.00,Chn,,0,0,0,,可为什么是我呀 医生?\N{\rEng}BUT WHY ME, DOCTOR?
+Dialogue: 0,0:05:19.00,0:05:19.90,Chn,,0,0,0,,为什么是我?\N{\rEng}WHY ME?
+Dialogue: 0,0:05:19.90,0:05:21.10,Chn,,0,0,0,,我怎么会染上这种东西?!\N{\rEng}HOW DID I GET THIS?!
+Dialogue: 0,0:05:21.40,0:05:22.40,Chn,,0,0,0,,恩 信不信由你哦\N{\rEng}WELL, BELIEVE IT OR NOT,
+Dialogue: 0,0:05:22.40,0:05:25.60,Chn,,0,0,0,,有些虱子会主动停附在苍蝇身上\N{\rEng}SOME LICE CAN ACTUALLY ATTACH THEMSELVES TO FLIES
+Dialogue: 0,0:05:25.60,0:05:27.60,Chn,,0,0,0,,直到苍蝇带他们飞到\N{\rEng}AND THEN WAIT FOR THE FLY TO LAND ON SOMEONE'S HEAD
+Dialogue: 0,0:05:27.60,0:05:29.30,Chn,,0,0,0,,一个适合于他们产卵的地方\N{\rEng}WHERE THEY CAN REPRODUCE.
+Dialogue: 0,0:05:29.30,0:05:30.40,Chn,,0,0,0,,所以说你的这些虱子\N{\rEng}AND THEN THE LICE THAT LIVE IN YOUR HEAD
+Dialogue: 0,0:05:30.40,0:05:32.40,Chn,,0,0,0,,估计都是你头上土生土长的呢\N{\rEng}NOW WERE PROBABLY ALL BORN THERE.
+Dialogue: 0,0:05:32.40,0:05:33.40,Chn,,0,0,0,,恶心...\N{\rEng}SICK.
+Dialogue: 0,0:05:33.50,0:05:35.10,Chn,,0,0,0,,这瓶香波可以解决问题\N{\rEng}THIS SHAMPOO SHOULD TAKE CARE OF IT.
+Dialogue: 0,0:05:35.10,0:05:36.10,Chn,,0,0,0,,洗澡的时候用上就好了\N{\rEng}USE THIS IN THE SHOWER --
+Dialogue: 0,0:05:36.10,0:05:37.90,Chn,,0,0,0,,你的头皮可能会有一些灼痛感\N{\rEng}YOUR SCALP MAY BURN A BIT AFTERWARDS,
+Dialogue: 0,0:05:37.90,0:05:42.70,Chn,,0,0,0,,但它能把那些虱子 一个不留地全部干掉\N{\rEng}BUT IT SHOULD KILL... EVERY LAST ONE OF THEM.
+Dialogue: 0,0:05:49.60,0:05:50.20,Chn,,0,0,0,,Travis?\N{\rEng}TRAVIS?
+Dialogue: 0,0:05:50.20,0:05:51.60,Chn,,0,0,0,,你还好吧?\N{\rEng}EVERYTHING OKAY?
+Dialogue: 0,0:05:52.20,0:05:53.30,Chn,,0,0,0,,Kelly...\N{\rEng}KELLY...
+Dialogue: 0,0:05:53.30,0:05:55.50,Chn,,0,0,0,,我只是在担心我们的宝宝\N{\rEng}I WAS JUST THINKING ABOUT OUR BABY.
+Dialogue: 0,0:05:55.60,0:05:57.50,Chn,,0,0,0,,我想给她起名叫\N{\rEng}I WANT TO NAME HER
+Dialogue: 0,0:05:57.50,0:05:58.40,Chn,,0,0,0,,希望\N{\rEng}HOPE.
+Dialogue: 0,0:05:58.50,0:05:59.50,Chn,,0,0,0,,希望?\N{\rEng}HOPE?
+Dialogue: 0,0:05:59.50,0:06:02.70,Chn,,0,0,0,,为了明天生存的希望...\N{\rEng}HOPE FOR A CHANCE AT TOMORROW.
+Dialogue: 0,0:06:08.10,0:06:09.30,Chn,,0,0,0,,怎么忽然开始下雨了？\N{\rEng}IT'S RAINING? NOW?
+Dialogue: 0,0:06:26.00,0:06:27.50,Chn,,0,0,0,,我喜欢雨！\N{\rEng}I LOVE THE RAIN!
+Dialogue: 0,0:06:29.70,0:06:31.20,Chn,,0,0,0,,噢 上帝啊\N{\rEng}OH, MY GOD.
+Dialogue: 0,0:06:32.50,0:06:33.80,Chn,,0,0,0,,我们得马上离开这里!\N{\rEng}WE HAVE TO GET OUT OF HERE!
+Dialogue: 0,0:06:33.80,0:06:34.30,Chn,,0,0,0,,什么?\N{\rEng}WHAT?
+Dialogue: 0,0:06:34.30,0:06:35.40,Chn,,0,0,0,,只不过是下雨而已嘛\N{\rEng}IT'S JUST RAIN.
+Dialogue: 0,0:06:35.40,0:06:37.90,Chn,,0,0,0,,我们得马上离开 Kelly!\N{\rEng}WE HAVE TO GET OUT OF HERE NOW, KELLY!
+Dialogue: 0,0:06:46.20,0:06:47.40,Chn,,0,0,0,,这是什么?\N{\rEng}WHAT IS THAT?
+Dialogue: 0,0:07:22.30,0:07:24.40,Chn,,0,0,0,,大家快爬到树上去!!\N{\rEng}EVERYONE GET UP INTO THE TREES!!
+Dialogue: 0,0:07:24.50,0:07:25.90,Chn,,0,0,0,,爬得越高越好!!\N{\rEng}WE HAVE TO GET UP HIGH!!
+Dialogue: 0,0:07:28.00,0:07:29.00,Chn,,0,0,0,,坚持住呀 Kelly!\N{\rEng}COME ON, KELLY!
+Dialogue: 0,0:07:42.80,0:07:43.30,Chn,,0,0,0,,上帝啊!\N{\rEng}MY GOD!
+Dialogue: 0,0:07:43.30,0:07:45.20,Chn,,0,0,0,,Travis 他们全都挂了!\N{\rEng}TRAVIS, THEY'RE ALL DYING!
+Dialogue: 0,0:07:45.20,0:07:46.30,Chn,,0,0,0,,别往下看Kelly.\N{\rEng}DON'T LOOK, KELLY.
+Dialogue: 0,0:07:46.50,0:07:47.30,Chn,,0,0,0,,别往下看\N{\rEng}DON'T LOOK.
+Dialogue: 0,0:07:47.30,0:07:49.60,Chn,,0,0,0,,这他妈到底是什么!\N{\rEng}WHAT THE HELL IS IIIIIITTTTT!
+Dialogue: 0,0:07:50.00,0:07:52.20,Chn,,0,0,0,,好啦 现在终于安全了\N{\rEng}IT'S OKAY-- WE'RE SAFE UP HERE.
+Dialogue: 0,0:07:55.50,0:07:56.60,Chn,,0,0,0,,我怎么有不祥的预感...\N{\rEng}I DON'T THINK SO.
+Dialogue: 0,0:08:14.00,0:08:14.70,Chn,,0,0,0,,Travis!!!\N{\rEng}TRAVIS!!!
+Dialogue: 0,0:08:14.70,0:08:15.50,Chn,,0,0,0,,Kelly!!!\N{\rEng}KELLY!!!
+Dialogue: 0,0:08:15.50,0:08:16.60,Chn,,0,0,0,,坚持住!!!\N{\rEng}HANG ON!!!
+Dialogue: 0,0:08:17.10,0:08:19.10,Chn,,0,0,0,,我坚持不下去了!!\N{\rEng}I CAN'T HANG ON!!
+Dialogue: 0,0:08:19.30,0:08:20.40,Chn,,0,0,0,,你必须坚持!!\N{\rEng}YOU HAVE TO!!
+Dialogue: 0,0:08:20.70,0:08:22.10,Chn,,0,0,0,,为了孩子!!\N{\rEng}FOR THE BABY!!
+Dialogue: 0,0:08:28.40,0:08:30.40,Chn,,0,0,0,,Kelly....!!!!\N{\rEng}KELLYYYYYY!!!!
+Dialogue: 0,0:08:30.70,0:08:31.90,Chn,,0,0,0,,不要啊!!\N{\rEng}NO!!
+Dialogue: 0,0:08:32.50,0:08:34.90,Chn,,0,0,0,,不...要...啊...!!!!!!\N{\rEng}NOOOOOOOOO!!!!!!
+Dialogue: 0,0:08:49.50,0:08:50.50,Chn,,0,0,0,,好啦 孩子们\N{\rEng}OKAY, KIDS,
+Dialogue: 0,0:08:50.50,0:08:53.30,Chn,,0,0,0,,今天我们还是来学习一下内战的历史.\N{\rEng}TODAY WE'RE GOING TO REVIEW SOME CIVIL WAR HISTORY.
+Dialogue: 0,0:08:53.30,0:08:55.40,Chn,,0,0,0,,谁能告诉我内战是什么时候开始的？.\N{\rEng}-WHO CAN TELL ME WHAT YEAR THE WAR STARTED? -WAIT, WAIT.
+Dialogue: 0,0:08:55.40,0:08:56.80,Chn,,0,0,0,,哇... 哇...哇 那件事最后怎么样了?\N{\rEng}WHOA, WHOA, WHOA... SO WHAT HAPPENED?
+Dialogue: 0,0:08:57.20,0:08:58.00,Chn,,0,0,0,,什么事?\N{\rEng}WITH WHAT?
+Dialogue: 0,0:08:58.00,0:08:59.30,Chn,,0,0,0,,虱子检查呀!\N{\rEng}WITH THE LICE EXAM!
+Dialogue: 0,0:08:59.30,0:09:01.00,Chn,,0,0,0,,他们发现有人有虱子了吗?!\N{\rEng}DID THEY FIND ANYBODY WITH LICE?!
+Dialogue: 0,0:09:02.90,0:09:04.80,Chn,,0,0,0,,恩 他们的确发现了一些人有虱子\N{\rEng}YES -- SOME LICE WAS DISCOVERED
+Dialogue: 0,0:09:04.80,0:09:07.10,Chn,,0,0,0,,但问题都已经解决了\N{\rEng}AND THE PROPER ACTION HAS BEEN TAKEN.
+Dialogue: 0,0:09:07.10,0:09:08.60,Chn,,0,0,0,,我们班有人有虱子不?\N{\rEng}SOMEBODY IN THIS CLASS?
+Dialogue: 0,0:09:09.10,0:09:10.70,Chn,,0,0,0,,恩...有的\N{\rEng}UH...YES.
+Dialogue: 0,0:09:12.20,0:09:13.00,Chn,,0,0,0,,是谁有虱子呀?\N{\rEng}WELL, WHO WAS IT?
+Dialogue: 0,0:09:13.00,0:09:13.90,Chn,,0,0,0,,是Kenny吗?!\N{\rEng}IT WAS KENNY, RIGHT?!
+Dialogue: 0,0:09:14.70,0:09:15.40,Chn,,0,0,0,,现在追究有什么意义呢?\N{\rEng}THAT DOESN'T MATTER.
+Dialogue: 0,0:09:15.40,0:09:16.40,Chn,,0,0,0,,这件事已经结束了\N{\rEng}IT'S OVER.
+Dialogue: 0,0:09:16.50,0:09:17.50,Chn,,0,0,0,,没有意义?\N{\rEng}DOESN'T MATTER?
+Dialogue: 0,0:09:17.50,0:09:20.60,Chn,,0,0,0,,我们有知道 到底是谁有头虱的权利!\N{\rEng}IF SOMEBODY HAD PARASITES IN THEIR HAIR,WE NEED TO KNOW WHO!
+Dialogue: 0,0:09:20.90,0:09:21.90,Chn,,0,0,0,,快说吧 到底是不是Kenny?\N{\rEng}IT WAS KENNY, WASN'T IT?
+Dialogue: 0,0:09:22.10,0:09:23.50,Chn,,0,0,0,,我也想知道到底是谁有虱子!\N{\rEng}I WANNA KNOW WHO IT  WAS, TOO!
+Dialogue: 0,0:09:24.50,0:09:26.40,Chn,,0,0,0,,这可不能告诉你们\N{\rEng}IT'S BEING KEPT CONFIDENTIAL.
+Dialogue: 0,0:09:26.40,0:09:27.80,Chn,,0,0,0,,学校里面有政策\N{\rEng}THERE'S A POLICY IN THE SCHOOLS
+Dialogue: 0,0:09:27.80,0:09:29.80,Chn,,0,0,0,,要保护长头虱学生的隐私权\N{\rEng}NOT TO SINGLE OUT A KID WHO HAS LICE
+Dialogue: 0,0:09:29.80,0:09:31.70,Chn,,0,0,0,,不然他们将会被你们这些贱人 折磨到崩溃的\N{\rEng}BECAUSE OF THE EMBARRASSMENT IT CAN CAUSE,
+Dialogue: 0,0:09:31.70,0:09:32.70,Chn,,0,0,0,,清楚了吗?\N{\rEng}OKAY?
+Dialogue: 0,0:09:32.70,0:09:34.10,Chn,,0,0,0,,真他妈胡说八道!\N{\rEng}THAT IS BULLCRAP!
+Dialogue: 0,0:09:34.10,0:09:36.00,Chn,,0,0,0,,这个举动限制了我们作为小孩\N{\rEng}YOU ARE DENYING OUR RIGHTS AS CHILDREN
+Dialogue: 0,0:09:36.00,0:09:37.40,Chn,,0,0,0,,侮辱 欺负 鄙视 嘲笑 恶心\N{\rEng}TO TOTALLY RIP ON THAT KID
+Dialogue: 0,0:09:37.40,0:09:39.30,Chn,,0,0,0,,那个长头虱的孩子的权利\N{\rEng}AND MAKE HIM OR HER FEEL LIKE AN OUTCAST.
+Dialogue: 0,0:09:39.30,0:09:40.00,Chn,,0,0,0,,没错!\N{\rEng}YEAH!
+Dialogue: 0,0:09:40.00,0:09:41.10,Chn,,0,0,0,,我们有权利知道\N{\rEng}AND WE HAVE A RIGHT TO KNOW
+Dialogue: 0,0:09:41.10,0:09:42.20,Chn,,0,0,0,,到底是哪个男孩子有头虱\N{\rEng}WHICH BOY HAD LICE IN HIS HAIR
+Dialogue: 0,0:09:42.20,0:09:43.90,Chn,,0,0,0,,这样我们才能决定不和他约会!\N{\rEng}SO WE DON'T EVER GO OUT WITH THEM!
+Dialogue: 0,0:09:43.90,0:09:45.20,Chn,,0,0,0,,你又怎么知道是男孩子有头虱?!\N{\rEng}HOW DO WE KNOW IT WAS A BOY?!
+Dialogue: 0,0:09:45.20,0:09:47.70,Chn,,0,0,0,,也很可能是你们这些臭女生的 其中一个有头虱呀\N{\rEng}IT COULD JUST HAVE EASILY BEEN ONE OF YOU STUPID GIRLS!
+Dialogue: 0,0:09:47.70,0:09:48.20,Chn,,0,0,0,,没错!\N{\rEng}YEAH!
+Dialogue: 0,0:09:48.20,0:09:49.30,Chn,,0,0,0,,打倒女生!\N{\rEng}DUMB GIRLS!
+Dialogue: 0,0:09:49.30,0:09:50.80,Chn,,0,0,0,,这件事已经完结了\N{\rEng}THE CASE IS CLOSED.
+Dialogue: 0,0:09:51.30,0:09:53.70,Chn,,0,0,0,,不管那些虱子长在谁头上 它们都已经挂了\N{\rEng}WHOEVER HAD THE LICE, THEY'RE DEAD NOW.
+Dialogue: 0,0:09:53.70,0:09:56.00,Chn,,0,0,0,,我们还是来接着学习内战的历史吧\N{\rEng}WE'RE MOVING ON TO CIVIL WAR HISTORY.
+Dialogue: 0,0:10:06.80,0:10:09.30,Chn,,0,0,0,,希望..希望..你还活着..\N{\rEng}HOPE -- HOPE, YOU'RE ALIVE.
+Dialogue: 0,0:10:18.20,0:10:19.40,Chn,,0,0,0,,天啊\N{\rEng}MY GOD.
+Dialogue: 0,0:10:22.50,0:10:23.90,Chn,,0,0,0,,救救我\N{\rEng}HELP ME.
+Dialogue: 0,0:10:24.90,0:10:27.30,Chn,,0,0,0,,救救我...\N{\rEng}HELP MEEEEEEE.
+Dialogue: 0,0:10:27.30,0:10:28.00,Chn,,0,0,0,,Travis!\N{\rEng}TRAVIS!
+Dialogue: 0,0:10:28.90,0:10:29.60,Chn,,0,0,0,,在这呢!\N{\rEng}OVER HERE!
+Dialogue: 0,0:10:32.10,0:10:34.60,Chn,,0,0,0,,Travis如果不是你告诉我们 要赶快爬到树上去,\N{\rEng}TRAVIS, IF YOU HADN'T WARNED US TO GET UP IN THE TREES,
+Dialogue: 0,0:10:34.60,0:10:35.70,Chn,,0,0,0,,我们早就全部都挂了.\N{\rEng}WE WOULD ALL BE DEAD.
+Dialogue: 0,0:10:36.20,0:10:37.60,Chn,,0,0,0,,有多少位幸存者?\N{\rEng}HOW MANY SURVIVORS?
+Dialogue: 0,0:10:37.90,0:10:39.70,Chn,,0,0,0,,我们六个人和..\N{\rEng}JUST THE SIX OF US --
+Dialogue: 0,0:10:39.70,0:10:41.20,Chn,,0,0,0,,副总统.\N{\rEng}AND THE VICE PRESIDENT.
+Dialogue: 0,0:10:43.60,0:10:45.00,Chn,,0,0,0,,你这个臭婊子养的!\N{\rEng}YOU SON OF A BITCH-- !
+Dialogue: 0,0:10:45.00,0:10:46.80,Chn,,0,0,0,,你本来可以阻止这一切发生的!!!\N{\rEng}YOU HAD A CHANCE TO STOP THIS!!!
+Dialogue: 0,0:10:47.00,0:10:48.30,Chn,,0,0,0,,如果我们能够熬过这次难关\N{\rEng}SO HELP ME, IF WE LIVE THROUGH THIS
+Dialogue: 0,0:10:48.30,0:10:50.30,Chn,,0,0,0,,我一定要把你关进监狱!\N{\rEng}I AM GOING TO SEE YOU ROT IN PRISON!
+Dialogue: 0,0:10:50.30,0:10:51.50,Chn,,0,0,0,,我们现在该怎么办?\N{\rEng}WHAT DO WE DO NOW?
+Dialogue: 0,0:10:51.90,0:10:53.20,Chn,,0,0,0,,这场大灾难还没结束呢\N{\rEng}WE AREN'T OUT OF THIS YET.
+Dialogue: 0,0:10:53.40,0:10:54.90,Chn,,0,0,0,,你们两个 再去搜索一下还有没有幸存者\N{\rEng}YOU TWO, LOOK FOR OTHER SURVIVORS.
+Dialogue: 0,0:10:54.90,0:10:57.60,Chn,,0,0,0,,你们尽可能地去搜集食物 把它们全部带到这里\N{\rEng}YOU GET WHATEVER FOOD YOU CAN AND BRING IT BACK HERE.
+Dialogue: 0,0:10:58.00,0:10:59.60,Chn,,0,0,0,,谁给你命令大家的权利的?\N{\rEng}WHO PUT YOU IN CHARGE?
+Dialogue: 0,0:11:01.10,0:11:02.30,Chn,,0,0,0,,是主赋予我的\N{\rEng}GOD DID,
+Dialogue: 0,0:11:02.30,0:11:04.20,Chn,,0,0,0,,在他杀我妻子的时候...\N{\rEng}WHEN HE KILLED MY WIFE.
+Dialogue: 0,0:11:08.80,0:11:10.10,Chn,,0,0,0,,好啦 长虱子的那个人\N{\rEng}ALRIGHT, THE PERSON WHO HAD HEAD LICE
+Dialogue: 0,0:11:10.10,0:11:11.40,Chn,,0,0,0,,赶快出来坦白吧\N{\rEng}NEEDS TO SPEAK UP RIGHT NOW,
+Dialogue: 0,0:11:11.40,0:11:13.00,Chn,,0,0,0,,好让我们从此以后不和你接触!\N{\rEng}SO THAT WE KNOW TO STAY AWAY FROM YOU!
+Dialogue: 0,0:11:15.60,0:11:16.30,Chn,,0,0,0,,对 站出来!\N{\rEng}YEAH, COME ON!
+Dialogue: 0,0:11:16.30,0:11:18.10,Chn,,0,0,0,,我们迟早都会把你抓出来的!\N{\rEng}WE'RE GONNA FIND OUT SOONER OR LATER!
+Dialogue: 0,0:11:19.10,0:11:20.50,Chn,,0,0,0,,不管你是谁\N{\rEng}OKAY, WHOEVER YOU ARE,
+Dialogue: 0,0:11:20.50,0:11:22.90,Chn,,0,0,0,,你不止是个头虱男! 你还是个撒谎男!\N{\rEng}YOU ARE NOW NOT ONLY A LICE HEAD, YOU ARE A LIAR!
+Dialogue: 0,0:11:22.90,0:11:24.60,Chn,,0,0,0,,你这样做只会使大家蒙羞!\N{\rEng}YOU'RE ONLY MAKING THIS WORSE ON YOURSELF!
+Dialogue: 0,0:11:24.60,0:11:25.90,Chn,,0,0,0,,你猜怎么着...\N{\rEng}YOU KNOW WHAT...
+Dialogue: 0,0:11:25.90,0:11:27.30,Chn,,0,0,0,,我觉得的你就是头虱男!\N{\rEng}I'LL BET IT WAS YOU!
+Dialogue: 0,0:11:29.20,0:11:30.10,Chn,,0,0,0,,就证明了你自己有头虱!\N{\rEng}IF THEY FOUND LICE IN YOUR HAIR!
+Dialogue: 0,0:11:30.10,0:11:31.90,Chn,,0,0,0,,带领大家一起对抗 一个假想的头虱男\N{\rEng}TRY TO LEAD THE CHARGE AGAINST SOMEBODY ELSE
+Dialogue: 0,0:11:31.90,0:11:33.50,Chn,,0,0,0,,从而为你自己洗清嫌疑!\N{\rEng}TO TAKE THE SUSPICION OFF OF YOURSELF!
+Dialogue: 0,0:11:33.50,0:11:34.80,Chn,,0,0,0,,我不这么认为哦 Stan!\N{\rEng}I DON'T THINK SO, KYLE!
+Dialogue: 0,0:11:35.20,0:11:36.00,Chn,,0,0,0,,可你知道吗..\N{\rEng}BUT YOU KNOW WHAT..
+Dialogue: 0,0:11:36.00,0:11:37.20,Chn,,0,0,0,,你现在的反应\N{\rEng}THIS IS EXACTLY WHAT YOU WOULD DO
+Dialogue: 0,0:11:37.20,0:11:38.50,Chn,,0,0,0,,就证明了你才是头虱男\N{\rEng}IF YOU HAD HAD HEAD LICE.
+Dialogue: 0,0:11:38.70,0:11:40.10,Chn,,0,0,0,,带领大家把矛头对准我...\N{\rEng}TRY TO GET EVERYONE TO BLAME ME.
+Dialogue: 0,0:11:40.10,0:11:40.80,Chn,,0,0,0,,你们两个别吵了\N{\rEng}YOU GUYS STOP IT,
+Dialogue: 0,0:11:40.80,0:11:41.70,Chn,,0,0,0,,吵架不能给我们带来任何帮助...\N{\rEng}THIS ISN'T GETTING US ANYWHERE.
+Dialogue: 0,0:11:42.40,0:11:43.50,Chn,,0,0,0,,你现在的反应\N{\rEng}THAT'S EXACTLY WHAT YOU WOULD DO
+Dialogue: 0,0:11:43.50,0:11:45.00,Chn,,0,0,0,,证明了你才是头虱男 Stan.\N{\rEng}IF YOU HAD HAD HEAD LICE, STAN.
+Dialogue: 0,0:11:45.10,0:11:46.30,Chn,,0,0,0,,没错 出来扮演和事佬的角色\N{\rEng}YEAH, TRY TO HAVE EVERYONE MAKE PEACE
+Dialogue: 0,0:11:46.30,0:11:47.80,Chn,,0,0,0,,从而想把这件事 大事化小 小事化了\N{\rEng}SO IT DOESN'T SEEM LIKE A BIG DEAL.
+Dialogue: 0,0:11:47.80,0:11:49.30,Chn,,0,0,0,,而Kenny的表现也证明了 他自己是头虱男 --\N{\rEng}AND THIS IS EXACTLY WHAT KENNY WOULD DO --
+Dialogue: 0,0:11:49.30,0:11:50.50,Chn,,0,0,0,,站在那却一句话也不说..\N{\rEng}STAND HERE AND SAY NOTHING.
+Dialogue: 0,0:11:51.00,0:11:52.90,Chn,,0,0,0,,那如果我有虱子的话 我的反应会是什么样呢?!\N{\rEng}HEY GUYS, WHAT WOULD I DO?!
+Dialogue: 0,0:11:52.90,0:11:54.20,Chn,,0,0,0,,我们不如去找个放大镜来\N{\rEng}LET'S JUST GET A MAGNIFYING GLASS
+Dialogue: 0,0:11:54.20,0:11:55.70,Chn,,0,0,0,,把所有人的头发都好好看上一遍\N{\rEng}AND LOOK AT EVERYONE'S HEADS!
+Dialogue: 0,0:11:55.70,0:11:56.40,Chn,,0,0,0,,现在太迟了 --\N{\rEng}IT'S TOO LATE --
+Dialogue: 0,0:11:56.40,0:11:57.60,Chn,,0,0,0,,那些虱子应该都被医生给杀掉了\N{\rEng}THE TREATMENT WOULD HAVE KILLED IT ALL.
+Dialogue: 0,0:11:59.00,0:12:00.20,Chn,,0,0,0,,根本就没有办法嘛\N{\rEng}THERE'S NO WAY TO TELL.
+Dialogue: 0,0:12:00.20,0:12:01.20,Chn,,0,0,0,,办法肯定是有的\N{\rEng}THERE'S A WAY.
+Dialogue: 0,0:12:01.20,0:12:04.70,Chn,,0,0,0,,肯定会有一个 找出那个傻逼头虱男的办法\N{\rEng}THERE'S A WAY TO FIND OUT WHO HAD SICK ASS HEAD COOTIES,AND I'M GONNA FIND IT.
+Dialogue: 0,0:12:08.90,0:12:10.20,Chn,,0,0,0,,是他...\N{\rEng}IT WAS HIM...
+Dialogue: 0,0:12:10.20,0:12:11.70,Chn,,0,0,0,,头虱男绝对是他!\N{\rEng}IT HAD TO HAVE BEEN HIM.
+Dialogue: 0,0:12:11.90,0:12:13.00,Chn,,0,0,0,,没错,..\N{\rEng}YEAH...
+Dialogue: 0,0:12:14.00,0:12:14.90,Chn,,0,0,0,,可你也有嫌疑...\N{\rEng}OR YOU.
+Dialogue: 0,0:12:18.50,0:12:19.00,Chn,,0,0,0,,Mark?!?!\N{\rEng}MARK?!?!
+Dialogue: 0,0:12:19.00,0:12:20.60,Chn,,0,0,0,,Mark  你要坚持住!\N{\rEng}MARK, YOU HAVE TO HANG ON!
+Dialogue: 0,0:12:21.20,0:12:22.60,Chn,,0,0,0,,这一切还远远没有结束呢\N{\rEng}THIS ISN'T GOING TO STOP.
+Dialogue: 0,0:12:22.60,0:12:24.10,Chn,,0,0,0,,这块土地正在排斥我们\N{\rEng}THE WORLD IS REJECTING US.
+Dialogue: 0,0:12:24.40,0:12:26.60,Chn,,0,0,0,,如果我们想要继续繁衍种族 我们得离开这个星球\N{\rEng}IF WE'RE GOING TO LIVE, WE HAVE TO GET OFF THIS PLANET.
+Dialogue: 0,0:12:26.60,0:12:27.30,Chn,,0,0,0,,怎么做?\N{\rEng}HOW?
+Dialogue: 0,0:12:27.50,0:12:28.90,Chn,,0,0,0,,首先 我们得穿越森林\N{\rEng}FIRST, WE HAVE TO GO OUT OF THE FOREST
+Dialogue: 0,0:12:28.90,0:12:30.10,Chn,,0,0,0,,进入荒漠大禁区\N{\rEng}INTO THE FORBIDDEN ZONE.
+Dialogue: 0,0:12:30.10,0:12:33.70,Chn,,0,0,0,,这是唯一可能行得通的 离开这个星球的办法了\N{\rEng}IT'S THE ONLY WAY WE MIGHT EVEN SEE ANOTHER PLANET.
+Dialogue: 0,0:12:33.70,0:12:35.10,Chn,,0,0,0,,荒漠大禁区?\N{\rEng}THE FORBIDDEN ZONE?
+Dialogue: 0,0:12:35.10,0:12:36.10,Chn,,0,0,0,,我们会全部暴露在阳光下\N{\rEng}WE'LL BE EXPOSED --
+Dialogue: 0,0:12:36.10,0:12:37.20,Chn,,0,0,0,,我们会在那挂掉的..\N{\rEng}WE'LL DIE OUT THERE.
+Dialogue: 0,0:12:37.20,0:12:38.90,Chn,,0,0,0,,我们会在这挂掉的!\N{\rEng}WE'LL DIE HERE.
+Dialogue: 0,0:12:38.90,0:12:40.50,Chn,,0,0,0,,这个星球正试着毁灭我们\N{\rEng}LOOK, THE WORLD IS GETTING RID OF US,
+Dialogue: 0,0:12:40.50,0:12:41.70,Chn,,0,0,0,,你们难道还没发现吗!?\N{\rEng}DON'T YOU GET IT!?
+Dialogue: 0,0:12:41.80,0:12:42.90,Chn,,0,0,0,,毁灭我们?\N{\rEng}GETTING RID OF US,
+Dialogue: 0,0:12:42.90,0:12:45.70,Chn,,0,0,0,,你的意思是它是在有意识的活动?\N{\rEng}YOU MEAN LIKE IT KNOWS WHAT IT'S DOING?
+Dialogue: 0,0:12:45.70,0:12:46.40,Chn,,0,0,0,,没错!\N{\rEng}YES!
+Dialogue: 0,0:12:46.80,0:12:49.80,Chn,,0,0,0,,因为我们不记后果的过分开采!\N{\rEng}BECAUSE MAYBE WE ROLLED THE DICE TOO MANY TIMES!
+Dialogue: 0,0:12:50.40,0:12:52.10,Chn,,0,0,0,,我是不会离开我丈夫的\N{\rEng}I'M NOT LEAVING MY HUSBAND.
+Dialogue: 0,0:12:52.20,0:12:54.30,Chn,,0,0,0,,没错 我觉得这片土地还有希望\N{\rEng}YEAH, I'LL TAKE MY CHANCES HERE.
+Dialogue: 0,0:12:54.30,0:12:55.70,Chn,,0,0,0,,你们爱怎么着我不管.\N{\rEng}YOU CAN ALL STAY HERE.
+Dialogue: 0,0:12:55.70,0:12:57.80,Chn,,0,0,0,,可我要保护我的孩子\N{\rEng}I'M GOING TO TRY TO SAVE MY BABY.
+Dialogue: 0,0:12:59.30,0:13:00.50,Chn,,0,0,0,,我和你一起去\N{\rEng}I'LL GO WITH YOU.
+Dialogue: 0,0:13:00.50,0:13:02.40,Chn,,0,0,0,,这地方已经没有什么东西值得我留念了\N{\rEng}THERE'S NOTHING LEFT FOR ME HERE.
+Dialogue: 0,0:13:02.50,0:13:04.00,Chn,,0,0,0,,我也想和你一起...\N{\rEng}I WANT TO GO, TOO.
+Dialogue: 0,0:13:04.00,0:13:05.30,Chn,,0,0,0,,去你妈的\N{\rEng}NOT A CHANCE.
+Dialogue: 0,0:13:05.30,0:13:07.20,Chn,,0,0,0,,我承认我原来错了...好吗\N{\rEng}LOOK, I KNOW I MESSED UP, ALRIGHT?!
+Dialogue: 0,0:13:07.60,0:13:08.90,Chn,,0,0,0,,可我现在已经醒悟了呀\N{\rEng}BUT I THINK YOU'RE RIGHT.
+Dialogue: 0,0:13:09.10,0:13:10.20,Chn,,0,0,0,,如果我们离开这片森林\N{\rEng}IF WE CAN GET OUT OF THE FOREST,
+Dialogue: 0,0:13:10.20,0:13:12.30,Chn,,0,0,0,,我们也许能找到一片新的乐土\N{\rEng}WE MIGHT FIND ANOTHER PLACE TO LIVE!
+Dialogue: 0,0:13:12.50,0:13:13.20,Chn,,0,0,0,,如果我们找到了出路的话\N{\rEng}IF WE FIND ANYTHING,
+Dialogue: 0,0:13:13.20,0:13:15.50,Chn,,0,0,0,,我们会回来接应大家的\N{\rEng}WE'LL TRY TO SEND HELP FOR THE REST OF YOU.
+Dialogue: 0,0:13:15.70,0:13:16.80,Chn,,0,0,0,,上路吧\N{\rEng}LET'S GO.
+Dialogue: 0,0:13:17.20,0:13:20.00,Chn,,0,0,0,,你到底走不走呀 副总统\N{\rEng}COME ON IF YOU'RE COMING, MR. VICE PRESIDENT.
+Dialogue: 0,0:13:20.60,0:13:21.30,Chn,,0,0,0,,YEAH...
+Dialogue: 0,0:13:21.70,0:13:22.80,Chn,,0,0,0,,马上就来\N{\rEng}RIGHT BEHIND YOU.
+Dialogue: 0,0:13:28.00,0:13:29.30,Chn,,0,0,0,,好啦 把门关上吧\N{\rEng}ALRIGHT, LOCK THAT DOOR, CRAIG.
+Dialogue: 0,0:13:30.90,0:13:32.00,Chn,,0,0,0,,这是干嘛呀Cartman?\N{\rEng}WHAT'S THIS ABOUT, CARTMAN?
+Dialogue: 0,0:13:32.00,0:13:33.60,Chn,,0,0,0,,我已经想到办法了\N{\rEng}I'VE COME UP WITH A TEST THAT CAN DETERMINE
+Dialogue: 0,0:13:33.60,0:13:35.70,Chn,,0,0,0,,一个可以找出头虱男的办法\N{\rEng}IF IT WAS ANY OF US WHO HAD THE HEAD LICE.
+Dialogue: 0,0:13:35.70,0:13:39.30,Chn,,0,0,0,,我们将在今天把所有问题一次性解决.\N{\rEng}WE'RE GONNA FIND OUT ONCE AND FOR ALL WHO HAD HEAD COOTIES.
+Dialogue: 0,0:13:43.10,0:13:45.10,Chn,,0,0,0,,虱子和蚊子一样 都是要吸取人血的\N{\rEng}LICE FEED ON A PERSON'S BLOOD. AND JUST LIKE MOSQUITOES,
+Dialogue: 0,0:13:45.10,0:13:46.80,Chn,,0,0,0,,他们会在它的寄主的血中\N{\rEng}THEY LEAVE BEHIND SMALL TRACES OF THEIR SALIVA
+Dialogue: 0,0:13:46.80,0:13:47.90,Chn,,0,0,0,,留下一点点唾液\N{\rEng}IN THE HOST'S BLOODSTREAM.
+Dialogue: 0,0:13:47.90,0:13:50.10,Chn,,0,0,0,,而这些唾液有个很奇怪的特点\N{\rEng}AND THAT SALIVA IS MOLOCROMAGNIC.
+Dialogue: 0,0:13:50.30,0:13:53.00,Chn,,0,0,0,,如果用一根烧红的铁丝 去接触被感染过的血\N{\rEng}SO IF AN INFECTED PERSON'S BLOOD IS TOUCHED BY A HOT METAL COIL,
+Dialogue: 0,0:13:53.00,0:13:54.90,Chn,,0,0,0,,被感染过的血将会...\N{\rEng}SAY, THAT PERSON'S BLOOD...
+Dialogue: 0,0:13:54.90,0:13:56.90,Chn,,0,0,0,,在空中溅起10米高...\N{\rEng}WILL JUMP TEN METERS INTO THE AIR.
+Dialogue: 0,0:13:58.20,0:13:59.70,Chn,,0,0,0,,真..真..真...真的吗?\N{\rEng}R-R-R-REALLY?
+Dialogue: 0,0:13:59.70,0:14:00.80,Chn,,0,0,0,,什么破鸡巴玩意啊!\N{\rEng}THAT'S RETARDED!
+Dialogue: 0,0:14:00.80,0:14:02.40,Chn,,0,0,0,,这个实验根本就不是你想出来的 Cartman\N{\rEng}YOU DIDN'T COME UP WITH THAT EXPERIMENT, CARTMAN,
+Dialogue: 0,0:14:02.40,0:14:04.10,Chn,,0,0,0,,你只不过是看了”怪型”那部电影罢了\N{\rEng}YOU SAW IT IN THAT MOVIE 'THE THING'!
+Dialogue: 0,0:14:06.30,0:14:08.20,Chn,,0,0,0,,这个科学测试的目的是...\N{\rEng}THIS IS A SCIENTIFIC TEST DESIGNED TO --
+Dialogue: 0,0:14:08.20,0:14:10.40,Chn,,0,0,0,,你只不过是照搬电影情节而已 你在浪费大家的时间!\N{\rEng}YOU SAW IT IN 'THE THING' AND YOU'RE WASTING EVERYONE'S TIME!
+Dialogue: 0,0:14:10.40,0:14:12.00,Chn,,0,0,0,,我就知道你会这么说 Kyle.\N{\rEng}I THOUGHT YOU MIGHT SAY THAT, KYLE.
+Dialogue: 0,0:14:12.00,0:14:13.80,Chn,,0,0,0,,因为你害怕这个测试 我没说错吧?!\N{\rEng}BECAUSE YOU DON'T WANT TO TAKE THE TEST, DO YOU?!
+Dialogue: 0,0:14:13.80,0:14:15.60,Chn,,0,0,0,,不管有没有感染虱子 人的血都不会溅起来的!\N{\rEng}NOBODY'S BLOOD IS GOING TO JUMP UP IN THE AIR!
+Dialogue: 0,0:14:15.60,0:14:17.70,Chn,,0,0,0,,如果这个实验是假的 那你到底在害怕什么呢?!\N{\rEng}IF IT DOESN'T WORK, THEN WHAT ARE YOU AFRAID OF?!
+Dialogue: 0,0:14:17.70,0:14:19.30,Chn,,0,0,0,,只有一种人才会害怕这个实验\N{\rEng}THE ONLY PERSON WHO WOULDN'T WANT TO TAKE THE TEST IS
+Dialogue: 0,0:14:19.30,0:14:20.60,Chn,,0,0,0,,那些害怕这个实验 会把他们的小秘密全部无情揭穿的\N{\rEng}SOMEBODY WHO WAS WORRIED IT MIGHT WORK
+Dialogue: 0,0:14:20.60,0:14:22.40,Chn,,0,0,0,,傻逼头虱男!\N{\rEng}AND REVEAL THAT THEY WERE THE ONES WITH LICE!
+Dialogue: 0,0:14:22.40,0:14:23.40,Chn,,0,0,0,,YEAH...
+Dialogue: 0,0:14:23.40,0:14:24.40,Chn,,0,0,0,,说得没错!\N{\rEng}THAT'S TRUE.
+Dialogue: 0,0:14:24.40,0:14:25.70,Chn,,0,0,0,,我才不怕什么测试呢\N{\rEng}I HAVE NO PROBLEM TAKING THE TEST.
+Dialogue: 0,0:14:25.70,0:14:27.80,Chn,,0,0,0,,我根本就没有秘...秘...秘...秘密\N{\rEng}I HAVE NOTHING TO H-H-H-HIDE.
+Dialogue: 0,0:14:28.00,0:14:29.00,Chn,,0,0,0,,我也没有秘密\N{\rEng}YEAH, ME NEITHER.
+Dialogue: 0,0:14:29.00,0:14:31.30,Chn,,0,0,0,,好吧 好吧 我参加这个傻逼测试就是了\N{\rEng}ALRIGHT, FINE, I'LL DO THE DUMB TEST!
+Dialogue: 0,0:14:31.90,0:14:33.20,Chn,,0,0,0,,每人都领好一个培养皿和一个注射器\N{\rEng}EVERYONE TAKE A PETRI DISH AND A SYRINGE.
+Dialogue: 0,0:14:33.20,0:14:35.80,Chn,,0,0,0,,抽30毫升的血放进培养皿...\N{\rEng}WE NEED AT LEAST 30 CCS OF BLOOD FROM EACH OF YOU.
+Dialogue: 0,0:14:39.90,0:14:41.40,Chn,,0,0,0,,好啦 现在请大家回原位做好\N{\rEng}ALRIGHT, NOW EVERYONE BACK OVER THERE...
+Dialogue: 0,0:14:41.40,0:14:43.20,Chn,,0,0,0,,大不了先从我开始好了\N{\rEng}WE'LL START WITH WHAT I ALREADY KNOW.
+Dialogue: 0,0:14:47.80,0:14:50.10,Chn,,0,0,0,,哇 看来Kyle真的不是头虱男呢\N{\rEng}OH, GUESS THAT PROVES ERIC WASN'T THE ONE WITH HEAD LICE!
+Dialogue: 0,0:14:50.10,0:14:51.80,Chn,,0,0,0,,这根本就不能证明什么!\N{\rEng}IT DOESN'T PROVE ANYTHING!
+Dialogue: 0,0:14:52.00,0:14:54.60,Chn,,0,0,0,,是吗 那我们就来看看你的血样 是什么反应吧 Kyle....?\N{\rEng}YEAH? LET'S JUST SEE WHAT YOUR BLOOD DOES, KYLE....?
+Dialogue: 0,0:14:59.90,0:15:01.20,Chn,,0,0,0,,恩..看来你也是干净的呀\N{\rEng}HUH... I GUESS YOU'RE CLEAN.
+Dialogue: 0,0:15:03.80,0:15:06.00,Chn,,0,0,0,,伙计们  我们得回去上课啦\N{\rEng}YOU GUYS, WE BETTER GO, RECESS IS ALMOST OVER.
+Dialogue: 0,0:15:06.00,0:15:08.80,Chn,,0,0,0,,没事 很快就结束了\N{\rEng}ALRIGHT, WON'T TAKE MUCH LONGER
+Dialogue: 0,0:15:08.80,0:15:09.60,Chn,,0,0,0,,我操?!\N{\rEng}WHAT THE HELL?!
+Dialogue: 0,0:15:12.50,0:15:13.30,Chn,,0,0,0,,Kenny!!!\N{\rEng}KENNY!!!
+Dialogue: 0,0:15:14.50,0:15:15.40,Chn,,0,0,0,,这..怎么可能?\N{\rEng}NO WAY.
+Dialogue: 0,0:15:15.60,0:15:16.90,Chn,,0,0,0,,真的被你说中了呀  Eric!\N{\rEng}YOU WERE RIGHT ALL ALONG, ERIC!
+Dialogue: 0,0:15:16.90,0:15:18.00,Chn,,0,0,0,,真的是Kenny!\N{\rEng}IT WAS KENNY!
+Dialogue: 0,0:15:18.20,0:15:19.10,Chn,,0,0,0,,那当然啦!\N{\rEng}OF COURSE I WAS RIGHT!
+Dialogue: 0,0:15:19.10,0:15:21.20,Chn,,0,0,0,,我早说过了嘛! 只有穷人才会得虱子!\N{\rEng}I TOLD YOU ONLY POOR PEOPLE GET LICE!
+Dialogue: 0,0:15:31.60,0:15:32.60,Chn,,0,0,0,,我们成功了!\N{\rEng}WE'VE DONE IT!
+Dialogue: 0,0:15:32.60,0:15:34.20,Chn,,0,0,0,,我们终于来到荒漠大禁区了!\N{\rEng}WE'VE REACHED THE FORBIDDEN ZONE!
+Dialogue: 0,0:15:35.10,0:15:37.10,Chn,,0,0,0,,我从小就听过有关这地方的传说\N{\rEng}I'VE ALWAYS HEARD STORIES ABOUT THIS PLACE.
+Dialogue: 0,0:15:37.50,0:15:38.90,Chn,,0,0,0,,可没想到它居然是真实的存在\N{\rEng}NEVER THOUGHT IT WAS REAL.
+Dialogue: 0,0:15:39.00,0:15:40.40,Chn,,0,0,0,,它当然是真的啦...\N{\rEng}IT'S REAL...
+Dialogue: 0,0:15:40.70,0:15:43.50,Chn,,0,0,0,,就好象我对我孩子的爱一样真\N{\rEng}REAL AS MY LOVE FOR MY UNBORN BABY.
+Dialogue: 0,0:15:43.80,0:15:46.00,Chn,,0,0,0,,你的计划到底是什么呢Travis?\N{\rEng}SO WHAT IS EXACTLY IS YOUR PLAN, TRAVIS?
+Dialogue: 0,0:15:46.00,0:15:48.40,Chn,,0,0,0,,我们的先祖就是从外面的世界来到这儿的\N{\rEng}OUR ANCESTORS CAME HERE FROM ANOTHER WORLD.
+Dialogue: 0,0:15:48.70,0:15:50.30,Chn,,0,0,0,,也许在这以外还存在着其他的世界\N{\rEng}MAYBE THERE'S STILL OTHER WORLDS OUT THERE
+Dialogue: 0,0:15:50.30,0:15:51.90,Chn,,0,0,0,,有着象我们一样的生命体\N{\rEng}WITH LIFE FORMS LIKE US.
+Dialogue: 0,0:15:52.70,0:15:53.50,Chn,,0,0,0,,也许在那些世界里面\N{\rEng}MAYBE THERE'S EVEN A WORLD
+Dialogue: 0,0:15:53.50,0:15:55.30,Chn,,0,0,0,,那些生命体与他们的星球\N{\rEng}WHERE THEY'VE LEARNED TO LIVE WITH THE PLANET
+Dialogue: 0,0:15:55.30,0:15:57.00,Chn,,0,0,0,,和平共处 相糯以沫 共同构建着和谐社会..\N{\rEng}INSTEAD OF JUST ON IT.
+Dialogue: 0,0:15:57.40,0:15:58.20,Chn,,0,0,0,,Travis...\N{\rEng}TRAVIS...
+Dialogue: 0,0:15:58.90,0:16:02.00,Chn,,0,0,0,,Travis... 你是如此聪明 如此强壮\N{\rEng}TRAVIS... YOU'RE SO WISE... SO STRONG...
+Dialogue: 0,0:16:02.00,0:16:03.50,Chn,,0,0,0,,如果我们能够度过这次难关...\N{\rEng}IF WE MAKE IT OUT OF THIS...
+Dialogue: 0,0:16:03.90,0:16:05.40,Chn,,0,0,0,,我希望能...\N{\rEng}I'D LIKE TO...
+Dialogue: 0,0:16:05.40,0:16:06.30,Chn,,0,0,0,,与你携手一生..\N{\rEng}BE WITH YOU?
+Dialogue: 0,0:16:06.60,0:16:07.70,Chn,,0,0,0,,对不起 女士\N{\rEng}SORRY, BABE.
+Dialogue: 0,0:16:07.70,0:16:09.70,Chn,,0,0,0,,但在我的心上\N{\rEng}BUT MY HEART IS FOREVER STENCILED
+Dialogue: 0,0:16:09.70,0:16:11.90,Chn,,0,0,0,,永远都只会有一个名字\N{\rEng}IN PERMANENT INK WITH THE NAME
+Dialogue: 0,0:16:11.90,0:16:12.90,Chn,,0,0,0,,'Kelly'.\N{\rEng}'KELLY'.
+Dialogue: 0,0:16:13.30,0:16:14.90,Chn,,0,0,0,,她能得到你这样的男虱 真是一生之幸\N{\rEng}SHE WAS A LUCKY WOMAN TO HAVE YOU.
+Dialogue: 0,0:16:15.20,0:16:17.30,Chn,,0,0,0,,这和幸运没有关系\N{\rEng}LUCK HAD NOTHING TO DO WITH IT.
+Dialogue: 0,0:16:21.10,0:16:23.10,Chn,,0,0,0,,对不起哦 打扰你们两个的蜜月了\N{\rEng}SORRY TO CUT THE HONEYMOON SHORT.
+Dialogue: 0,0:16:23.30,0:16:25.60,Chn,,0,0,0,,你这样做是为什么? 混蛋谋杀犯!\N{\rEng}WHY, YOU MURDERING BASTARD!
+Dialogue: 0,0:16:25.60,0:16:28.60,Chn,,0,0,0,,你那些关于另外一个世界的假说 就在这里终结吧\N{\rEng}YOUR LITTLE FANTASY OF ANOTHER WORLD ENDS HERE.
+Dialogue: 0,0:16:28.60,0:16:29.70,Chn,,0,0,0,,快走\N{\rEng}WALK.
+Dialogue: 0,0:16:29.80,0:16:31.20,Chn,,0,0,0,,你他妈到底要干什么? 副总统?\N{\rEng}WHAT THE HELL DO YOU WANT, VICE PRESIDENT?
+Dialogue: 0,0:16:31.20,0:16:32.20,Chn,,0,0,0,,快走!!!!\N{\rEng}WALK!!!!
+Dialogue: 0,0:16:37.10,0:16:38.60,Chn,,0,0,0,,Clyde 快去公园!\N{\rEng}CLYDE, DUDE, GET DOWN TO THE PARK!
+Dialogue: 0,0:16:38.60,0:16:41.50,Chn,,0,0,0,,我们抓住Kenny了 而他会受到惩罚的!\N{\rEng}WE CAUGHT KENNY AND WE'RE ALL GONNA LET HIM HAVE IT!
+Dialogue: 0,0:16:44.00,0:16:45.00,Chn,,0,0,0,,他对我们所有人撒了谎\N{\rEng}HE LIED TO US ALL.
+Dialogue: 0,0:16:45.00,0:16:46.30,Chn,,0,0,0,,他背叛了他们头虱穷人的尊严\N{\rEng}HE BETRAYED HIS KIND.
+Dialogue: 0,0:16:46.30,0:16:47.80,Chn,,0,0,0,,所以他将受到最严厉的惩罚\N{\rEng}WE ALL KNOW WHAT HAS TO HAPPEN.
+Dialogue: 0,0:16:48.00,0:16:49.50,Chn,,0,0,0,,准备好一只臭袜子和一块肥皂\N{\rEng}GRAB A SOCK AND A BAR OF SOAP
+Dialogue: 0,0:16:49.50,0:16:50.90,Chn,,0,0,0,,一会公园见!!\N{\rEng}AND MEET US AT THE PARK!!
+Dialogue: 0,0:16:53.00,0:16:54.20,Chn,,0,0,0,,伙计们...等等...\N{\rEng}YOU GUYS...WAIT...
+Dialogue: 0,0:16:55.30,0:16:56.20,Chn,,0,0,0,,怎么啦  Clyde.\N{\rEng}WHAT, CLYDE.
+Dialogue: 0,0:16:57.60,0:16:58.70,Chn,,0,0,0,,我...\N{\rEng}I...
+Dialogue: 0,0:16:59.10,0:17:00.10,Chn,,0,0,0,,没事了...\N{\rEng}NOTHING.
+Dialogue: 0,0:17:00.10,0:17:01.00,Chn,,0,0,0,,那就好 一会见咯!\N{\rEng}ALRIGHT! SEE YOU THERE!
+Dialogue: 0,0:17:01.00,0:17:02.60,Chn,,0,0,0,,要记住拿臭袜子和肥皂!\N{\rEng}REMEMBER, A BAR OF SOAP AND A SOCK!
+Dialogue: 0,0:17:02.60,0:17:03.60,Chn,,0,0,0,,Kenny罪该万死!\N{\rEng}KENNY'S GONNA GET IT!
+Dialogue: 0,0:17:03.60,0:17:04.20,Chn,,0,0,0,,没错!\N{\rEng}YEAH!
+Dialogue: 0,0:17:12.10,0:17:13.10,Chn,,0,0,0,,嗨\N{\rEng}YELLO.
+Dialogue: 0,0:17:13.10,0:17:14.40,Chn,,0,0,0,,MS. GARRISON... 你的一个学生\N{\rEng}MS. GARRISON... ONE OF YOUR STUDENTS
+Dialogue: 0,0:17:14.40,0:17:16.70,Chn,,0,0,0,,正在公园里被其他孩子暴打...\N{\rEng}IS ABOUT TO BE ATTACKED AT THE PARK BY THE OTHER STUDENTS.
+Dialogue: 0,0:17:18.40,0:17:19.30,Chn,,0,0,0,,你是谁呀?\N{\rEng}WHO IS THIS?
+Dialogue: 0,0:17:19.40,0:17:20.70,Chn,,0,0,0,,求求你了 快去公园吧!\N{\rEng}PLEASE, JUST HURRY TO THE PARK!
+Dialogue: 0,0:17:20.70,0:17:22.00,Chn,,0,0,0,,你必须得阻止他们!\N{\rEng}YOU HAVE TO STOP THEM!
+Dialogue: 0,0:17:24.30,0:17:25.10,Chn,,0,0,0,,非常好\N{\rEng}THAT'S GOOD.
+Dialogue: 0,0:17:25.10,0:17:26.40,Chn,,0,0,0,,这就够远了\N{\rEng}THAT'S FAR ENOUGH.
+Dialogue: 0,0:17:27.60,0:17:29.00,Chn,,0,0,0,,你到底要干什么?\N{\rEng}WHAT ARE YOU GOING TO DO?
+Dialogue: 0,0:17:29.00,0:17:30.60,Chn,,0,0,0,,我要回到村子里去\N{\rEng}I'M GOING TO GO BACK TO THE VILLAGE.
+Dialogue: 0,0:17:30.60,0:17:31.90,Chn,,0,0,0,,领导重建工作\N{\rEng}START TO REBUILD.
+Dialogue: 0,0:17:32.00,0:17:33.50,Chn,,0,0,0,,与所有的女性交配\N{\rEng}MATE WITH THE FEMALES.
+Dialogue: 0,0:17:33.80,0:17:34.70,Chn,,0,0,0,,成为...\N{\rEng}BECOME...
+Dialogue: 0,0:17:34.70,0:17:36.10,Chn,,0,0,0,,总统\N{\rEng}PRESIDENT.
+Dialogue: 0,0:17:36.10,0:17:38.10,Chn,,0,0,0,,你还不明白吗 这个星球在试着把我们赶出去\N{\rEng}DON'T YOU GET IT-- THE WORLD DOESN'T WANT YOU HERE.
+Dialogue: 0,0:17:38.10,0:17:40.30,Chn,,0,0,0,,不到我们全部灭亡它是不会停止的!\N{\rEng}IT'S NOT GOING TO STOP UNTIL YOU'RE DEAD!
+Dialogue: 0,0:17:40.30,0:17:41.70,Chn,,0,0,0,,这只不过是场灾难而已\N{\rEng}IT WAS A DISASTER.
+Dialogue: 0,0:17:41.70,0:17:43.20,Chn,,0,0,0,,灾难总会发生的\N{\rEng}DISASTERS HAPPEN.
+Dialogue: 0,0:17:43.60,0:17:45.10,Chn,,0,0,0,,你就死在这里好啦\N{\rEng}THEN GO AHEAD AND DIE THERE.
+Dialogue: 0,0:17:45.10,0:17:47.00,Chn,,0,0,0,,我要带着我的孩子离开\N{\rEng}I'M LEAVING WITH MY BABY.
+Dialogue: 0,0:17:47.10,0:17:50.30,Chn,,0,0,0,,实际上你哪里都去不了啦 Travis.\N{\rEng}ACTUALLY, YOU'RE NEVER LEAVING HERE EITHER, TRAVIS.
+Dialogue: 0,0:17:53.30,0:17:55.40,Chn,,0,0,0,,干死你!!! 为什么要这样!?!?\N{\rEng}DAMN YOU!!! WHY!?!?
+Dialogue: 0,0:17:55.40,0:17:58.80,Chn,,0,0,0,,因为我成为总统以后 是不能容忍你这样的虫子的\N{\rEng}BECAUSE WHEN I'M PRESIDENT I CAN'T HAVE PESTS LIKE YOU
+Dialogue: 0,0:17:58.80,0:18:01.90,Chn,,0,0,0,,一直在散步着这个星球是生命体的谣言\N{\rEng}CONSTANTLY TRYING TO PREACH THAT THE WORLD IS ALIVE.
+Dialogue: 0,0:18:02.20,0:18:04.20,Chn,,0,0,0,,你这个杞人忧天的傻逼\N{\rEng}YOU'RE AN IDEALISTIC FOOL!
+Dialogue: 0,0:18:05.30,0:18:06.20,Chn,,0,0,0,,这个星球是不会有意识的\N{\rEng}THE WORLD IS NOT CONSCIOUS.
+Dialogue: 0,0:18:06.50,0:18:07.90,Chn,,0,0,0,,我们才是有意识的!\N{\rEng}{\i1}WE{\i0} ARE CONSCIOUS!
+Dialogue: 0,0:18:08.10,0:18:13.80,Chn,,0,0,0,,如果这星球有生命的话 它会感受到这个的!!!\N{\rEng}IF THE WORLD WAS ALIVE, IT WOULD FEEL THIS!!!
+Dialogue: 0,0:18:13.80,0:18:14.30,Chn,,0,0,0,,噢\N{\rEng}OW.
+Dialogue: 0,0:18:15.40,0:18:17.50,Chn,,0,0,0,,给我受死吧\N{\rEng}YOU DIE HERE.
+Dialogue: 0,0:18:39.20,0:18:40.30,Chn,,0,0,0,,Kenny Mckormick,\N{\rEng}KENNY MCKORMICK,
+Dialogue: 0,0:18:40.30,0:18:42.70,Chn,,0,0,0,,你被指控在学校传染虱子\N{\rEng}YOU ARE CHARGED WITH BRINGING HEAD COOTIES INTO OUR SCHOOL
+Dialogue: 0,0:18:42.70,0:18:44.60,Chn,,0,0,0,,并且一直向大家隐瞒事实真相\N{\rEng}AND LYING ABOUT IT TO COVER YOUR ASS.
+Dialogue: 0,0:18:44.60,0:18:45.70,Chn,,0,0,0,,你认罪吗?!\N{\rEng}HOW DO YOU PLEAD?!
+Dialogue: 0,0:18:45.70,0:18:46.60,Chn,,0,0,0,,无罪!\N{\rEng}NOT GUILTY!
+Dialogue: 0,0:18:46.60,0:18:48.10,Chn,,0,0,0,,有罪！我说了算!!!\N{\rEng}GUILTY! I THOUGHT SO!!!
+Dialogue: 0,0:18:48.70,0:18:49.80,Chn,,0,0,0,,好啦！大家开始吧!\N{\rEng}ALRIGHT, LET'S DO THIS!
+Dialogue: 0,0:18:49.80,0:18:52.70,Chn,,0,0,0,,伙计们 或许我们应该再等这么几分钟\N{\rEng}YOU GUYS, MAYBE WE SHOULD JUST WAIT A FEW MORE MINUTES... (WHERE IS HE...?)
+Dialogue: 0,0:18:52.70,0:18:53.50,Chn,,0,0,0,,好啦 Kenny.\N{\rEng}ALRIGHT, KENNY.
+Dialogue: 0,0:18:53.50,0:18:54.90,Chn,,0,0,0,,你知道你将受到什么惩罚吗...\N{\rEng}YOU KNOW WHAT HAS TO HAPPEN...
+Dialogue: 0,0:18:55.30,0:18:56.40,Chn,,0,0,0,,臭袜皂杀!!!\N{\rEng}SOCK BATH!!!
+Dialogue: 0,0:18:57.30,0:19:00.30,Chn,,0,0,0,,大家先用肥皂帮他刷牙 再用臭袜子帮他擦干净！\N{\rEng}EVERYONE WASH KENNY WITH THE SOAP AND DRY HIM OFF WITH THE SOCKS!
+Dialogue: 0,0:19:01.20,0:19:03.10,Chn,,0,0,0,,NO, NO!! NOT THE SOCKS!!
+Dialogue: 0,0:19:03.70,0:19:05.30,Chn,,0,0,0,,WAIT... WAIT!!
+Dialogue: 0,0:19:05.30,0:19:07.40,Chn,,0,0,0,,快停下 快停下！\N{\rEng}WAIT. STOP IT! STOP IT!!!
+Dialogue: 0,0:19:08.60,0:19:10.60,Chn,,0,0,0,,我不能看到Kenny受到这样的折磨\N{\rEng}I CAN'T LET KENNY BE SOCK DRIED.
+Dialogue: 0,0:19:11.30,0:19:13.50,Chn,,0,0,0,,可他就是头虱男 而且他还撒谎了呀!!\N{\rEng}HE HAD COOTIES AND HE LIED ABOUT IT!!
+Dialogue: 0,0:19:13.50,0:19:15.10,Chn,,0,0,0,,Kenny才不是头虱男呢！\N{\rEng}KENNY DIDN'T HAVE THE HEAD LICE, ALRIGHT?!?!!!!
+Dialogue: 0,0:19:15.90,0:19:16.70,Chn,,0,0,0,,我才是头虱男\N{\rEng}IT WAS ME.
+Dialogue: 0,0:19:17.70,0:19:18.20,Chn,,0,0,0,,什么?\N{\rEng}WHAT?
+Dialogue: 0,0:19:18.80,0:19:19.90,Chn,,0,0,0,,我才是头虱男\N{\rEng}I WAS THE ONE.
+Dialogue: 0,0:19:20.10,0:19:21.90,Chn,,0,0,0,,我太害怕了 以至于不敢说出真相\N{\rEng}I WAS TOO AFRAID TO SAY ANYTHING.
+Dialogue: 0,0:19:22.00,0:19:24.20,Chn,,0,0,0,,但我不能让Kenny替我受罚\N{\rEng}BUT I CAN'T LET KENNY BE SOCK DRIED FOR IT.
+Dialogue: 0,0:19:24.90,0:19:26.30,Chn,,0,0,0,,你到底在扯些什么呀 Kyle?\N{\rEng}WHY ARE YOU SAYING THAT, KYLE?
+Dialogue: 0,0:19:26.60,0:19:28.30,Chn,,0,0,0,,你才不是头虱男呢\N{\rEng}YOU CAN'T BE THE ONE WHO HAD HEAD LICE.
+Dialogue: 0,0:19:28.30,0:19:29.40,Chn,,0,0,0,,因为我才是\N{\rEng}BECAUSE I WAS.
+Dialogue: 0,0:19:29.50,0:19:30.60,Chn,,0,0,0,,YOU'RE JUST TRYING TO MAKE ME FEEL BAD
+Dialogue: 0,0:19:30.60,0:19:32.10,Chn,,0,0,0,,BECAUSE YOU FIGURED THAT OUT, DIDN'T YOU?
+Dialogue: 0,0:19:32.10,0:19:33.30,Chn,,0,0,0,,什...么...?\N{\rEng}WAIT A MINUTE... WHAT?
+Dialogue: 0,0:19:33.30,0:19:34.40,Chn,,0,0,0,,噢 我知道了\N{\rEng}OH, I GET IT--
+Dialogue: 0,0:19:34.40,0:19:36.10,Chn,,0,0,0,,看来这是针对我的超级恶作剧啊\N{\rEng}THIS IS SOME KIND OF BIG TRICK ON ME.
+Dialogue: 0,0:19:36.30,0:19:38.50,Chn,,0,0,0,,你们都知道我才是真正的头虱男了 是吧？\N{\rEng}YOU'VE KNOWN I WAS THE ONE WITH HEAD LICE ALL ALONG, HUH?!
+Dialogue: 0,0:19:38.50,0:19:39.70,Chn,,0,0,0,,你也有头虱?!\N{\rEng}YOU HAD HEAD LICE?!
+Dialogue: 0,0:19:39.70,0:19:40.20,Chn,,0,0,0,,当然啦!\N{\rEng}OF COURSE!
+Dialogue: 0,0:19:40.20,0:19:40.80,Chn,,0,0,0,,要不然的话我怎么会 费尽苦心设计那个试验\N{\rEng}WHY DO YOU THINK I WENT THROUGH
+Dialogue: 0,0:19:40.80,0:19:43.30,Chn,,0,0,0,,好把责任全部转移到Kenny身上\N{\rEng}THAT ELABORATE BULLCRAP EXPERIMENT TO FRAME KENNY.
+Dialogue: 0,0:19:43.30,0:19:45.20,Chn,,0,0,0,,全部都有头虱\N{\rEng}YOU ALL HAD HEAD LICE.
+Dialogue: 0,0:19:45.20,0:19:47.50,Chn,,0,0,0,,班上的每一个人\N{\rEng}EVERY SINGLE PERSON IN THE CLASS.
+Dialogue: 0,0:19:47.50,0:19:49.50,Chn,,0,0,0,,不管是男生还是女生\N{\rEng}THE BOYS AND THE GIRLS.
+Dialogue: 0,0:19:49.50,0:19:52.10,Chn,,0,0,0,,虱子传播的速度超快的！ 你们这帮小屁孩！\N{\rEng}LICE SPREADS FAST, YOU DUMBASSES.
+Dialogue: 0,0:19:54.20,0:19:56.00,Chn,,0,0,0,,我还以为我是唯一一个头虱男呢!\N{\rEng}I THOUGHT I WAS THE ONLY ONE!
+Dialogue: 0,0:19:56.10,0:19:56.90,Chn,,0,0,0,,我也是...\N{\rEng}ME, TOO.
+Dialogue: 0,0:19:58.00,0:19:59.20,Chn,,0,0,0,,可这就是说 --\N{\rEng}BUT THAT MEANS --
+Dialogue: 0,0:19:59.90,0:20:01.50,Chn,,0,0,0,,Kenny的确是撒了慌!\N{\rEng}THAT MEANS KENNY WAS LYING!
+Dialogue: 0,0:20:02.30,0:20:03.20,Chn,,0,0,0,,臭袜皂杀!!\N{\rEng}SOCK BATH!!
+Dialogue: 0,0:20:03.80,0:20:05.80,Chn,,0,0,0,,臭袜皂杀!!\N{\rEng}-SOCK BATH!! -YEAH.
+Dialogue: 0,0:20:12.10,0:20:14.80,Chn,,0,0,0,,Kelly... Kelly, 你能听见我的声音吗?\N{\rEng}KELLY... KELLY, CAN YOU HEAR ME?
+Dialogue: 0,0:20:15.60,0:20:17.50,Chn,,0,0,0,,我不知道你能否听见\N{\rEng}I DON'T KNOW IF YOU CAN
+Dialogue: 0,0:20:18.60,0:20:21.10,Chn,,0,0,0,,但我还是希望你知道\N{\rEng}BUT...I WANT YOU TO KNOW
+Dialogue: 0,0:20:21.10,0:20:24.50,Chn,,0,0,0,,我已经 我已经保护不了我们的孩子了\N{\rEng}I TRIED... I TRIED TO SAVE OUR BABY...
+Dialogue: 0,0:20:25.40,0:20:27.20,Chn,,0,0,0,,我让你失望了 宝贝\N{\rEng}BUT I LET YOU DOWN, BABE.
+Dialogue: 0,0:20:34.70,0:20:37.00,Chn,,0,0,0,,K... Kelly...?\N{\rEng}K... KELLY...?
+Dialogue: 0,0:21:15.90,0:21:17.50,Chn,,0,0,0,,欢迎来到新世界\N{\rEng}YOU ARE WELCOME HERE.
+Dialogue: 0,0:21:22.90,0:21:24.30,Chn,,0,0,0,,你现在安全了...\N{\rEng}YOU'RE SAFE NOW...
+Dialogue: 0,0:21:24.50,0:21:27.20,Chn,,0,0,0,,我们在这里已经幸福和谐地\N{\rEng}WE HAVE LIVED HERE FOR GENERATION AFTER GENERATION.
+Dialogue: 0,0:21:27.20,0:21:29.30,Chn,,0,0,0,,生活了好几代了\N{\rEng}NEVER BEING DISTURBED.
+Dialogue: 0,0:21:30.00,0:21:31.20,Chn,,0,0,0,,我们成功了 希望！\N{\rEng}WE MADE IT, HOPE.
+Dialogue: 0,0:21:31.60,0:21:33.00,Chn,,0,0,0,,我们成功了！ Kelly!!!\N{\rEng}WE MADE IT, KELLY!!!
+Dialogue: 0,0:21:38.10,0:21:41.10,Chn,,0,0,0,,先生们 女士们 有请ANGELINA JOLIE!\N{\rEng}LADIES AND GENTLEMEN, MISS ANGELINA JOLIE!!
+Dialogue: 0,0:21:41.50,0:21:43.00,Chn,,0,0,0,,哈罗 大家好呀\N{\rEng}HELLO, EVERYONE!
+Dialogue: 0,0:21:43.80,0:21:44.90,Chn,,0,0,0,,哈罗！\N{\rEng}HELLO!!

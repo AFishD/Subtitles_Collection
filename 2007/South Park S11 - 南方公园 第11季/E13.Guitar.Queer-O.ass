@@ -1,0 +1,320 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: South.Park.S11E13.Guitar.Queer-O.1080p.BluRay.x264-SHORTBREHD
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 1916
+PlayResY: 1076
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,微软雅黑,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Git,Comic Sans MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Chn,微软雅黑,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,20,1
+Style: Eng,Comic Sans MS,60,&H002AF7FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.54,0:00:03.33,Chn,,0,0,0,,{\i1}Transcript: spscriptorium Sync: John Smith - forom.com\N{\rEng}中文字幕 LiNuXyOuXia 双语合成 Lv&daisy{\i0}
+Dialogue: 0,0:00:03.44,0:00:06.64,Chn,,0,0,0,,第11季13集 “断背吉他”\N{\rEng}{\i1}Episode 11x13 "Guitar Queer-O"{\i0}
+Dialogue: 0,0:00:08.78,0:00:12.03,Chn,,0,0,0,,人生路茫茫，欲去乐园，放纵身心\N{\rEng}{\i1}I'm going out to South Park gonna have myself a time{\i0}
+Dialogue: 0,0:00:12.07,0:00:15.44,Chn,,0,0,0,,友好的脸庞到处是，人们谦逊从不恼\N{\rEng}{\i1}Friendly faces everywhere humble folks without temptation{\i0}
+Dialogue: 0,0:00:15.47,0:00:18.79,Chn,,0,0,0,,常事不如意，欲去乐园，远离烦恼\N{\rEng}{\i1}I'm goin out to south park gonna leave my woes behind{\i0}
+Dialogue: 0,0:00:18.82,0:00:22.05,Chn,,0,0,0,,空闲的车位日夜有，人们滔滔拉家常\N{\rEng}{\i1}Ample parking day or night people spouting howdy neighbor{\i0}
+Dialogue: 0,0:00:22.08,0:00:25.29,Chn,,0,0,0,,终日混沌沌，驶去乐园，去除疲惫\N{\rEng}{\i1}I'm heading out to south park to see if i cant unwind{\i0}
+Dialogue: 0,0:00:25.32,0:00:28.64,Chn,,0,0,0,,丰满的女孩我喜欢,双峰绣乳真令我迷\N{\rEng}{\i1}I like girls with big fat titties really big fat titties{\i0}
+Dialogue: 0,0:00:28.67,0:00:32.15,Chn,,0,0,0,,so来到乐园，去瞧衰友\N{\rEng}{\i1}So come on out to south park and meet some friends of mine{\i0}
+Dialogue: 0,0:00:48.47,0:00:50.48,Chn,,0,0,0,,Stan，你们两家伙还真行啊！\N{\rEng}Stan, you guys are good!
+Dialogue: 0,0:00:55.45,0:00:57.33,Chn,,0,0,0,,Sharon,孩子们在干吗呢？\N{\rEng}Sharon, what are the boys doing?
+Dialogue: 0,0:00:57.34,0:01:00.56,Chn,,0,0,0,,哦，Stan和Kyle一起买了个新电视游戏\N{\rEng}Oh, Stan and Kyle bought a new video game together.
+Dialogue: 0,0:01:00.59,0:01:04.54,Chn,,0,0,0,,他们现在会弹吉他了？ -哦，不，那不过是些破塑料控制器罢了\N{\rEng}They can play guitar now? - No, they're just little plastic controllers.
+Dialogue: 0,0:01:04.56,0:01:08.24,Chn,,0,0,0,,按下五彩的按钮，游戏中就会弹奏吉他曲目\N{\rEng}You hit the colored buttons and it makes the guitar track on the game play.
+Dialogue: 0,0:01:09.12,0:01:12.67,Chn,,0,0,0,,如果他们能花一半时间学真正的吉他，如同玩那游戏一样\N{\rEng}If they spent half the time learning a real instrument as they do playing that game,
+Dialogue: 0,0:01:12.67,0:01:16.05,Chn,,0,0,0,,天晓得他们能达到啥成就 -啊，哈。\N{\rEng}who knows what they could accomplish. - Hey yeah.
+Dialogue: 0,0:01:20.88,0:01:24.16,Chn,,0,0,0,,伙计们，听听那画面中人群的呐喊！ 他们爱我们！\N{\rEng}Dude, listen to that video crowd! They love us!
+Dialogue: 0,0:01:26.09,0:01:29.82,Chn,,0,0,0,,那么说，你们男孩喜欢这音乐，是吗？ -当然喽，伙计。这是《吉他英雄》\N{\rEng}So you boys like this music, huh? - Yeah, dude. It's Guitar Hero.
+Dialogue: 0,0:01:29.82,0:01:31.82,Chn,,0,0,0,,Stan和Kyle玩这游戏真有一套啊！\N{\rEng}Stan and Kyle are really good at it.
+Dialogue: 0,0:01:31.83,0:01:35.99,Chn,,0,0,0,,好吧，想见识下真正牛逼的事吗？瞧仔细了！\N{\rEng}Well you kids wanna see something really cool? Check this out.
+Dialogue: 0,0:01:45.25,0:01:48.87,Chn,,0,0,0,,曾经，我从嘈杂迷惑之土升起\N{\rEng}{\i1}Once, I rose above the noise and confusion.{\i0}
+Dialogue: 0,0:01:48.90,0:01:52.58,Chn,,0,0,0,,只愿在这幻想之外一瞥为快\N{\rEng}{\i1}Just to get a glimpse beyond this illusion.{\i0}
+Dialogue: 0,0:01:52.61,0:01:56.25,Chn,,0,0,0,,我翱翔在天际，愈发高远\N{\rEng}{\i1}I was soaring ever higher{\i0}
+Dialogue: 0,0:01:56.28,0:01:59.84,Chn,,0,0,0,,但我飞得太高了\N{\rEng}{\i1}but I flew too high.{\i0}
+Dialogue: 0,0:01:59.87,0:02:03.23,Chn,,0,0,0,,尽管目仍可视，我... -老爸？老爸！瞎搞啥鬼事呢？\N{\rEng}{\i1}Though my eyes could see I- - Dad? Dad! What are you doing?!{\i0}
+Dialogue: 0,0:02:03.26,0:02:06.00,Chn,,0,0,0,,其实，我可以用真正的吉他弹奏很多歌曲\N{\rEng}I can actually play a lot of these songs on a real guitar.
+Dialogue: 0,0:02:06.00,0:02:08.35,Chn,,0,0,0,,想学吗？我教你们\N{\rEng}You want me to teach you boys how?
+Dialogue: 0,0:02:09.43,0:02:13.68,Chn,,0,0,0,,那太放荡了，Marsh先生 -同感，太TM傻冒了！\N{\rEng}That's gay, Mr. Marsh. - Yeah, that's stupid, Dad.
+Dialogue: 0,0:02:13.95,0:02:18.42,Chn,,0,0,0,,但这才是真正的吉他 -真正的吉他只适合老不死去玩\N{\rEng}But this is real. - Real guitars are for old people.
+Dialogue: 0,0:02:18.45,0:02:21.83,Chn,,0,0,0,,先生，你很在意吗？ 我们就想看看Stan和Kyle一起玩\N{\rEng}Do you mind, sir? We wanna watch Stan and Kyle play.
+Dialogue: 0,0:02:25.79,0:02:28.79,Chn,,0,0,0,,好吧，这次我们试试冲击60,000分大关\N{\rEng}Alright, let's try to score 60,000 points this time.
+Dialogue: 0,0:02:48.55,0:02:50.95,Chn,,0,0,0,,准备好了吗？\N{\rEng}Are you ready to rock?
+Dialogue: 0,0:02:50.99,0:02:55.04,Chn,,0,0,0,,坚持努力，我任性的儿子\N{\rEng}{\i1}Carry on my wayward son{\i0}
+Dialogue: 0,0:02:55.08,0:02:59.07,Chn,,0,0,0,,大功告成之时，一切欢喜\N{\rEng}{\i1}There'll be peace when you are done{\i0}
+Dialogue: 0,0:02:59.24,0:03:03.32,Chn,,0,0,0,,放下疲惫的头脑，躺下僵硬的身体，好好休息\N{\rEng}{\i1}Lay your weary head to rest{\i0}
+Dialogue: 0,0:03:03.35,0:03:06.59,Chn,,0,0,0,,不是不哭了吗\N{\rEng}{\i1}Don't you cry no more{\i0}
+Dialogue: 0,0:03:16.83,0:03:20.33,Chn,,0,0,0,,游戏结束！你个大衰仔！\N{\rEng}Game over! You suck!
+Dialogue: 0,0:03:29.85,0:03:31.66,Chn,,0,0,0,,哈，他们成功在望！\N{\rEng}They're gonna do it!
+Dialogue: 0,0:03:31.71,0:03:33.74,Chn,,0,0,0,,伙计们，来吧，这次冲100，000分大关！\N{\rEng}Come on, guys, a hundred thousand points!
+Dialogue: 0,0:03:33.78,0:03:36.16,Chn,,0,0,0,,Cartman,你丫闭嘴。我们需要聚精会神\N{\rEng}Cartman, shut up. We're concentrating.
+Dialogue: 0,0:03:45.30,0:03:48.76,Chn,,0,0,0,,你们打破的100，000分大关！\N{\rEng}You have broken a hundred thousand points!
+Dialogue: 0,0:03:48.81,0:03:51.77,Chn,,0,0,0,,你们是摇滚巨星！\N{\rEng}You are rock stars!
+Dialogue: 0,0:03:51.90,0:03:54.09,Chn,,0,0,0,,嘿，伙计，我们现在彻头彻尾是摇滚巨星了！\N{\rEng}Dude, we are total rock stars now!
+Dialogue: 0,0:03:54.12,0:03:58.31,Chn,,0,0,0,,你们才不是啥摇滚巨星！ 那不过是个破不拉叽的塑料玩意儿！\N{\rEng}You're not rock stars! This is just a stupid plastic controller!
+Dialogue: 0,0:03:58.52,0:04:00.06,Chn,,0,0,0,,等会儿。\N{\rEng}Hang on.
+Dialogue: 0,0:04:01.37,0:04:03.60,Chn,,0,0,0,,是Stan Marsh吗？ -啥事？\N{\rEng}Stan Marsh? - Yeah?
+Dialogue: 0,0:04:03.64,0:04:06.92,Chn,,0,0,0,,我是Charles Kincaid， 来自Kincaid人才中介\N{\rEng}I'm Charles Kincaid, from the Kincaid Talent Agency?
+Dialogue: 0,0:04:06.95,0:04:11.15,Chn,,0,0,0,,我刚刚听说你打破了吉他英雄100，000分纪录\N{\rEng}I just heard you broke a hundred thousand points on Guitar Hero.
+Dialogue: 0,0:04:11.18,0:04:13.94,Chn,,0,0,0,,恩，是我们搞掂的 -太令我印象深刻了\N{\rEng}Yeah, we did. - Well, I'm impressed.
+Dialogue: 0,0:04:13.96,0:04:17.41,Chn,,0,0,0,,还有我想做你的经纪人 -哇喔，当真？\N{\rEng}And I'd like to be your manager. - Wow, really?
+Dialogue: 0,0:04:18.07,0:04:20.50,Chn,,0,0,0,,伙计！伙计，Kyle，这人想做咱经纪人\N{\rEng}Dude! Dude, Kyle, this guy wants to be our manager!
+Dialogue: 0,0:04:20.53,0:04:22.56,Chn,,0,0,0,,没门！ -你是认真的？\N{\rEng}No way! - For reals?
+Dialogue: 0,0:04:22.59,0:04:27.36,Chn,,0,0,0,,获得100，000分真是惊为天人， 但我考虑更多的是凭你们的真正实力该争取的目标\N{\rEng}Scoring a hundred thousand points is amazing, but I think with the right label behind you,
+Dialogue: 0,0:04:27.39,0:04:30.95,Chn,,0,0,0,,你两能够打破1，000，000分！ -真TM屌！\N{\rEng}you boys could make a million points. - That'd be awesome!
+Dialogue: 0,0:04:30.98,0:04:33.95,Chn,,0,0,0,,那么，我们谈成了？\N{\rEng}So, we're in business then?
+Dialogue: 0,0:04:46.88,0:04:51.32,Chn,,0,0,0,,那，你觉得怎么样？ -我喜欢这调调。那俩男孩弹的？\N{\rEng}Well, what do you think? - I like it. That's these boys playing?
+Dialogue: 0,0:04:51.35,0:04:52.89,Chn,,0,0,0,,不，不，那是Kansas弹的\N{\rEng}No, that's Kansas.
+Dialogue: 0,0:04:52.91,0:04:58.89,Chn,,0,0,0,,但那俩男孩在双人合作专家模式下用这曲子破了100，000分\N{\rEng}But these boys scored a hundred thousand points to it on Expert Level in Co-op Mode.
+Dialogue: 0,0:04:59.29,0:05:01.92,Chn,,0,0,0,,那真是惊为天人，刻骨铭心\N{\rEng}That's pretty Goddamned impressive.
+Dialogue: 0,0:05:03.38,0:05:07.71,Chn,,0,0,0,,好吧，我们会和他们签一年合约的 -是的！孩子们，你们成功了。\N{\rEng}Alright, we'll sign them to a one-year deal. - Yes! You did it, boys.
+Dialogue: 0,0:05:07.74,0:05:11.76,Chn,,0,0,0,,听着，孩子，今晚在我那宽敞的公寓里将会举行一场盛大的庆功宴\N{\rEng}Listen, boys, I'm having a huge celebrity party at my giant mansion tonight.
+Dialogue: 0,0:05:11.79,0:05:15.38,Chn,,0,0,0,,为啥不作为我光荣的新星前来呢？\N{\rEng}Why don't you come by as my honorary new artists?
+Dialogue: 0,0:05:15.42,0:05:16.81,Chn,,0,0,0,,忒酷！\N{\rEng}Cool!
+Dialogue: 0,0:05:27.76,0:05:29.38,Chn,,0,0,0,,哇喔，好大的排场啊！\N{\rEng}Wow, this is a huge party.
+Dialogue: 0,0:05:29.41,0:05:32.45,Chn,,0,0,0,,哦，对了，所有科罗拉多州的超级巨星都汇集于此\N{\rEng}Oh yes, all the biggest stars in Colorado are here.
+Dialogue: 0,0:05:32.47,0:05:35.13,Chn,,0,0,0,,伙计，伙计，那是来自4频道播新闻的Ron Zappolo！\N{\rEng}Dude, dude, that's Ron Zappolo from Channel 4 News!
+Dialogue: 0,0:05:35.17,0:05:37.90,Chn,,0,0,0,,哇喔！瞧瞧那边，是那位Jake Jabs\N{\rEng}Wow! Oh, and look over there, that's that Jake Jabs guy
+Dialogue: 0,0:05:37.90,0:05:39.81,Chn,,0,0,0,,他来自过美国家具大卖场商业集团\N{\rEng}from American Furniture Warehouse commercials.
+Dialogue: 0,0:05:39.84,0:05:43.02,Chn,,0,0,0,,大家听好了，挺好了，这是Stan和Kyle\N{\rEng}Everyone? Everyone, this is Stan and Kyle.
+Dialogue: 0,0:05:43.04,0:05:46.48,Chn,,0,0,0,,他们刚刚在《吉他英雄》中打破了100,000分\N{\rEng}They just broke a hundred thousand points on Guitar Hero.
+Dialogue: 0,0:05:48.59,0:05:52.42,Chn,,0,0,0,,请好好享受，这屋里有更多的饮料和美眉\N{\rEng}Please enjoy yourselves, there's lots more coke and sex in the house.
+Dialogue: 0,0:05:52.72,0:05:56.31,Chn,,0,0,0,,伙计！快看，那边的是Jay Cutler！ 效力于丹佛·布隆球斯的四分卫！\N{\rEng}Dude! Dude, that's Jay Cutler over there! Quarterback for the Denver Broncos!
+Dialogue: 0,0:05:56.34,0:05:59.15,Chn,,0,0,0,,哦，我的老天！ -想会会他吗？\N{\rEng}Oh my God! - Would you boys like to meet him?
+Dialogue: 0,0:05:59.19,0:06:00.96,Chn,,0,0,0,,你是认真的？\N{\rEng}Are you serious?
+Dialogue: 0,0:06:01.01,0:06:05.62,Chn,,0,0,0,,Jay，我想让你见见Stan和Kyle 他们刚在《吉他英雄》中破了100，000分\N{\rEng}Jay, I want you to meet Stan and Kyle. They broke a hundred thousand points on Guitar Hero.
+Dialogue: 0,0:06:05.65,0:06:08.82,Chn,,0,0,0,,哇喔，真的？真高兴见到你俩 -也同样高兴见到你\N{\rEng}Wow, really? Nice to meet you guys. - Nice to meet you!
+Dialogue: 0,0:06:08.85,0:06:12.13,Chn,,0,0,0,,我是说，就你那衰样，我爸说 或许以后某日你才会来几脚精彩的\N{\rEng}I mean, you kind of suck, but my dad says you might be good someday.
+Dialogue: 0,0:06:12.17,0:06:13.05,Chn,,0,0,0,,谢谢\N{\rEng}Thanks.
+Dialogue: 0,0:06:13.10,0:06:14.83,Chn,,0,0,0,,Alex，你在某处见过我老婆吗？\N{\rEng}Alex, have you seen my wife anywhere?
+Dialogue: 0,0:06:14.86,0:06:18.94,Chn,,0,0,0,,你们知道来自沙恩钻石商店集团的Tom Shane吗？\N{\rEng}You boys know Tom Shane from the Shane Company Diamond Store commercials?
+Dialogue: 0,0:06:18.97,0:06:20.85,Chn,,0,0,0,,还用问吗？他TM是个传奇人物！\N{\rEng}Do we? He's a legend!
+Dialogue: 0,0:06:20.88,0:06:22.42,Chn,,0,0,0,,你得记住这些孩子，Tom\N{\rEng}You remember these boys, Tom.
+Dialogue: 0,0:06:22.45,0:06:26.08,Chn,,0,0,0,,他们几周后将在街机厅现在打破1,000,000分\N{\rEng}They're gonna break a million points live at the video arcade in a few weeks.
+Dialogue: 0,0:06:26.11,0:06:28.26,Chn,,0,0,0,,那将会，惊天地，泣鬼神\N{\rEng}That, would be impressive.
+Dialogue: 0,0:06:28.70,0:06:32.67,Chn,,0,0,0,,伙计，我们成了。我们是超星，又酷又帅\N{\rEng}Dude, we've arrived. We're super, awesome and cool.
+Dialogue: 0,0:06:32.70,0:06:36.61,Chn,,0,0,0,,是啊。时来运转，衰运终于TMD跑光了\N{\rEng}Yeah. Life is finally going to not suck so hard for us.
+Dialogue: 0,0:06:47.86,0:06:49.15,Chn,,0,0,0,,你是摇滚巨星！\N{\rEng}You Rock!
+Dialogue: 0,0:06:49.18,0:06:51.53,Chn,,0,0,0,,好啊，孩子们，排演太精彩了\N{\rEng}All right, nice rehearsal, boys.
+Dialogue: 0,0:06:51.56,0:06:54.29,Chn,,0,0,0,,伙计，中途我完全恼了哎！ 没瞧见吗？\N{\rEng}Dude, I totally miffed that middle part. Did you see that?
+Dialogue: 0,0:06:54.31,0:06:57.50,Chn,,0,0,0,,是哎，伙计，那段儿几乎是不可能的任务 -那太酷了，孩子们\N{\rEng}Yeah dude, that's almost impossible. - That was real cool, kids.
+Dialogue: 0,0:06:57.53,0:07:02.06,Chn,,0,0,0,,嘿，Kyle，我车里有个不同的控制器 也许会对你有帮助\N{\rEng}Hey, Kyle, there's a different controller in my car that might work better for you.
+Dialogue: 0,0:07:02.10,0:07:04.35,Chn,,0,0,0,,为什么不和Jim一起去 他会帮你找到那玩意的\N{\rEng}Why don't you go with Jim and he'll help you find it.
+Dialogue: 0,0:07:04.38,0:07:06.06,Chn,,0,0,0,,哦，好的。太棒了\N{\rEng}Oh, okay. Cool.
+Dialogue: 0,0:07:08.04,0:07:12.05,Chn,,0,0,0,,孩子，你有真正的潜力 我坚信不移，你能拿下1,000,000分\N{\rEng}You've got real potential, kid. I have no doubt you can break a million.
+Dialogue: 0,0:07:12.09,0:07:14.71,Chn,,0,0,0,,当真？在拍我马屁吧？ -我当真认为你行\N{\rEng}Really? That'd be sweet. - I think you could.
+Dialogue: 0,0:07:14.75,0:07:19.28,Chn,,0,0,0,,但至于你的朋友呢，厄，说实话 我认为他在拖你后腿\N{\rEng}But as for your friend, well, to be honest, I think he's holding you back.
+Dialogue: 0,0:07:19.31,0:07:20.47,Chn,,0,0,0,,什么，啥？你是说——Kyle?\N{\rEng}What, you mean, Kyle?
+Dialogue: 0,0:07:20.48,0:07:24.56,Chn,,0,0,0,,瞧瞧，你得分比他高多了 谁更强显而易见\N{\rEng}Look, you score a lot higher than him. There's no question who the better one is.
+Dialogue: 0,0:07:24.59,0:07:26.34,Chn,,0,0,0,,我打算让你会会其他玩家\N{\rEng}I wanna put you with some other players,
+Dialogue: 0,0:07:26.34,0:07:29.74,Chn,,0,0,0,,为你找个好搭档，帮助你提高成绩\N{\rEng}find a partner for you who can really help you max your score.
+Dialogue: 0,0:07:29.97,0:07:34.42,Chn,,0,0,0,,但Kyle和我一直一起玩 我们一起合资买了这游戏套件\N{\rEng}But, Kyle and I always play together. We both chipped in for the game system.
+Dialogue: 0,0:07:34.47,0:07:38.87,Chn,,0,0,0,,你很高尚。 但你认为《吉他英雄》哪点捕获了你的忠心？\N{\rEng}Very honorable. But you know where loyalty gets you in a game like Guitar Hero?
+Dialogue: 0,0:07:38.90,0:07:42.54,Chn,,0,0,0,,没啥别的，听听那电视里呐喊的人群\N{\rEng}Nowheres. Just listen to that video crowd.
+Dialogue: 0,0:07:43.46,0:07:46.84,Chn,,0,0,0,,好久没在电视里听到如此狂野的呐喊了\N{\rEng}I haven't heard a video crowd go that wild in a long time.
+Dialogue: 0,0:07:46.87,0:07:49.76,Chn,,0,0,0,,你有机会破1,000,000分大关\N{\rEng}You've got a chance to score a million points,
+Dialogue: 0,0:07:49.76,0:07:53.90,Chn,,0,0,0,,而且我不希望你放弃它，仅因在意好友的感受\N{\rEng}and I hate to see you throw it away because you're worried about your friend's feelings.
+Dialogue: 0,0:07:56.65,0:08:01.65,Chn,,0,0,0,,你会爱上这小子的，Stan。 他是我见过最优秀的《吉他英雄》玩家之一\N{\rEng}You're gonna love this kid, Stan. He's one of the best Guitar Hero players I've ever seen.
+Dialogue: 0,0:08:01.66,0:08:03.31,Chn,,0,0,0,,当然除你之外\N{\rEng}Except for you, of course.
+Dialogue: 0,0:08:03.34,0:08:04.70,Chn,,0,0,0,,嘿，Thad!\N{\rEng}Ah, Thad!
+Dialogue: 0,0:08:06.15,0:08:10.29,Chn,,0,0,0,,Stan Marsh，这位是Thad Jarvis -吃了吗？\N{\rEng}Stan Marsh, this is Thad Jarvis. - Sup?
+Dialogue: 0,0:08:10.66,0:08:15.57,Chn,,0,0,0,,这位Thad已经辅助了无数伟大的《吉他英雄》玩家 对吗，Thad?\N{\rEng}Thad here has backed up a lot of really great Guitar Hero players. Isn't that right, Thad?
+Dialogue: 0,0:08:15.70,0:08:16.62,Chn,,0,0,0,,嗯\N{\rEng}Yup.
+Dialogue: 0,0:08:16.65,0:08:21.19,Chn,,0,0,0,,他甚至连游戏系统都不用。 靠听的就能玩《吉他英雄》\N{\rEng}He doesn't even need a game system to play on. He can play Guitar Hero acoustically.
+Dialogue: 0,0:08:21.22,0:08:23.84,Chn,,0,0,0,,不错，但他会弹专家级的Buckethead\N{\rEng}Yeah, but can he play Buckethead on Expert Level?
+Dialogue: 0,0:08:23.87,0:08:26.84,Chn,,0,0,0,,放手干吧，Thad。给他秀两手\N{\rEng}Go ahead, Thad. Show him what you can do.
+Dialogue: 0,0:08:28.70,0:08:30.21,Chn,,0,0,0,,瞧仔细了\N{\rEng}Check this out.
+Dialogue: 0,0:08:41.03,0:08:42.93,Chn,,0,0,0,,天杀的强，对吗？\N{\rEng}Pretty damn good, huh?
+Dialogue: 0,0:08:42.97,0:08:46.57,Chn,,0,0,0,,是的，那简直素神！ 但你会弹"John the Fisherman"吗？\N{\rEng}Yeah, that's pretty good. But can you play "John the Fisherman"?
+Dialogue: 0,0:08:54.09,0:08:58.67,Chn,,0,0,0,,Stan，这孩子去跟你合作 你将会写下《吉他英雄》史上新的一章\N{\rEng}Stan, with this kid backing you, you're gonna make Guitar Hero history.
+Dialogue: 0,0:09:00.57,0:09:02.79,Chn,,0,0,0,,噢，我太爱这调了！\N{\rEng}Oh, I love this song.
+Dialogue: 0,0:09:21.50,0:09:23.85,Chn,,0,0,0,,瓦靠，看看他那屌样！\N{\rEng}Wow wee, look at him go!
+Dialogue: 0,0:09:25.82,0:09:27.94,Chn,,0,0,0,,嘿伙计，怎么.....?\N{\rEng}Hey dude, how'd it-?
+Dialogue: 0,0:09:30.16,0:09:31.36,Chn,,0,0,0,,Kyle\N{\rEng}Kyle.
+Dialogue: 0,0:09:33.27,0:09:36.02,Chn,,0,0,0,,我还以为你病了\N{\rEng}I thought you were sick.
+Dialogue: 0,0:09:39.11,0:09:40.32,Chn,,0,0,0,,这位兄台贵姓？\N{\rEng}Who is this?
+Dialogue: 0,0:09:40.35,0:09:44.28,Chn,,0,0,0,,这位是Thad Jarvis -吃了吗？\N{\rEng}This is Thad Jarvis. - Sup?
+Dialogue: 0,0:09:45.44,0:09:49.42,Chn,,0,0,0,,这TM怎么回事，Stan? -Kyle,我本打算慢慢跟你说\N{\rEng}What's going on, Stan? - Kyle, I was gonna tell you later.
+Dialogue: 0,0:09:49.45,0:09:51.59,Chn,,0,0,0,,Kincaid先生认为我该先和Thad练一段时间\N{\rEng}Mr. Kincaid thinks I should play with Thad for a while.
+Dialogue: 0,0:09:51.63,0:09:53.99,Chn,,0,0,0,,但这是我们的游戏。咱一起买的！\N{\rEng}But it's our game. We bought it together.
+Dialogue: 0,0:09:54.02,0:09:57.96,Chn,,0,0,0,,我了解，还，还有我想公平起见 所以我会买下你的那份的\N{\rEng}I know, and, and I wanna be fair about it, so, I'll buy you out of your part.
+Dialogue: 0,0:09:57.99,0:10:00.36,Chn,,0,0,0,,让我拿钱走人？你TM说啥呢？\N{\rEng}Buy me out?! What are you saying?!
+Dialogue: 0,0:10:00.39,0:10:02.78,Chn,,0,0,0,,是什么让你爽到极点？ 很好很强大，你TM竟让我拿钱走人\N{\rEng}What makes you so high and mighty you can buy me out?!
+Dialogue: 0,0:10:02.80,0:10:06.49,Chn,,0,0,0,,别这么说我，Kyle! -哦老天，这太TM屌了！\N{\rEng}Don't put this all on me, Kyle! - Oh my God this is so awesome.
+Dialogue: 0,0:10:07.23,0:10:09.47,Chn,,0,0,0,,你午后不久就被吹着凉了\N{\rEng}You were the one that's been blowing off playing after midnight,
+Dialogue: 0,0:10:09.47,0:10:11.66,Chn,,0,0,0,,不继续练习是因为你病了 -我想吐了！\N{\rEng}not playing because you were sick. - I have been sick!
+Dialogue: 0,0:10:11.69,0:10:14.34,Chn,,0,0,0,,你看，问题是我再也不会和你一起合作破1,000,000分了\N{\rEng}Look, the point is I'm never gonna break a million points playing with you!
+Dialogue: 0,0:10:14.37,0:10:15.94,Chn,,0,0,0,,明知故问！\N{\rEng}You know that's true!
+Dialogue: 0,0:10:17.58,0:10:20.39,Chn,,0,0,0,,我想，我之前一直没想过这恰恰和得分有关\N{\rEng}I guess I didn't realize it was just about the points.
+Dialogue: 0,0:10:28.12,0:10:30.15,Chn,,0,0,0,,伙计，这游戏有规则\N{\rEng}Dude, this game rules.
+Dialogue: 0,0:10:30.34,0:10:32.15,Chn,,0,0,0,,继续干，明白了吗？\N{\rEng}Let's just do this, all right?
+Dialogue: 0,0:10:43.35,0:10:47.68,Chn,,0,0,0,,嘿！你是那个买了我《吉他英雄》的孩子吧？ 感觉如何？\N{\rEng}Hey! You're the kid I sold the Guitar Hero game to. How are you liking it?
+Dialogue: 0,0:10:47.72,0:10:50.79,Chn,,0,0,0,,我想还不错 但我需要点那游戏的指导书籍\N{\rEng}It's okay, I guess. But I need some game guides for it.
+Dialogue: 0,0:10:50.82,0:10:53.43,Chn,,0,0,0,,我的经纪人和赞助商在街机厅 做了现场演奏的准备\N{\rEng}My manager and producer set up this live thing at the video arcade
+Dialogue: 0,0:10:53.43,0:10:57.09,Chn,,0,0,0,,我猜在那儿，所有人面前，攻取1,000,000分 并且我，我紧张坏了！\N{\rEng}where I'm supposed to break a million in front of everybody and I'm I'm stressing out.
+Dialogue: 0,0:10:57.12,0:10:59.60,Chn,,0,0,0,,同感，《吉他英雄》可能是十分具有紧张感\N{\rEng}Yeah, Guitar Hero can be pretty stressful.
+Dialogue: 0,0:10:59.63,0:11:02.79,Chn,,0,0,0,,但或许你明白，也许忘了那指导书\N{\rEng}But you know, maybe instead of a game guide,
+Dialogue: 0,0:11:02.82,0:11:07.52,Chn,,0,0,0,,你更应该就买一款游戏来缓解你的压力\N{\rEng}you should just buy another game to kind of ease the stress.
+Dialogue: 0,0:11:09.13,0:11:13.76,Chn,,0,0,0,,你听说过《海洛因勇士》吗? -海洛因勇士？\N{\rEng}Have you ever heard of Heroin Hero? - Heroin Hero?
+Dialogue: 0,0:11:13.80,0:11:15.15,Chn,,0,0,0,,那是款相当惬意的游戏\N{\rEng}It's a way easier game.
+Dialogue: 0,0:11:15.16,0:11:18.30,Chn,,0,0,0,,你仅需做的就是在魔法丛林里来回奔跑 并注射假海洛因\N{\rEng}All you do is run around a magical forest and shoot simulated heroin.
+Dialogue: 0,0:11:18.40,0:11:21.75,Chn,,0,0,0,,你或许可以叫它，终极第一人称射击游戏\N{\rEng}You could call it the ultimate first-person shooter.
+Dialogue: 0,0:11:22.52,0:11:24.25,Chn,,0,0,0,,那么游戏里没得分？没人群？\N{\rEng}And there's no score? No crowds?
+Dialogue: 0,0:11:24.28,0:11:28.57,Chn,,0,0,0,,没有人类。你仅需做的就是跑遍那美丽的丛林 去追捕一只巨龙\N{\rEng}No man. All you do is run through the pretty forest and chase a big dragon.
+Dialogue: 0,0:11:28.60,0:11:33.31,Chn,,0,0,0,,但你永不必抓到那龙 你仅仅需要继续追捕就行了\N{\rEng}But you don't ever catch the dragon. You just keep chasing it.
+Dialogue: 0,0:11:36.83,0:11:41.75,Chn,,0,0,0,,抓吧，来吧，这边走 射啊，你会抓住我的\N{\rEng}Chase me. Come on. This way. Shoot up and then you can catch me.
+Dialogue: 0,0:11:41.79,0:11:43.15,Chn,,0,0,0,,上啊！\N{\rEng}Come on.
+Dialogue: 0,0:11:43.45,0:11:45.34,Chn,,0,0,0,,靠，这太屌了！\N{\rEng}Dude, this is awesome.
+Dialogue: 0,0:11:52.08,0:11:53.40,Chn,,0,0,0,,他们干得怎么样？\N{\rEng}How are they coming?
+Dialogue: 0,0:11:53.43,0:11:56.73,Chn,,0,0,0,,无须担心，Hart先生。 他们这几天里就会为那表演秀做好准备\N{\rEng}No worries, Mr. Hart. They'll be ready for the big show in a few days.
+Dialogue: 0,0:11:56.77,0:12:00.59,Chn,,0,0,0,,他们最好能。我可是花了笔巨款去包场的\N{\rEng}They'd better be. I paid good money to rent this place out.
+Dialogue: 0,0:12:04.37,0:12:05.45,Chn,,0,0,0,,操天杀的！\N{\rEng}Damnit!
+Dialogue: 0,0:12:05.47,0:12:09.18,Chn,,0,0,0,,伙计，真衰！你昨晚上练了吗？ -当然，我昨晚上当然练了！\N{\rEng}Dude, suck. Did you practice last night? - Yeah, I practiced last night!
+Dialogue: 0,0:12:09.21,0:12:10.69,Chn,,0,0,0,,闭上你那臭嘴继续弹！\N{\rEng}Just shut up and play!
+Dialogue: 0,0:12:13.62,0:12:15.76,Chn,,0,0,0,,不，你知道个屁？！试试这曲子！\N{\rEng}No, you know what?! Screw this!
+Dialogue: 0,0:12:15.79,0:12:18.47,Chn,,0,0,0,,我才不弹这曲子呢！你干啥选这破曲啊？！\N{\rEng}I'm not playing this song! Why did you pick this stupid song?!
+Dialogue: 0,0:12:18.50,0:12:20.85,Chn,,0,0,0,,Stan，这是我们一致认定你该弹的曲子。\N{\rEng}Stan, it's the song we all agreed you would play.
+Dialogue: 0,0:12:20.89,0:12:23.88,Chn,,0,0,0,,是吗？好吧，我TM改主意了！ 我们换Cheap Trick!\N{\rEng}Yeah? Well I changed my mind! We're changing the song to Cheap Trick!
+Dialogue: 0,0:12:23.91,0:12:25.82,Chn,,0,0,0,,没门儿！我恨那屎臭般的“泡泡糖”摇滚乐！\N{\rEng}No way. I hate that bubblegum crap.
+Dialogue: 0,0:12:25.85,0:12:30.15,Chn,,0,0,0,,是吗？好吧，你TM不是领队，不是吗，Thad? 我爱啥啥！\N{\rEng}Yeah? Well you're not the leader, are you, Thad?! We play the music I wanna play!
+Dialogue: 0,0:12:30.18,0:12:32.62,Chn,,0,0,0,,Stan,你干啥满口怨气，粗暴待人啊？\N{\rEng}Stan, why are you so grumpy-grouchy?
+Dialogue: 0,0:12:32.65,0:12:35.31,Chn,,0,0,0,,我爱啥啥！ 并且我将会换首不同的曲子！\N{\rEng}We're playing what I want and I'll select a different song!
+Dialogue: 0,0:12:35.34,0:12:37.64,Chn,,0,0,0,,好吧？那么这首咋样？\N{\rEng}Yeah? Well how about this one?
+Dialogue: 0,0:12:37.77,0:12:38.90,Chn,,0,0,0,,我TM不干了\N{\rEng}I quite.
+Dialogue: 0,0:12:38.94,0:12:40.56,Chn,,0,0,0,,我走人，不干了，跑路了，不管了\N{\rEng}I quit I quit I quit. I quit.
+Dialogue: 0,0:12:40.60,0:12:43.31,Chn,,0,0,0,,不管了，跑路了，不干了，走人了\N{\rEng}I quit I quit I quit. I quit.
+Dialogue: 0,0:12:43.34,0:12:44.88,Chn,,0,0,0,,你晓得个屁？！ 我才是伟人，Thad\N{\rEng}You know what? That's great with me, Thad.
+Dialogue: 0,0:12:44.88,0:12:46.64,Chn,,0,0,0,,因为我TM不需要你就能拿下1,000,000分！\N{\rEng}Because I don't need you to break a million points!
+Dialogue: 0,0:12:46.64,0:12:47.93,Chn,,0,0,0,,我以前还从没做到过！\N{\rEng}I never did!
+Dialogue: 0,0:12:47.96,0:12:51.55,Chn,,0,0,0,,Stan,你TM瞎搞啥呢？ －我只是想一个人弹，不行吗？\N{\rEng}Stan, what is the matter with you? - I just wanna play alone, alright?!
+Dialogue: 0,0:12:51.58,0:12:54.50,Chn,,0,0,0,,我实在无法把精力一直放在那些把我当驴使的烂屁眼身上！\N{\rEng}I can't concentrate with all these assholes riding me all the time!
+Dialogue: 0,0:12:54.53,0:12:56.13,Chn,,0,0,0,,这是啥？\N{\rEng}What is this?
+Dialogue: 0,0:12:57.07,0:12:58.15,Chn,,0,0,0,,不妙噢....\N{\rEng}Man...
+Dialogue: 0,0:12:58.25,0:13:01.61,Chn,,0,0,0,,你一直在玩《海洛因勇士》？ -就，就玩了一会儿\N{\rEng}Are you playing Heroin Hero? - Just, just a little.
+Dialogue: 0,0:13:01.64,0:13:07.14,Chn,,0,0,0,,不！没人能就玩了一会儿《海洛因勇士》！ 你晓得的，你永远抓不住那条龙！\N{\rEng}No! Nobody plays Heroin Hero just a little! You know, you never catch the dragon!
+Dialogue: 0,0:13:07.18,0:13:09.26,Chn,,0,0,0,,我知道，但它一直在叫唤我呢，不行吗？！\N{\rEng}I know, but it mellos me out, okay?!
+Dialogue: 0,0:13:09.29,0:13:11.18,Chn,,0,0,0,,你最好集中心思\N{\rEng}You'd better pull your act together,
+Dialogue: 0,0:13:11.18,0:13:16.49,Chn,,0,0,0,,因为现在你将一个人去破1,000,000分，并解锁超星领域\N{\rEng}because now you're gonna have to break a million points and unlock superstardom solo!
+Dialogue: 0,0:13:16.53,0:13:17.81,Chn,,0,0,0,,灭问题！\N{\rEng}No problem.
+Dialogue: 0,0:13:37.17,0:13:40.22,Chn,,0,0,0,,嘿，该走了，小不点！我们现在想玩！ －我还没完呢！\N{\rEng}Hey, beat it, kid! We wanna play now! - I'm not done yet.
+Dialogue: 0,0:13:40.25,0:13:42.85,Chn,,0,0,0,,嘿，我认得你。你是Kyle Broflovski\N{\rEng}Hey, I know you. You're Kyle Broflovski.
+Dialogue: 0,0:13:42.88,0:13:45.23,Chn,,0,0,0,,你以前不是有自己的《吉他英雄》套件吗？\N{\rEng}Didn't you used to have your own Guitar Hero game system?
+Dialogue: 0,0:13:45.25,0:13:47.68,Chn,,0,0,0,,哦，不，你说的是别人 -好吧，看来是\N{\rEng}No. You're thinking of somebody else. - Yeah, sure.
+Dialogue: 0,0:13:47.68,0:13:49.59,Chn,,0,0,0,,他是那个拿下100,000分的孩子\N{\rEng}He's the kid that scored a hundred thousand points.
+Dialogue: 0,0:13:49.62,0:13:53.42,Chn,,0,0,0,,怎么现在在这玩呢？ -瞧，上前去玩吧，行吗？\N{\rEng}How come you're playing here now? - Look, just go ahead and play, alright?
+Dialogue: 0,0:13:53.45,0:13:54.91,Chn,,0,0,0,,让我一个人静静\N{\rEng}Leave me alone.
+Dialogue: 0,0:13:57.26,0:13:59.40,Chn,,0,0,0,,我能要杯Fresca吗？\N{\rEng}Can I get a Fresca, please?
+Dialogue: 0,0:14:02.61,0:14:08.00,Chn,,0,0,0,,你玩那游戏很有一套，孩子 像这样的邋遢地儿可配不上你\N{\rEng}You're good at that game, Kid. Too good to be playing in a dump like this.
+Dialogue: 0,0:14:08.19,0:14:13.49,Chn,,0,0,0,,那么好吧，实际上我没钱再玩了 我四肢也都快麻了\N{\rEng}Yeah well, I can't really afford to play anymore anyway. I'm about out of quarters.
+Dialogue: 0,0:14:14.43,0:14:19.77,Chn,,0,0,0,,那么这么着吧，也许我这个周末晚将用那玩意放放额外的音乐\N{\rEng}Well look, maybe I can use some extra music playing to this thing on weekend nights.
+Dialogue: 0,0:14:19.81,0:14:24.86,Chn,,0,0,0,,你可以过来，在这打打小工，或许你还能免费玩\N{\rEng}You come in, work around here a little and maybe you can play it for free.
+Dialogue: 0,0:14:24.90,0:14:28.44,Chn,,0,0,0,,我赞同你试着做的，Mick 但我可不是义演慈善家\N{\rEng}I appreciate what you're trying to do, Mick, but I ain't a charity case yet.
+Dialogue: 0,0:14:28.47,0:14:34.69,Chn,,0,0,0,,啥义演慈善家？我不过是在试着帮帮你这个一时不走运的孩子罢了\N{\rEng}Charity case, I'm just trying to help out a kid who's a little down on his luck is all.
+Dialogue: 0,0:14:35.44,0:14:36.82,Chn,,0,0,0,,万分感谢，Mick\N{\rEng}Thanks, Mick.
+Dialogue: 0,0:14:38.80,0:14:41.09,Chn,,0,0,0,,快抓啊，上啊，抓吧\N{\rEng}Catch me. Come on, catch me.
+Dialogue: 0,0:14:42.98,0:14:46.01,Chn,,0,0,0,,怎么了？跟着我啊，来吧\N{\rEng}What's wrong? Follow me. Come on.
+Dialogue: 0,0:14:46.74,0:14:48.79,Chn,,0,0,0,,Marsh?Stan，你该......\N{\rEng}Marsh? Stan, you got-
+Dialogue: 0,0:14:48.79,0:14:50.27,Chn,,0,0,0,,哦老天\N{\rEng}Oh my God!
+Dialogue: 0,0:14:50.88,0:14:52.38,Chn,,0,0,0,,起来，Stan!给我醒醒！\N{\rEng}Get up, Stan! Wake up!
+Dialogue: 0,0:14:52.42,0:14:53.45,Chn,,0,0,0,,嗯？干啥？\N{\rEng}Huh? What?
+Dialogue: 0,0:14:53.48,0:14:56.30,Chn,,0,0,0,,你十分钟内就该出发了！ 大伙都前去看你呢！\N{\rEng}You're going on in ten minutes! Everybody's coming to see you!
+Dialogue: 0,0:14:56.34,0:14:58.69,Chn,,0,0,0,,那龙，上哪了？\N{\rEng}The dragon. Where did it go?
+Dialogue: 0,0:14:58.85,0:15:00.99,Chn,,0,0,0,,你给我清醒点！\N{\rEng}You've gotta pull it together!
+Dialogue: 0,0:15:02.64,0:15:04.96,Chn,,0,0,0,,集中心思，操TM天杀的！\N{\rEng}Pull it together, goddamnit!
+Dialogue: 0,0:15:07.75,0:15:12.64,Chn,,0,0,0,,感谢各位前来Gamecraft街机厅，观看Stan Marsh打破1,000,000分\N{\rEng}Thank you for coming to Gamecraft Arcade to watch Stan Marsh break a million points
+Dialogue: 0,0:15:12.65,0:15:14.81,Chn,,0,0,0,,并解锁无人能及的超星领域\N{\rEng}and unluck superstardom.
+Dialogue: 0,0:15:17.92,0:15:21.32,Chn,,0,0,0,,上啊，Stan! -好吧，Stan，成功在望。噢，不！\N{\rEng}Go Stan! - All right, Stan, you've got it, man!
+Dialogue: 0,0:15:21.67,0:15:22.95,Chn,,0,0,0,,伙计，他出了啥鬼事？\N{\rEng}Dude, what's the matter with him?
+Dialogue: 0,0:15:22.97,0:15:26.07,Chn,,0,0,0,,他三天三夜不睡觉，连续不断地玩《海洛因勇士》\N{\rEng}He's been up for three days straight playing Heroin Hero.
+Dialogue: 0,0:15:26.27,0:15:28.43,Chn,,0,0,0,,加油，Stan!成功在望！\N{\rEng}Come on, Stan! You got it!
+Dialogue: 0,0:15:29.63,0:15:31.82,Chn,,0,0,0,,操天杀的，他整个一傻冒！\N{\rEng}Goddamnit, he's a mess!
+Dialogue: 0,0:15:42.83,0:15:45.24,Chn,,0,0,0,,噢，不，太残忍了，我看不下去了！\N{\rEng}Oh man, I can't watch this.
+Dialogue: 0,0:15:48.32,0:15:52.21,Chn,,0,0,0,,你TM干啥呢？ 电视里的人群都开始喝倒彩了！\N{\rEng}What are you doing?! The video crowd is starting to boo!
+Dialogue: 0,0:15:54.26,0:15:56.77,Chn,,0,0,0,,走吧，伙计们，离开这吧\N{\rEng}Come on guys. Let's get out of here.
+Dialogue: 0,0:16:01.20,0:16:06.19,Chn,,0,0,0,,下次给我引荐啥人才时 好好用你的狗眼确认下到底有没有才！\N{\rEng}The next time you bring me some talent, make sure they're talent-ed.
+Dialogue: 0,0:16:09.80,0:16:16.15,Chn,,0,0,0,,你毁了一切！你曾拥有一切却毁了它！ 听听那嘘声一片的人群！他们恨你！\N{\rEng}You blew it! You had it all and you blew it! Listen to that video crowd! They hate you!
+Dialogue: 0,0:16:31.46,0:16:33.18,Chn,,0,0,0,,他在那儿！\N{\rEng}There he is!
+Dialogue: 0,0:16:33.72,0:16:35.76,Chn,,0,0,0,,那么，你拿下了1,000,000分没？\N{\rEng}So, did you break a million yet?
+Dialogue: 0,0:16:35.80,0:16:38.67,Chn,,0,0,0,,没，我没有破1,000,000分并打开超星领域 满意了吧？\N{\rEng}No, I didn't break a million points and unlock superstardom, all right?
+Dialogue: 0,0:16:38.71,0:16:40.31,Chn,,0,0,0,,我被那破游戏整了！\N{\rEng}I'm done with that stupid game!
+Dialogue: 0,0:16:40.34,0:16:45.28,Chn,,0,0,0,,厄，别闹了。你一旦开始玩《吉他英雄》 你就无法停止攀登顶峰的计划\N{\rEng}Aw, come on. Once you start playing Guitar Hero, you can't stop till you reach the top.
+Dialogue: 0,0:16:45.31,0:16:47.55,Chn,,0,0,0,,我不过想找些别的游戏来玩\N{\rEng}I just wanna find something else to play.
+Dialogue: 0,0:16:47.63,0:16:50.40,Chn,,0,0,0,,你玩过《复兴斗士》吗？\N{\rEng}Have you played Rehab Hero?
+Dialogue: 0,0:16:50.43,0:16:53.65,Chn,,0,0,0,,你将被一条巨龙追捕 但你一直在前面逃跑\N{\rEng}You get chased by a big dragon, but you keep running away from it.
+Dialogue: 0,0:16:53.65,0:16:56.56,Chn,,0,0,0,,我不过想要个画面靓丽的操作简单的赛车游戏 如何？\N{\rEng}I just want a nice, simple driving game. How about that?
+Dialogue: 0,0:16:56.59,0:16:59.09,Chn,,0,0,0,,当然行，孩子。当然可以\N{\rEng}Sure kid. Sure.
+Dialogue: 0,0:17:03.73,0:17:08.05,Chn,,0,0,0,,好吧，那曾是Splendifs的曲子 而现在这儿是一首众所周知，轰动一时的曲子\N{\rEng}All right, that was the Splendifs. And now here's a hit you all remember.
+Dialogue: 0,0:17:08.08,0:17:13.65,Chn,,0,0,0,,这首是当地两个四年级男孩在《吉他英雄》里拿下100,000分的曲子\N{\rEng}It's the song that two local fourth grade boys scored a 100.000 points to on Guitar Hero.
+Dialogue: 0,0:17:14.37,0:17:19.66,Chn,,0,0,0,,不知道那俩男孩发生了什么 我想他们再也不会碰这游戏了\N{\rEng}Don't know whatever happened to those boys. I guess they're not playing the game anymore.
+Dialogue: 0,0:17:55.47,0:18:00.50,Chn,,0,0,0,,雨在空中倾泻而下，我醒了过来\N{\rEng}{\i1}Woke up to the sound of pouring rain{\i0}
+Dialogue: 0,0:18:00.87,0:18:05.87,Chn,,0,0,0,,风在耳边沉吟低语，我想起了你\N{\rEng}{\i1}The wind would whisper and I'd think of you{\i0}
+Dialogue: 0,0:18:06.31,0:18:11.29,Chn,,0,0,0,,泪水淌下你的脸，滴滴如在呼唤我\N{\rEng}{\i1}And all the tears you cried, that called my name{\i0}
+Dialogue: 0,0:18:13.01,0:18:16.15,Chn,,0,0,0,,Kyle，能给我5分钟讲个话吗？\N{\rEng}Kyle, could I just talk to you for like five minutes?
+Dialogue: 0,0:18:16.84,0:18:20.04,Chn,,0,0,0,,你在这又干啥呢？ -求你了，不会耽搁太久的\N{\rEng}What are you doing here? - Please, it won't take long.
+Dialogue: 0,0:18:20.07,0:18:24.33,Chn,,0,0,0,,操天杀的。我们去作短暂休息，5分钟内回来\N{\rEng}Goddamnit. We're gonna take a short break. Be back in five.
+Dialogue: 0,0:18:27.80,0:18:30.93,Chn,,0,0,0,,我刚刚听你弹了会儿 伙计，你当真强了很多\N{\rEng}I was listening to you for a while. Dude, you've gotten a lot better.
+Dialogue: 0,0:18:30.96,0:18:35.30,Chn,,0,0,0,,哦，谢了！我曾经是如此热切的渴望你对我能力的认同\N{\rEng}Oh, thank you! I was so eagerly awaiting your approval of my abilities!
+Dialogue: 0,0:18:35.34,0:18:37.50,Chn,,0,0,0,,你看，Kyle，游戏设备仍设在我家里然后....\N{\rEng}Look, Kyle, the game is still set up at my house and...
+Dialogue: 0,0:18:37.50,0:18:39.41,Chn,,0,0,0,,也许我们能够试着再在那儿玩\N{\rEng}maybe we could go try playing it again over there.
+Dialogue: 0,0:18:39.44,0:18:42.58,Chn,,0,0,0,,哦，这么说，那位豪侠的骑士现在来救我于平庸市井之中了！\N{\rEng}Oh, so the gallant knight now comes to rescue me from the bowels of mediocrity!
+Dialogue: 0,0:18:42.61,0:18:45.04,Chn,,0,0,0,,哦，感谢啊，你那王者的风范！\N{\rEng}Oh, thank you, your royal lordship!
+Dialogue: 0,0:18:45.20,0:18:46.35,Chn,,0,0,0,,根本不是那么回事儿！\N{\rEng}That isn't it at all.
+Dialogue: 0,0:18:46.36,0:18:48.85,Chn,,0,0,0,,你不会成功的，Stan! 我现在能在这儿随心所欲地玩\N{\rEng}You don't get it, Stan! I can play here all I want.
+Dialogue: 0,0:18:48.86,0:18:52.74,Chn,,0,0,0,,我甚至能拿免费的Frescas 我才不需要你呢！\N{\rEng}I even get free Frescas. I don't need you anymore!
+Dialogue: 0,0:18:53.34,0:18:56.23,Chn,,0,0,0,,我明白。但我需要你\N{\rEng}I know. I need you.
+Dialogue: 0,0:18:57.84,0:19:01.27,Chn,,0,0,0,,我想我当初有一段美好的时光 是因为我与经纪人签了合约然后.....\N{\rEng}I thought I was having a great time because I was getting signed by managers and...
+Dialogue: 0,0:19:01.28,0:19:04.68,Chn,,0,0,0,,去了那美女如云，食品丰盛的盛大派对， 但后来我意识到...\N{\rEng}going to big sex and coke parties, but then I realized...
+Dialogue: 0,0:19:04.71,0:19:09.82,Chn,,0,0,0,,我很高兴是因为我一直和的挚友在一起\N{\rEng}I was having fun because I was doing all that with my best friend.
+Dialogue: 0,0:19:12.50,0:19:14.76,Chn,,0,0,0,,那很有趣，难道不是吗？\N{\rEng}It was pretty fun, wasn't it?
+Dialogue: 0,0:19:15.76,0:19:16.99,Chn,,0,0,0,,是啊\N{\rEng}Yeah.
+Dialogue: 0,0:19:17.56,0:19:20.12,Chn,,0,0,0,,瞧，总之恐怕我们能拿下1,000,000分\N{\rEng}Look, I doubt we could break a million together anyway.
+Dialogue: 0,0:19:20.17,0:19:23.60,Chn,,0,0,0,,我才不关心那鸟事 我只不过想和你再次玩罢了\N{\rEng}I don't care. I'd just like to play with you again.
+Dialogue: 0,0:19:23.86,0:19:25.12,Chn,,0,0,0,,为了玩耍的乐趣\N{\rEng}For the fun of it.
+Dialogue: 0,0:19:25.15,0:19:30.64,Chn,,0,0,0,,我还真没瞧见，不彻底地踢踢游戏英雄榜的屁眼，有何乐趣！\N{\rEng}I don't really see the fun in not trying to kick that game's ass once and for all!
+Dialogue: 0,0:19:31.00,0:19:33.14,Chn,,0,0,0,,啥，你说那事？ -我认为我们能办到，Stan\N{\rEng}What, you mean it? - I think we can do it, Stan.
+Dialogue: 0,0:19:33.14,0:19:35.47,Chn,,0,0,0,,我一个人已经好几次接近1,000,000分了\N{\rEng}I've been close to a million a few times by myself.
+Dialogue: 0,0:19:35.48,0:19:36.58,Chn,,0,0,0,,那么出发吧，伙计！\N{\rEng}Then let's go, dude!
+Dialogue: 0,0:19:36.61,0:19:39.05,Chn,,0,0,0,,哦，等等，等会儿，我本该在这儿弹的\N{\rEng}Oh wait. Wait, I'm supposed to play here.
+Dialogue: 0,0:19:41.01,0:19:43.55,Chn,,0,0,0,,嘿，Mick，你介意我出去溜达会儿吗？\N{\rEng}Hey, Mick, would you mind if I stepped out for a sec?
+Dialogue: 0,0:19:43.55,0:19:48.81,Chn,,0,0,0,,去吧，孩子，离开这儿吧 又有谁需要你在这嚎叫着摇滚？\N{\rEng}Go on, get out of here, kid. Who needs your wailing and rocking around here anyways?
+Dialogue: 0,0:19:48.84,0:19:50.24,Chn,,0,0,0,,谢了，Mick!\N{\rEng}Thanks, Mick!
+Dialogue: 0,0:19:54.46,0:19:56.44,Chn,,0,0,0,,好吧，伙计，一起去干吧！\N{\rEng}All right, dude, let's do this.
+Dialogue: 0,0:19:56.72,0:19:58.13,Chn,,0,0,0,,TMD啥鬼事？\N{\rEng}What the hell?
+Dialogue: 0,0:20:01.41,0:20:04.53,Chn,,0,0,0,,来啊，上啊。你几乎抓到我了\N{\rEng}Come on, come on. You almost got me.
+Dialogue: 0,0:20:04.56,0:20:06.49,Chn,,0,0,0,,抓我啊，来啊\N{\rEng}Catch me. Come on.
+Dialogue: 0,0:20:06.52,0:20:11.34,Chn,,0,0,0,,操天杀的！老爸，从我们的Xbox前滚蛋！ -表烦我，我几乎抓到了那龙\N{\rEng}Goddamnit! Dad, get off our X-Box! - Hang on, I almost caught the dragon.
+Dialogue: 0,0:20:11.38,0:20:13.30,Chn,,0,0,0,,呵呵，你差不多抓到我了\N{\rEng}Hehe, you almost caught me.
+Dialogue: 0,0:20:13.52,0:20:15.36,Chn,,0,0,0,,不，我和Kyle将要玩《吉他英雄》！\N{\rEng}No, me and Kyle are gonna play Guitar Hero!
+Dialogue: 0,0:20:15.39,0:20:21.01,Chn,,0,0,0,,我一定能抓住它！等等！现在它上哪了？ -你永远抓不到那龙，老爸！\N{\rEng}I can get him! Wait! Where's he going now? - You don't ever catch the dragon, Dad!
+Dialogue: 0,0:20:21.76,0:20:26.53,Chn,,0,0,0,,不，不，我说过，我才是你老爸！ 给我弄回来！\N{\rEng}No! No, I said! I am your father! Put it back on!
+Dialogue: 0,0:20:26.56,0:20:28.67,Chn,,0,0,0,,老妈，你能把老爸拖出这儿吗？\N{\rEng}Mom, will you get Dad out of here?
+Dialogue: 0,0:20:31.05,0:20:33.58,Chn,,0,0,0,,表给我作弊，Craig! -那有算啥门子的作弊！\N{\rEng}Stop cheating, Craig! - How was that cheating!
+Dialogue: 0,0:20:33.61,0:20:35.38,Chn,,0,0,0,,因为你竟敢戏弄我，你个非洲碳黑臭屁眼！\N{\rEng}Because you tricked me, you black asshole!
+Dialogue: 0,0:20:35.41,0:20:37.76,Chn,,0,0,0,,快讯！快讯！\N{\rEng}Fellas! Fellas!
+Dialogue: 0,0:20:38.37,0:20:40.45,Chn,,0,0,0,,他们要成了！ -啥？\N{\rEng}They're gonna do it! - What?
+Dialogue: 0,0:20:40.49,0:20:45.95,Chn,,0,0,0,,Stan和Kyle！他们几乎将打破《吉他英雄》1,000,000分 并解锁超星领域！\N{\rEng}Stan and Kyle! They're about to break a million on Guitar Hero and unlock superstardom!
+Dialogue: 0,0:20:46.77,0:20:48.66,Chn,,0,0,0,,哦，走！来吧，大家走！\N{\rEng}Oh, let's go! Cone on, let's go!
+Dialogue: 0,0:21:00.06,0:21:01.76,Chn,,0,0,0,,他们成功在望！\N{\rEng}They're gonna do it!
+Dialogue: 0,0:21:05.18,0:21:08.12,Chn,,0,0,0,,他们干成了！ -哦，我那性感的，耶，耶稣啊！\N{\rEng}They did it! - Oh my sweet J-Jesus!
+Dialogue: 0,0:21:08.18,0:21:12.37,Chn,,0,0,0,,你们足够耐心将《吉他英雄》玩到了1,000,000分！\N{\rEng}You have played Guitar Hero enough to reach one million points!
+Dialogue: 0,0:21:12.77,0:21:14.32,Chn,,0,0,0,,恭喜你们！\N{\rEng}Congratulations!
+Dialogue: 0,0:21:14.36,0:21:15.16,Chn,,0,0,0,,你们\N{\rEng}You.
+Dialogue: 0,0:21:15.19,0:21:16.38,Chn,,0,0,0,,是\N{\rEng}Are.
+Dialogue: 0,0:21:16.41,0:21:17.84,Chn,,0,0,0,,断背男！\N{\rEng}Fags.
+Dialogue: 0,0:21:25.49,0:21:26.86,Chn,,0,0,0,,那算啥门子东西？\N{\rEng}That's it?
+Dialogue: 0,0:21:27.37,0:21:28.80,Chn,,0,0,0,,我操他妈的OB呸！\N{\rEng}Goddamnit!
+Dialogue: 0,0:21:28.91,0:21:30.48,Chn,,0,0,0,,操他妈祖宗十八代！\N{\rEng}God damnit!
+Dialogue: 0,0:21:37.50,0:21:39.25,Chn,,0,0,0,,Butters，接下来想和我玩玩“断背”吗？\N{\rEng}Butters, you wanna play me next?
+Dialogue: 0,0:21:39.28,0:21:43.68,Chn,,0,0,0,,好啊，但我会在性交毒友会后偷汉子的\N{\rEng}Okay, but I get to be the one that betrays you after the sex and drug party.

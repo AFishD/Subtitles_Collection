@@ -1,0 +1,356 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: South.Park.S11E08.Le.Petit.Tourette.1080p.BluRay.x264-SHORTBREHD
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 1916
+PlayResY: 1076
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,微软雅黑,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Git,Comic Sans MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Chn,微软雅黑,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,20,1
+Style: Eng,Comic Sans MS,60,&H002AF7FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.20,0:00:03.30,Chn,,0,0,0,,{\i1}Transcript: spscriptorium Sync: John Smith - forom.com{\i0}
+Dialogue: 0,0:00:08.93,0:00:12.19,Chn,,0,0,0,,{\i1}I'm going out to South Park gonna have myself a time{\i0}
+Dialogue: 0,0:00:12.22,0:00:15.60,Chn,,0,0,0,,{\i1}Friendly faces everywhere humble folks without temptation{\i0}
+Dialogue: 0,0:00:15.63,0:00:18.94,Chn,,0,0,0,,{\i1}I'm goin out to south park gonna leave my woes behind{\i0}
+Dialogue: 0,0:00:18.97,0:00:22.20,Chn,,0,0,0,,{\i1}Ample parking day or night people spouting howdy neighbor{\i0}
+Dialogue: 0,0:00:22.23,0:00:25.44,Chn,,0,0,0,,{\i1}I'm heading out to south park to see if i cant unwind{\i0}
+Dialogue: 0,0:00:25.47,0:00:28.80,Chn,,0,0,0,,{\i1}I like girls with big fat titties really big fat titties{\i0}
+Dialogue: 0,0:00:28.83,0:00:32.30,Chn,,0,0,0,,{\i1}So come on out to south park and meet some friends of mine{\i0}
+Dialogue: 0,0:00:33.23,0:00:36.04,Chn,,0,0,0,,{\i1}Episode 11x08 "Le Petit Tourette"{\i0}\N{\rEng}双语合成 Lv&daisy
+Dialogue: 0,0:00:39.65,0:00:44.65,Chn,,0,0,0,,"监狱拳击". 附送碎颈武器.\N{\rEng}Big Ring Slammer. Comes with posable neck-smash grip.
+Dialogue: 0,0:00:44.72,0:00:48.42,Chn,,0,0,0,,看起来还不错，要不... - 鸡巴!\N{\rEng}That's pretty kewl. Let's see... - Cock!
+Dialogue: 0,0:00:50.43,0:00:54.32,Chn,,0,0,0,,“黑豺”可空手道踢破面板 踢断头颈-\N{\rEng}The Black Jackal. Karate Kick Panel Force and bendable neck-
+Dialogue: 0,0:00:54.32,0:00:56.84,Chn,,0,0,0,,屁眼儿!鸡巴!\N{\rEng}Asshole! Cock!
+Dialogue: 0,0:00:58.00,0:01:00.76,Chn,,0,0,0,,屁眼儿!狗屎！狗屎！鸡巴!\N{\rEng}Asshole, shit, shit, cock!
+Dialogue: 0,0:01:01.20,0:01:06.26,Chn,,0,0,0,,请问一下夫人那是你儿子吗？ 是的，很抱歉，我儿子患有“图雷特氏综合症”\N{\rEng}Ma'am, is that your son over there? - Yes, I'm sorry. My son has Tourette's Syndrome.
+Dialogue: 0,0:01:06.29,0:01:09.44,Chn,,0,0,0,,“图雷特氏综合症”? -是一种神经紊乱病症.\N{\rEng}Tourette's Syndrome? - It's a neurological disorder.
+Dialogue: 0,0:01:09.44,0:01:12.54,Chn,,0,0,0,,他控制不了自己的语言. 哦...\N{\rEng}He can't control what he says. Oh...
+Dialogue: 0,0:01:12.65,0:01:14.86,Chn,,0,0,0,,狗屎！蠢货!好了，thomas 我们走吧\N{\rEng}Shit! Dumb shit!
+Dialogue: 0,0:01:14.90,0:01:18.96,Chn,,0,0,0,,好的，妈妈，婊子！臭婊子！\N{\rEng}All right Mom- Bitch! Ass, bitch!
+Dialogue: 0,0:01:18.99,0:01:22.44,Chn,,0,0,0,,来，把你喜欢的玩具买回家吧\N{\rEng}Here, let's buy you a nice toy to take home.
+Dialogue: 0,0:01:23.56,0:01:26.30,Chn,,0,0,0,,伙计，他老妈还真酷.\N{\rEng}Dude, that mom is kewl.
+Dialogue: 0,0:01:27.51,0:01:31.53,Chn,,0,0,0,,手淫男! 蠢货!\N{\rEng}Cockbutt! Stupid shit!
+Dialogue: 0,0:01:32.02,0:01:35.40,Chn,,0,0,0,,你是在骂我吗?! - 不，低能儿!\N{\rEng}Are you talking to me?! - No. Cocknose!
+Dialogue: 0,0:01:35.43,0:01:37.83,Chn,,0,0,0,,你他妈有病啊小子?! - 哦，对不起.\N{\rEng}What's your problem, kid?! - Oh, I'm sorry.
+Dialogue: 0,0:01:37.83,0:01:41.06,Chn,,0,0,0,,我儿子Thomas有“图雷特氏综合症”. - 什么?\N{\rEng}My... son Thomas has Tourette's Syndrome. - What?
+Dialogue: 0,0:01:41.09,0:01:43.21,Chn,,0,0,0,,老妈，我们走. 狗屎!\N{\rEng}Mom, let's just go. Shit!
+Dialogue: 0,0:01:43.24,0:01:47.19,Chn,,0,0,0,,这种病的患者是不能控制自己的语言的就像我们打喷嚏一样.\N{\rEng}People with Tourette's can't control certain tics. It's it's like a sneeze.
+Dialogue: 0,0:01:47.22,0:01:49.35,Chn,,0,0,0,,屁眼儿!\N{\rEng}Asshole, asshole!
+Dialogue: 0,0:01:50.22,0:01:54.89,Chn,,0,0,0,,等一下，等一下，你的意思是他在这儿大叫淫秽词语是因为他生病了?\N{\rEng}Wait, wait, wait. You're telling me there's an illness that makes you blurt out obscenities?
+Dialogue: 0,0:01:54.91,0:01:58.51,Chn,,0,0,0,,别说了妈妈，我们快走吧? - 没关系的Thomas，他们会理解的.\N{\rEng}Mom, can we just go home, please? - It's okay, Thomas. They understand.
+Dialogue: 0,0:01:58.51,0:02:01.53,Chn,,0,0,0,,我要走! 菜鸟!\N{\rEng}I want tuh go! Shitfag!
+Dialogue: 0,0:02:02.65,0:02:04.27,Chn,,0,0,0,,可怜的孩子. - 没错.\N{\rEng}Poor kid. - Yeah.
+Dialogue: 0,0:02:04.30,0:02:06.36,Chn,,0,0,0,,大家都稍等一下.\N{\rEng}All right, hold on just a second here.
+Dialogue: 0,0:02:06.36,0:02:08.68,Chn,,0,0,0,,这就是说如果你得了“图雷特氏综合症”你就可以毫无顾忌地说你想说的话？\N{\rEng}Are you telling me that if you have this Tourette's Syndrome
+Dialogue: 0,0:02:08.69,0:02:12.09,Chn,,0,0,0,,而不会有任何麻烦?\N{\rEng}you can say whatever you want, all the time and never get in trouble?
+Dialogue: 0,0:02:12.11,0:02:16.29,Chn,,0,0,0,,这是一种精神疾病，他是控制不了的. - 对.\N{\rEng}It's a neurological disorder; he can't help it. - Yeah.
+Dialogue: 0,0:02:19.27,0:02:23.24,Chn,,0,0,0,,{\i1}我拿到了金色门票...{\i0}\N{\rEng}{\i1}I've got a golden ticket...{\i0}
+Dialogue: 0,0:02:23.27,0:02:27.89,Chn,,0,0,0,,{\i1}我眼中闪烁着金色的光芒.{\i0}\N{\rEng}{\i1}I've got an golden twinkle in my eye.{\i0}
+Dialogue: 0,0:02:29.25,0:02:31.05,Chn,,0,0,0,,嘿，不买这玩具了吗?\N{\rEng}Hey don't you wanna buy that toy?
+Dialogue: 0,0:02:31.06,0:02:33.62,Chn,,0,0,0,,我不需要玩具了! 我找到了更好玩的!\N{\rEng}I don't need the toy! I've found something better!
+Dialogue: 0,0:02:33.64,0:02:40.88,Chn,,0,0,0,,{\i1}因为我拿到了金色门票! 我发现了为所欲为的方法!{\i0}\N{\rEng}{\i1}'Cause I've got a golden ticket! I've got a golden change to make my way!{\i0}
+Dialogue: 0,0:02:48.04,0:02:52.65,Chn,,0,0,0,,四天前开始出现这症状的，这几天好像越来越严重了.\N{\rEng}It started about four days ago, doctor and every day he seems to get worse.
+Dialogue: 0,0:02:52.68,0:02:55.79,Chn,,0,0,0,,阴道!阴道! 鸡巴！噢，天啊\N{\rEng}Puh- pussy! Pussy! Cock! Shit!
+Dialogue: 0,0:02:55.82,0:02:57.56,Chn,,0,0,0,,我上网查了一下...\N{\rEng}I was checking out the Internet and...
+Dialogue: 0,0:02:57.56,0:03:01.54,Chn,,0,0,0,,这些好像是一种叫“图雷特氏综合症”的症状...\N{\rEng}it almost seems like his symptoms are like those in something called Tour...
+Dialogue: 0,0:03:01.54,0:03:05.57,Chn,,0,0,0,,“图雷特氏综合症” - “图雷特氏综合症” 那是什么妈妈？\N{\rEng}Tourette's Syndrome? - Tourette's Syndrome? What is that, Mommy.
+Dialogue: 0,0:03:05.59,0:03:09.69,Chn,,0,0,0,,屁眼！乳头！ - 看起来不像啊.\N{\rEng}Butthole! Titties! Balls! - That doesn't seem likely.
+Dialogue: 0,0:03:09.73,0:03:13.61,Chn,,0,0,0,,“图雷特氏综合症”是一种遗传病怎么会突然间就患上呢？\N{\rEng}Tourette's is a hereditary disease, it doesn't just suddenly start.
+Dialogue: 0,0:03:14.58,0:03:16.27,Chn,,0,0,0,,口交男!\N{\rEng}Cocksucker!
+Dialogue: 0,0:03:17.69,0:03:21.31,Chn,,0,0,0,,不过另一方面看这种病通常发病会晚一点...\N{\rEng}On the other hand, Tourette's does often develop later in a child's life...
+Dialogue: 0,0:03:21.31,0:03:23.17,Chn,,0,0,0,,随着年龄的增长而日益严重.\N{\rEng}getting progressively worse.
+Dialogue: 0,0:03:23.19,0:03:27.55,Chn,,0,0,0,,对，就是这样的! 弱智! 肛门! 墨西哥阴囊湿疹!\N{\rEng}Oh, well that's it! Shithead! Asshole! Mexican sticky balls!
+Dialogue: 0,0:03:27.58,0:03:29.41,Chn,,0,0,0,,医生，你能救救我儿子么?\N{\rEng}Oh Doctor, can you help him?
+Dialogue: 0,0:03:29.42,0:03:32.05,Chn,,0,0,0,,很遗憾，当今医学对“图雷特氏综合症”还没有根治方法.\N{\rEng}We don't know very much about Tourette's I'm afraid.
+Dialogue: 0,0:03:32.08,0:03:36.13,Chn,,0,0,0,,但是我们会尽一切力量来帮助他. - 可是在学校怎么办呢，医生?\N{\rEng}But we will give your son all the help we can. - But what about school, Doctor?
+Dialogue: 0,0:03:36.16,0:03:39.65,Chn,,0,0,0,,校长和老师们可不知道我不能控制自己说话啊.\N{\rEng}The teachers and the principal, they won't understand that I can't control what I say.
+Dialogue: 0,0:03:39.69,0:03:43.78,Chn,,0,0,0,,别担心孩子.我向你保证大家都会知道\N{\rEng}Don't worry, young man. We'll make sure everyone understands your disease...
+Dialogue: 0,0:03:43.79,0:03:49.28,Chn,,0,0,0,,并理解你的痛苦的.... -噢，那太好了，谢谢.同性恋!\N{\rEng}and gives you the compassion you deserve. - Oh, that's awesome. Thank you. Faggot!
+Dialogue: 0,0:03:52.76,0:03:55.55,Chn,,0,0,0,,狗屎！屁眼!\N{\rEng}Shit! Butthole!
+Dialogue: 0,0:03:56.02,0:03:59.66,Chn,,0,0,0,,嘿 Wendy. 小荡妇! 哦，不好意思.\N{\rEng}Hey Wendy. Dumb bitch! Uh, sorry.
+Dialogue: 0,0:04:00.20,0:04:02.36,Chn,,0,0,0,,乳头!鸡巴！\N{\rEng}Titties! Cock!
+Dialogue: 0,0:04:02.66,0:04:05.79,Chn,,0,0,0,,金毛弱智!嗜痣仔!颜射男！\N{\rEng}Ginger retard! Asslicker dickface!
+Dialogue: 0,0:04:05.82,0:04:08.56,Chn,,0,0,0,,兄弟，你最好注意点校长可就在那边呢.\N{\rEng}Dude, you'd better watch it. The principal's right over there.
+Dialogue: 0,0:04:08.77,0:04:13.49,Chn,,0,0,0,,早上好, Victoria校长. 他妈的! - 早上好, Eric.\N{\rEng}Good morning, Principal Victoria. Shitballs! - Good morning, Eric.
+Dialogue: 0,0:04:15.36,0:04:18.53,Chn,,0,0,0,,Cartman刚才对着校长说“他妈的”? - 你还没听说吗?\N{\rEng}Did Cartman just say Shitballs to the principal? - You didn't hear?
+Dialogue: 0,0:04:18.53,0:04:22.09,Chn,,0,0,0,,Cartman 得了一种叫“图雷特氏综合症”的精神疾病.\N{\rEng}Well Cartman has some, mental disease called Tourette's Syndrome or something.
+Dialogue: 0,0:04:22.12,0:04:24.48,Chn,,0,0,0,,什么? 他真是世界上最幸运的孩子.\N{\rEng}What? - He's the luckiest kid in the world.
+Dialogue: 0,0:04:24.48,0:04:27.95,Chn,,0,0,0,,如果我能在校长面前说“他妈的”我也就满足了.\N{\rEng}If I could say Shitballs to the principal I'd be so happy.
+Dialogue: 0,0:04:28.40,0:04:32.84,Chn,,0,0,0,,请原谅，请原谅，各位，我想你们已经注意到了我的失礼.\N{\rEng}Excuse me, excuse me everyone, I guess you might have noticed my awkward tics.
+Dialogue: 0,0:04:32.86,0:04:36.09,Chn,,0,0,0,,屁眼!阴道！屁眼！\N{\rEng}Asshole! Pussy asshole!
+Dialogue: 0,0:04:36.13,0:04:38.63,Chn,,0,0,0,,我希望你们都能知道我控制不了自己.\N{\rEng}I just want you to know that I can't control it.
+Dialogue: 0,0:04:38.66,0:04:42.80,Chn,,0,0,0,,没关系的, Eric.我们理解你，也认为你是一个勇敢的孩子.\N{\rEng}It's okay, Eric. We all understand and we think you're very brave.
+Dialogue: 0,0:04:43.83,0:04:46.11,Chn,,0,0,0,,他是装的.\N{\rEng}He's faking.
+Dialogue: 0,0:04:48.61,0:04:53.26,Chn,,0,0,0,,不好意思各位，我需要点时间和我的“好朋友”Kyle聊下!吸我屁眼儿\N{\rEng}Excuse me everyone, I need to have a moment alone with my good friend Kyle? Asscheeks!
+Dialogue: 0,0:04:54.11,0:04:56.41,Chn,,0,0,0,,Kyle, 很明显你错过了昨天在学校集会...\N{\rEng}Kyle, apparently you missed the school assembly yesterday...
+Dialogue: 0,0:04:56.41,0:04:59.23,Chn,,0,0,0,,但我已经被诊断为一个非常严重的精神状态.\N{\rEng}but I've been diagnosed with a very serious mental condition.
+Dialogue: 0,0:04:59.26,0:05:02.13,Chn,,0,0,0,,你根本没什么“图雷特氏综合症”，死胖子!\N{\rEng}You do not have Tourette's Syndrome, fatass!
+Dialogue: 0,0:05:03.37,0:05:08.02,Chn,,0,0,0,,好吧, 被你看穿了. 很好,很强大 Kyle. 你不知道这有多酷么?\N{\rEng}Okay, you figured me out. Bravo, Kyle, bravo. Don't you see how awesome this is?
+Dialogue: 0,0:05:08.05,0:05:10.81,Chn,,0,0,0,,就像是披着一件魔术斗篷，没人能找到你.\N{\rEng}It's like, a magic cloak that makes me impervious to getting in trouble.
+Dialogue: 0,0:05:10.83,0:05:11.98,Chn,,0,0,0,,谁会在乎你说的?\N{\rEng}Who cares about saying whatever you-?
+Dialogue: 0,0:05:11.98,0:05:14.47,Chn,,0,0,0,,如果你因为后悔自己没有先想到这个点子而嫉妒我...\N{\rEng}Of course, if you want to be Sergeant Buzzkill once again...
+Dialogue: 0,0:05:14.47,0:05:16.90,Chn,,0,0,0,,想去再次充当告密者的话...\N{\rEng}and spoil my fun because you're jealous you didn't think of it first...
+Dialogue: 0,0:05:16.90,0:05:19.89,Chn,,0,0,0,,那就放马过来吧，kyle. - 懒得管你.\N{\rEng}well go right ahead, Kyle. - Whatever.
+Dialogue: 0,0:05:21.03,0:05:24.28,Chn,,0,0,0,,早上好,Mackey老师. 肛交!\N{\rEng}Good morning, Mr. Mackey. Asspussy!
+Dialogue: 0,0:05:25.43,0:05:29.32,Chn,,0,0,0,,如果我能在mackey老师面前说“肛交”我也就满足了.\N{\rEng}If I could say Asspussy to the counselor I would be so happy.
+Dialogue: 0,0:05:30.02,0:05:34.19,Chn,,0,0,0,,当我们用一个负数去乘以……\N{\rEng}Okay, so what do we get when we multiply a negative number-?
+Dialogue: 0,0:05:34.19,0:05:35.48,Chn,,0,0,0,,鸡巴人!\N{\rEng}Dicktits!
+Dialogue: 0,0:05:38.01,0:05:41.53,Chn,,0,0,0,,当我们用一个负数去乘以另一个负数的时候……\N{\rEng}When we multiply a negative number by another negative-?
+Dialogue: 0,0:05:41.53,0:05:43.17,Chn,,0,0,0,,狗屎！屁眼！\N{\rEng}Shit! Asshole!
+Dialogue: 0,0:05:46.48,0:05:48.21,Chn,,0,0,0,,对不起.\N{\rEng}Excuse me.
+Dialogue: 0,0:05:49.11,0:05:53.23,Chn,,0,0,0,,结合我们刚学的知道当两个负数相乘时，就会……\N{\rEng}If we apply what we've just learned, we see that all negatives can-
+Dialogue: 0,0:05:53.23,0:05:56.45,Chn,,0,0,0,,就会成为一个奔放的受精软.\N{\rEng}Spooge balls bloody vaginal belch.
+Dialogue: 0,0:05:59.38,0:06:04.51,Chn,,0,0,0,,伙计们，可别笑啊.这可会让我为自己的病而感到内疚的.\N{\rEng}You guys, don't laugh. It makes me feel insecure about my illness.
+Dialogue: 0,0:06:04.51,0:06:07.71,Chn,,0,0,0,,好了孩子们都把注意力集中到学习上好么?\N{\rEng}All right kids, let's just try to focus on learning, okay?
+Dialogue: 0,0:06:07.74,0:06:10.43,Chn,,0,0,0,,你们得记住，当两个负数相乘的时候……\N{\rEng}Now all you need to remember here is that negative numbers-
+Dialogue: 0,0:06:10.43,0:06:14.98,Chn,,0,0,0,,卫生巾!鸡巴人的卫生巾！ 你还有完没完了?!\N{\rEng}Tampon! Tampon dickshit! - Will you knock it off already?!
+Dialogue: 0,0:06:15.01,0:06:19.53,Chn,,0,0,0,,Kyle, 你以为我不想做个正常人么? 我做梦都想成为你这样的好少年.\N{\rEng}Kyle, don't you think I wish I could? I'd give anything to be normal like you.
+Dialogue: 0,0:06:19.56,0:06:22.31,Chn,,0,0,0,,犹太老. 别惹我，死屁眼!\N{\rEng}Kike. - Don't push me, asshole!
+Dialogue: 0,0:06:22.33,0:06:24.66,Chn,,0,0,0,,Kyle, 注意你的用词!\N{\rEng}Kyle, watch your language!
+Dialogue: 0,0:06:27.81,0:06:31.85,Chn,,0,0,0,,如果我能在课堂上说“卫生巾”我也就满足了.\N{\rEng}If I could yell Tampon dickshit in the classroom I'd be so happy.
+Dialogue: 0,0:06:33.60,0:06:37.41,Chn,,0,0,0,,Victoria校长, Eric不停的在课堂上“说话”...\N{\rEng}Principal Victoria, it's just that Eric has become such a distraction...
+Dialogue: 0,0:06:37.41,0:06:39.76,Chn,,0,0,0,,我已经不能正常教学了.\N{\rEng}I don't think I can teach my class anymore.
+Dialogue: 0,0:06:39.79,0:06:42.79,Chn,,0,0,0,,我知道这有困难, Garrison老师 所以...\N{\rEng}I understand it's been difficult, Mrs. Garrison and so...
+Dialogue: 0,0:06:42.79,0:06:47.17,Chn,,0,0,0,,“理解与忍让图雷特氏综合症基金会”的donaldson先生来到了我们学校.\N{\rEng}Mr. Donaldson has come from the Tourette's Tolerance and Understanding Foundation.
+Dialogue: 0,0:06:47.20,0:06:50.59,Chn,,0,0,0,,你好啊 Garrison老师 屁股.屁股\N{\rEng}Hello Mrs. Garrison- Ass. Ass.
+Dialogue: 0,0:06:50.60,0:06:54.17,Chn,,0,0,0,,我希望能帮助你的学生们对这种病树立一个正确的观念!\N{\rEng}I want to help your class better understand this illness. Piss!
+Dialogue: 0,0:06:54.21,0:06:57.07,Chn,,0,0,0,,不行，省省吧，胖子 求你了，Kyle，是我的错\N{\rEng}No! Up yours, fatboy! - Kyle please! I'm sorry!
+Dialogue: 0,0:06:57.10,0:06:59.43,Chn,,0,0,0,,Victoria校长, 有件事我得告诉你!\N{\rEng}Principal Victoria, there's something you need to know!
+Dialogue: 0,0:06:59.45,0:07:02.85,Chn,,0,0,0,,Cartman's 根本没有什么“图雷特氏综合症”! 他是装的\N{\rEng}Cartman's Tourette's isn't real! He's faking!
+Dialogue: 0,0:07:03.30,0:07:04.96,Chn,,0,0,0,,装的?\N{\rEng}Faking?
+Dialogue: 0,0:07:05.27,0:07:09.40,Chn,,0,0,0,,你认为“图雷特氏综合症”患者都是装出来的?! - 不，我的意思是……\N{\rEng}You think people with Tourette's are faking?! - No, I'm just saying that I think-
+Dialogue: 0,0:07:09.40,0:07:13.25,Chn,,0,0,0,,你根本就不知道这是一种多么可怕的疾病，屁股！屁股！\N{\rEng}Do you have any idea how horrible that is to say? Ass! Ass!
+Dialogue: 0,0:07:13.28,0:07:19.23,Chn,,0,0,0,,我们可不是在装，年轻人. 相信我，没有人会想染上这病，屁股!撒尿！\N{\rEng}We aren't faking, young man. Trust me, nobody wants this illness, ass. Piss! Piss!
+Dialogue: 0,0:07:19.27,0:07:22.39,Chn,,0,0,0,,你明白了吧, Kyle. 阴道里一堆狗屎！\N{\rEng}That's right, Kyle. Crap-filled vagina!
+Dialogue: 0,0:07:22.42,0:07:25.81,Chn,,0,0,0,,这就是你们对学生的宽容教育吗?Victoria校长?!\N{\rEng}This is the kind of intolerance you teach at this school, Principal Victoria?!
+Dialogue: 0,0:07:25.84,0:07:26.72,Chn,,0,0,0,,当然不是.\N{\rEng}No.
+Dialogue: 0,0:07:26.75,0:07:31.18,Chn,,0,0,0,,那么如果你不介意的话，我准备带这小子去好好了解下“图雷特氏综合症”患者 .\N{\rEng}Then if you wouldn't mind, I'd like to take this bully to see that Tourette's is very real.
+Dialogue: 0,0:07:31.36,0:07:33.12,Chn,,0,0,0,,撒尿.\N{\rEng}Piss.
+Dialogue: 0,0:07:35.44,0:07:40.21,Chn,,0,0,0,,孩子们，今天的康复课上我们有一位特殊的客人.屁股\N{\rEng}Kids, today during therapy class we have a special visitor. Ass.
+Dialogue: 0,0:07:40.48,0:07:45.28,Chn,,0,0,0,,我希望大家能让他明白“图雷特氏综合症”是怎样的一种疾病.\N{\rEng}I wanted him to meet all of you so he could try to understand Tourette's.
+Dialogue: 0,0:07:45.32,0:07:50.73,Chn,,0,0,0,,这种病就像咳嗽和打喷嚏一样，它并非人们想象的那样具有传染性.\N{\rEng}Tourette's is like a cough or a sneeze. It isn't contagious like some people think.
+Dialogue: 0,0:07:50.76,0:07:54.37,Chn,,0,0,0,,这种病的症状因人而异，我的症状...\N{\rEng}A lot of people with Tourette's have different tics. My tic...
+Dialogue: 0,0:07:54.95,0:07:57.13,Chn,,0,0,0,,就是弯着脑袋打响指 and snap her fingers.\N{\rEng}is that I have to bend my neck and snap her fingers.
+Dialogue: 0,0:07:57.20,0:07:59.32,Chn,,0,0,0,,不过人们基本不会注意到.\N{\rEng}But a lot of people don't even notice it.
+Dialogue: 0,0:08:00.52,0:08:02.67,Chn,,0,0,0,,狗屎!鸡巴！\N{\rEng}Aw shit! Cock!
+Dialogue: 0,0:08:02.71,0:08:06.27,Chn,,0,0,0,,作为这种病的患者，有时候确实会很自卑，可是我...\N{\rEng}Sometimes it can be embarrassing to have Tourette's, but I...
+Dialogue: 0,0:08:06.30,0:08:08.62,Chn,,0,0,0,,我知道我们不能这样看不起自己.\N{\rEng}I've learned I shouldn't be mad at myself.
+Dialogue: 0,0:08:08.64,0:08:13.96,Chn,,0,0,0,,知道了吧？这些孩子都不能控制自己的言行! 屁股！屁眼儿里撒尿！\N{\rEng}You see? These kids can't control their actions. Ass! Piss in the ass!
+Dialogue: 0,0:08:14.48,0:08:18.10,Chn,,0,0,0,,等等，我的意思是，可能有这样的一个人他本来是可以控制自己的言行的...\N{\rEng}Look, I was just suggesting that maybe this one person could control what he said...
+Dialogue: 0,0:08:18.11,0:08:20.95,Chn,,0,0,0,,但他没有这样控制自己.因为有趣\N{\rEng}but just didn't, for fun.
+Dialogue: 0,0:08:21.21,0:08:24.68,Chn,,0,0,0,,有趣? 这根本就很无趣.\N{\rEng}Fun? This really isn't all that fun.
+Dialogue: 0,0:08:24.87,0:08:26.60,Chn,,0,0,0,,噢，狗屎!\N{\rEng}Aw shit!
+Dialogue: 0,0:08:28.54,0:08:31.66,Chn,,0,0,0,,用屁眼儿里撒尿！!\N{\rEng}Piss, coming from my ass!
+Dialogue: 0,0:08:32.65,0:08:36.97,Chn,,0,0,0,,你知道什么才算是“有趣”吗? 出现在公共场合时被人看作是傻逼.\N{\rEng}You wanna know about fun? Going to public places knowing you're going to make a fool of yourself.
+Dialogue: 0,0:08:37.00,0:08:39.71,Chn,,0,0,0,,让你的父母当众丢脸. 狗屎!\N{\rEng}Embarrass your parents. Aw shit!
+Dialogue: 0,0:08:39.74,0:08:42.21,Chn,,0,0,0,,我的爸爸最终不能忍受这一切了.\N{\rEng}My dad finally couldn't take it anymore.
+Dialogue: 0,0:08:42.24,0:08:47.49,Chn,,0,0,0,,他跟我妈妈离了婚，他说会常回来看我们. 但只有在圣诞节的时候才看得到他\N{\rEng}He divorced my mom, said he'd still be around, but I only see him at Christmastime now.
+Dialogue: 0,0:08:47.53,0:08:49.31,Chn,,0,0,0,,狗屎!狗屎!\N{\rEng}Shit! Shit!
+Dialogue: 0,0:08:49.34,0:08:52.15,Chn,,0,0,0,,最让我伤心的是我知道我妈妈有多么孤独.\N{\rEng}The worst part is I know how lonely my mom is.
+Dialogue: 0,0:08:52.18,0:08:55.00,Chn,,0,0,0,,如果我死了，她肯定会有更好的生活.\N{\rEng}A lot of times I know she'd be better off if I was dead.
+Dialogue: 0,0:08:56.45,0:08:57.47,Chn,,0,0,0,,兄弟...\N{\rEng}Dude...
+Dialogue: 0,0:08:57.49,0:09:00.52,Chn,,0,0,0,,这不是你的错，thomas.\N{\rEng}Your mom would not be better off if you were dead, Thomas.
+Dialogue: 0,0:09:00.55,0:09:04.41,Chn,,0,0,0,,这都是因为有kyle这样的人存在. -哦，得了吧!\N{\rEng}Even if people like Kyle here think so. - Aw, come on!
+Dialogue: 0,0:09:04.44,0:09:09.10,Chn,,0,0,0,,那你愿意为了以前所说的话道歉么? - 我只是想...\N{\rEng}So then you apologize for what you said before? - I was just trying to...
+Dialogue: 0,0:09:10.20,0:09:12.77,Chn,,0,0,0,,我只是想说...\N{\rEng}just in one instance...
+Dialogue: 0,0:09:14.84,0:09:18.56,Chn,,0,0,0,,不，不，对不起，对不起.\N{\rEng}No. No, I'm sorry. I'm sorry.
+Dialogue: 0,0:09:21.45,0:09:24.49,Chn,,0,0,0,,Broflovski夫妇，我想你们的儿子...\N{\rEng}Well, Mr. and Ms. Broflovski, I think your son has learned a lot...
+Dialogue: 0,0:09:24.49,0:09:28.52,Chn,,0,0,0,,已经为他取笑“图氏”症患者的行为感到了懊悔了.\N{\rEng}and he appears to be honestly remorseful for making fun of people with disabilities.
+Dialogue: 0,0:09:28.52,0:09:30.54,Chn,,0,0,0,,撒尿！撒尿！\N{\rEng}Piss. Piss.
+Dialogue: 0,0:09:30.58,0:09:34.93,Chn,,0,0,0,,kyle是个好孩子，他只是不知道“图雷特氏”是真的疾病.\N{\rEng}Our son is a good kid. He just didn't understand Tourette's was a real disease.
+Dialogue: 0,0:09:34.95,0:09:39.63,Chn,,0,0,0,,恩，你们儿子剩下要做的就是向他曾经取笑过的同学道歉.\N{\rEng}Well, I think the only thing left now is for your son to apologize to his little classmate.
+Dialogue: 0,0:09:43.69,0:09:45.65,Chn,,0,0,0,,Kyle?\N{\rEng}Well Kyle?
+Dialogue: 0,0:09:46.56,0:09:48.16,Chn,,0,0,0,,对不起.\N{\rEng}I'm sorry.
+Dialogue: 0,0:09:48.41,0:09:51.64,Chn,,0,0,0,,哦，你刚才说什么? 我怎么有点听不清楚, Kyle.\N{\rEng}Oh, what was that? I couldn't quite make that out, Kyle.
+Dialogue: 0,0:09:51.66,0:09:54.73,Chn,,0,0,0,,对不起. 你躲不起?\N{\rEng}I'm sorry. You're starry?
+Dialogue: 0,0:09:54.77,0:09:57.02,Chn,,0,0,0,,我不明白你的意思kyle. 你“躲不起”什么啊...\N{\rEng}I don't get what you mean by that, Kyle. You're starry because I...
+Dialogue: 0,0:09:57.02,0:09:58.86,Chn,,0,0,0,,我说了对不起，死...（胖子）\N{\rEng}I said I'm sorry, you piece of...
+Dialogue: 0,0:09:58.89,0:10:01.41,Chn,,0,0,0,,哦，不用担心kyle我懂你的意思了.\N{\rEng}Oh, no, don't worry about it, Kyle. Now I understand.
+Dialogue: 0,0:10:01.41,0:10:04.74,Chn,,0,0,0,,我找到了对付偏见的方法! 混蛋！杂种！\N{\rEng}I've learned to deal with intolerance. Dumbshit douchebag!
+Dialogue: 0,0:10:04.78,0:10:08.27,Chn,,0,0,0,,你和你爸还有你可爱的老妈站在这里道歉已经很能表明诚意了.\N{\rEng}And it means a lot that you're standing here apologizing with your dad and lovely mother.
+Dialogue: 0,0:10:08.29,0:10:10.83,Chn,,0,0,0,,犹太猪!犹太婊子！\N{\rEng}Fat Jew! Jew bitch!
+Dialogue: 0,0:10:10.87,0:10:15.16,Chn,,0,0,0,,呃，谢谢你Eric. - 谢谢你. 大鼻子犹太佬!\N{\rEng}Oh, thank you Eric. - Thank you. Big-nosed kike!
+Dialogue: 0,0:10:15.78,0:10:19.87,Chn,,0,0,0,,看来我们已经解决了过去的问题. 用屁眼儿撒尿!\N{\rEng}Well I thnk we can all put this behind us now. Piss out my ass!
+Dialogue: 0,0:10:19.89,0:10:24.24,Chn,,0,0,0,,对，你屁眼儿里撒出来的尿射上了kyle老妈那狗日的臃肿的犹太脸!\N{\rEng}Yeah. Piss out your ass right onto Kyle's mom's fat fucking Jew face!
+Dialogue: 0,0:10:25.12,0:10:28.08,Chn,,0,0,0,,哦……哦……真对不起. 这病真坏.\N{\rEng}Oh goodness, excuse me. Jeez, that was a bad one.
+Dialogue: 0,0:10:28.44,0:10:31.66,Chn,,0,0,0,,好了，我们大家还是像以前一样吧.\N{\rEng}Well, gotta run, everybody. Got some big things in the works.
+Dialogue: 0,0:10:32.33,0:10:35.34,Chn,,0,0,0,,得上这病还不够“有趣”吗?\N{\rEng}Isn't having Tourette's awesome?
+Dialogue: 0,0:10:38.84,0:10:43.04,Chn,,0,0,0,,下周NBC电视台 为你带来“日界线”栏目特别报道.\N{\rEng}Next week on Dateline NBC: it's a Dateline special report.
+Dialogue: 0,0:10:43.31,0:10:46.87,Chn,,0,0,0,,我是Chris Hansen. 你也许在上次抓捕那些...\N{\rEng}I'm Chris Hansen. You probably know me from To Catch A Predator...
+Dialogue: 0,0:10:46.87,0:10:49.36,Chn,,0,0,0,,想与小孩子发生性关系的男人们的节目“诱捕恋童癖”中见过我.\N{\rEng}where we bust men looking for sex with children.
+Dialogue: 0,0:10:49.39,0:10:51.49,Chn,,0,0,0,,来坐下. 就在这儿.\N{\rEng}Go ahead and take a seat. Take a seat right over there.
+Dialogue: 0,0:10:51.51,0:10:54.06,Chn,,0,0,0,,我的天啊，不会吧.\N{\rEng}Oh God, Whoa no.
+Dialogue: 0,0:10:54.11,0:10:57.72,Chn,,0,0,0,,你为什么来这儿？我太蠢了…… 我 我本以为…….\N{\rEng}What are you doin' here? - I'm just' bein' stupid, I guess.
+Dialogue: 0,0:10:57.75,0:11:02.23,Chn,,0,0,0,,现在 让我们将视线从这些恋童癖者转移到…….\N{\rEng}But now we're switching our focus from pedophiles to Tourette's syndrome.
+Dialogue: 0,0:11:02.26,0:11:06.99,Chn,,0,0,0,,“图雷特氏综合症”患者 一切都是从我收到一封来自科罗拉多州一位的勇敢的小男孩的信开始的.\N{\rEng}It all started when I received this touchng letter from a brave little boy in Colorado.
+Dialogue: 0,0:11:07.22,0:11:11.47,Chn,,0,0,0,,亲爱的Hansen先生,我患有“图氏综合症”我希望所有人都能了解这是一种什么样的病 .\N{\rEng}Dear Mr. Hansen, I have Tourettes and I want the world to understand what it's like.
+Dialogue: 0,0:11:11.50,0:11:13.43,Chn,,0,0,0,,你可以为我做一次节目吗？\N{\rEng}Won't you do a special report on me...
+Dialogue: 0,0:11:13.43,0:11:16.60,Chn,,0,0,0,,好让世人可不接受而不再取笑我们?\N{\rEng}so that the world can learn to accept us instead of laugh?
+Dialogue: 0,0:11:16.62,0:11:17.71,Chn,,0,0,0,,驴屌勃起!\N{\rEng}Donkey boner!
+Dialogue: 0,0:11:17.74,0:11:21.06,Chn,,0,0,0,,本周六的“日界线”栏目将在科罗拉多州Eric配额中现场访谈...\N{\rEng}This Saturday on Dateline I'll be bringing you Eric's story...
+Dialogue: 0,0:11:21.07,0:11:24.26,Chn,,0,0,0,,一切不剪的为你带来他的故事.\N{\rEng}live and uncensored, from his home in Colorado.
+Dialogue: 0,0:11:24.28,0:11:29.27,Chn,,0,0,0,,“生与图氏相伴”Eric Cartman的故事本周六尽在NBC台“日界线”.\N{\rEng}Livingn with Tourette's: The Eric Cartman Story. This Saturday on Dateline NBC.
+Dialogue: 0,0:11:29.32,0:11:32.86,Chn,,0,0,0,,终于，我想让大家了解“图氏”病的梦想成真了.\N{\rEng}Finally, my wish of going public with my illness can come true.
+Dialogue: 0,0:11:32.88,0:11:36.13,Chn,,0,0,0,,操他妈的犹太人!吃我的屎吧！\N{\rEng}Goddamn Jews! Suck my ass barf!
+Dialogue: 0,0:11:47.82,0:11:49.96,Chn,,0,0,0,,你好啊, Kyle. 弱智!\N{\rEng}Hello, Kyle. Dickhead!
+Dialogue: 0,0:11:50.26,0:11:52.67,Chn,,0,0,0,,星期六你上直播节目是怎么回事?!\N{\rEng}What's this about you going on live television on Saturday?!
+Dialogue: 0,0:11:52.71,0:11:57.62,Chn,,0,0,0,,没错，是时候了.我伟大计划的最后一步\N{\rEng}Yes. It's all finally come to fruition. The final cog in my master plan.
+Dialogue: 0,0:11:58.36,0:12:03.72,Chn,,0,0,0,,这周六，我会上一个全国性的电视台. 现场直播，我会在直播时，说出很多可怕的东西\N{\rEng}This Saturday I will go on national tv, live. I will say horrible things on the air.
+Dialogue: 0,0:12:03.75,0:12:06.97,Chn,,0,0,0,,无法形容的坏. 人们会佩服我的勇气.\N{\rEng}Disspeakable things. And people will call me brave.
+Dialogue: 0,0:12:07.01,0:12:09.71,Chn,,0,0,0,,Cartman,这世界上还有那么多真正的“图氏”病患者\N{\rEng}Cartman, there are people in the world who really have Tourette's Syndrome.
+Dialogue: 0,0:12:09.71,0:12:11.18,Chn,,0,0,0,,这很无趣的！\N{\rEng}This isn't funny!
+Dialogue: 0,0:12:12.01,0:12:15.13,Chn,,0,0,0,,无趣！？我可以肆无忌惮的说任何我想说的话\N{\rEng}Not funny? I have free rein to say anything I want
+Dialogue: 0,0:12:15.13,0:12:19.27,Chn,,0,0,0,,而你是不可能阻止我的. 要来点威士忌吗?\N{\rEng}and you get into trouble if you try and stop me. Care for a Scotch?
+Dialogue: 0,0:12:20.19,0:12:23.59,Chn,,0,0,0,,威士忌? - Kyle 我已经赢了!无论你怎么想的\N{\rEng}Scotch? - Kyle I've won! No matter how you look at it!
+Dialogue: 0,0:12:23.63,0:12:26.10,Chn,,0,0,0,,我已经不满足于在学校\N{\rEng}I've managed not only to get away with saying whatever I want at school
+Dialogue: 0,0:12:26.10,0:12:27.34,Chn,,0,0,0,,公车，餐桌上任意说话.\N{\rEng}on the bus, at the dinner table.
+Dialogue: 0,0:12:27.36,0:12:31.53,Chn,,0,0,0,,星期六，我可以在全国性电视台上说任何我想到的词.\N{\rEng}But this Saturday I will actually say anything I want on national television.
+Dialogue: 0,0:12:31.56,0:12:33.33,Chn,,0,0,0,,我会往死里骂犹太人的， Kyle.\N{\rEng}I'm going to blast the Jews, Kyle.
+Dialogue: 0,0:12:33.36,0:12:37.24,Chn,,0,0,0,,我会用所有只出现在书上的词来骂而人们会爱上这样做的电视台.\N{\rEng}I'm going to call them every name in the book and people wlll call it brilliant television.
+Dialogue: 0,0:12:37.26,0:12:38.92,Chn,,0,0,0,,他们真应该给我发个艾美奖.\N{\rEng}They'll probably give me an Emmy.
+Dialogue: 0,0:12:38.97,0:12:40.78,Chn,,0,0,0,,你不会在电视台上用你那肮脏的词汇骂犹太民族的\N{\rEng}You are not going to go on national television
+Dialogue: 0,0:12:40.78,0:12:44.77,Chn,,0,0,0,,因为我不会让你得逞的, Cartman!\N{\rEng}and spew a bunch of hate speech about Jewish people! I won't let you do it, Cartman!
+Dialogue: 0,0:12:45.35,0:12:47.10,Chn,,0,0,0,,游戏已经开始了, Kyle.\N{\rEng}Then the game is on, Kyle.
+Dialogue: 0,0:12:47.14,0:12:51.40,Chn,,0,0,0,,这不是什么游戏，你这废物!这也根本不是什么威士忌，苹果汁而已！\N{\rEng}It's not a game, you derelict! And this isn't Scotch! It's apple juice!
+Dialogue: 0,0:12:54.48,0:12:58.18,Chn,,0,0,0,,你可以想像当一个人“畅所欲言”时的感觉吗?\N{\rEng}Do you have any idea how liberating it is to say whatever comes to mind?
+Dialogue: 0,0:12:58.21,0:13:02.00,Chn,,0,0,0,,大奶子! 大屁股! 不再有什么顾忌! 狗屎!\N{\rEng}Big titties! Buttmumch! There's no walls anymore! Shit!
+Dialogue: 0,0:13:02.03,0:13:05.39,Chn,,0,0,0,,无论我脑海中突然出现什么东西 我都可以想到不想就说出来\N{\rEng}Whatever enters my brain I can just say without thinking about it.
+Dialogue: 0,0:13:05.42,0:13:07.88,Chn,,0,0,0,,我昨晚尿床了\N{\rEng}I wet my bed last night.
+Dialogue: 0,0:13:08.99,0:13:12.42,Chn,,0,0,0,,你说什么? -没什么...\N{\rEng}What did you say? - Nothing...
+Dialogue: 0,0:13:12.45,0:13:15.22,Chn,,0,0,0,,人们迟早会发现你是装的 你这傻逼!\N{\rEng}You aren't gonna get away with this you stupid asshole!
+Dialogue: 0,0:13:17.23,0:13:18.97,Chn,,0,0,0,,刚刚可真奇怪\N{\rEng}That was weird.
+Dialogue: 0,0:13:23.06,0:13:26.50,Chn,,0,0,0,,天 我们集会于此 是为了庆祝我们勇敢的孩子\N{\rEng}We are here today to congratulate a brave little boy.
+Dialogue: 0,0:13:26.97,0:13:30.03,Chn,,0,0,0,,今晚 Eric Cartman 将上电视\N{\rEng}Tonight, Eric Cartman will go on television...
+Dialogue: 0,0:13:30.04,0:13:32.81,Chn,,0,0,0,,为无数“图雷特氏综合症”患者代表发言\N{\rEng}and become the spokesman for Tourette's Syndrome.
+Dialogue: 0,0:13:32.85,0:13:34.99,Chn,,0,0,0,,用屁眼撒尿！\N{\rEng}Piss out my ass!
+Dialogue: 0,0:13:36.09,0:13:39.52,Chn,,0,0,0,,“图雷特症”的发言代表？ 不 鸡巴！\N{\rEng}The spokesman for Tourette's? Oh no. Cock!
+Dialogue: 0,0:13:39.93,0:13:42.57,Chn,,0,0,0,,谢谢，大家，吸我的老二!\N{\rEng}Thanks, everybody. Suck my balls!
+Dialogue: 0,0:13:44.44,0:13:47.26,Chn,,0,0,0,,感谢你们对我病情的宽容与理解\N{\rEng}You've all been so understanding and supportive of my illness.
+Dialogue: 0,0:13:47.29,0:13:50.58,Chn,,0,0,0,,犹太杂种，鸡巴射精！ 是你们给了我勇气\N{\rEng}Jews bomber dick sneeze. And it is because of you...
+Dialogue: 0,0:13:50.62,0:13:54.77,Chn,,0,0,0,,得以上此全国性电视台的栏目 射在乳头上！\N{\rEng}that I have the courage to go on national television tonight. Titty sprinkles.
+Dialogue: 0,0:13:56.76,0:14:00.98,Chn,,0,0,0,,如果我能在全国性电视台上说“射在乳头上” 我也就满足了\N{\rEng}If I could say Titty sprinkles on national television I would be so happy.
+Dialogue: 0,0:14:01.01,0:14:04.62,Chn,,0,0,0,,我还想说的是，这全都是我“编”的\N{\rEng}And I also just want to say that I'm making this all up!
+Dialogue: 0,0:14:09.90,0:14:13.81,Chn,,0,0,0,,呃...是我为了你们而改"变"自己, 出于对你们对我如此宽容的感激\N{\rEng}I'm making this all up to you, for putting up with my mental disorder.
+Dialogue: 0,0:14:13.84,0:14:16.70,Chn,,0,0,0,,我会因为我没有父亲在晚上哭\N{\rEng}I cry at night because I don't have a dad.
+Dialogue: 0,0:14:17.65,0:14:19.27,Chn,,0,0,0,,这到底是怎么回事？\N{\rEng}What the hell is going on?
+Dialogue: 0,0:14:19.30,0:14:22.56,Chn,,0,0,0,,没关系，Eric 我们理解你的病情\N{\rEng}It's okay, Eric. We understand your illness, m'kay?
+Dialogue: 0,0:14:23.35,0:14:28.46,Chn,,0,0,0,,我还想说的是舔肛者！同性男！ 还有我一直暗恋Patty Nelson.\N{\rEng}What I meant to say was Asslicker cumballs. And I'm secretly in love with Patty Nelson.
+Dialogue: 0,0:14:28.49,0:14:31.23,Chn,,0,0,0,,我一直意淫自己亲吻Patty Nelson!\N{\rEng}I fantasize about kissing Patty Nelson!
+Dialogue: 0,0:14:34.30,0:14:37.72,Chn,,0,0,0,,请原谅！我得去次洗手间！ 洗手间! 洗手间!\N{\rEng}Excuse me, I need a toilet! Bathroom! Bathroom!
+Dialogue: 0,0:14:42.99,0:14:44.67,Chn,,0,0,0,,嘿， Eric!\N{\rEng}Hey, Eric!
+Dialogue: 0,0:14:45.93,0:14:50.31,Chn,,0,0,0,,Butters, 你认为有没有可能人会失去 过滤想说什么话的能力?\N{\rEng}Butters, do you think it's possible that you can lose the ability to filter what you say?
+Dialogue: 0,0:14:50.84,0:14:54.74,Chn,,0,0,0,,我意思是, 如果某人习惯了不假思索的 说出脑袋里想到的东西\N{\rEng}I mean, if somebody got used to saying whatever came to their mind.
+Dialogue: 0,0:14:54.77,0:14:57.37,Chn,,0,0,0,,他们会不会开始不受控制的说些 以前只敢在脑子里想想的话?\N{\rEng}Could they start saying things that they would normally never say?
+Dialogue: 0,0:14:57.40,0:15:00.28,Chn,,0,0,0,,你在说谁啊? -我的堂弟\N{\rEng}Who are you talking about? - My cousin.
+Dialogue: 0,0:15:00.31,0:15:03.87,Chn,,0,0,0,,一次，我和我堂弟互摸了老二\N{\rEng}My cousin one time my cousin and I touched wieners.
+Dialogue: 0,0:15:06.90,0:15:10.18,Chn,,0,0,0,,你.. 你和你堂弟互摸老二？\N{\rEng}You... you and your cousin touched wieners?
+Dialogue: 0,0:15:10.66,0:15:14.11,Chn,,0,0,0,,我没那么说，是的我说了，但是为什么? 喔！停下来！\N{\rEng}I didn't say that, yes I did but why? Oh! Stop it!
+Dialogue: 0,0:15:14.74,0:15:17.34,Chn,,0,0,0,,对不起！对不起！我要走了！\N{\rEng}Excuse me! Excuse me, I gotta go! I gotta run!
+Dialogue: 0,0:15:17.38,0:15:20.56,Chn,,0,0,0,,有什么问题吗，宝贝? - 没，没问题\N{\rEng}Is there a problem, sweetie? - No, no problem.
+Dialogue: 0,0:15:20.59,0:15:24.40,Chn,,0,0,0,,我只是想说...我和我堂弟互摸了对方...\N{\rEng}I just need to- my cousin and I touched each other's...
+Dialogue: 0,0:15:25.76,0:15:30.35,Chn,,0,0,0,,我只是想谢谢大家光临- 我和我堂弟摸了老二...二\N{\rEng}I just want to thank everyone for coming- my cousin and I touched wiener-
+Dialogue: 0,0:15:30.36,0:15:34.48,Chn,,0,0,0,,二是比一大的一个数！\N{\rEng}We wiener we, weenter! Winter is a cold time of year.
+Dialogue: 0,0:15:34.52,0:15:36.03,Chn,,0,0,0,,呃...我现在得走了\N{\rEng}Ah, I need to be going now.
+Dialogue: 0,0:15:36.06,0:15:39.26,Chn,,0,0,0,,好吧 Eric. 在“日界线”节目好好表现哦 Eric\N{\rEng}Well all right Eric. Well good luck on Dateline tonight.
+Dialogue: 0,0:15:39.85,0:15:42.89,Chn,,0,0,0,,日界线，对了 我昨晚尿--\N{\rEng}Dateline. Right. I wet my b-
+Dialogue: 0,0:15:42.92,0:15:46.88,Chn,,0,0,0,,我摸了我堂弟的老... 我一定会做好节目的! 再见!\N{\rEng}I touched my cousin's wee... This sure has been fun! Goodbye!
+Dialogue: 0,0:15:51.71,0:15:54.92,Chn,,0,0,0,,今晚 我们将为你打开“图雷特氏综合症” 患者的内心世界\N{\rEng}Tonight, an inside look at Tourette's Syndrome.
+Dialogue: 0,0:15:54.95,0:15:57.18,Chn,,0,0,0,,我是Chris Hansen.\N{\rEng}I'm Chris Hansen.
+Dialogue: 0,0:15:58.00,0:16:03.67,Chn,,0,0,0,,我是Chris Hansen. - Mr. Hansen? 我恐怕我不能上节目了\N{\rEng}I'm Chris Hansen. - Mr. Hansen? I'm afraid I can't do the show.
+Dialogue: 0,0:16:03.87,0:16:06.72,Chn,,0,0,0,,为什么不能？ - 我奶奶刚才过世了\N{\rEng}Why not? - My grandma just died.
+Dialogue: 0,0:16:06.73,0:16:10.18,Chn,,0,0,0,,所以我必须赶去孟菲斯 都是假的，我奶奶很好\N{\rEng}So I have to go to Memphis. That's not true. My grandma's fine.
+Dialogue: 0,0:16:11.63,0:16:14.23,Chn,,0,0,0,,先坐下吧? - 不，我要回家\N{\rEng}Why don't you have a seat? - No, I just need to get home.
+Dialogue: 0,0:16:14.25,0:16:16.65,Chn,,0,0,0,,我不做节目了 -来，只是坐一下\N{\rEng}I'm not doin' the show. - Go ahead and take a seat.
+Dialogue: 0,0:16:16.68,0:16:19.25,Chn,,0,0,0,,但是我不会做... -就坐一下，这儿\N{\rEng}But I'm not gonna do the- - Take a seat, right over there.
+Dialogue: 0,0:16:22.95,0:16:24.69,Chn,,0,0,0,,你在这干什么?\N{\rEng}What are you doing here?
+Dialogue: 0,0:16:25.45,0:16:28.92,Chn,,0,0,0,,我来告诉你我不做这个节目了 - 但是你必须做这个节目\N{\rEng}I'm telling you that I'm not doing the show? - But you are doing the show.
+Dialogue: 0,0:16:28.95,0:16:32.21,Chn,,0,0,0,,你不会明白的，我突然就控制不了自己说话了\N{\rEng}You don't understand! All of a sudden, I can't control what I say.
+Dialogue: 0,0:16:32.24,0:16:35.20,Chn,,0,0,0,,你当然控制不了，你患有“图氏综合症”\N{\rEng}Well of course you can't coontrol what you say. You have Tourette's.
+Dialogue: 0,0:16:35.23,0:16:36.64,Chn,,0,0,0,,不！我的病情加重了！\N{\rEng}No! My Tourette's has gotten worse!
+Dialogue: 0,0:16:36.65,0:16:39.78,Chn,,0,0,0,,之前我只是随口说一些骂犹太人的话\N{\rEng}Before I just blurted out cool stuff about Jews being lame and stuff.
+Dialogue: 0,0:16:39.80,0:16:43.75,Chn,,0,0,0,,但是现在情况变的很糟了，所以对不起，我不做节目了 就这样\N{\rEng}But now it's gotten really bad. So I'm sorry, but I'm not doing the show, that's it.
+Dialogue: 0,0:16:43.78,0:16:45.13,Chn,,0,0,0,,再见\N{\rEng}Goodbye.
+Dialogue: 0,0:16:45.19,0:16:47.53,Chn,,0,0,0,,你为什么不坐一会儿呢? -不，我不想坐了!\N{\rEng}Why don't you take a seat? - No, I don't wanna take a seat!
+Dialogue: 0,0:16:47.53,0:16:49.11,Chn,,0,0,0,,坐一会儿 -不，我要走-\N{\rEng}Have a seat. - No, I'm just gonna go-
+Dialogue: 0,0:16:49.11,0:16:50.66,Chn,,0,0,0,,就在这，坐一会儿\N{\rEng}Take a seat, right over there.
+Dialogue: 0,0:16:52.84,0:16:54.51,Chn,,0,0,0,,他是怎么办到的？\N{\rEng}How does he do that?
+Dialogue: 0,0:16:54.54,0:16:57.62,Chn,,0,0,0,,你知道吗？有一次 我在做一期 叫做“诱捕恋童癖”的节目\N{\rEng}You know, one time, I was doing a show called 'To Catch A Predator.'
+Dialogue: 0,0:16:57.64,0:17:01.91,Chn,,0,0,0,,我们几乎抓到一个恋童癖 可是他却因为不愿上“日界线”而逃跑\N{\rEng}We almost caught this pedophile, but then he ran from us because he didn't wanna be on Dateline.
+Dialogue: 0,0:17:01.94,0:17:06.23,Chn,,0,0,0,,于是我们追捕到他家 你知道他干什么了吗？\N{\rEng}Se we tracked him down to his hoouuse. And you know what he did?
+Dialogue: 0,0:17:06.26,0:17:07.98,Chn,,0,0,0,,他给了自己脑袋一枪\N{\rEng}He shot himself.
+Dialogue: 0,0:17:09.04,0:17:12.43,Chn,,0,0,0,,如果你不上“日界线”，将会是我们的耻辱\N{\rEng}It'd be a shame if you didn't wanna go on Dateline.
+Dialogue: 0,0:17:12.46,0:17:17.64,Chn,,0,0,0,,我们将会不断追捕你，直到 你也给自己脑袋上来一枪\N{\rEng}Be a shame if we had to track you down and you 'shot yourself.'
+Dialogue: 0,0:17:24.29,0:17:29.19,Chn,,0,0,0,,现场直播，来自科罗拉多的卫星信号 这里是“日界线”栏目\N{\rEng}Live, from our satellite studio in Colorado. This is Dateline.
+Dialogue: 0,0:17:29.74,0:17:32.68,Chn,,0,0,0,,今晚，让我们进入到“图雷特氏综合症”患者的内心世界\N{\rEng}Tonight, an inside look at Tourette's Syndrome.
+Dialogue: 0,0:17:32.81,0:17:37.40,Chn,,0,0,0,,我是Chriiiiiis Haaaaansennnn.\N{\rEng}I'm Chris Hansen.
+Dialogue: 0,0:17:37.43,0:17:40.16,Chn,,0,0,0,,几分钟后，你们将见到小Eric Cartman\N{\rEng}In a few minutes, you will meet little Eric Cartman.
+Dialogue: 0,0:17:40.19,0:17:42.99,Chn,,0,0,0,,他想同世界倾诉他的苦恼\N{\rEng}Who wants the world to understand his affliction.
+Dialogue: 0,0:17:44.30,0:17:48.80,Chn,,0,0,0,,还有5分钟，孩子 - 上帝啊，我怎么搞成这个样子？\N{\rEng}Five minutes, kid. - Jesus Christ. How did I get myself into this?
+Dialogue: 0,0:17:49.99,0:17:53.49,Chn,,0,0,0,,上帝，求求你，我知道我做错了\N{\rEng}God? Please, I know I screwed up.
+Dialogue: 0,0:17:53.54,0:17:57.91,Chn,,0,0,0,,我不应该假扮成一个“图氏”病患者 但是 我现在知错了\N{\rEng}I should have never pretended to have Tourette's Syndrome, but see, I get it now.
+Dialogue: 0,0:17:57.94,0:18:00.28,Chn,,0,0,0,,做人不应该不负责任的乱说话\N{\rEng}You can't just walk around saying whatever you want.
+Dialogue: 0,0:18:00.30,0:18:03.60,Chn,,0,0,0,,你赋予我们智慧 好让我们不去说那些 人们不爱听的话 比如\N{\rEng}You gave us a filter because, people don't wanna hear things like...
+Dialogue: 0,0:18:03.64,0:18:06.62,Chn,,0,0,0,,我摸了堂弟的老二\N{\rEng}I touched penises with my cousin!
+Dialogue: 0,0:18:06.65,0:18:10.57,Chn,,0,0,0,,我还懂得了 尤其不能在一家全国性电视台上说那些话\N{\rEng}And I learned, you especially can't say whatever you want on national televison...
+Dialogue: 0,0:18:10.60,0:18:12.65,Chn,,0,0,0,,因为会有很多小朋友看的\N{\rEng}because there could be kids watching.
+Dialogue: 0,0:18:12.69,0:18:16.12,Chn,,0,0,0,,求求你 上帝啊 不要让我在全国性电视台上丢脸\N{\rEng}Please, God, don't make me embarrass myself on national television.
+Dialogue: 0,0:18:16.16,0:18:19.79,Chn,,0,0,0,,你会认为这是你的错 对吗\N{\rEng}You must see how this is all somewhat your fault, right?
+Dialogue: 0,0:18:19.82,0:18:22.53,Chn,,0,0,0,,求你了 我需要一个奇迹\N{\rEng}Please, I need a miracle.
+Dialogue: 0,0:18:27.57,0:18:30.46,Chn,,0,0,0,,“探戈” 这里是“狐步” 你就位了吗？\N{\rEng}Tango, this is Foxtrot. Are you in position?
+Dialogue: 0,0:18:31.62,0:18:34.76,Chn,,0,0,0,,收到 “狐步” “探戈”已就位 狗屎！\N{\rEng}Copy Foxtrot. Tango in position. Aw shit!
+Dialogue: 0,0:18:35.10,0:18:39.01,Chn,,0,0,0,,你确定不会退缩了吗？ -当然，你说的对，那个胖小子是装的!\N{\rEng}You sure you don't wanna back out? - No, you were right. The fat kid is faking it!
+Dialogue: 0,0:18:39.04,0:18:43.02,Chn,,0,0,0,,如果让他上了电视 只会让更多人 取笑我们“图氏症”患者 狗屎！\N{\rEng}If he goes on TV, more people will think that having Tourette's is fun. Asshole shit!
+Dialogue: 0,0:18:43.05,0:18:45.81,Chn,,0,0,0,,好的，让我们按计划行事 就像“诱捕恋童癖”一样\N{\rEng}All right, then we go with the plan. Just like 'To Catch A Predator.'
+Dialogue: 0,0:18:46.62,0:18:50.33,Chn,,0,0,0,,第一个家伙来了，这人一定是网名叫HotForBoys219的\N{\rEng}The first guy is here. This is probably HotForBoys219.
+Dialogue: 0,0:18:53.20,0:18:58.70,Chn,,0,0,0,,嗨，你就是CuteBilly182吗? - 是的，是我和你网上聊天的 狗屎!\N{\rEng}Hi, are you CuteBilly182? - Yeah. I was chatting with you online. Shit!
+Dialogue: 0,0:18:58.72,0:19:03.52,Chn,,0,0,0,,天啊，我好兴奋啊 这是你的家？ 你父母一定不在家吧，对吗？\N{\rEng}Oh God, I'm so turned on right now. This is your house? Your, your parents aren't home, are they?
+Dialogue: 0,0:19:03.55,0:19:07.83,Chn,,0,0,0,,都不在家，你进去吧 我去做些点心 狗屎!\N{\rEng}No, it's cool. Go on inside. I made brownies. Shit!
+Dialogue: 0,0:19:07.87,0:19:10.78,Chn,,0,0,0,,我要吃点东西 鸡巴!\N{\rEng}I'm just gonna slip into something more comfortable. Cock!
+Dialogue: 0,0:19:10.81,0:19:14.33,Chn,,0,0,0,,好的，鸡巴! 不要让我久等哦\N{\rEng}Okay. Cock! Don't take too long.
+Dialogue: 0,0:19:16.35,0:19:21.83,Chn,,0,0,0,,现在 就让我们来见见这位患有 “图氏”综合症的小男孩吧..\N{\rEng}So now let's meet a child who has Tourette's Syndrooome, and who must fi-
+Dialogue: 0,0:19:24.21,0:19:28.26,Chn,,0,0,0,,等等 这里不是房间 -你在干什么?!\N{\rEng}Whoa, wait a minute. This ain't no house. - What are you doing?!
+Dialogue: 0,0:19:29.45,0:19:33.09,Chn,,0,0,0,,Chris Hansen?!!!!!! 不，这是一个圈套，我就知道！\N{\rEng}Chris Hansen?! Oh no, it's a setup! I knew it!
+Dialogue: 0,0:19:33.09,0:19:34.77,Chn,,0,0,0,,先生，你干嘛不在这里坐一会儿呢\N{\rEng}Sir, why don't you take a seat, right over there.
+Dialogue: 0,0:19:34.79,0:19:38.10,Chn,,0,0,0,,现在每个人都将知道我是一个变态\N{\rEng}Now everyone's gonna know I'm a perv!
+Dialogue: 0,0:19:41.69,0:19:43.87,Chn,,0,0,0,,不是吧！\N{\rEng}Aw, not again.
+Dialogue: 0,0:19:46.51,0:19:48.79,Chn,,0,0,0,,Kyle? -很吃惊吧 死胖子！\N{\rEng}Kyle? - Surprise, fatass!
+Dialogue: 0,0:19:48.82,0:19:51.38,Chn,,0,0,0,,Kyle 你在这里做什么? - 我在网上扮演了一个\N{\rEng}Kyle, what are you doing? - I went online posing as a boy...
+Dialogue: 0,0:19:51.38,0:19:55.62,Chn,,0,0,0,,想和成年人发生性关系的小男孩 然后约他们在这里见面 我的计划成功了!\N{\rEng}who would have sex with older men and told them to meet me here. My plan worked perfectly!
+Dialogue: 0,0:20:05.20,0:20:09.08,Chn,,0,0,0,,嘿，我还给你买了些玩具 - Yeah，进去吧 里面有个浴缸\N{\rEng}Hey, I brought you some Wendy's. - Yeah, go on in. There's a hot tub inside.
+Dialogue: 0,0:20:09.09,0:20:12.36,Chn,,0,0,0,,操他妈的大狗屎！ - 太好了!\N{\rEng}Stupid Shit! - Score!
+Dialogue: 0,0:20:13.65,0:20:16.10,Chn,,0,0,0,,哦，不！是Chris Hansen!\N{\rEng}Oh no, it's Chris Hansen!
+Dialogue: 0,0:20:18.01,0:20:21.42,Chn,,0,0,0,,他是谁？发生了什么？ - 到底发生了什么?!\N{\rEng}Who is that? What's going on? - What the hell is going on?!
+Dialogue: 0,0:20:21.91,0:20:24.64,Chn,,0,0,0,,等等 天啊 是Chris Hansen!\N{\rEng}Wait a minute. Oh God, it's Chris Hansen!
+Dialogue: 0,0:20:25.75,0:20:28.99,Chn,,0,0,0,,Chris Hansen! - 日界线?!\N{\rEng}Chris Hansen! - Dateline?!
+Dialogue: 0,0:20:29.04,0:20:33.38,Chn,,0,0,0,,我就知道! - 根本就是圈套!\N{\rEng}I knew it! - There aren't really brownies!
+Dialogue: 0,0:20:37.60,0:20:41.38,Chn,,0,0,0,,嘿！你和这件事有关系吗？回答我！\N{\rEng}Hey! Do you have something to do with this? Answer me!
+Dialogue: 0,0:20:41.40,0:20:43.79,Chn,,0,0,0,,狗屎！ 鸡巴！\N{\rEng}Stupid shit! Cock!
+Dialogue: 0,0:20:43.89,0:20:47.51,Chn,,0,0,0,,什么？！没人敢和我这么说话！ 你怎么不坐一会儿？\N{\rEng}What?! Nobody talks to me like that! Why don't you take a seat?
+Dialogue: 0,0:20:47.51,0:20:51.44,Chn,,0,0,0,,来 去那里坐一会儿 - 操！傻逼，舔肛男！\N{\rEng}Take a seat, right over there. - Suck it! Asshole licker dickfart!
+Dialogue: 0,0:20:52.17,0:20:54.33,Chn,,0,0,0,,我要去告你！\N{\rEng}I'll, I'll tell on you!
+Dialogue: 0,0:20:56.11,0:20:58.32,Chn,,0,0,0,,哇，你是世界上最酷的小孩！\N{\rEng}Wow, you're the coolest kid in the world.
+Dialogue: 0,0:20:58.34,0:21:02.79,Chn,,0,0,0,,如果我能当面骂Christ Hansen傻逼， 我就满足了\N{\rEng}If I could call Chris Hansen an asshole-licking dickfart to his face, I would be so happy.
+Dialogue: 0,0:21:02.83,0:21:04.69,Chn,,0,0,0,,你会不会? - 我能不能...\N{\rEng}You would? - Could I just like...
+Dialogue: 0,0:21:04.72,0:21:08.08,Chn,,0,0,0,,跟着你混呢? 或许我能帮你洗洗衣服?\N{\rEng}hang out with you sometime? Like, do your laundry maybe?
+Dialogue: 0,0:21:10.47,0:21:12.77,Chn,,0,0,0,,看着吧，死胖子，绝不让你上电视！\N{\rEng}Take a look, fatass! I beat you!
+Dialogue: 0,0:21:12.79,0:21:15.54,Chn,,0,0,0,,你现在没上日界线，还有什么想说的吗?!\N{\rEng}You aren't going on Dateline, what have you got to say now?!
+Dialogue: 0,0:21:17.59,0:21:20.55,Chn,,0,0,0,,谢谢你! 谢谢你 Kyle!\N{\rEng}Oh thank you! Thank you Kyle!
+Dialogue: 0,0:21:20.59,0:21:22.87,Chn,,0,0,0,,什么？ - 我求了上帝派个人来拯救我\N{\rEng}What? - I asked God to send someone to help me.
+Dialogue: 0,0:21:22.90,0:21:25.47,Chn,,0,0,0,,然后你就来了 Kyle! 我爱你 兄弟!\N{\rEng}And you came, Kyle! I love you man!
+Dialogue: 0,0:21:25.49,0:21:28.72,Chn,,0,0,0,,不，我打败你了! - 你完全救了我的小命 Kyle.\N{\rEng}No, I beat you! - You totally saved my ass, Kyle.
+Dialogue: 0,0:21:28.74,0:21:31.69,Chn,,0,0,0,,你是真的关心我 再见 Kyle!\N{\rEng}You must really care about me. See you Kyle!
+Dialogue: 0,0:21:31.71,0:21:34.26,Chn,,0,0,0,,我必须去看神经医生学会控制说话!\N{\rEng}I gotta get to a psychiatrist and learn to control what I say!
+Dialogue: 0,0:21:34.29,0:21:40.23,Chn,,0,0,0,,{\i1}我拿到张金色的门票! 完全感谢Kyle! 我眼中闪烁着金色的光芒!{\i0}\N{\rEng}{\i1}I got a golden ticket! Thanks to Kyle! I got a golden twinkle in my eye!{\i0}
+Dialogue: 0,0:21:43.49,0:21:45.47,Chn,,0,0,0,,Aw, shit!

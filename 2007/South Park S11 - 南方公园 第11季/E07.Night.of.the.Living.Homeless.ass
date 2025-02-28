@@ -1,0 +1,537 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: South.Park.S11E07.Night.of.the.Living.Homeless.1080p.WEB-DL.AAC2.0.H.264-Phr0stY
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 1916
+PlayResY: 1076
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,微软雅黑,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Git,Comic Sans MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Chn,微软雅黑,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,20,1
+Style: Eng,Comic Sans MS,50,&H002AF7FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.71,0:00:11.97,Chn,,0,0,0,,{\i1}I'm going out to South Park gonna have myself a time{\i0}
+Dialogue: 0,0:00:12.05,0:00:15.30,Chn,,0,0,0,,{\i1}Friendly faces everywhere humble folks without temptation{\i0}
+Dialogue: 0,0:00:15.34,0:00:18.64,Chn,,0,0,0,,{\i1}I'm goin out to south park gonna leave my woes behind{\i0}
+Dialogue: 0,0:00:18.64,0:00:21.98,Chn,,0,0,0,,{\i1}Ample parking day or night people spouting howdy neighbor{\i0}
+Dialogue: 0,0:00:22.02,0:00:25.19,Chn,,0,0,0,,{\i1}I'm heading out to south park to see if i cant unwind{\i0}
+Dialogue: 0,0:00:25.23,0:00:28.52,Chn,,0,0,0,,{\i1}I like girls with big fat titties really big fat titties{\i0}
+Dialogue: 0,0:00:28.57,0:00:32.15,Chn,,0,0,0,,{\i1}So come on out to south park and meet some friends of mine{\i0}
+Dialogue: 0,0:00:33.19,0:00:35.53,Chn,,0,0,0,,South.Park.S11E07.Night.of.the.Living.Homeless
+Dialogue: 0,0:00:34.90,0:00:35.70,Chn,,0,0,0,,好了 这一次\N{\rEng}ALRIGHT, THIS TIME
+Dialogue: 0,0:00:35.70,0:00:37.90,Chn,,0,0,0,,就有我和Kenny来对抗 你们这两个小屁眼吧\N{\rEng}IT'S ME AND KENNY VERSUS YOU TWO ASSHOLES
+Dialogue: 0,0:00:38.10,0:00:38.90,Chn,,0,0,0,,谁怕谁呀\N{\rEng}FINE
+Dialogue: 0,0:00:39.40,0:00:41.40,Chn,,0,0,0,,噢 天啊! 篮球场怎么这么多流浪汉呀?!\N{\rEng}OH, DUDE! WHAT'S WITH ALL THE HOMELESS PEOPLE?!
+Dialogue: 0,0:00:45.70,0:00:47.00,Chn,,0,0,0,,先生 麻烦你稍微挪下位置好吗?\N{\rEng}SIR? COULD YOU MOVE A LITTLE PLEASE?
+Dialogue: 0,0:00:47.30,0:00:48.80,Chn,,0,0,0,,赏点零钱好吗?\N{\rEng}SPARE SOME CHANGE?
+Dialogue: 0,0:00:48.90,0:00:50.70,Chn,,0,0,0,,噢! 篮球场现在和Kenny他们家一样臭!\N{\rEng}OH, DUDE HE SMELLS LIKE KENNY'S HOUSE!
+Dialogue: 0,0:00:50.80,0:00:52.10,Chn,,0,0,0,,快滚!!!\N{\rEng}GET OUTTA HERE!!!
+Dialogue: 0,0:00:52.10,0:00:53.10,Chn,,0,0,0,,伙计们 这不大好吧\N{\rEng}YOU GUYS, THAT'S NOT COOL
+Dialogue: 0,0:00:53.30,0:00:55.00,Chn,,0,0,0,,这些人没有其他地方可去了\N{\rEng}THESE PEOPLE HAVE NOWHERE TO GO
+Dialogue: 0,0:00:57.50,0:00:58.80,Chn,,0,0,0,,他们没有食物和住所\N{\rEng}THEY DON'T HAVE FOOD OR SHELTER
+Dialogue: 0,0:00:58.80,0:01:00.10,Chn,,0,0,0,,我们得做些什么\N{\rEng}WE HAVE TO DO SOMETHING
+Dialogue: 0,0:01:00.50,0:01:01.80,Chn,,0,0,0,,那好吧 可我们应该怎么做呢?\N{\rEng}WELL, DUDE WHAT ARE WE SUPPOSED TO DO?
+Dialogue: 0,0:01:01.90,0:01:03.40,Chn,,0,0,0,,没错 我们该怎么做呢?\N{\rEng}YEAH, WHAT ARE WE SUPPOSED TO DO?
+Dialogue: 0,0:01:03.60,0:01:06.00,Chn,,0,0,0,,我觉得Kyle说的没错 伙计们 我们得有所行动!\N{\rEng}NO, KYLE'S RIGHT, YOU GUYS WE SHOULD DO SOMETHING
+Dialogue: 0,0:01:06.90,0:01:07.60,Chn,,0,0,0,,真的?\N{\rEng}REALLY?
+Dialogue: 0,0:01:07.60,0:01:08.30,Chn,,0,0,0,,没错!\N{\rEng}YEAH
+Dialogue: 0,0:01:08.30,0:01:09.30,Chn,,0,0,0,,我知道你在想什么 Kyle\N{\rEng}I KNOW WHAT YOU'RE THINKING, KYLE
+Dialogue: 0,0:01:09.30,0:01:10.10,Chn,,0,0,0,,我站在你这边!\N{\rEng}AND I'M WITH YOU
+Dialogue: 0,0:01:10.40,0:01:11.90,Chn,,0,0,0,,我非常清楚我们应该做什么\N{\rEng}I KNOW EXACTLY WHAT WE SHOULD DO
+Dialogue: 0,0:01:14.70,0:01:16.70,Chn,,0,0,0,,大家都过来啊 一起见证下\N{\rEng}GATHER ROUND AND WITNESS THE GLORY
+Dialogue: 0,0:01:16.70,0:01:20.40,Chn,,0,0,0,,Eric Cartman惊世骇俗的 "滑板飞跃流浪汉"特技吧\N{\rEng}AS ERIC CARTMAN ATTEMPTS TO JUMP HIS SKATEBOARD OVER THE HOMELESS!
+Dialogue: 0,0:01:20.70,0:01:21.00,Chn,,0,0,0,,多谢捧场!\N{\rEng}THANK YOU!
+Dialogue: 0,0:01:21.20,0:01:22.20,Chn,,0,0,0,,多谢捧场!\N{\rEng}THANK YOU!
+Dialogue: 0,0:01:22.20,0:01:23.40,Chn,,0,0,0,,场地布置好了吗?\N{\rEng}THE RAMP READY?
+Dialogue: 0,0:01:23.70,0:01:24.60,Chn,,0,0,0,,全部都弄好了\N{\rEng}YEAH, IT'S ALL SET
+Dialogue: 0,0:01:25.20,0:01:26.20,Chn,,0,0,0,,他不会成功的...\N{\rEng}HE WON'T MAKE IT
+Dialogue: 0,0:01:26.30,0:01:27.20,Chn,,0,0,0,,我操!\N{\rEng}EXCUSE ME!
+Dialogue: 0,0:01:27.30,0:01:29.40,Chn,,0,0,0,,这根本就不是我要做的事!\N{\rEng}THIS ISN'T EXACTLY WHAT I HAD IN MIND!
+Dialogue: 0,0:01:29.50,0:01:30.30,Chn,,0,0,0,,好啦 我要冲刺啦!\N{\rEng}ALRIGHT -- HERE WE GO!
+Dialogue: 0,0:01:30.90,0:01:31.60,Chn,,0,0,0,,Jimmy?\N{\rEng}JIMMY?
+Dialogue: 0,0:01:38.80,0:01:39.70,Chn,,0,0,0,,OOF!
+Dialogue: 0,0:01:39.70,0:01:40.40,Chn,,0,0,0,,UGH
+Dialogue: 0,0:01:41.00,0:01:42.00,Chn,,0,0,0,,YES!!!!
+Dialogue: 0,0:01:42.00,0:01:43.30,Chn,,0,0,0,,我成功了!\N{\rEng}I DID IT!!!
+Dialogue: 0,0:01:43.30,0:01:45.10,Chn,,0,0,0,,我成功飞跃流浪汉了!!\N{\rEng}I JUMPED OVER THE HOMELESS!!
+Dialogue: 0,0:01:45.10,0:01:45.80,Chn,,0,0,0,,太棒了!!!\N{\rEng}YES!!!
+Dialogue: 0,0:01:46.30,0:01:47.80,Chn,,0,0,0,,这可真是个好主意啊 Kyle\N{\rEng}THAT WAS A SWEET IDEA, KYLE
+Dialogue: 0,0:01:48.00,0:01:49.60,Chn,,0,0,0,,我日 这和我没有任何关系!!\N{\rEng}GOD DAMMIT, THAT WASN'T MY IDEA!!
+Dialogue: 0,0:01:51.10,0:01:53.40,Chn,,0,0,0,,好啦 公民们 我们一定得想个办法才行\N{\rEng}ALRIGHT PEOPLE, WE NEED TO COME UP WITH ANSWERS
+Dialogue: 0,0:01:53.60,0:01:55.80,Chn,,0,0,0,,我们现在全镇都被流浪汉赛满了\N{\rEng}THERE ARE HOMELESS SPROUTING UP ALL OVER TOWN
+Dialogue: 0,0:01:55.80,0:01:57.00,Chn,,0,0,0,,我们应该怎么处理这件事呢?\N{\rEng}WHAT ARE WE SUPPOSED TO DO?
+Dialogue: 0,0:01:59.00,0:02:01.20,Chn,,0,0,0,,嗯 我倒是有一个主意\N{\rEng}WELL, I SORT OF HAD AN IDEA
+Dialogue: 0,0:02:01.50,0:02:02.50,Chn,,0,0,0,,请说吧  Valmer先生\N{\rEng}PLEASE, MR. VALMER
+Dialogue: 0,0:02:02.80,0:02:06.50,Chn,,0,0,0,,我们可以给他们一些式样美观的睡袋 再帮他们化点小妆\N{\rEng}WE COULD GIVE THE HOMELESS ALL DESIGNER SLEEPING BAGS AND MAKE-OVERS
+Dialogue: 0,0:02:06.50,0:02:08.80,Chn,,0,0,0,,这也算是为构建和谐社会 尽了自己的一份力吧\N{\rEng}AT LEAST THAT WAY THEY'D BE PLEASANT TO LOOK AT
+Dialogue: 0,0:02:09.70,0:02:10.70,Chn,,0,0,0,,- 这主意可真不错 - 我觉得挺好的\N{\rEng}- OH, THAT'S GOOD - I LIKE THAT
+Dialogue: 0,0:02:10.70,0:02:11.50,Chn,,0,0,0,,- 好办法 - 太棒了\N{\rEng}- GOOD IDEA - I LIKE IT
+Dialogue: 0,0:02:11.50,0:02:12.80,Chn,,0,0,0,,嗯 我倒有个另外的想法\N{\rEng}WELL, I WAS THINKING --
+Dialogue: 0,0:02:13.70,0:02:16.10,Chn,,0,0,0,,我们可以把他们改造成轮胎什么的\N{\rEng}WE COULD TURN THE HOMELESS INTO TIRES
+Dialogue: 0,0:02:16.40,0:02:19.80,Chn,,0,0,0,,这样的话我们就不用担心轮胎磨损的问题了\N{\rEng}SO THAT WE'D STILL HAVE HOMELESS BUT WE COULD USE THEM ON OUR CARS
+Dialogue: 0,0:02:20.30,0:02:21.70,Chn,,0,0,0,,- 这办法也不错! - 真屌啊 Randy\N{\rEng}- OOH, THAT'S GOOD - NICE ONE, RANDY
+Dialogue: 0,0:02:21.70,0:02:23.10,Chn,,0,0,0,,- 我挺喜欢这办法的 - 有点像废物循环利用\N{\rEng}- I LIKE IT - THAT'S LIKE RECYCLING
+Dialogue: 0,0:02:23.40,0:02:24.70,Chn,,0,0,0,,我实在是受够!\N{\rEng}ALRIGHT, ENOUGH
+Dialogue: 0,0:02:24.90,0:02:28.30,Chn,,0,0,0,,这次会议也太失败了 你们难道没有同情心吗?\N{\rEng}I FIND THIS WHOLE CONVERSATION TO BE EXTREMELY OFFENSIVE
+Dialogue: 0,0:02:28.30,0:02:30.00,Chn,,0,0,0,,流浪汉又不是外星怪物\N{\rEng}THE HOMELESS AREN'T MONSTERS
+Dialogue: 0,0:02:30.00,0:02:31.10,Chn,,0,0,0,,他们也是人呀\N{\rEng}THEY ARE PEOPLE
+Dialogue: 0,0:02:31.10,0:02:32.60,Chn,,0,0,0,,和我们一样的人\N{\rEng}LIKE YOU AND ME
+Dialogue: 0,0:02:34.30,0:02:35.90,Chn,,0,0,0,,你是说他们可以...\N{\rEng}YOU MEAN THEY'VE ADAPTED?
+Dialogue: 0,0:02:35.90,0:02:37.10,Chn,,0,0,0,,..吸纳我们的DNA?\N{\rEng}COPIED OUR DNA?
+Dialogue: 0,0:02:37.80,0:02:38.60,Chn,,0,0,0,,各位\N{\rEng}EXCUSE ME
+Dialogue: 0,0:02:39.20,0:02:42.30,Chn,,0,0,0,,我是镇上流浪汉研究问题的最高权威\N{\rEng}I AM THE TOP RESEARCHER OF HOMELESS STUDIES FOR PARK COUNTY
+Dialogue: 0,0:02:42.60,0:02:44.80,Chn,,0,0,0,,虽然我不知道流浪汉们出现的原因\N{\rEng}I DON'T KNOW WHY MORE HOMELESS PEOPLE ARE SHOWING UP IN TOWN
+Dialogue: 0,0:02:44.80,0:02:48.40,Chn,,0,0,0,,但我知道一件事 我们必须得加倍小心\N{\rEng}BUT I DO KNOW THAT WE MUST BE EXTREMELY CAREFUL
+Dialogue: 0,0:02:49.00,0:02:50.90,Chn,,0,0,0,,如果我们给了他们什么东西的话-\N{\rEng}IF WE GIVE THEM ANYTHING --
+Dialogue: 0,0:02:51.10,0:02:52.30,Chn,,0,0,0,,他们的数量会加倍增加的\N{\rEng}THERE COULD BE MORE
+Dialogue: 0,0:03:08.30,0:03:08.90,Chn,,0,0,0,,嗨\N{\rEng}HI
+Dialogue: 0,0:03:10.00,0:03:13.00,Chn,,0,0,0,,我正在为买XBOX的游戏暂钱呢 可是\N{\rEng}I'VE, UH -- I'VE BEEN SAVING UP FOR A NEW XBOX GAME, BUT --
+Dialogue: 0,0:03:13.30,0:03:16.00,Chn,,0,0,0,,可是我觉得你比我更需要这笔钱\N{\rEng}BUT I THINK YOU COULD USE THE MONEY A LOT MORE THAN I COULD
+Dialogue: 0,0:03:17.00,0:03:20.30,Chn,,0,0,0,,我希望你能够收下这20美元\N{\rEng}LISTEN, I WANT YOU TO TAKE THIS
+Dialogue: 0,0:03:19.10,0:03:20.30,Chn,,0,0,0,,IT'S $20
+Dialogue: 0,0:03:23.00,0:03:24.10,Chn,,0,0,0,,再给点好吗?\N{\rEng}GOT ANY MORE?
+Dialogue: 0,0:03:26.40,0:03:28.80,Chn,,0,0,0,,我没钱啦.. 可我觉得20美元够多了呀...\N{\rEng}NO, THAT'S -- I THOUGHT THAT WAS A LOT
+Dialogue: 0,0:03:31.10,0:03:33.20,Chn,,0,0,0,,赏点零钱好吗?\N{\rEng}SPARE ANY CHANGE?
+Dialogue: 0,0:03:35.30,0:03:36.40,Chn,,0,0,0,,拜拜...\N{\rEng}YOU'RE WELCOME
+Dialogue: 0,0:03:50.50,0:03:51.40,Chn,,0,0,0,,天啊..\N{\rEng}OH, CRAP
+Dialogue: 0,0:03:54.40,0:03:56.70,Chn,,0,0,0,,兄弟 你家门口怎么聚集了这么多流浪汉啊?\N{\rEng}DUDE, WHAT ARE ALL THESE HOMELESS PEOPLE DOING IN FRONT OF YOUR HOUSE?
+Dialogue: 0,0:03:56.90,0:03:57.80,Chn,,0,0,0,,我不知道!\N{\rEng}I DON'T KNOW!
+Dialogue: 0,0:03:58.10,0:03:59.40,Chn,,0,0,0,,我家门扣也有好一堆呢!\N{\rEng}THERE'S A BUNCH OUTSIDE OF MY HOUSE, TOO!
+Dialogue: 0,0:03:59.80,0:04:01.80,Chn,,0,0,0,,赏点零钱好吗 先生?\N{\rEng}SPARE ANY CHANGE, SIR?
+Dialogue: 0,0:04:02.00,0:04:03.50,Chn,,0,0,0,,滚远点!\N{\rEng}NO! GOD -
+Dialogue: 0,0:04:03.70,0:04:04.60,Chn,,0,0,0,,真奇怪耶\N{\rEng}I DON'T GET IT
+Dialogue: 0,0:04:04.80,0:04:07.00,Chn,,0,0,0,,我老爸说如果他们的不到零钱的话 就会自动转移的\N{\rEng}MY DAD SAID AS LONG AS NOBODY GAVE THEM MONEY THEY'D MOVE ON
+Dialogue: 0,0:04:07.30,0:04:07.80,Chn,,0,0,0,,真的?\N{\rEng}HE DID?
+Dialogue: 0,0:04:08.10,0:04:09.10,Chn,,0,0,0,,我操 肯定是出什么事了\N{\rEng}WELL, THIS IS BULLCRAP
+Dialogue: 0,0:04:09.10,0:04:10.70,Chn,,0,0,0,,肯定有人施舍给他们钱了吧\N{\rEng}SOMEBODY HAS TO BE RESPONSIBLE
+Dialogue: 0,0:04:10.90,0:04:14.10,Chn,,0,0,0,,嗯 我..我昨天晚上 给了个流浪汉20美圆\N{\rEng}WELL, I -- KIND OF GAVE A HOMELESS GUY TWENTY DOLLARS LAST NIGHT
+Dialogue: 0,0:04:14.30,0:04:15.00,Chn,,0,0,0,,什么?!\N{\rEng}YOU WHAT?!
+Dialogue: 0,0:04:15.20,0:04:17.00,Chn,,0,0,0,,可是 这不是他们聚集在这的原因吧?\N{\rEng}COME ON, THAT CAN'T BE WHY THEY'RE ALL HERE
+Dialogue: 0,0:04:17.10,0:04:18.50,Chn,,0,0,0,,肯定有其他的什么原因的!\N{\rEng}THERE HAS TO BE ANOTHER REASON!
+Dialogue: 0,0:04:18.60,0:04:19.70,Chn,,0,0,0,,Kyle 你到底在想什么呀?!\N{\rEng}KYLE, WHAT WERE YOU THINKING?!
+Dialogue: 0,0:04:20.00,0:04:23.00,Chn,,0,0,0,,我根本就飞越不了这么多的流浪汉呢!\N{\rEng}YEAH, I CAN'T POSSIBLY JUMP THIS MANY HOMELESS PEOPLE!
+Dialogue: 0,0:04:23.20,0:04:24.40,Chn,,0,0,0,,我不会冒险的\N{\rEng}I WON'T RISK IT
+Dialogue: 0,0:04:24.60,0:04:26.80,Chn,,0,0,0,,我可以飞过两个 三个也许勉强能试试..\N{\rEng}I COULD JUMP TWO HOMELESS PEOPLE MAYBE THREE
+Dialogue: 0,0:04:27.10,0:04:30.20,Chn,,0,0,0,,可是叫我飞跃这么流浪汉 是在拿我的生命开玩笑啊 Kyle!\N{\rEng}BUT ASKING ME TO JUMP THIS MANY IS ASKING ME TO RISK MY LIFE, KYLE!
+Dialogue: 0,0:04:30.40,0:04:32.10,Chn,,0,0,0,,我又没叫你去跳 傻逼!\N{\rEng}I DON'T WANT YOU TO JUMP THEM, RETARD!
+Dialogue: 0,0:04:34.80,0:04:35.90,Chn,,0,0,0,,赏点零钱好吗?\N{\rEng}SPARE SOME CHANGE?
+Dialogue: 0,0:04:36.20,0:04:38.00,Chn,,0,0,0,,哦 对不起 我没有零钱了\N{\rEng}NO, SORRY, I DON'T HAVE ANY CHANGE
+Dialogue: 0,0:04:40.20,0:04:41.40,Chn,,0,0,0,,有零钱吗?\N{\rEng}GOT ANY CHANGE?
+Dialogue: 0,0:04:41.50,0:04:42.30,Chn,,0,0,0,,没了噢 不好意思\N{\rEng}NO, SORRY
+Dialogue: 0,0:04:43.80,0:04:45.70,Chn,,0,0,0,,大爷 赏点零钱好吗?\N{\rEng}CAN YOU SPARE SOME CHANGE?
+Dialogue: 0,0:04:48.00,0:04:49.10,Chn,,0,0,0,,零...零..钱?\N{\rEng}CHAAAANGE?
+Dialogue: 0,0:04:49.10,0:04:51.00,Chn,,0,0,0,,啊 我没有零钱啊!\N{\rEng}AGH -- I DON'T HAVE ANY CHANGE!
+Dialogue: 0,0:04:52.00,0:04:53.10,Chn,,0,0,0,,赏点好吗?\N{\rEng}CHANGE?
+Dialogue: 0,0:04:53.10,0:04:53.60,Chn,,0,0,0,,不要!\N{\rEng}NO!
+Dialogue: 0,0:04:54.10,0:04:55.20,Chn,,0,0,0,,赏点好吗!!\N{\rEng}CHANGE!!
+Dialogue: 0,0:04:57.30,0:04:58.60,Chn,,0,0,0,,赏点零钱好吗?\N{\rEng}SPARE SOME CHANGE?
+Dialogue: 0,0:04:58.90,0:05:00.50,Chn,,0,0,0,,离我远点 我没有零钱!\N{\rEng}LEAVE ME ALONE I DON'T HAVE ANY CHANGE
+Dialogue: 0,0:05:00.90,0:05:02.70,Chn,,0,0,0,,好吧 愿上帝保佑你 先生\N{\rEng}ALRIGHT, GOD BLESS YOU, SIR
+Dialogue: 0,0:05:03.10,0:05:04.10,Chn,,0,0,0,,噢 我怎么会有犯罪感...\N{\rEng}OH, NOW I FEEL BAD
+Dialogue: 0,0:05:04.30,0:05:06.40,Chn,,0,0,0,,给你..\N{\rEng}HERE! AH! AAAAAH...
+Dialogue: 0,0:05:06.70,0:05:09.60,Chn,,0,0,0,,赏点好吗?!\N{\rEng}CHANNNGE?!!
+Dialogue: 0,0:05:09.60,0:05:11.30,Chn,,0,0,0,,刚才那是我仅有的零钱了呀\N{\rEng}THAT WAS REALLY ALL THE CHANGE I HAD
+Dialogue: 0,0:05:11.90,0:05:13.30,Chn,,0,0,0,,赏点零钱好吗?\N{\rEng}SPARE SOME CHANGE?
+Dialogue: 0,0:05:13.50,0:05:14.60,Chn,,0,0,0,,我刚刚才给过你了呀!\N{\rEng}I JUST GAVE YOU CHANGE!
+Dialogue: 0,0:05:16.60,0:05:17.40,Chn,,0,0,0,,AHGGHHG!!!
+Dialogue: 0,0:05:17.40,0:05:18.00,Chn,,0,0,0,,零钱!\N{\rEng}CHANGE!
+Dialogue: 0,0:05:18.40,0:05:20.30,Chn,,0,0,0,,赏点零钱好吗??\N{\rEng}SPARE SOME CHANGE??
+Dialogue: 0,0:05:20.30,0:05:21.10,Chn,,0,0,0,,AAAAAAH...
+Dialogue: 0,0:05:22.60,0:05:24.40,Chn,,0,0,0,,我真的没有零钱了!\N{\rEng}I DON'T HAVE ANY MORE CHANGE!
+Dialogue: 0,0:05:25.20,0:05:26.00,Chn,,0,0,0,,CHANNGE
+Dialogue: 0,0:05:26.00,0:05:27.20,Chn,,0,0,0,,GOT ANY CHANGE?!?!
+Dialogue: 0,0:05:27.20,0:05:27.90,Chn,,0,0,0,,GOD BLESS
+Dialogue: 0,0:05:27.90,0:05:28.70,Chn,,0,0,0,,NOO!!!!
+Dialogue: 0,0:05:29.00,0:05:30.90,Chn,,0,0,0,,我真的没有零钱了!\N{\rEng}I DON'T HAVE ANY CHANGE!!!
+Dialogue: 0,0:05:31.10,0:05:34.50,Chn,,0,0,0,,我真的没有零钱了!...\N{\rEng}I DON'T HAVE ANY CHANGE...
+Dialogue: 0,0:05:36.00,0:05:37.10,Chn,,0,0,0,,好啦 就这么定了吧\N{\rEng}OKAY, THAT'LL BE GREAT
+Dialogue: 0,0:05:37.30,0:05:41.10,Chn,,0,0,0,,但是要确定我们能不能找到足够多的椅子 到场人数会很多咧\N{\rEng}LET'S ALSO MAKE SURE WE HAVE ENOUGH CHAIRS IN THE COMMUNITY CENTER FOR EVERYONE TO ATTEND
+Dialogue: 0,0:05:41.30,0:05:43.00,Chn,,0,0,0,,AAHGHGHHGGHH!!!
+Dialogue: 0,0:05:43.00,0:05:44.10,Chn,,0,0,0,,AHGHGHGGHH!!!
+Dialogue: 0,0:05:44.90,0:05:45.60,Chn,,0,0,0,,离我远点!!\N{\rEng}STAY AWAY!!
+Dialogue: 0,0:05:45.60,0:05:46.90,Chn,,0,0,0,,离我远点!\N{\rEng}STAY AWAY!!!!!!
+Dialogue: 0,0:05:47.40,0:05:48.20,Chn,,0,0,0,,Randy!?!\N{\rEng}RANDY!?!
+Dialogue: 0,0:05:48.30,0:05:49.60,Chn,,0,0,0,,Randy 发生什么事了?!?!\N{\rEng}RANDY, WHAT HAPPENED?!?!
+Dialogue: 0,0:05:50.70,0:05:55.90,Chn,,0,0,0,,我真的没有零钱呀!!\N{\rEng}I DON'T HAVE ANY CHANGE!!!
+Dialogue: 0,0:05:57.70,0:06:01.20,Chn,,0,0,0,,现在是Chris Swollenballs为你献上的 新闻5台特别报道\N{\rEng}THIS IS A NEWS 5 SPECIAL BULLETIN WITH CHRIS SWOLLENBALLS
+Dialogue: 0,0:06:01.80,0:06:04.70,Chn,,0,0,0,,流浪汉充斥了南方公园的每一个角落\N{\rEng}SOUTH PARK HAS BECOME OVERRUN WITH THE HOMELESS
+Dialogue: 0,0:06:05.00,0:06:08.10,Chn,,0,0,0,,基本上所有的公众场合 ...都塞满了流浪汉\N{\rEng}NEARLY EVERY SQUARE INCH OF PUBLIC PROPERTY IS NOW RIDDLED WITH HOMELESS
+Dialogue: 0,0:06:08.10,0:06:11.10,Chn,,0,0,0,,出镇的路基本上都被流浪汉封死了\N{\rEng}SHUTTING DOWN ROADWAYS AND MAKING GETTING AROUND IMPOSSIBLE
+Dialogue: 0,0:06:11.40,0:06:13.30,Chn,,0,0,0,,许多人被困在了镇上\N{\rEng}MANY PEOPLE ARE TRAPPED THROUGHOUT THE TOWN
+Dialogue: 0,0:06:14.60,0:06:15.80,Chn,,0,0,0,,HELLLPP!!!
+Dialogue: 0,0:06:15.80,0:06:17.30,Chn,,0,0,0,,HELP US!!!! HELP ME!!!!!!
+Dialogue: 0,0:06:17.40,0:06:18.80,Chn,,0,0,0,,伙计 那是我爸爸他们呀!\N{\rEng}DUDE! IT'S OUR DADS!
+Dialogue: 0,0:06:19.00,0:06:19.90,Chn,,0,0,0,,噢 天啊\N{\rEng}OH, MY GOD
+Dialogue: 0,0:06:20.40,0:06:23.70,Chn,,0,0,0,,在这个非常时期 所有居民都应做好守在家里\N{\rEng}IN THE MEANTIME, SOUTH PARK CITIZENS ARE BEING ADVISED TO STAY INDOORS
+Dialogue: 0,0:06:24.10,0:06:25.80,Chn,,0,0,0,,及保护好零钱的准备\N{\rEng}AND PROTECT THEIR CHANGE
+Dialogue: 0,0:06:26.50,0:06:28.20,Chn,,0,0,0,,赏点零钱好吗?\N{\rEng}SPARE SOME CHANGE?
+Dialogue: 0,0:06:28.50,0:06:30.30,Chn,,0,0,0,,什么鸟.. 你是怎么混进来的?\N{\rEng}WHAT THE -- YOU CAN'T BE IN HERE
+Dialogue: 0,0:06:30.50,0:06:32.30,Chn,,0,0,0,,给点零钱好吗 先生?\N{\rEng}YOU GOT ANY CHANGE, SIR?
+Dialogue: 0,0:06:32.50,0:06:33.60,Chn,,0,0,0,,才不 我没有零钱!\N{\rEng}NO, I DON'T HAVE ANY CHANGE!
+Dialogue: 0,0:06:34.10,0:06:35.10,Chn,,0,0,0,,你是怎么进来的呀...?!\N{\rEng}HOW'D HE GET IN HERE?!
+Dialogue: 0,0:06:35.20,0:06:37.30,Chn,,0,0,0,,CHAAAAANGE?
+Dialogue: 0,0:06:37.70,0:06:38.40,Chn,,0,0,0,,NO! PLEASE!
+Dialogue: 0,0:06:38.80,0:06:40.00,Chn,,0,0,0,,我真的没有零钱呀E!!\N{\rEng}I DON'T HAVE ANY CHANGE!!
+Dialogue: 0,0:06:40.40,0:06:41.20,Chn,,0,0,0,,我发誓 我真的没呀!\N{\rEng}HONEST, I DON'T!
+Dialogue: 0,0:06:41.60,0:06:42.00,Chn,,0,0,0,,我真的没有...\N{\rEng}I DON'T HAVE ANY--
+Dialogue: 0,0:06:42.20,0:06:44.30,Chn,,0,0,0,,DOOOOOOOOOOOO
+Dialogue: 0,0:06:46.00,0:06:47.30,Chn,,0,0,0,,看看你都做了什么 Kyle?\N{\rEng}YOU SEE WHAT YOU DID, KYLE?
+Dialogue: 0,0:06:47.40,0:06:49.20,Chn,,0,0,0,,好啦 快去把我们的傻逼爸爸们救出来吧\N{\rEng}COME ON, WE HAVE TO TRY AND HELP OUR STUPID PARENTS
+Dialogue: 0,0:06:51.30,0:06:52.10,Chn,,0,0,0,,到处都是流浪汉啊!\N{\rEng}THEY'RE EVERYWHERE!
+Dialogue: 0,0:06:54.10,0:06:54.80,Chn,,0,0,0,,你们在干什么呀?\N{\rEng}WHAT ARE YOU BOYS DOING?
+Dialogue: 0,0:06:54.80,0:06:55.60,Chn,,0,0,0,,快进来!\N{\rEng}GET IN!
+Dialogue: 0,0:06:58.60,0:06:59.90,Chn,,0,0,0,,有零钱吗 先生?\N{\rEng}GOT ANY CHANGE, SIR?
+Dialogue: 0,0:06:59.90,0:07:01.20,Chn,,0,0,0,,好啦 快走啊!\N{\rEng}COME ON, LET'S GO!
+Dialogue: 0,0:07:03.50,0:07:05.10,Chn,,0,0,0,,你们在户外干什么卵呀?\N{\rEng}WHAT THE HELL ARE YOU DOING OUTSIDE?
+Dialogue: 0,0:07:05.40,0:07:07.40,Chn,,0,0,0,,我老爸他们被困在南方中心上了..\N{\rEng}MY PARENTS ARE STUCK ON TOP OF A BUILDING IN TOWN
+Dialogue: 0,0:07:07.50,0:07:08.60,Chn,,0,0,0,,我们现在进不去呀\N{\rEng}YOU AREN'T GETTING INTO TOWN
+Dialogue: 0,0:07:08.60,0:07:10.90,Chn,,0,0,0,,路都被这些流浪汉堵死了\N{\rEng}IT'S COMPLETELY OVERRUN WITH THESE THINGS
+Dialogue: 0,0:07:15.50,0:07:16.20,Chn,,0,0,0,,不要啊!\N{\rEng}NO!
+Dialogue: 0,0:07:16.20,0:07:17.60,Chn,,0,0,0,,不要擦我的窗户啊\N{\rEng}NO, I DON'T NEED MY WIND SHIELD CLEANED
+Dialogue: 0,0:07:17.70,0:07:18.30,Chn,,0,0,0,,快停下!\N{\rEng}STOP IT!
+Dialogue: 0,0:07:18.70,0:07:19.70,Chn,,0,0,0,,快停下!\N{\rEng}STOP IT!
+Dialogue: 0,0:07:21.90,0:07:25.10,Chn,,0,0,0,,听好 我们唯一的希望就是找到 那个流浪汉问题首席权威\N{\rEng}LOOK, OUR ONLY HOPE IS TO TALK TO THE HOMELESS RESEARCHER ON ??? STREET
+Dialogue: 0,0:07:25.10,0:07:27.30,Chn,,0,0,0,,这种时候只有他才知道怎么做了\N{\rEng}HE UNDERSTANDS WHAT IS GOING ON BETTER THAN ANYBODY
+Dialogue: 0,0:07:27.70,0:07:28.70,Chn,,0,0,0,,你们和我在一起很安全\N{\rEng}JUST STICK WITH ME, KIDS
+Dialogue: 0,0:07:30.50,0:07:32.00,Chn,,0,0,0,,AGGGH!
+Dialogue: 0,0:07:37.40,0:07:38.90,Chn,,0,0,0,,这一切还真扯啊...\N{\rEng}HOLY - DUDE
+Dialogue: 0,0:07:38.90,0:07:39.80,Chn,,0,0,0,,这儿!\N{\rEng}OVER HERE
+Dialogue: 0,0:07:41.40,0:07:42.90,Chn,,0,0,0,,快下来吧 Kyle\N{\rEng}JUMP DOWN, KYLE
+Dialogue: 0,0:07:45.00,0:07:47.50,Chn,,0,0,0,,噢 这地方闻起来还真像Kenny他们家呀\N{\rEng}OH, GOD, IT REALLY SMELLS LIKE KENNY'S HOUSE DOWN HERE
+Dialogue: 0,0:07:48.10,0:07:49.90,Chn,,0,0,0,,???
+Dialogue: 0,0:07:49.90,0:07:51.40,Chn,,0,0,0,,别生气 Kenny 放轻松 伙计们!\N{\rEng}WHOA, KENNY, RELAX, DUDE!
+Dialogue: 0,0:07:51.40,0:07:52.50,Chn,,0,0,0,,我们得齐心协力才行\N{\rEng}WE NEED TO WORK TOGETHER
+Dialogue: 0,0:07:52.90,0:07:54.70,Chn,,0,0,0,,加油 我们必须找到那个权威\N{\rEng}COME ON, WE GOT TO GET TO THAT SCIENTIST'S HOUSE
+Dialogue: 0,0:07:56.00,0:07:57.20,Chn,,0,0,0,,CHANGE!
+Dialogue: 0,0:07:57.20,0:08:00.40,Chn,,0,0,0,,CHANGE...
+Dialogue: 0,0:08:07.30,0:08:09.20,Chn,,0,0,0,,根本就没有救援人员出现啊\N{\rEng}NO SIGN OF ANYBODY ELSE
+Dialogue: 0,0:08:09.40,0:08:10.00,Chn,,0,0,0,,我受够了\N{\rEng}THAT'S IT
+Dialogue: 0,0:08:10.00,0:08:11.50,Chn,,0,0,0,,我要杀出重围去求救!\N{\rEng}I'M GOING TO MAKE A BREAK FOR IT
+Dialogue: 0,0:08:11.90,0:08:12.90,Chn,,0,0,0,,别犯傻了 Gerald!\N{\rEng}DON'T BE CRAZY, GERALD!
+Dialogue: 0,0:08:13.40,0:08:15.00,Chn,,0,0,0,,你是不可能穿越这么多流浪汉的!\N{\rEng}YOU WILL NEVER GET THROUGH ALL THOSE HOMELESS PEOPLE!
+Dialogue: 0,0:08:15.50,0:08:17.20,Chn,,0,0,0,,而且就算你穿过了 那又怎么样呢?\N{\rEng}AND EVEN IF YOU DID, WHAT THEN?
+Dialogue: 0,0:08:17.40,0:08:18.80,Chn,,0,0,0,,你也根本没办法开车\N{\rEng}YOU CAN'T DRIVE ANYWHERE
+Dialogue: 0,0:08:19.00,0:08:21.90,Chn,,0,0,0,,可是如果我能成功穿越的话 我也许能搭得到公车呀???\N{\rEng}IF I WITH MAKE IT THROUGH THEM MAYBE I CAN CATCH THE BUS TO FIRE ???
+Dialogue: 0,0:08:22.10,0:08:23.20,Chn,,0,0,0,,我必须得试试\N{\rEng}I HAVE TO TRY
+Dialogue: 0,0:08:23.50,0:08:25.00,Chn,,0,0,0,,你不会成功的 Gerald!\N{\rEng}YOU WON'T MAKE IT THROUGH, GERALD!
+Dialogue: 0,0:08:30.20,0:08:33.80,Chn,,0,0,0,,- CHANGE? - SPARE SOME CHANGE?
+Dialogue: 0,0:08:33.80,0:08:35.80,Chn,,0,0,0,,AHHHH!
+Dialogue: 0,0:08:36.60,0:08:37.50,Chn,,0,0,0,,CHANGE, SIR?
+Dialogue: 0,0:08:37.50,0:08:39.10,Chn,,0,0,0,,GOT SOME CHANGE? CHANGE
+Dialogue: 0,0:08:39.80,0:08:41.10,Chn,,0,0,0,,我没有零钱!\N{\rEng}DON'T HAVE ANY CHANGE!
+Dialogue: 0,0:08:41.30,0:08:42.10,Chn,,0,0,0,,CHANGE?
+Dialogue: 0,0:08:42.10,0:08:44.40,Chn,,0,0,0,,CHANGE, SIR?
+Dialogue: 0,0:08:44.40,0:08:45.80,Chn,,0,0,0,,我没有零钱!\N{\rEng}DON'T HAVE ANY CHANGE!
+Dialogue: 0,0:08:45.80,0:08:47.80,Chn,,0,0,0,,CHANGE?
+Dialogue: 0,0:08:47.90,0:08:49.20,Chn,,0,0,0,,操 好吧 你要零钱是不\N{\rEng}DAMMIT! ALL RIGHT YOU WANT CHANGE
+Dialogue: 0,0:08:49.40,0:08:50.20,Chn,,0,0,0,,这里!\N{\rEng}HERE!
+Dialogue: 0,0:08:52.30,0:08:53.00,Chn,,0,0,0,,好啦 再给点吧\N{\rEng}ALL RIGHT A LITTLE BIT
+Dialogue: 0,0:08:53.40,0:08:55.00,Chn,,0,0,0,,都拿去吧\N{\rEng}THERE YOU GO TAKE THE CHANGE
+Dialogue: 0,0:08:56.10,0:08:56.70,Chn,,0,0,0,,CHANGE?
+Dialogue: 0,0:08:56.70,0:08:59.00,Chn,,0,0,0,,等等 我没有零钱搭公车了..\N{\rEng}WAIT, I DON'T HAVE ANY CHANGE LEFT FOR THE BUS
+Dialogue: 0,0:08:59.70,0:09:02.10,Chn,,0,0,0,,不好意思 我可以要一些零钱回来吗 谢谢?\N{\rEng}HOLD ON, CAN I JUST GET BACK SOME OF THAT CHANGE, PLEASE?
+Dialogue: 0,0:09:02.50,0:09:03.30,Chn,,0,0,0,,有零钱吗 先生?\N{\rEng}CHANGE, SIR?
+Dialogue: 0,0:09:03.30,0:09:05.40,Chn,,0,0,0,,我可不可以拿回点零钱坐公车啊? 求求你了\N{\rEng}CAN I HAVE JUST A LITTLE CHANGE FOR THE BUS, PLEASE
+Dialogue: 0,0:09:06.10,0:09:08.50,Chn,,0,0,0,,我就要一点 -- 能给些零钱吗?\N{\rEng}I NEED A LITTLE -- ANYBODY HAVE SOME CHANGE?
+Dialogue: 0,0:09:09.60,0:09:10.40,Chn,,0,0,0,,有零钱吗?\N{\rEng}CHANGE?
+Dialogue: 0,0:09:10.40,0:09:11.40,Chn,,0,0,0,,给点零钱好吗?\N{\rEng}GOT ANY CHANGE?
+Dialogue: 0,0:09:12.40,0:09:14.30,Chn,,0,0,0,,有零钱吗?\N{\rEng}CHANGE?
+Dialogue: 0,0:09:17.30,0:09:18.20,Chn,,0,0,0,,发生什么事了?\N{\rEng}WHAT HAPPENED?
+Dialogue: 0,0:09:18.90,0:09:20.20,Chn,,0,0,0,,他..被它们同化了...\N{\rEng}HE HAS BECOME ONE OF THEM
+Dialogue: 0,0:09:25.60,0:09:29.50,Chn,,0,0,0,,CHANGE CHANGE...
+Dialogue: 0,0:09:29.50,0:09:33.50,Chn,,0,0,0,,CHANGE CHANGE
+Dialogue: 0,0:09:37.80,0:09:39.50,Chn,,0,0,0,,滚远点 我可没有零钱\N{\rEng}GO AWAY I DON'T HAVE ANY CHANGE
+Dialogue: 0,0:09:39.80,0:09:41.50,Chn,,0,0,0,,你就是那个流浪汉研究权威吗?\N{\rEng}ARE YOU THE HEAD OF HOMELESS STUDIES?
+Dialogue: 0,0:09:41.50,0:09:42.20,Chn,,0,0,0,,没错\N{\rEng}YES
+Dialogue: 0,0:09:42.30,0:09:43.00,Chn,,0,0,0,,你们是..?\N{\rEng}WHO ARE YOU?
+Dialogue: 0,0:09:43.30,0:09:45.00,Chn,,0,0,0,,现在这一切也许是我们造成的\N{\rEng}WE THINK THIS MAY BE OUR FRIEND'S FAULT
+Dialogue: 0,0:09:45.10,0:09:47.10,Chn,,0,0,0,,他昨天给了个流浪汉20美元\N{\rEng}HE GAVE ONE OF THE HOMELESS TWENTY DOLLARS YESTERDAY
+Dialogue: 0,0:09:47.30,0:09:48.00,Chn,,0,0,0,,哦 天啊\N{\rEng}OH, MY GOD
+Dialogue: 0,0:09:48.20,0:09:49.10,Chn,,0,0,0,,快进来!\N{\rEng}GET IN HERE!
+Dialogue: 0,0:09:50.50,0:09:51.70,Chn,,0,0,0,,到底发生什么事了?\N{\rEng}TELL ME WHAT'S GOING ON
+Dialogue: 0,0:09:51.80,0:09:54.40,Chn,,0,0,0,,镇中央有一群人被流浪汉给困住了..\N{\rEng}THERE'S A BUNCH OF PEOPLE TRAPPED IN THE MIDDLE OF TOWN SURROUNDED BY HOMELESS PEOPLE
+Dialogue: 0,0:09:54.50,0:09:55.50,Chn,,0,0,0,,我们想把他们救出来\N{\rEng}WE CAN'T GET TO THEM
+Dialogue: 0,0:09:55.90,0:09:56.50,Chn,,0,0,0,,好啦 好啦!\N{\rEng}ALRIGHT, ALRIGHT!
+Dialogue: 0,0:09:56.50,0:09:57.90,Chn,,0,0,0,,听好 虽然我真的不想冒险\N{\rEng}LOOK, I DIDN'T WANT TO RISK IT
+Dialogue: 0,0:09:57.90,0:09:59.80,Chn,,0,0,0,,但我会以大局为重的\N{\rEng}BUT I THINK I KNOW WHAT TO DO
+Dialogue: 0,0:10:00.40,0:10:01.60,Chn,,0,0,0,,我会试着飞跃这些流浪汉\N{\rEng}I'LL TRY TO JUMP ALL THOSE HOMELESS
+Dialogue: 0,0:10:01.60,0:10:03.20,Chn,,0,0,0,,并救出那些被围困的人..\N{\rEng}AND GET TO THE PEOPLE ON THAT ROOF
+Dialogue: 0,0:10:03.30,0:10:04.20,Chn,,0,0,0,,飞跃他们...\N{\rEng}JUMP THEM
+Dialogue: 0,0:10:04.30,0:10:05.60,Chn,,0,0,0,,我是飞跃流浪汉职业选手\N{\rEng}I JUMP THE HOMELESS PROFESSIONALLY
+Dialogue: 0,0:10:05.70,0:10:08.90,Chn,,0,0,0,,只要给我一个滑板 我就能飞跃整个地球\N{\rEng}IF YOU CAN GIVE ME SKATEBOARD I TRY TO ??? SAVE THOES PEOPLE
+Dialogue: 0,0:10:09.10,0:10:09.90,Chn,,0,0,0,,给我闭嘴 Cartman!\N{\rEng}OH, SHUT UP, CARTMAN!
+Dialogue: 0,0:10:09.90,0:10:11.60,Chn,,0,0,0,,你只不过飞越了一个流浪汉而已!\N{\rEng}ALL YOU DID WAS JUMP OVER ONE HOMELESS GUY!
+Dialogue: 0,0:10:12.00,0:10:13.50,Chn,,0,0,0,,飞跃三十到四十个 对我来说也不是不可能的事\N{\rEng}I EASILY COULD HAVE CLEARED ANOTHER THIRTY OR FORTY
+Dialogue: 0,0:10:13.50,0:10:15.50,Chn,,0,0,0,,你飞跃一个的时候都很勉强了 肥猪!\N{\rEng}YOU BARELY MADE IT OVER ONE, FAT ASS!
+Dialogue: 0,0:10:15.80,0:10:16.50,Chn,,0,0,0,,Kyle 够了!\N{\rEng}KYLE, ENOUGH!
+Dialogue: 0,0:10:16.70,0:10:19.30,Chn,,0,0,0,,Cartman能够飞越多少个流浪汉 根本就不是问题的重点\N{\rEng}CARTMAN JUMPING MORE HOMELESS PEOPLE ISN'T GOING TO SOLVE ANYTHING RIGHT NOW
+Dialogue: 0,0:10:19.40,0:10:20.90,Chn,,0,0,0,,我操!\N{\rEng}GOD!  DAMMIT! -
+Dialogue: 0,0:10:20.90,0:10:22.20,Chn,,0,0,0,,又不是我让他们跳的\N{\rEng}I DON'T WANT HIM TO JUMP OVER MORE
+Dialogue: 0,0:10:22.20,0:10:23.20,Chn,,0,0,0,,孩子们\N{\rEng}BOYS, BOYS
+Dialogue: 0,0:10:23.50,0:10:26.40,Chn,,0,0,0,,我想你们还不是太了解流浪汉这个物种吧?\N{\rEng}I DON'T THINK YOU UNDERSTAND HOW THE HOMELESS FUNCTION
+Dialogue: 0,0:10:26.80,0:10:28.40,Chn,,0,0,0,,你们和我一起去楼下看看好了\N{\rEng}PERHAPS YOU SHOULD COME DOWNTARES
+Dialogue: 0,0:10:29.00,0:10:30.50,Chn,,0,0,0,,我的实验室在那\N{\rEng}TO MY LABORATORY
+Dialogue: 0,0:10:34.00,0:10:36.20,Chn,,0,0,0,,有零钱吗? 赏点零钱吧..\N{\rEng}CHANGE? GOT SOME CHANGE?
+Dialogue: 0,0:10:36.80,0:10:37.80,Chn,,0,0,0,,赏点吧 先生\N{\rEng}CHANGE, SIR?
+Dialogue: 0,0:10:37.90,0:10:39.70,Chn,,0,0,0,,我们没有零钱!\N{\rEng}WE DON'T HAVE ANY CHANGE!
+Dialogue: 0,0:10:39.90,0:10:40.90,Chn,,0,0,0,,闪远点!\N{\rEng}GO AWAY!
+Dialogue: 0,0:10:41.20,0:10:42.50,Chn,,0,0,0,,有消息吗 Steven\N{\rEng}ANYTHING, STEVEN
+Dialogue: 0,0:10:42.70,0:10:43.20,Chn,,0,0,0,,没呢\N{\rEng}NO
+Dialogue: 0,0:10:43.30,0:10:44.80,Chn,,0,0,0,,所有电话都是"无人接听"\N{\rEng}ALL THE PHONE LINES ARE COMPLETELY DOWN
+Dialogue: 0,0:10:54.30,0:10:55.50,Chn,,0,0,0,,哈罗?\N{\rEng}HELLO?
+Dialogue: 0,0:10:55.70,0:10:57.20,Chn,,0,0,0,,我是图书馆的Steve Garret呀\N{\rEng}IT'S STEVE GARRETT FROM THE LIBRARY
+Dialogue: 0,0:10:57.30,0:10:58.60,Chn,,0,0,0,,快让我们进来吧\N{\rEng}PLEASE, LET US IN
+Dialogue: 0,0:10:59.50,0:11:01.50,Chn,,0,0,0,,你还是去别的地方吧 Steve\N{\rEng}FIND ANOTHER PLACE TO HIDE, STEVE!
+Dialogue: 0,0:11:01.90,0:11:03.40,Chn,,0,0,0,,我这还有其他人哪\N{\rEng}I HAVE OTHERS WITH ME
+Dialogue: 0,0:11:03.60,0:11:04.70,Chn,,0,0,0,,我们没地方可躲了\N{\rEng}WITH NO WHERE ELSE TO GO
+Dialogue: 0,0:11:04.70,0:11:06.10,Chn,,0,0,0,,有名妇女还怀孕了呢\N{\rEng}ONE WOMAN HERE IS PREGNANT
+Dialogue: 0,0:11:06.40,0:11:07.80,Chn,,0,0,0,,不能就这样把他们关在外面吧\N{\rEng}CAN'T JUST LEAVE THEM OUT THERE
+Dialogue: 0,0:11:08.00,0:11:09.00,Chn,,0,0,0,,让我们进来吧...\N{\rEng}LET US IN
+Dialogue: 0,0:11:09.20,0:11:10.50,Chn,,0,0,0,,看在上帝他老人家的面子上\N{\rEng}FOR GOD SAKES THEY'RE COMING
+Dialogue: 0,0:11:10.90,0:11:13.10,Chn,,0,0,0,,没有啊 我都说过我们没有零钱了...\N{\rEng}NO, I'M SORRY WE DON'T HAVE ANY CHANGE
+Dialogue: 0,0:11:13.40,0:11:14.90,Chn,,0,0,0,,你得让他们进来呀 Randy\N{\rEng}YOU HAVE TO LET THEM IN, RANDY
+Dialogue: 0,0:11:15.30,0:11:17.40,Chn,,0,0,0,,可如果一下子来那么多人 我们的食物就不够分了啊\N{\rEng}THERE ISN'T ENOUGH FOOD FOR MORE PEOPLE UP HERE
+Dialogue: 0,0:11:17.80,0:11:20.30,Chn,,0,0,0,,噢 天啊 这还有个流浪汉是越战老兵\N{\rEng}OH, GOD, ONE OF THEM IS A WAR VETERAN
+Dialogue: 0,0:11:20.50,0:11:22.20,Chn,,0,0,0,,我们没办法不给他些零钱....\N{\rEng}WE ARE GOING TO HAVE TO GIVE HIM SOME CHANGE
+Dialogue: 0,0:11:22.60,0:11:24.50,Chn,,0,0,0,,这一切不是真的...\N{\rEng}THIS ISN'T HAPPENING
+Dialogue: 0,0:11:24.80,0:11:26.10,Chn,,0,0,0,,好吧 好吧 我受够了\N{\rEng}ALL RIGHT, ALL RIGHT FINE
+Dialogue: 0,0:11:30.60,0:11:32.10,Chn,,0,0,0,,能给点零钱吗 先生?\N{\rEng}COULD YOU SPARE SOME CHANGE, SIR
+Dialogue: 0,0:11:32.50,0:11:33.90,Chn,,0,0,0,,AHHHHH!
+Dialogue: 0,0:11:36.50,0:11:39.40,Chn,,0,0,0,,我曾经解剖过好几个流浪汉 来分析它们身体的构造\N{\rEng}I HAVE DISSECTED SEVERAL HOMELESS TO SEE WHAT MAKES THEM TICK
+Dialogue: 0,0:11:40.00,0:11:42.60,Chn,,0,0,0,,它们的骨骼构造和我们似乎没有多大区别\N{\rEng}THEIR ANATOMY IS SHOCKINGLY SIMILAR TO OURS
+Dialogue: 0,0:11:42.70,0:11:44.40,Chn,,0,0,0,,看到了吗 所有东西都一样..\N{\rEng}SEE? EVERYTHING IS THERE
+Dialogue: 0,0:11:44.50,0:11:45.60,Chn,,0,0,0,,心脏 肺 肾..\N{\rEng}HEART, LUNG, KIDNEYS
+Dialogue: 0,0:11:46.10,0:11:48.40,Chn,,0,0,0,,它们简直就和我们是同一个物种\N{\rEng}THEY ARE ALMOST IDENTICAL TO US IN EVERY WAY
+Dialogue: 0,0:11:49.30,0:11:50.50,Chn,,0,0,0,,除了一点...\N{\rEng}EXCEPT FOR ONE
+Dialogue: 0,0:11:54.20,0:11:58.20,Chn,,0,0,0,,流浪汉只需要零钱..就可以生存\N{\rEng}THE HOMELESS CAN SURVIVE SOLELY ON CHANGE
+Dialogue: 0,0:11:59.60,0:12:00.40,Chn,,0,0,0,,赏点吧?\N{\rEng}CHANGE?
+Dialogue: 0,0:12:00.60,0:12:02.30,Chn,,0,0,0,,他们可以从零钱中汲取营养\N{\rEng}THEY FEED ON OUR CHANGE
+Dialogue: 0,0:12:02.70,0:12:04.30,Chn,,0,0,0,,从而获得生存的动力..\N{\rEng}THEY NEED IT IN ORDER TO KEEP THEM MOVING
+Dialogue: 0,0:12:04.30,0:12:06.20,Chn,,0,0,0,,能不能给点零钱呀?\N{\rEng}IS THAT SOME SPARE CHANGE?
+Dialogue: 0,0:12:06.30,0:12:10.30,Chn,,0,0,0,,这就是说 我们的零钱对它们来说不过是食物罢了\N{\rEng}SOMEHOW, THEY ARE ABLE TO TAKE OUR CHANGE AND TURN IT INTO NOURISHMENT ???
+Dialogue: 0,0:12:10.80,0:12:12.20,Chn,,0,0,0,,您老就赏点吧 大爷\N{\rEng}CAN I HAVE SOME OF THAT CHANGE, SIR
+Dialogue: 0,0:12:12.20,0:12:13.20,Chn,,0,0,0,,现在看好了哦\N{\rEng}BUT NOW, WATCH
+Dialogue: 0,0:12:17.30,0:12:18.40,Chn,,0,0,0,,赏点零钱好吗?\N{\rEng}SPARE SOME CHANGE?
+Dialogue: 0,0:12:19.90,0:12:22.50,Chn,,0,0,0,,它一瞬间就全然忘记了我刚刚給过它零钱的事\N{\rEng}IT HAS ALREADY COMPLETELY FOREGOTTEN THAT I HAVE GIVE THEN CHANGE
+Dialogue: 0,0:12:23.80,0:12:26.70,Chn,,0,0,0,,它只是不停地索要零钱而已\N{\rEng}IT JUST WANTS MORE CHANGE
+Dialogue: 0,0:12:27.50,0:12:28.30,Chn,,0,0,0,,看看这个吧\N{\rEng}LOOK OVER HERE
+Dialogue: 0,0:12:29.50,0:12:32.70,Chn,,0,0,0,,它已经三天没有收到零钱了..\N{\rEng}THIS ONE HAS KEPT DEPRIVED OF CHANGE FOR OVER THREE DAYS
+Dialogue: 0,0:12:33.20,0:12:34.00,Chn,,0,0,0,,零..钱..\N{\rEng}CHANGE
+Dialogue: 0,0:12:35.10,0:12:37.00,Chn,,0,0,0,,看到了吧? 它离死不远了\N{\rEng}- WHAT IS IT DOING? - IT'S DYING
+Dialogue: 0,0:12:37.50,0:12:38.30,Chn,,0,0,0,,哇 真屌\N{\rEng}COOL
+Dialogue: 0,0:12:38.60,0:12:42.60,Chn,,0,0,0,,我听说不久前常青树镇 也爆发了一次严重的流浪汉施虐\N{\rEng}I HAVE LEARNED THAT THE NEARBY CITY OF EVERGREEN HAD A HOMELESS PROBLEM JUST BEFORE WE DID
+Dialogue: 0,0:12:43.10,0:12:44.20,Chn,,0,0,0,,但是他们成功解决了这个难题\N{\rEng}AND THEY WERE ABLE TO STOP IT
+Dialogue: 0,0:12:45.30,0:12:46.10,Chn,,0,0,0,,不好意思\N{\rEng}EXCUSE ME
+Dialogue: 0,0:12:46.50,0:12:47.60,Chn,,0,0,0,,前门是开着的\N{\rEng}THE FRONT DOOR WAS OPEN
+Dialogue: 0,0:12:47.60,0:12:49.10,Chn,,0,0,0,,我能借些零钱吗?\N{\rEng}CAN I BORROW SOME CHANGE?
+Dialogue: 0,0:12:49.40,0:12:52.40,Chn,,0,0,0,,赏点吧... 上帝会保佑你的灵魂的\N{\rEng}CHANGE... GOD BLESS YOU, JUST CHANGE
+Dialogue: 0,0:12:52.70,0:12:54.30,Chn,,0,0,0,,噢 天哪 他们正不断的涌进来...\N{\rEng}OH, MY GOD THEY'RE COMING IN
+Dialogue: 0,0:12:54.40,0:12:55.60,Chn,,0,0,0,,孩子们 快离开这儿\N{\rEng}QUICK, KIDS GET OUT OF HERE
+Dialogue: 0,0:12:55.60,0:12:56.30,Chn,,0,0,0,,拯救这个城市\N{\rEng}YOU CAN FIT
+Dialogue: 0,0:12:58.30,0:12:58.80,Chn,,0,0,0,,那你怎么办?\N{\rEng}WHAT ABOUT YOU?
+Dialogue: 0,0:12:59.20,0:13:01.50,Chn,,0,0,0,,快去常青树镇请教一下 解决流浪汉施虐的方法\N{\rEng}GET TO EVERGREEN AND FIND OUT HOW THEY GOT RID OF THE HOMELESS
+Dialogue: 0,0:13:01.60,0:13:02.50,Chn,,0,0,0,,别为我担心\N{\rEng}I'LL BE ALRIGHT
+Dialogue: 0,0:13:02.60,0:13:04.30,Chn,,0,0,0,,别猥亵我的屁股...Kenny\N{\rEng}??? STOP PUSHING
+Dialogue: 0,0:13:04.50,0:13:07.70,Chn,,0,0,0,,哈罗 不好意思 我真的需要搭公车的零钱\N{\rEng}HELLO, SORRY, I JUST REALLY NEED CHANGE FOR THE BUS
+Dialogue: 0,0:13:08.30,0:13:08.80,Chn,,0,0,0,,CHANGE
+Dialogue: 0,0:13:09.20,0:13:10.40,Chn,,0,0,0,,SPARE SOME CHANGE CHANGE
+Dialogue: 0,0:13:10.40,0:13:12.40,Chn,,0,0,0,,我操! 我是真的急需零钱呀\N{\rEng}STOP IT! I REALLY DO NEED CHANGE
+Dialogue: 0,0:13:12.80,0:13:14.40,Chn,,0,0,0,,大家都一样嘛...\N{\rEng}ME, TOO, CHANGE?
+Dialogue: 0,0:13:14.70,0:13:15.90,Chn,,0,0,0,,CHANGE?
+Dialogue: 0,0:13:16.10,0:13:18.00,Chn,,0,0,0,,好罗 给点零钱好吗?\N{\rEng}HELLO, DO YOU HAVE ANY CHANGE?
+Dialogue: 0,0:13:18.40,0:13:19.00,Chn,,0,0,0,,CHANGE
+Dialogue: 0,0:13:19.90,0:13:21.70,Chn,,0,0,0,,永别了 残酷滴世界...\N{\rEng}SORRY TO TAKE THE EASY WAY OUT
+Dialogue: 0,0:13:26.10,0:13:27.40,Chn,,0,0,0,,OW!
+Dialogue: 0,0:13:27.40,0:13:29.00,Chn,,0,0,0,,OH
+Dialogue: 0,0:13:29.00,0:13:30.20,Chn,,0,0,0,,OH!
+Dialogue: 0,0:13:31.50,0:13:32.60,Chn,,0,0,0,,OH.
+Dialogue: 0,0:13:32.80,0:13:33.30,Chn,,0,0,0,,AHHH.
+Dialogue: 0,0:13:33.80,0:13:34.40,Chn,,0,0,0,,GOD!
+Dialogue: 0,0:13:36.10,0:13:40.10,Chn,,0,0,0,,OH, OH, OH, OH, OH!
+Dialogue: 0,0:13:48.30,0:13:49.30,Chn,,0,0,0,,AHHHHH
+Dialogue: 0,0:13:50.10,0:13:50.90,Chn,,0,0,0,,OW!
+Dialogue: 0,0:13:51.80,0:13:54.60,Chn,,0,0,0,,OW, OW, OW!
+Dialogue: 0,0:13:55.70,0:13:56.60,Chn,,0,0,0,,CHANGE?
+Dialogue: 0,0:13:56.60,0:13:58.40,Chn,,0,0,0,,GOT CHANGE?
+Dialogue: 0,0:13:58.90,0:14:00.90,Chn,,0,0,0,,我操!\N{\rEng}NO, NO, DAMMIT
+Dialogue: 0,0:14:01.70,0:14:02.70,Chn,,0,0,0,,我受够了\N{\rEng}THAT'S IT
+Dialogue: 0,0:14:03.30,0:14:04.60,Chn,,0,0,0,,都注意了 各位\N{\rEng}THAT'S IT, EVERYONE
+Dialogue: 0,0:14:05.00,0:14:06.30,Chn,,0,0,0,,我们的薯片吃完了...\N{\rEng}WE'RE OUT OF POP TARTS
+Dialogue: 0,0:14:07.00,0:14:08.60,Chn,,0,0,0,,你是在开玩笑吧?\N{\rEng}NO, WE CAN'T BE
+Dialogue: 0,0:14:09.00,0:14:10.40,Chn,,0,0,0,,面对现实吧 我们要开始捱饿了\N{\rEng}FACE IT, WE'RE GOING TO STARVE
+Dialogue: 0,0:14:10.50,0:14:12.30,Chn,,0,0,0,,不 别担心 这里还有一包呢\N{\rEng}NO, WAIT THERE IS THERE IS STILL A BOX OVER HERE
+Dialogue: 0,0:14:12.60,0:14:14.10,Chn,,0,0,0,,哪些是草莓饼干 最恶心了!\N{\rEng}THOSE ARE CHERRY, ICK!
+Dialogue: 0,0:14:14.50,0:14:16.60,Chn,,0,0,0,,等等 我有信号拉\N{\rEng}WAIT, I HAVE GOT A SIGNAL
+Dialogue: 0,0:14:16.70,0:14:18.40,Chn,,0,0,0,,什么 真的吗?\N{\rEng}WHAT? YOU DO?
+Dialogue: 0,0:14:18.70,0:14:19.80,Chn,,0,0,0,,快打电话给消防局啊\N{\rEng}CALL THE FIRE DEPARTMENT
+Dialogue: 0,0:14:19.80,0:14:21.00,Chn,,0,0,0,,还是先打给我老婆吧\N{\rEng}I'M CALLING MY WIFE
+Dialogue: 0,0:14:22.40,0:14:24.10,Chn,,0,0,0,,Mary Mary 宝贝 你没事吧?\N{\rEng}MARY, MARY, BABY ARE YOU ALL RIGHT?
+Dialogue: 0,0:14:24.30,0:14:25.60,Chn,,0,0,0,,噢 我们在这还挺好的\N{\rEng}OH, MAYBE WE ARE GOING TO BE OKAY
+Dialogue: 0,0:14:25.60,0:14:26.70,Chn,,0,0,0,,问问她外面的情况\N{\rEng}ASK HER WHAT IS HAPPENING
+Dialogue: 0,0:14:27.00,0:14:28.40,Chn,,0,0,0,,镇上有采取什么措施吗?\N{\rEng}WHAT IS GOING ON OUT THERE
+Dialogue: 0,0:14:28.70,0:14:29.70,Chn,,0,0,0,,为什么没有救援人员过来啊?\N{\rEng}NOBODY IS COMING FOR US
+Dialogue: 0,0:14:31.70,0:14:32.60,Chn,,0,0,0,,什么?\N{\rEng}THEY WHAT?
+Dialogue: 0,0:14:32.80,0:14:33.50,Chn,,0,0,0,,不要呀!\N{\rEng}NO!
+Dialogue: 0,0:14:33.60,0:14:34.80,Chn,,0,0,0,,这怎么可能呢!\N{\rEng}THAT IS IMPOSSIBLE!
+Dialogue: 0,0:14:35.10,0:14:36.60,Chn,,0,0,0,,可是这怎么会.. 我们还没... 哈罗?\N{\rEng}BUT HOW CAN THAT BE WE DIDN'T EVEN -- HELLO?
+Dialogue: 0,0:14:37.30,0:14:39.60,Chn,,0,0,0,,哈罗? Mary! Mary!\N{\rEng}HELLO? MARY! MARY!
+Dialogue: 0,0:14:39.90,0:14:40.90,Chn,,0,0,0,,发生什么事了 Glen?\N{\rEng}WHAT HAPPENED, GLEN?
+Dialogue: 0,0:14:41.30,0:14:42.60,Chn,,0,0,0,,镇上还是没有采取任何措施\N{\rEng}THERE IS NO HELP COMING
+Dialogue: 0,0:14:42.90,0:14:45.50,Chn,,0,0,0,,她说由于那些流浪汉的缘故\N{\rEng}SHE SAID BECAUSE OF ALL THE HOMELESS--
+Dialogue: 0,0:14:46.80,0:14:50.00,Chn,,0,0,0,,由于那些流浪汉的缘故 整个南方公园镇的物价狂跌\N{\rEng}BECAUSE OF ALL THE HOMELESS IN SOUTH PARK PROPERTY VALUES PLUMMETED
+Dialogue: 0,0:14:50.30,0:14:53.00,Chn,,0,0,0,,银行冻结了以前我拿房子抵押的不动产...\N{\rEng}I HAD TWO LIENS AGAINST THE HOUSE AND SO THE BANK IS FORECLOSING
+Dialogue: 0,0:14:54.10,0:14:55.40,Chn,,0,0,0,,我现在无家可归了...\N{\rEng}I DON'T HAVE A HOME ANY MORE
+Dialogue: 0,0:14:59.10,0:15:00.40,Chn,,0,0,0,,Randy 你干什么呀?\N{\rEng}RANDY, WHAT ARE YOU DOING
+Dialogue: 0,0:15:00.70,0:15:02.00,Chn,,0,0,0,,他现在可是个流浪汉了\N{\rEng}HE'S HOMELESS NOW
+Dialogue: 0,0:15:02.10,0:15:03.00,Chn,,0,0,0,,我们还是提防着点好..\N{\rEng}WE AREN'T SAFE
+Dialogue: 0,0:15:03.20,0:15:04.20,Chn,,0,0,0,,我还那些流浪汉不一样啊\N{\rEng}I'M NOT LIKE THEM
+Dialogue: 0,0:15:04.60,0:15:05.10,Chn,,0,0,0,,谁知道啊\N{\rEng}NOT YET
+Dialogue: 0,0:15:05.80,0:15:06.90,Chn,,0,0,0,,可能过段时间你就会进化成他们那样了\N{\rEng}IT IS ONLY A MATTER OF TIME
+Dialogue: 0,0:15:07.00,0:15:08.30,Chn,,0,0,0,,那你到底打算怎么做呢?\N{\rEng}AND WHAT ARE YOU GOING TO DO, HUH?
+Dialogue: 0,0:15:08.60,0:15:09.50,Chn,,0,0,0,,把它的头打爆就好了吧\N{\rEng}JUST BLOW HIS HEAD OFF
+Dialogue: 0,0:15:09.50,0:15:10.70,Chn,,0,0,0,,电视上有教过呢\N{\rEng}IF WE HAVE TO
+Dialogue: 0,0:15:11.10,0:15:12.00,Chn,,0,0,0,,蹲下来 Glen\N{\rEng}SIT DOWN, GLEN
+Dialogue: 0,0:15:12.10,0:15:13.00,Chn,,0,0,0,,Randy 你可不能这么...\N{\rEng}RANDY, YOU CAN'T JUST--
+Dialogue: 0,0:15:13.30,0:15:15.80,Chn,,0,0,0,,蹲下!\N{\rEng}SIT DOWN!
+Dialogue: 0,0:15:16.50,0:15:17.50,Chn,,0,0,0,,CHANGE
+Dialogue: 0,0:15:18.60,0:15:19.40,Chn,,0,0,0,,这也太扯了吧?\N{\rEng}THIS IS CRAZY
+Dialogue: 0,0:15:19.40,0:15:20.90,Chn,,0,0,0,,他们怎么可以就这样把我的房子封掉呢?\N{\rEng}HOW CAN THEY JUST TAKE AWAY MY HOUSE
+Dialogue: 0,0:15:21.10,0:15:23.70,Chn,,0,0,0,,我的财产全部都没有了 我现在一贫如洗了...\N{\rEng}WHERE AM I SUPPOSED TO PUT ALL MY THINGS I DON'T HAVE FOR MY STUFF
+Dialogue: 0,0:15:23.70,0:15:25.20,Chn,,0,0,0,,我现在一贫如洗了...\N{\rEng}WHERE AM I SUPPOSED TO PUT ALL MY STUFF
+Dialogue: 0,0:15:25.60,0:15:26.60,Chn,,0,0,0,,我得找个地方安定下来\N{\rEng}I NEED TO PAY FOR STORAGE
+Dialogue: 0,0:15:26.60,0:15:29.10,Chn,,0,0,0,,如果我能凑些钱的话 也许还能勉强维持下去吧..\N{\rEng}CAN I BORROW SOME MONEY TO PUT MY STUFF IN STORAGE
+Dialogue: 0,0:15:29.30,0:15:31.80,Chn,,0,0,0,,各位 可不可以帮帮我\N{\rEng}COME ON, GUYS IF YOU HELP ME A LITTLE BIT
+Dialogue: 0,0:15:32.00,0:15:33.90,Chn,,0,0,0,,只要给我点零钱就好了嘛\N{\rEng}???JUST A LITTLE CHANGE?
+Dialogue: 0,0:15:34.90,0:15:35.70,Chn,,0,0,0,,零钱...\N{\rEng}CHANGE
+Dialogue: 0,0:15:50.70,0:15:52.00,Chn,,0,0,0,,这地方他妈怎么像被操过一样?\N{\rEng}WHAT THE HELL HAPPENED HERE?
+Dialogue: 0,0:15:52.80,0:15:54.00,Chn,,0,0,0,,不要再前进了!\N{\rEng}THAT'S FAR ENOUGH
+Dialogue: 0,0:15:54.60,0:15:57.00,Chn,,0,0,0,,快点擦干净你们的小屁股 滚出我们的常青树镇!\N{\rEng}JUST MARCH YOUR BUTTS RIGHT BACK OUT OF OUR TOWN
+Dialogue: 0,0:15:57.40,0:15:59.00,Chn,,0,0,0,,我们只不过是请来请教一个问题\N{\rEng}WE JUST CAME TO ASK A QUESTION
+Dialogue: 0,0:15:59.30,0:16:01.20,Chn,,0,0,0,,你们是流浪汉吗?\N{\rEng}YOU HOMELESS OR HOMEOWNERS?
+Dialogue: 0,0:16:01.60,0:16:02.30,Chn,,0,0,0,,我们才九岁呢!\N{\rEng}WE'RE NINE
+Dialogue: 0,0:16:02.70,0:16:04.00,Chn,,0,0,0,,噢 那意思说你们是少年流浪汉咯?\N{\rEng}YEAH, WELL THAT MAKES YOU HOMELESS
+Dialogue: 0,0:16:04.00,0:16:05.90,Chn,,0,0,0,,快滚 不然我就要开枪了!\N{\rEng}SO GET OUT OF HERE BEFORE YOU DIE
+Dialogue: 0,0:16:06.30,0:16:08.30,Chn,,0,0,0,,可是 我们只不过是来请教一下 如何解决流浪汉施虐的问题\N{\rEng}LOOK, WE JUST NEED HELP WITH OUR OWN HOMELESS PROBLEM
+Dialogue: 0,0:16:08.50,0:16:10.80,Chn,,0,0,0,,没错 全部都是这个犹太人惹的祸\N{\rEng}YEAH, THIS JEW HERE MADE THEM TAKE OVER OUR TOWN
+Dialogue: 0,0:16:11.10,0:16:12.20,Chn,,0,0,0,,闭嘴 Cartman!\N{\rEng}SHUT UP, CARTMAN!
+Dialogue: 0,0:16:13.10,0:16:14.40,Chn,,0,0,0,,Cartman..\N{\rEng}CARTMAN
+Dialogue: 0,0:16:14.70,0:16:15.60,Chn,,0,0,0,,Eric Cartman?\N{\rEng}ERIC CARTMAN?
+Dialogue: 0,0:16:17.00,0:16:20.30,Chn,,0,0,0,,那个曾经只凭一个滑板 孤身飞越过30个流浪汉的街头传奇少年?\N{\rEng}THE KID WHO JUMPED 30 HOMELESS PEOPLE ON A SKATEBOARD?
+Dialogue: 0,0:16:22.30,0:16:23.40,Chn,,0,0,0,,你们也知道这件事?\N{\rEng}YOU HEARD ABOUT THAT?
+Dialogue: 0,0:16:23.40,0:16:24.10,Chn,,0,0,0,,那当然了\N{\rEng}HEARD ABOUT IT
+Dialogue: 0,0:16:24.50,0:16:27.50,Chn,,0,0,0,,传说中如果你发挥实力的话 50个流浪汉对你而言也不过是小菜一碟\N{\rEng}THEY SAID YOU HAVE HAVE EASILY CLEARED 50 HOMELESS WITH THAT JUMP
+Dialogue: 0,0:16:27.80,0:16:28.80,Chn,,0,0,0,,30个已经是我的极限了\N{\rEng}30 WAS HARD ENOUGH
+Dialogue: 0,0:16:29.10,0:16:30.00,Chn,,0,0,0,,我操\N{\rEng}OH, GOD
+Dialogue: 0,0:16:30.20,0:16:30.90,Chn,,0,0,0,,什么鸟30个流浪汉呀!\N{\rEng}IT WASN'T 30!
+Dialogue: 0,0:16:30.90,0:16:32.00,Chn,,0,0,0,,不过一个罢了\N{\rEng}IT WAS ONE
+Dialogue: 0,0:16:32.20,0:16:34.90,Chn,,0,0,0,,他只不过跨着他的傻逼小滑板 跳过一个流浪汉而已\N{\rEng}HE JUMPED OVER ONE HOMELESS PERSON WITH HIS STUPID SKATEBOARD
+Dialogue: 0,0:16:34.90,0:16:36.60,Chn,,0,0,0,,而且就算那一次他也完成的非常勉强\N{\rEng}AND HE BARELY MADE IT OVER THAT GUY
+Dialogue: 0,0:16:36.80,0:16:37.80,Chn,,0,0,0,,Kyle 别计较这些细节了\N{\rEng}KYLE, KNOCK IT OFF
+Dialogue: 0,0:16:38.10,0:16:39.80,Chn,,0,0,0,,我们是来讨论如何解决流浪汉肆虐问题的\N{\rEng}WE ARE HERE TO GET RID OF THE HOMELESS
+Dialogue: 0,0:16:39.80,0:16:41.30,Chn,,0,0,0,,而不是来辩论Cartman可以飞过几个流浪汉!\N{\rEng}NOT HOW MANY HOMELESS CARTMAN CAN JUMP
+Dialogue: 0,0:16:41.50,0:16:44.20,Chn,,0,0,0,,求求你们了 快点告诉我们 你们是如何做到的吧\N{\rEng}PLEASE, WE WANT YOU TO TELL US HOW YOU GOT RID OF THE HOMELESS IN YOUR TOWN
+Dialogue: 0,0:16:45.70,0:16:47.80,Chn,,0,0,0,,嗯 其实蛮简单的嘛\N{\rEng}WELL, THAT WAS EASY
+Dialogue: 0,0:16:51.70,0:16:55.30,Chn,,0,0,0,,那些流浪汉大约是在 三个月前抵达我们常青树镇的\N{\rEng}THE HOMELESS FIRST STARTED ARRIVING IN EVERGREEN ABOUT THREE MONTHS AGO
+Dialogue: 0,0:16:55.70,0:16:59.20,Chn,,0,0,0,,一开始不过就几个而已 要点零钱啊 在公园睡觉啊什么的\N{\rEng}AT FIRST, THERE WERE ONLY A FEW OF THEM ASKING FOR CHANGE SLEEPING IN THE PARKS
+Dialogue: 0,0:17:00.20,0:17:01.50,Chn,,0,0,0,,可是它们的数量开始急剧增加\N{\rEng}BUT THEN MORE SHOWED UP
+Dialogue: 0,0:17:02.00,0:17:04.30,Chn,,0,0,0,,接着我们忽然意识到一些不对劲的地方\N{\rEng}AND WE REALIZED THERE WAS SOMETHING DIFFERENT ABOUT THEM
+Dialogue: 0,0:17:04.70,0:17:07.10,Chn,,0,0,0,,它们不断地积蓄着我们的零钱 直到它们可以..\N{\rEng}THEY FED OFF OF OUR CHANGE TO THE POINT THAT THEY COULD
+Dialogue: 0,0:17:07.10,0:17:09.50,Chn,,0,0,0,,租下我们的住房...\N{\rEng}ACTUALLY START RENTING APARTMENTS
+Dialogue: 0,0:17:10.50,0:17:13.90,Chn,,0,0,0,,可以想象不久之后 它们就可以买下我们的住房了\N{\rEng}WE KNEW IT WOULDN'T BE LONG BEFORE THE HOMELESS ACTUALLY STARTED BUYING HOMES
+Dialogue: 0,0:17:14.70,0:17:17.60,Chn,,0,0,0,,到那时候 我们就分不清到底谁是流浪汉了..\N{\rEng}AND THEN WE WOULD HAVE NO IDEA WHO WAS HOMELESS AND WHO WASN'T
+Dialogue: 0,0:17:18.20,0:17:20.50,Chn,,0,0,0,,也许你隔壁家的邻居就是个流浪汉\N{\rEng}PEOPLE LIVING IN THE HOUSE RIGHT NEXT DOOR TO YOU COULD BE
+Dialogue: 0,0:17:20.50,0:17:22.10,Chn,,0,0,0,,可是你根本就无法知道真相\N{\rEng}HOMELESS AND YOU WOULDN'T EVEN KNOW
+Dialogue: 0,0:17:23.20,0:17:24.50,Chn,,0,0,0,,人们之间的信用关系急剧下降\N{\rEng}NOBODY COULD TRUST ANYBODY
+Dialogue: 0,0:17:24.90,0:17:26.60,Chn,,0,0,0,,于是全镇开始爆发了大规模械斗及战争\N{\rEng}FIGHTS BROKE OUT AND WAR
+Dialogue: 0,0:17:26.90,0:17:29.90,Chn,,0,0,0,,就是那时我开始怀疑我的妻子\N{\rEng}THAT IS WHEN I STARTED SUSPECTING THAT MY OWN WIFE
+Dialogue: 0,0:17:30.50,0:17:34.40,Chn,,0,0,0,,曾经与我相糑以沫20年的妻子 是一个流浪汉...\N{\rEng}WHO I HAD BEEN LIVING WITH FOR 20 YEARS WAS ACTUALLY HOMELESS
+Dialogue: 0,0:17:34.80,0:17:37.70,Chn,,0,0,0,,我别无选择 只得在她睡着的时候偷偷把房子给点燃了\N{\rEng}SO I HAD TO BURN HER IN HER BED WHILE SHE SLEPT
+Dialogue: 0,0:17:38.20,0:17:42.00,Chn,,0,0,0,,在她死掉之后 我发誓 一定不能让流浪汉毁掉我们镇\N{\rEng}AFTER SHE DIED I VOWED I WOULDN'T LET THE HOMELESS DESTROY OUR TOWN
+Dialogue: 0,0:17:42.40,0:17:45.20,Chn,,0,0,0,,所以我们一起团结起来想出了 一个可以永久解决流浪汉问题的办法\N{\rEng}SO WE CAME UP WITH A PLAN TO GET RID OF THEM ONCE AND FOR ALL
+Dialogue: 0,0:17:51.20,0:17:52.30,Chn,,0,0,0,,你这个臭婊子养的\N{\rEng}YOU SON OF BITCH
+Dialogue: 0,0:17:52.80,0:17:54.40,Chn,,0,0,0,,你们根本就没有解决你们的流浪汉问题\N{\rEng}YOU DIDN'T SOLVE YOUR HOMELESS PROBLEM
+Dialogue: 0,0:17:54.70,0:17:56.50,Chn,,0,0,0,,你们只不过把你们的流浪汉 全部都哄去了南方公园镇罢了\N{\rEng}YOU JUST SENT ALL YOUR HOMELESS TO SOUTH PARK
+Dialogue: 0,0:17:57.50,0:17:58.50,Chn,,0,0,0,,就是这样 哈哈\N{\rEng}THAT'S RIGHT, YES
+Dialogue: 0,0:17:59.10,0:18:00.40,Chn,,0,0,0,,- 什么? - 我就知道\N{\rEng}- WHAT? - I KNEW IT
+Dialogue: 0,0:18:00.80,0:18:02.60,Chn,,0,0,0,,这根本就和我给的那20美元没有关系\N{\rEng}IT WASN'T BECAUSE I GAVE THAT GUY $20
+Dialogue: 0,0:18:02.70,0:18:04.30,Chn,,0,0,0,,那些流浪汉都是从这儿来的!\N{\rEng}THE HOMELESS ALL CAME FROM HERE
+Dialogue: 0,0:18:04.80,0:18:06.80,Chn,,0,0,0,,都是那些得克萨斯臭婊子的错!\N{\rEng}AND TEXAS SENT THEM TO US
+Dialogue: 0,0:18:07.10,0:18:09.00,Chn,,0,0,0,,都是圣安东尼奥的那些贱人 把他们的问题转移到我们这儿的\N{\rEng}THE PEOPLE IN SAN ANTONIO GOT RID OF THEIR HOMELESS
+Dialogue: 0,0:18:09.10,0:18:11.30,Chn,,0,0,0,,他们不停的宣传 说常青树镇是个多么多么好的地方\N{\rEng}BY TELLING THEM WHAT A GREAT PLACE EVERGREEN WAS
+Dialogue: 0,0:18:11.70,0:18:14.00,Chn,,0,0,0,,可是你们根本就没有解决问题 你们不过是把问题转移给别人而已\N{\rEng}BUT YOU DIDN'T SOLVE THE PROBLEM YOU JUST MOVED IT
+Dialogue: 0,0:18:14.20,0:18:16.20,Chn,,0,0,0,,这又怎么样呢 我们能活下来已经是万幸了\N{\rEng}RIGHT, BUT WE SURVIVED
+Dialogue: 0,0:18:18.20,0:18:20.60,Chn,,0,0,0,,Tennis!\N{\rEng}TENNIS!
+Dialogue: 0,0:18:22.60,0:18:23.30,Chn,,0,0,0,,Kristine?\N{\rEng}KRISTINE?
+Dialogue: 0,0:18:23.70,0:18:25.30,Chn,,0,0,0,,你这个臭傻...\N{\rEng}YOU SON OF A--
+Dialogue: 0,0:18:25.80,0:18:27.90,Chn,,0,0,0,,你他妈...\N{\rEng}YOU ???
+Dialogue: 0,0:18:28.60,0:18:30.50,Chn,,0,0,0,,我没办法呀 Kristine 谁叫你是流浪汉呢?\N{\rEng}I HAD TO, KRISTINE YOU WERE HOMELESS
+Dialogue: 0,0:18:30.80,0:18:34.20,Chn,,0,0,0,,我才不是流浪汉呢 你这个贱人?\N{\rEng}NO, I WASN'T HOMELESS YOU ASSHOLE???
+Dialogue: 0,0:18:34.20,0:18:35.90,Chn,,0,0,0,,Kristine 我听不清楚你在说什么\N{\rEng}KRISTINE, I CAN'T UNDERSTAND YOU
+Dialogue: 0,0:18:36.60,0:18:39.50,Chn,,0,0,0,,你把我的嘴唇烧掉了\N{\rEng}BECAUSE YOU BURNED MY LIPS OFF
+Dialogue: 0,0:18:39.90,0:18:41.50,Chn,,0,0,0,,你说我把你的阴唇怎么了?\N{\rEng}I URNED YOUR RIPS OFF?
+Dialogue: 0,0:18:41.60,0:18:45.00,Chn,,0,0,0,,我说的是"你把我嘴唇烧掉了.."\N{\rEng}NO, YOU BURNED MY LIPS OFF
+Dialogue: 0,0:18:45.70,0:18:47.10,Chn,,0,0,0,,我实在是不懂你在说什么...\N{\rEng}I HAVE NO IDEA WHAT YOU ARE SAYING
+Dialogue: 0,0:18:48.30,0:18:48.90,Chn,,0,0,0,,OW!
+Dialogue: 0,0:18:50.50,0:18:51.10,Chn,,0,0,0,,OH.
+Dialogue: 0,0:18:55.70,0:18:58.00,Chn,,0,0,0,,伙计们 我们的家长就和这帮傻逼一样蠢\N{\rEng}DUDE, OUR PARENTS ARE JUST AS STUPID AS THESE PEOPLE
+Dialogue: 0,0:18:58.20,0:18:59.60,Chn,,0,0,0,,我们的镇也会像这个镇一样完蛋的..\N{\rEng}OUR TOWN IS GOING TO END UP JUST LIKE THIS
+Dialogue: 0,0:19:00.20,0:19:02.30,Chn,,0,0,0,,不 才不会呢 听好了哦 我可有个办法\N{\rEng}NO, IT ISN'T COME ON, I HAVE AN IDEA
+Dialogue: 0,0:19:02.70,0:19:05.80,Chn,,0,0,0,,不 我们不能让Cartman再飞跃流浪汉了 这实在太危险了 Kyle\N{\rEng}NO, WE ARE NOT HAVING CARTMAN JUMP ANY MORE HOMELESS PEOPLE, KYLE
+Dialogue: 0,0:19:05.90,0:19:07.00,Chn,,0,0,0,,那有不是我的主意..\N{\rEng}THAT ISN'T MY IDEA
+Dialogue: 0,0:19:07.30,0:19:09.00,Chn,,0,0,0,,我刚才在那边的车间里面看到一部公车\N{\rEng}I SAW A BUS IN THE GARAGE A COUPLE MILES BACK
+Dialogue: 0,0:19:09.00,0:19:10.20,Chn,,0,0,0,,我们可以把它改造一下\N{\rEng}WE NEED TO MODIFY IT
+Dialogue: 0,0:19:11.20,0:19:11.80,Chn,,0,0,0,,我们到底要怎么做呀?\N{\rEng}WHAT ARE WE GOING TO DO?
+Dialogue: 0,0:19:12.00,0:19:14.30,Chn,,0,0,0,,我们必须要干在我们的父母自相残杀之前 把这个问题给解决了\N{\rEng}WE GONNA SAVE OUR PARENTS BEFORE THEY ALL KILL EACH OTHER
+Dialogue: 0,0:19:42.60,0:19:43.50,Chn,,0,0,0,,一部公车!\N{\rEng}A BUS!
+Dialogue: 0,0:19:43.60,0:19:44.80,Chn,,0,0,0,,有一部公车开过来呢!\N{\rEng}A BUS IS COMING!
+Dialogue: 0,0:19:47.80,0:19:48.90,Chn,,0,0,0,,是那些孩子们!\N{\rEng}IT'S THE BOYS
+Dialogue: 0,0:19:49.00,0:19:51.20,Chn,,0,0,0,,他们改装了一辆公车来拯救我们...\N{\rEng}THEY MODIFIED A BUS TO GET US OUT OF HERE
+Dialogue: 0,0:19:51.50,0:19:52.90,Chn,,0,0,0,,我就知道他们不会放弃我们的\N{\rEng}I KNEW THEY WOULD COME BACK FOR US
+Dialogue: 0,0:19:53.10,0:19:54.00,Chn,,0,0,0,,太棒了!\N{\rEng}ALL RIGHT!
+Dialogue: 0,0:19:54.60,0:19:56.60,Chn,,0,0,0,,看啊 Glen 我们得救了!\N{\rEng}LOOK, GLEN, WE'RE SAFE!
+Dialogue: 0,0:19:59.20,0:20:00.30,Chn,,0,0,0,,我要调转方向了哦\N{\rEng}I'M TURNING AROUND
+Dialogue: 0,0:20:02.10,0:20:03.10,Chn,,0,0,0,,他们为什么要掉头呀?\N{\rEng}WHY ARE THEY TURNING
+Dialogue: 0,0:20:03.40,0:20:04.40,Chn,,0,0,0,,他们在干什么呀?\N{\rEng}WHAT ARE THEY DOING?
+Dialogue: 0,0:20:06.80,0:20:08.20,Chn,,0,0,0,,不要离开我们...\N{\rEng}DON'T LEAVE US
+Dialogue: 0,0:20:09.30,0:20:10.30,Chn,,0,0,0,,好啦 开震!\N{\rEng}ALL RIGHT HIT IT!
+Dialogue: 0,0:20:10.60,0:20:12.00,Chn,,0,0,0,,愿耶稣保佑我们...\N{\rEng}LET'S HOPE TO CHRIST THIS WORKS
+Dialogue: 0,0:20:12.10,0:20:14.90,Chn,,0,0,0,,* 加利福尼亚之爱 *\N{\rEng}* CALIFORNIA LOVE *
+Dialogue: 0,0:20:19.60,0:20:23.60,Chn,,0,0,0,,* 加利福尼亚 流浪汉的温馨天堂 *\N{\rEng}* CALIFORNIA, IS NICE TO THE HOMELESS *
+Dialogue: 0,0:20:24.60,0:20:28.60,Chn,,0,0,0,,* 加利福尼亚 流浪汉的和谐社会 *\N{\rEng}* CALIFORNIA, THEY ARE NICE TO THE HOMELESS *
+Dialogue: 0,0:20:29.90,0:20:33.90,Chn,,0,0,0,,* 就在那圣塔莫尼克之城 *\N{\rEng}* IN THE CITY, OF SANTA MONICA *
+Dialogue: 0,0:20:35.30,0:20:37.10,Chn,,0,0,0,,* 富人脑满肠肥 漫山遍野 *\N{\rEng}* LOTS OF RICH PEOPLE *
+Dialogue: 0,0:20:37.70,0:20:39.70,Chn,,0,0,0,,* 流浪汉无需再为零钱发愁 *\N{\rEng}* GIVING CHANGE TO THE HOMELESS *
+Dialogue: 0,0:20:41.20,0:20:42.30,Chn,,0,0,0,,CHANGE?
+Dialogue: 0,0:20:43.10,0:20:47.10,Chn,,0,0,0,,* 就在那布伦特伍德之城 *\N{\rEng}* IN THE CITY, CITY OF ??? *
+Dialogue: 0,0:20:48.30,0:20:52.30,Chn,,0,0,0,,* 人们对流浪汉关怀备至 温习体贴 *\N{\rEng}* THEY TAKE REALLY GOOD CARE OF ALL THE HOMELESS *
+Dialogue: 0,0:20:53.50,0:20:54.50,Chn,,0,0,0,,他们有在听耶 快开车!\N{\rEng}THEY'RE LISTENING LET'S GO
+Dialogue: 0,0:20:56.60,0:21:00.60,Chn,,0,0,0,,* 就在那玛丽安娜得雷之城 *\N{\rEng}* IN THE CITY OF MARINA DEL RAY??? *
+Dialogue: 0,0:21:01.70,0:21:03.60,Chn,,0,0,0,,* 他们与流浪汉打成一片 快乐无边 *\N{\rEng}* THEY ARE SO NICE TO THE HOMELESS *
+Dialogue: 0,0:21:04.20,0:21:05.60,Chn,,0,0,0,,* 还建了庇护所 *\N{\rEng}* ??? *
+Dialogue: 0,0:21:06.10,0:21:07.70,Chn,,0,0,0,,他们正在把流浪汉引走!\N{\rEng}THEY'RE LEADING THEM AWAY
+Dialogue: 0,0:21:08.20,0:21:09.50,Chn,,0,0,0,,我们很快就能得救了\N{\rEng}WE'RE GOING TO BE ALL RIGHT
+Dialogue: 0,0:21:09.80,0:21:11.40,Chn,,0,0,0,,噢 Glen 我们坚持下来了!\N{\rEng}OH, GLEN WE MADE IT
+Dialogue: 0,0:21:12.20,0:21:14.10,Chn,,0,0,0,,* 加利福尼亚 *\N{\rEng}* CALIFORNIA *
+Dialogue: 0,0:21:14.60,0:21:16.90,Chn,,0,0,0,,* 对流浪汉实在是超赞 *\N{\rEng}* IS SO GOOD TO THE HOMELESS *
+Dialogue: 0,0:21:16.90,0:21:17.40,Chn,,0,0,0,,CHANGE?
+Dialogue: 0,0:21:17.50,0:21:21.50,Chn,,0,0,0,,* 加利福尼亚就是流浪汉的天堂 *\N{\rEng}* CALIFORNIA IS KNOWN FOR THE HOMELESS *
+Dialogue: 0,0:21:22.70,0:21:26.70,Chn,,0,0,0,,* 就在那圣塔莫尼克之城 *\N{\rEng}* IN THE CITY, CITY OF SANTA MONICA *
+Dialogue: 0,0:21:27.80,0:21:29.90,Chn,,0,0,0,,* MATT的别墅旁边 *\N{\rEng}* RIGHT BY MATT'S HOUSE *
+Dialogue: 0,0:21:30.30,0:21:32.80,Chn,,0,0,0,,* 只要你是流浪汉 就能得到特别款待 *\N{\rEng}* YOU CAN CHILL IF YOU'RE HOMELESS *
+Dialogue: 0,0:21:34.90,0:21:36.00,Chn,,0,0,0,,AGHAA...
+Dialogue: 0,0:21:36.70,0:21:37.40,Chn,,0,0,0,,YEAH
+Dialogue: 0,0:21:37.90,0:21:39.30,Chn,,0,0,0,,这回可是三个流浪汉!\N{\rEng}THAT'S THREE HOMELESS!
+Dialogue: 0,0:21:39.60,0:21:40.50,Chn,,0,0,0,,我实在太屌了!\N{\rEng}SUCK ON IT!
+Dialogue: 0,0:21:40.80,0:21:41.90,Chn,,0,0,0,,YA!
+Dialogue: 0,0:21:42.90,0:21:44.80,Chn,,0,0,0,,说实话 我真不明白你一开始想这个点子干嘛 Kyle\N{\rEng}HONESTLY, I DON'T KNOW WHAT YOU SEE IN THIS, KYLE
+Dialogue: 0,0:21:45.60,0:21:49.60,Chn,,0,0,0,,{\c&H00ffff&}welcome to www.1000fr.com\N{\rEng}双语合成 Lv&daisy

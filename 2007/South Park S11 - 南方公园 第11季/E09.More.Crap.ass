@@ -1,0 +1,317 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: South.Park.S11E09.More.Crap.1080p.BluRay.x264-SHORTBREHD
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 1916
+PlayResY: 1076
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,微软雅黑,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Git,Comic Sans MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Chn,微软雅黑,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,20,1
+Style: Eng,Comic Sans MS,60,&H002AF7FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.65,0:00:07.75,Chn,,0,0,0,,{\i1}Transcript: spscriptorium Sync: John Smith - forom.com{\i0}
+Dialogue: 0,0:00:08.88,0:00:12.14,Chn,,0,0,0,,{\i1}I'm going out to South Park gonna have myself a time{\i0}
+Dialogue: 0,0:00:12.17,0:00:15.55,Chn,,0,0,0,,{\i1}Friendly faces everywhere humble folks without temptation{\i0}
+Dialogue: 0,0:00:15.58,0:00:18.89,Chn,,0,0,0,,{\i1}I'm goin out to south park gonna leave my woes behind{\i0}
+Dialogue: 0,0:00:18.92,0:00:22.15,Chn,,0,0,0,,{\i1}Ample parking day or night people spouting howdy neighbor{\i0}
+Dialogue: 0,0:00:22.18,0:00:25.39,Chn,,0,0,0,,{\i1}I'm heading out to south park to see if i cant unwind{\i0}
+Dialogue: 0,0:00:25.42,0:00:28.75,Chn,,0,0,0,,{\i1}I like girls with big fat titties really big fat titties{\i0}
+Dialogue: 0,0:00:28.78,0:00:32.25,Chn,,0,0,0,,{\i1}So come on out to south park and meet some friends of mine{\i0}
+Dialogue: 0,0:00:33.10,0:00:35.09,Chn,,0,0,0,,{\i1}Episode 11x09 "More Crap" “巨屎记”\N{\rEng}双语合成 Lv&daisy{\i0}
+Dialogue: 0,0:00:39.32,0:00:43.36,Chn,,0,0,0,,恩，我可是相当确诊了 Mr. Marsh. 你这是便秘\N{\rEng}Well, there's no doubt in my mind, Mr. Marsh. You are constipated.
+Dialogue: 0,0:00:43.49,0:00:45.32,Chn,,0,0,0,,谢谢告知这个我早就知道的消息\N{\rEng}Thanks for the news flash!
+Dialogue: 0,0:00:45.33,0:00:49.22,Chn,,0,0,0,,最近三周，我还没有拉过一泡屎呢! 我只想知道为什么?!\N{\rEng}I haven't taken a crap in over three weeks! The question is why?!
+Dialogue: 0,0:00:49.25,0:00:54.31,Chn,,0,0,0,,恩，你最近吃过什么东西? - P.F. Chang（美国著名中餐连锁）, 基本上，超赞的\N{\rEng}Well, what food have you been eating? - P.F. Chang's, mostly. Good stuff.
+Dialogue: 0,0:00:54.45,0:00:57.34,Chn,,0,0,0,,那我给你开点泻药\N{\rEng}I'm going to prescribe a laxative.
+Dialogue: 0,0:00:57.48,0:01:03.49,Chn,,0,0,0,,但是我必须警告你，当你最后拉下这坨屎的时候， 你可能会非常的疼\N{\rEng}But I must warn you: when you do finally pass this stool, it might be very painful.
+Dialogue: 0,0:01:04.04,0:01:06.10,Chn,,0,0,0,,会有多疼呢？\N{\rEng}How painful is "painful"?
+Dialogue: 0,0:01:17.00,0:01:19.19,Chn,,0,0,0,,上帝啊，终于要出来了\N{\rEng}Oh God. Oh, here it comes.
+Dialogue: 0,0:01:21.78,0:01:25.98,Chn,,0,0,0,,哇，疼！疼！疼！疼！\N{\rEng}Whoa, hot! Hot, hot! Whoa, hot, hot, hot, hot, hot!
+Dialogue: 0,0:01:37.06,0:01:40.31,Chn,,0,0,0,,终于结束了...终于结束了...\N{\rEng}Oh, it's over. It's over.
+Dialogue: 0,0:01:40.49,0:01:44.21,Chn,,0,0,0,,天啊，人家现在感觉好多了\N{\rEng}Oh God. I feel so much better.
+Dialogue: 0,0:01:49.96,0:01:51.43,Chn,,0,0,0,,哇！\N{\rEng}Wow.
+Dialogue: 0,0:01:52.11,0:01:55.09,Chn,,0,0,0,,竟然可以这么大！\N{\rEng}That is huge.
+Dialogue: 0,0:01:55.81,0:01:59.55,Chn,,0,0,0,,这肯定是有史以来我拉过的最大的一泡屎\N{\rEng}That has got to be the biggest crap I've ever taken.
+Dialogue: 0,0:02:00.46,0:02:05.19,Chn,,0,0,0,,嘿，嘿 Sharon Sharon，你必须来看一下\N{\rEng}Hey, hey Sharon. Sharon you gotta come see this.
+Dialogue: 0,0:02:05.47,0:02:06.86,Chn,,0,0,0,,Sha-Sharon?
+Dialogue: 0,0:02:07.33,0:02:10.04,Chn,,0,0,0,,怎么了，Randy? 你有什么... 欧, Randy!\N{\rEng}What is it, Randy? Do you have any- Oh, Randy!
+Dialogue: 0,0:02:10.06,0:02:13.36,Chn,,0,0,0,,你瞧瞧? 这是不是你所见过的最大的一坨屎\N{\rEng}Will you look at that? Is that the biggest crap you've ever seen or what?
+Dialogue: 0,0:02:13.38,0:02:17.39,Chn,,0,0,0,,看在上帝的份上，把厕所冲了！ - 拜托! 这可是件振奋人心的事!\N{\rEng}Flush the toilet for Christ's sake! - Come on! That's pretty impressive!
+Dialogue: 0,0:02:17.41,0:02:21.17,Chn,,0,0,0,,嘿 Stan! Stan, 过来看看 - Randy!\N{\rEng}Hey Stan! Stan, look at this. - Randy!
+Dialogue: 0,0:02:21.20,0:02:24.10,Chn,,0,0,0,,看看你老头干的 -这不可能!\N{\rEng}Look what your old man made. - No way!
+Dialogue: 0,0:02:24.11,0:02:27.11,Chn,,0,0,0,,从来没见过比这坨大的，是吧? - 没有\N{\rEng}Huh? Never seen one that big, have you? - No, never.
+Dialogue: 0,0:02:27.14,0:02:29.17,Chn,,0,0,0,,恶心, 老爸, 真恶心!\N{\rEng}Gross, Dad, sick!
+Dialogue: 0,0:02:29.21,0:02:33.54,Chn,,0,0,0,,好了，现在能冲厕所了吗?! - 我将试一下，但是我不认为....\N{\rEng}All right, will you flush the toilet now?! - I'll try, but I don't think...
+Dialogue: 0,0:02:33.57,0:02:37.33,Chn,,0,0,0,,等等，等等，我必须先打电话给Jimbo - 为什么?!\N{\rEng}Wait a minute. I gotta call Jimbo first. - Why?!
+Dialogue: 0,0:02:37.36,0:02:38.86,Chn,,0,0,0,,他一定得看看这个.\N{\rEng}He's gotta see this.
+Dialogue: 0,0:02:38.88,0:02:41.45,Chn,,0,0,0,,不，我们现在就要冲厕所！ - 不要嘛!\N{\rEng}No, we are flushing the toilet right now- - No!
+Dialogue: 0,0:02:41.46,0:02:45.86,Chn,,0,0,0,,Jimbo必须看一下，这样我和别人说起的时候 他才能作证我不是在撒谎!\N{\rEng}Jimbo has to see it so when I tell the guys how big it was, they'll know I'm not lying!
+Dialogue: 0,0:02:45.89,0:02:49.61,Chn,,0,0,0,,欧，看在上帝的份上, Randy! - Sharon, 这个很重要!\N{\rEng}Oh, for the love of God, Randy! - Sharon, this is important!
+Dialogue: 0,0:02:49.64,0:02:52.51,Chn,,0,0,0,,Stan, 去打电话给你Jimbo叔叔. 我得在这守着\N{\rEng}Stan, go call your Uncle Jimbo. I'm gonna stand guard.
+Dialogue: 0,0:02:57.43,0:03:00.16,Chn,,0,0,0,,嘿 兄弟们! - 嘿 Randy.\N{\rEng}Hey guys! - Hey Randy.
+Dialogue: 0,0:03:00.19,0:03:03.54,Chn,,0,0,0,,你现在感觉好点了吗? - 恩, 我现在已经完全康复了\N{\rEng}Are you feeling better? - Yeah, I'm totally fine now.
+Dialogue: 0,0:03:03.57,0:03:06.51,Chn,,0,0,0,,你们应该看一下Randy昨晚上拉的那坨屎!\N{\rEng}You guys shoulda seen the crap Randy took last night!
+Dialogue: 0,0:03:06.52,0:03:10.92,Chn,,0,0,0,,我敢保证它是人类有史以来所拉过的最大一坨屎！\N{\rEng}It was honestly, the biggest crap anyone has ever taken. Ever.
+Dialogue: 0,0:03:10.94,0:03:12.48,Chn,,0,0,0,,那个，有史以来不敢说...\N{\rEng}Well I don't know about ever...
+Dialogue: 0,0:03:12.51,0:03:15.73,Chn,,0,0,0,,我告诉你们，这坨东西有像足球那么大\N{\rEng}I'm telling you this thing was the size of a freaking football.
+Dialogue: 0,0:03:15.75,0:03:17.47,Chn,,0,0,0,,真的很巨哦\N{\rEng}I guess it was pretty big.
+Dialogue: 0,0:03:17.55,0:03:21.14,Chn,,0,0,0,,一个足球? 真惊人！ - 我从没听说有这么大的\N{\rEng}A football? That's amazing. - I've never heard of one that big.
+Dialogue: 0,0:03:21.15,0:03:24.43,Chn,,0,0,0,,噢, 我有个兄弟拉过一次很巨大的\N{\rEng}Oh, my brother took a crap once, that was enormous.
+Dialogue: 0,0:03:24.43,0:03:27.53,Chn,,0,0,0,,大到可以载入世界纪录\N{\rEng}It was the biggest in the history of the world, I think.
+Dialogue: 0,0:03:30.58,0:03:32.25,Chn,,0,0,0,,才没有我那坨大呢\N{\rEng}It wasn't bigger than mine was.
+Dialogue: 0,0:03:32.50,0:03:35.47,Chn,,0,0,0,,没有，说真的，那坨便便绝对可以称为一怪兽\N{\rEng}Oh no, seriously, this crap was a monster!
+Dialogue: 0,0:03:37.86,0:03:40.07,Chn,,0,0,0,,我的...我的更大\N{\rEng}Mine... mine was bigger.
+Dialogue: 0,0:03:40.43,0:03:42.07,Chn,,0,0,0,,我表示怀疑\N{\rEng}I doubt it.
+Dialogue: 0,0:03:43.17,0:03:44.75,Chn,,0,0,0,,你们想看一下吗？\N{\rEng}You wanna see it?
+Dialogue: 0,0:03:52.20,0:03:54.18,Chn,,0,0,0,,哦，我的天啊！\N{\rEng}Oh my freaking Lord.
+Dialogue: 0,0:03:54.20,0:03:58.41,Chn,,0,0,0,,它不可能是从你屁眼里出来的 - 它是的，是我拉的\N{\rEng}That did not seriously come out of your ass. - Oh yes, it did.
+Dialogue: 0,0:03:58.42,0:04:00.86,Chn,,0,0,0,,走近点看看有没有裂缝 它是一个完美的整体\N{\rEng}Go ahead and check it for splits. It's one solid piece.
+Dialogue: 0,0:04:00.88,0:04:01.98,Chn,,0,0,0,,上帝啊...\N{\rEng}Jesus...
+Dialogue: 0,0:04:01.98,0:04:04.82,Chn,,0,0,0,,这个比你兄弟的大一点吧, Gerald?\N{\rEng}That uh, a little bigger than your brother's there, Gerald?
+Dialogue: 0,0:04:04.85,0:04:08.22,Chn,,0,0,0,,根本就不是一个数量级的啊...\N{\rEng}It's... other-worldly.
+Dialogue: 0,0:04:08.25,0:04:11.53,Chn,,0,0,0,,Randy, 你给吉尼斯世界纪录的人打电话了吗? 我说，真的有可能...\N{\rEng}Randy, have you called the people from the Guinness Book of World Records? I mean...
+Dialogue: 0,0:04:11.55,0:04:14.55,Chn,,0,0,0,,这个真的是世界上最大的一坨屎!\N{\rEng}this might seriously be the biggest crap in history!
+Dialogue: 0,0:04:14.59,0:04:17.49,Chn,,0,0,0,,这就是我悉心保护它的原因\N{\rEng}That's why I gotta make sure to keep it safe.
+Dialogue: 0,0:04:19.72,0:04:22.74,Chn,,0,0,0,,Randy Marsh! - 哦，惨了!\N{\rEng}Randy Marsh! - Aw crap!
+Dialogue: 0,0:04:22.77,0:04:25.71,Chn,,0,0,0,,你把那东西放在家里是什么意思?!\N{\rEng}What the hell do you think you're doing keeping that thing in our house?!
+Dialogue: 0,0:04:25.71,0:04:28.31,Chn,,0,0,0,,他们和我意见一致, Sharon: 这坨便便可以载入纪录\N{\rEng}The guys agree, Sharon: it could be a record holder.
+Dialogue: 0,0:04:28.33,0:04:31.59,Chn,,0,0,0,,为什么男人都能对自己的便便的大小非常在意?!\N{\rEng}Why are men so obsessed with how big their crap is?!
+Dialogue: 0,0:04:34.96,0:04:38.11,Chn,,0,0,0,,这里是吉尼斯世界纪录美国分部? 有事需要效劳吗？\N{\rEng}Guinness World Records America. How can I help you?
+Dialogue: 0,0:04:39.42,0:04:41.47,Chn,,0,0,0,,最大的屎?\N{\rEng}The biggest crap?
+Dialogue: 0,0:04:42.15,0:04:46.00,Chn,,0,0,0,,我们根本没有这项纪录, 先生\N{\rEng}We actually don't keep track of that record, sir.
+Dialogue: 0,0:04:46.54,0:04:48.98,Chn,,0,0,0,,因为我们不想去看\N{\rEng}Because we don't want to.
+Dialogue: 0,0:04:49.44,0:04:53.73,Chn,,0,0,0,,我们一直接到有男人打电话来声称他刚拉了 世界上最大的屎\N{\rEng}Look, we get calls from men all the time who believe they took the biggest crap
+Dialogue: 0,0:04:53.73,0:04:57.23,Chn,,0,0,0,,我们没有足够的人手去测量和核实\N{\rEng}and we simply can't handle all the measuring and verification.
+Dialogue: 0,0:04:57.26,0:05:02.02,Chn,,0,0,0,,你必须打给在苏黎世的欧洲排泄物标准和测量中心\N{\rEng}You need to call the European Fecal Standards and Measurements Office in Zurich.
+Dialogue: 0,0:05:02.33,0:05:06.05,Chn,,0,0,0,,不客气 Jeez，又一位便便狂\N{\rEng}You're welcome. Jeez, another one.
+Dialogue: 0,0:05:08.03,0:05:09.80,Chn,,0,0,0,,吉尼斯世界纪录美国分部\N{\rEng}Guinness World Records America.
+Dialogue: 0,0:05:09.84,0:05:15.67,Chn,,0,0,0,,是的，你好 我名叫Randy Marsh 我认为我拉了世界上最大的屎\N{\rEng}Yes, hello. My name is Randy Marsh and I believe I took the world's biggest crap.
+Dialogue: 0,0:05:18.31,0:05:22.70,Chn,,0,0,0,,你必须打给位于苏黎世的欧洲排泄物标准和测量中心\N{\rEng}You need to call the European Fecal Standards and Measurements Office in Zurich.
+Dialogue: 0,0:05:22.73,0:05:25.63,Chn,,0,0,0,,他们的电话有列在他们的网页上\N{\rEng}Their number is listed on their Web site.
+Dialogue: 0,0:05:31.46,0:05:36.06,Chn,,0,0,0,,主席先生, 看一下这个 从美国寄过来的一坨屎\N{\rEng}Herr President, take a look at this. It is a crap sent to us from the United States.
+Dialogue: 0,0:05:36.09,0:05:38.16,Chn,,0,0,0,,很不错啊\N{\rEng}Very nice.
+Dialogue: 0,0:05:38.29,0:05:40.06,Chn,,0,0,0,,有被检测过真实性吗?\N{\rEng}Has it been checked for accuracy?
+Dialogue: 0,0:05:40.06,0:05:42.96,Chn,,0,0,0,,从照片上来看不像作假\N{\rEng}It appears to be legitimate, based on the photo.
+Dialogue: 0,0:05:42.98,0:05:47.01,Chn,,0,0,0,,我们估计这坨便便应该超过八又二分之一卡里克\N{\rEng}We estimate that the crap is over eight and a half Courics!
+Dialogue: 0,0:05:48.25,0:05:51.40,Chn,,0,0,0,,我们最好现在就搭飞机\N{\rEng}We'd better get on a plane. Right away.
+Dialogue: 0,0:05:55.87,0:05:57.54,Chn,,0,0,0,,有什么异样?\N{\rEng}Hm, enshnusen?
+Dialogue: 0,0:05:57.71,0:05:59.75,Chn,,0,0,0,,没有什么\N{\rEng}Verron snusunarich.
+Dialogue: 0,0:06:01.69,0:06:05.59,Chn,,0,0,0,,你拉这坨粪便前，最主要食物是什么, Mr. Marsh?\N{\rEng}What was your primary diet for this poo, Mr. Marsh?
+Dialogue: 0,0:06:05.62,0:06:09.24,Chn,,0,0,0,,基本是P.F. Chang's. General Tsao's 鸡之类的\N{\rEng}Mostly P.F. Chang's. General Tsao's Chicken.
+Dialogue: 0,0:06:09.27,0:06:13.05,Chn,,0,0,0,,每天早上还会吃很多Jemima的冻香肠和饼干\N{\rEng}And a lot of Aunt Jemima's Frozen Sausage Biscuits in the morning.
+Dialogue: 0,0:06:13.08,0:06:18.06,Chn,,0,0,0,,我相信我检测到了一点卷心菜的残渣? - 哦，是的，我还吃了很多泡菜\N{\rEng}I believe I detect some cabbage as well? - Oh yes, I had a lot of kim chee.
+Dialogue: 0,0:06:18.33,0:06:21.11,Chn,,0,0,0,,你们一定是在开玩笑吧\N{\rEng}You have got to be kidding me.
+Dialogue: 0,0:06:21.14,0:06:24.52,Chn,,0,0,0,,这些人是从苏黎世来的， Sharon! 他们是欧洲人！\N{\rEng}These guys are from Zurich, Sharon! They're Europeans!
+Dialogue: 0,0:06:24.55,0:06:29.73,Chn,,0,0,0,,这真是坨了不起的屎, Mr. Marsh. - 看在上帝的份上！\N{\rEng}It is a tremendous crap, Mr. Marsh. - For the love of God!
+Dialogue: 0,0:06:30.23,0:06:36.09,Chn,,0,0,0,,你的粪便重达8.6卡里克 -卡里克？\N{\rEng}Your crap officially weighs, 8.6 Courics. - Courics?
+Dialogue: 0,0:06:36.12,0:06:38.63,Chn,,0,0,0,,用来测量人类排泄物的国际标准单位\N{\rEng}The standard measuring unit for human feces.
+Dialogue: 0,0:06:38.65,0:06:42.44,Chn,,0,0,0,,一卡里克大约等于2.5磅重量的便便\N{\rEng}One Katie Couric is approximately two and a half pounds of excrement.
+Dialogue: 0,0:06:42.47,0:06:46.63,Chn,,0,0,0,,现在的纪录是一坨重7.5卡里克\N{\rEng}The current record is a crap weighing 7.5 Courics.
+Dialogue: 0,0:06:47.12,0:06:49.47,Chn,,0,0,0,,这就是说... - 对了\N{\rEng}But that means... - That's right.
+Dialogue: 0,0:06:49.50,0:06:53.16,Chn,,0,0,0,,你就是新的世界冠军! - 真滴吗?!\N{\rEng}You are the new world's champion! - Really?!
+Dialogue: 0,0:06:53.19,0:06:55.78,Chn,,0,0,0,,你是说真滴吗?!\N{\rEng}You mean, really?!
+Dialogue: 0,0:06:57.58,0:07:01.95,Chn,,0,0,0,,嘿 Stan! 嘿 Sharon! 嘿 各位!\N{\rEng}Hey Stan! Hey Sharon! Hey everybody!
+Dialogue: 0,0:07:02.41,0:07:05.28,Chn,,0,0,0,,我想我们最好打个电话给老的世界纪录保持者\N{\rEng}Well, I guess we'd better call the old champoin...
+Dialogue: 0,0:07:05.28,0:07:09.19,Chn,,0,0,0,,让他知道他的纪录刚才被打破了\N{\rEng}and let him know his record has just been broken.
+Dialogue: 0,0:07:10.07,0:07:13.94,Chn,,0,0,0,,他赢过22座格莱美奖, 数不清的人道主义奖\N{\rEng}He has won twenty-two Grammy's, countless humanitarian awards...
+Dialogue: 0,0:07:13.94,0:07:18.95,Chn,,0,0,0,,并且是世界上唯一一位同时赢得\N{\rEng}and is the only person ever to be nominated for an Academy Award, a Golden Globe...
+Dialogue: 0,0:07:18.95,0:07:23.15,Chn,,0,0,0,,学院奖，金地球奖和诺贝尔和平奖的人 女士们先生们,欢迎 Bono!\N{\rEng}and the Nobel Peace Prize. Ladies and gentlemen, Bono!
+Dialogue: 0,0:07:28.00,0:07:32.25,Chn,,0,0,0,,谢谢大家 谢谢大家 这对我来说太重要了\N{\rEng}Thank you. Thank you so much for this newest award, it means so much.
+Dialogue: 0,0:07:33.97,0:07:37.10,Chn,,0,0,0,,对不起，肯定是又有人通知我去领奖了\N{\rEng}Excuse me. I must be getting another award.
+Dialogue: 0,0:07:37.29,0:07:38.93,Chn,,0,0,0,,你好? - 你好, Bono\N{\rEng}Yes? - Yes, Bono.
+Dialogue: 0,0:07:38.93,0:07:44.26,Chn,,0,0,0,,先生,我们特来告诉你，你所保持的世界上最大的屎的纪录 刚被打破了\N{\rEng}Sir, we wish to inform you that your record for biggest crap has just been broken.
+Dialogue: 0,0:07:44.88,0:07:48.41,Chn,,0,0,0,,什么?! 这不可能! 新的纪录有多大?\N{\rEng}What?! That's impossible! How big was it?
+Dialogue: 0,0:07:56.74,0:07:59.68,Chn,,0,0,0,,今天我们在这共同为首位获得欧洲人类排泄物协会\N{\rEng}We are here to honor the first American...
+Dialogue: 0,0:07:59.71,0:08:05.03,Chn,,0,0,0,,颁发的世界上最大便便的奖章的美国人表示祝贺！\N{\rEng}to bring home the distinguished EFSM medal for biggest crap ever taken.
+Dialogue: 0,0:08:07.21,0:08:11.48,Chn,,0,0,0,,嘿 看到了吗, Sharon, 那可是总统大人! 嘿 Sharon!\N{\rEng}Hey look, Sharon, it's the President! Hey Sharon!
+Dialogue: 0,0:08:12.06,0:08:17.87,Chn,,0,0,0,,让我们欢迎颁奖嘉宾 欧洲人类排泄物协会的会长 Orloff Broloff先生\N{\rEng}To present the award I give you the dean of the EFSM, Sir Orloff Broloff.
+Dialogue: 0,0:08:20.74,0:08:26.71,Chn,,0,0,0,,谢谢，议员先生 在超过一个世纪的时间里, 欧洲人类排泄物协会一直在-\N{\rEng}Thank you, Senator. For over a hundred years, the European Fecal Standards and Meas-
+Dialogue: 0,0:08:26.71,0:08:28.96,Chn,,0,0,0,,Broloff先生! Broloff先生!\N{\rEng}Herr Broloff! Herr Broloff!
+Dialogue: 0,0:08:30.59,0:08:31.74,Chn,,0,0,0,,是真的吗?\N{\rEng}Das shpoitenhoff?
+Dialogue: 0,0:08:31.76,0:08:33.19,Chn,,0,0,0,,厄...女士们先生们\N{\rEng}Ah ladies and gentlemen...
+Dialogue: 0,0:08:33.19,0:08:38.46,Chn,,0,0,0,,我们接受到一条最新消息，我们刚接到了一份 来自Bono先生的特制视频声明\N{\rEng}I understand we have just received a special video-taped announcement from Bono!
+Dialogue: 0,0:08:39.22,0:08:40.99,Chn,,0,0,0,,Bono? 酷！\N{\rEng}Bono? Cool!
+Dialogue: 0,0:08:41.01,0:08:44.39,Chn,,0,0,0,,请在大屏幕上播放这段视频?\N{\rEng}Could we play the tape on the big screen, please?
+Dialogue: 0,0:08:45.10,0:08:48.64,Chn,,0,0,0,,各位好， 我是Bono.\N{\rEng}Hello everyone! I, am Bono.
+Dialogue: 0,0:08:58.20,0:09:02.76,Chn,,0,0,0,,这几年来，为非洲寻求帮助和发展 已经成了我生命中的一部分\N{\rEng}For years it has been my honor to try and bring focus to the needs in Africa.
+Dialogue: 0,0:09:02.76,0:09:05.87,Chn,,0,0,0,,今天，我有一个特别的消息带给大家\N{\rEng}And today, I have very exciting news.
+Dialogue: 0,0:09:05.88,0:09:12.22,Chn,,0,0,0,,在昨晚大约8点20分的时候，我拉下了 一坨重达9.5卡里克的便便\N{\rEng}Last night, at twenty past eight, I took a crap weighing nine and a half Courics.
+Dialogue: 0,0:09:14.51,0:09:15.92,Chn,,0,0,0,,Bono?!\N{\rEng}Bono?!
+Dialogue: 0,0:09:16.82,0:09:21.05,Chn,,0,0,0,,正如你们所看到的, 这可是一整坨 这是我有史以来拉过的最大一坨\N{\rEng}As you can see, it is one solid piece. It is my biggest crap to date.
+Dialogue: 0,0:09:21.07,0:09:25.54,Chn,,0,0,0,,我敢发誓它的真实性 谢谢各位，祝上帝保佑你们\N{\rEng}And I swear to its authenticity. Thank you, and God bless.
+Dialogue: 0,0:09:31.40,0:09:36.45,Chn,,0,0,0,,你们都听见啦，女士们先生们! 目前最大的便便是9.5卡里克!\N{\rEng}You heard it, ladies and gentlemen! The official biggest crap is 9.5 Courics!
+Dialogue: 0,0:09:36.46,0:09:38.97,Chn,,0,0,0,,一起祝贺Bono!\N{\rEng}Congratulations to Bono!
+Dialogue: 0,0:09:57.87,0:10:01.71,Chn,,0,0,0,,爸爸，我想晚餐快好了哦\N{\rEng}Dad, I think dinner's almost ready.
+Dialogue: 0,0:10:01.74,0:10:03.55,Chn,,0,0,0,,我差点就成功了\N{\rEng}I almost did it.
+Dialogue: 0,0:10:04.47,0:10:07.09,Chn,,0,0,0,,我差点就凭自己的本事真正的做点什么\N{\rEng}I almost made something of myself.
+Dialogue: 0,0:10:07.77,0:10:12.61,Chn,,0,0,0,,你知道吗，当你那么接近成功的时候，你甚至 会觉得，或许你的生活将走向不凡\N{\rEng}You know, when you get real close, you start to think that maybe your life is gonna matter.
+Dialogue: 0,0:10:14.84,0:10:18.98,Chn,,0,0,0,,我意思是，这可是我真正的心血结晶啊\N{\rEng}I mean, this was something I made!
+Dialogue: 0,0:10:19.00,0:10:23.73,Chn,,0,0,0,,从我身体里分离出来的，也是我身体的一部分啊\N{\rEng}Something that came from me! That was a a part of me!
+Dialogue: 0,0:10:24.13,0:10:27.38,Chn,,0,0,0,,我这辈子做的唯一有意义的事情！\N{\rEng}The only thing I ever made that was any good!
+Dialogue: 0,0:10:30.06,0:10:33.13,Chn,,0,0,0,,天啊，别想那么多了，老爸 - 谢谢你\N{\rEng}Gee, thanks a lot, Dad. - You're welcome.
+Dialogue: 0,0:10:33.14,0:10:34.33,Chn,,0,0,0,,我只是...\N{\rEng}And I just...
+Dialogue: 0,0:10:34.33,0:10:40.32,Chn,,0,0,0,,我知道在我以后的日子里，我可能再也 不会有如此这么接近成功的机会了\N{\rEng}I know that this late in my life I'll never come so close to finally having meaning.
+Dialogue: 0,0:10:41.31,0:10:43.52,Chn,,0,0,0,,来吧，两位，烤宽面条已经做好了\N{\rEng}Come on guys, lasagna's ready.
+Dialogue: 0,0:10:44.70,0:10:47.43,Chn,,0,0,0,,宽面条做好了\N{\rEng}Oh. Lasagna's ready.
+Dialogue: 0,0:10:47.83,0:10:52.22,Chn,,0,0,0,,你听见了吗， Stan? 你妈说宽面条已经做好了!\N{\rEng}You hear that, Stan? Mom says lasagna is ready!
+Dialogue: 0,0:10:52.24,0:10:55.43,Chn,,0,0,0,,我能听出你的讽刺意味, Sharon!\N{\rEng}I can see through your sarcasm, Sharon!
+Dialogue: 0,0:10:55.72,0:10:58.89,Chn,,0,0,0,,你在说什么啊? - 你完全可以说, Sharon!\N{\rEng}What are you talking about? - You can say it, Sharon!
+Dialogue: 0,0:10:58.92,0:11:01.44,Chn,,0,0,0,,我知道Bono比我好!\N{\rEng}I know Bono's better than me!
+Dialogue: 0,0:11:01.48,0:11:03.88,Chn,,0,0,0,,很遗憾我不是Bono，满意了吧?!\N{\rEng}I'm sorry I'm not Bono, all right?!
+Dialogue: 0,0:11:03.91,0:11:07.99,Chn,,0,0,0,,真对不起，我没有上亿的资产， 也没有诺贝尔奖提名！\N{\rEng}Sorry that I don't have billions of dollars and a Nobel prize nomination!
+Dialogue: 0,0:11:08.02,0:11:12.19,Chn,,0,0,0,,Randy, 这真荒谬! - 哦，这可是我的真心话, Sharon!\N{\rEng}Randy, this is ridiculous! - Oh, that's real mature, Sharon!
+Dialogue: 0,0:11:12.22,0:11:16.09,Chn,,0,0,0,,你就像什么事情都在搞笑一样! 这整件事对你来说就是个大笑话，是不是?!\N{\rEng}Just act like everything's funny! It's a big joke to you, isn't it?!
+Dialogue: 0,0:11:16.12,0:11:19.85,Chn,,0,0,0,,就是一个笑话! 不要碰我!\N{\rEng}Just a big joke! Don't touch me!
+Dialogue: 0,0:11:20.94,0:11:25.81,Chn,,0,0,0,,你能相信吗?! 这一切都只是为了谁拉的屎大！\N{\rEng}Can you believe him?! All this over what guy took the biggest crap!
+Dialogue: 0,0:11:25.84,0:11:29.12,Chn,,0,0,0,,你不理解的, Mom. 你真的不理解\N{\rEng}You don't understand, Mom. You just don't understand.
+Dialogue: 0,0:11:30.15,0:11:32.29,Chn,,0,0,0,,Wha? Wha?
+Dialogue: 0,0:11:40.41,0:11:44.19,Chn,,0,0,0,,他们怎么能只凭那个叫Bono寄来的一张照片就让他获胜?\N{\rEng}How come they just let that Bono guy send a picture of his crap?
+Dialogue: 0,0:11:44.32,0:11:48.63,Chn,,0,0,0,,因为他是Bono, 这就是原因. -但是他可能伪造照片啊，这不公平!\N{\rEng}Because he's Bono, that's why. - But he could have faked it. It isn't fair!
+Dialogue: 0,0:11:48.67,0:11:52.71,Chn,,0,0,0,,已经没办法了，他现在已经是记录保持者了，我啥都干不了\N{\rEng}Doesn't matter. He's got the record now, there's nothing I can do.
+Dialogue: 0,0:11:53.69,0:11:57.52,Chn,,0,0,0,,哦，有件事你能做的!你可以再拉一次! - 什么?\N{\rEng}Oh yes there is! You could do it again! - What?
+Dialogue: 0,0:11:57.55,0:12:01.76,Chn,,0,0,0,,你想，上次你甚至连要拉最大的屎这个念头都没有\N{\rEng}Think about it. You weren't even trying to take the biggest crap last time.
+Dialogue: 0,0:12:01.76,0:12:04.50,Chn,,0,0,0,,想想你如果马力全开的话！\N{\rEng}Imagine if you actually worked at it!
+Dialogue: 0,0:12:04.53,0:12:06.85,Chn,,0,0,0,,嘿，没错！\N{\rEng}Hey. Hey that's right.
+Dialogue: 0,0:12:06.87,0:12:10.70,Chn,,0,0,0,,不，我不能再经历一次了，实在太痛苦了\N{\rEng}No. I can't go through all that again. It's too much.
+Dialogue: 0,0:12:10.73,0:12:14.60,Chn,,0,0,0,,加油, Randy. 我打赌你可以轻松再拉坨那么大的屎!\N{\rEng}Come on, Randy. I'll bet you can crap that big again easy!
+Dialogue: 0,0:12:14.63,0:12:17.62,Chn,,0,0,0,,加上正确的食谱和锻炼，你拉出的便便绝对没有极限！\N{\rEng}With the right diet and training, who knows what you're capable of?
+Dialogue: 0,0:12:17.64,0:12:23.37,Chn,,0,0,0,,伙计们, 算了吧! 结束了! 那只是一次巧合! 我再也不能拉出那么大的便便了\N{\rEng}Guys, forget it! It's over! It was a fluke crap, I'll never take one that big again!
+Dialogue: 0,0:12:23.72,0:12:27.54,Chn,,0,0,0,,结束了吗, Randy?! 我们可是都亲眼看过你那坨大便便的啊!\N{\rEng}Is it over, Randy?! We all saw that crap you took!
+Dialogue: 0,0:12:27.57,0:12:33.07,Chn,,0,0,0,,这绝不只是巧合! 这是你身上的某种潜能，使你 创造了奇迹!\N{\rEng}That was no fluke! There's something inside you that made you able to do it!
+Dialogue: 0,0:12:33.25,0:12:37.97,Chn,,0,0,0,,Randy, 你是有天赋的! 谁知道上帝为什么要给你这个天赋，但是他确实是给了！\N{\rEng}Randy, you have a gift. Now who knows why God chose you, but he did!
+Dialogue: 0,0:12:38.00,0:12:42.56,Chn,,0,0,0,,如果你就这么放弃的话，你一辈子也不会知道...\N{\rEng}And if you walk away now, you'll always wonder...
+Dialogue: 0,0:12:42.60,0:12:45.27,Chn,,0,0,0,,你能拉多大的便便\N{\rEng}how big a crap you could have taken!
+Dialogue: 0,0:12:46.96,0:12:51.08,Chn,,0,0,0,,我可能需要很多的帮助 - 我们一切都乐意效劳！\N{\rEng}I would need a lot of help. - That's what we're here for.
+Dialogue: 0,0:12:51.11,0:12:53.23,Chn,,0,0,0,,好吧, Randy, 你准备怎么办?!\N{\rEng}Come on, Randy, what do you say?!
+Dialogue: 0,0:12:54.10,0:12:55.63,Chn,,0,0,0,,我想说...\N{\rEng}I say...
+Dialogue: 0,0:12:56.82,0:12:59.36,Chn,,0,0,0,,让Bono知道我的厉害!\N{\rEng}Let's give Bono a run for his money!
+Dialogue: 0,0:13:06.98,0:13:09.50,Chn,,0,0,0,,这里是CNN头条新闻.\N{\rEng}This is CNN Headline News.
+Dialogue: 0,0:13:09.54,0:13:12.19,Chn,,0,0,0,,今晚，一场关于伊朗的军事打击...\N{\rEng}Tonight, a possible attack on Iran...
+Dialogue: 0,0:13:12.21,0:13:15.55,Chn,,0,0,0,,可能意味着新的中东战争拉开序幕\N{\rEng}may mean the beginning of a new war in the Middle East.
+Dialogue: 0,0:13:15.58,0:13:16.94,Chn,,0,0,0,,欧，不是吧\N{\rEng}Oh no.
+Dialogue: 0,0:13:16.96,0:13:22.21,Chn,,0,0,0,,但是首先要说的是，世界上最大便便的纪录是不是 又会再次被破呢?\N{\rEng}But first, the record for the world's biggest crap, will it again be broken?
+Dialogue: 0,0:13:22.47,0:13:26.48,Chn,,0,0,0,,科罗拉多的Randy Marsh为了挑战新的纪录 已经准备了三周的时间了\N{\rEng}Randy Marsh of Colorado is now three weeks into his quest to make a new crap.
+Dialogue: 0,0:13:26.51,0:13:30.28,Chn,,0,0,0,,他把所有的日常时间都用于在P.F. Chang吃东西\N{\rEng}Spending nearly every waking hour at P.F. Chang's.
+Dialogue: 0,0:13:30.72,0:13:32.78,Chn,,0,0,0,,这有什么新闻价值吗？\N{\rEng}Is this really newsworthy?
+Dialogue: 0,0:13:33.06,0:13:35.24,Chn,,0,0,0,,你根本就不了解\N{\rEng}You just don't understand.
+Dialogue: 0,0:13:35.46,0:13:37.11,Chn,,0,0,0,,是的，我不能理解\N{\rEng}You're right. I don't.
+Dialogue: 0,0:13:37.14,0:13:40.78,Chn,,0,0,0,,同时, 一些人在质疑Bono纪录的真实性\N{\rEng}At the same time, some people are questioning Bono's current record entry...
+Dialogue: 0,0:13:40.78,0:13:43.59,Chn,,0,0,0,,因为没有人亲眼看到那坨便便\N{\rEng}saying nobody has ever seen it in person.
+Dialogue: 0,0:13:43.61,0:13:47.91,Chn,,0,0,0,,目前暂时联系不到Bono,因为他现在正在非洲\N{\rEng}Bono could not be reached for comment, as he is currently in Africa helping the needy.
+Dialogue: 0,0:13:54.76,0:13:57.24,Chn,,0,0,0,,Hello, hello.\N{\rEng}Hello, hello.
+Dialogue: 0,0:13:57.52,0:14:02.05,Chn,,0,0,0,,Marsh 正在准备打破那个纪录 我们想你应该知道这件事\N{\rEng}Marsh is attempting to break the record again. We thought you should know.
+Dialogue: 0,0:14:02.08,0:14:06.69,Chn,,0,0,0,,他不可能击败我的9.5卡里克! - 他决定试试\N{\rEng}He can't beat my nine and a half Courics! - Well he's going to try.
+Dialogue: 0,0:14:06.72,0:14:11.21,Chn,,0,0,0,,可以，但他必须在你面前拉下这泡屎！ 在苏黎世！\N{\rEng}Fine, but he has to take the crap in front of you! In Zurich.
+Dialogue: 0,0:14:11.25,0:14:14.01,Chn,,0,0,0,,Bono, 我们以前从来没有这项规矩\N{\rEng}Bono, we've never had that rule before.
+Dialogue: 0,0:14:14.05,0:14:16.23,Chn,,0,0,0,,这是唯一知道他没有作弊的办法！\N{\rEng}I's the only way you can know he's not cheating!
+Dialogue: 0,0:14:16.25,0:14:19.71,Chn,,0,0,0,,如果他不是在苏黎世拉的话，那就不能算！\N{\rEng}If he doesn't crap in Zurich, it shouldn't count!
+Dialogue: 0,0:14:22.15,0:14:23.98,Chn,,0,0,0,,超声检查是很简单的, Mr. Marsh.\N{\rEng}Ultrasound is very simple, Mr. Marsh.
+Dialogue: 0,0:14:23.98,0:14:26.22,Chn,,0,0,0,,我们将用无害的超声波检查你的胃\N{\rEng}We're going to use harmless waves to look inside your belly.
+Dialogue: 0,0:14:26.22,0:14:29.29,Chn,,0,0,0,,首先要在你的肚子上涂点防护油\N{\rEng}Just gonna put some warm gel on your stomach first.
+Dialogue: 0,0:14:30.48,0:14:32.64,Chn,,0,0,0,,Ok, 深呼吸\N{\rEng}Okay, take a deep breath.
+Dialogue: 0,0:14:33.19,0:14:38.53,Chn,,0,0,0,,我看见一坨屎了，我不能保证 但是我想它可能有\N{\rEng}I see the crap now. I can't say for sure, but I, I'd say is about...
+Dialogue: 0,0:14:38.56,0:14:41.52,Chn,,0,0,0,,14卡里克 -14?!\N{\rEng}14 Courics. - Fourteen?!
+Dialogue: 0,0:14:41.56,0:14:44.02,Chn,,0,0,0,,太棒了，Randy! - 我能看看嘛?\N{\rEng}That's great, Randy! - Can I, Can I see it?
+Dialogue: 0,0:14:44.03,0:14:49.77,Chn,,0,0,0,,可以 这是你的盲肠，这里是你肚子里的那坨屎\N{\rEng}Sure. This is your colon and here is the feces growing inside your belly.
+Dialogue: 0,0:15:04.31,0:15:05.81,Chn,,0,0,0,,伙计们，我们有个问题!\N{\rEng}Guys, we have a problem!
+Dialogue: 0,0:15:05.82,0:15:09.89,Chn,,0,0,0,,刚和欧洲便便协会通过话 他们说Randy 必须去苏黎世拉这坨屎\N{\rEng}I talked to the EFSM and they say Randy has to take the crap in Zurich.
+Dialogue: 0,0:15:09.92,0:15:11.04,Chn,,0,0,0,,苏黎世？\N{\rEng}In Zurich?
+Dialogue: 0,0:15:11.04,0:15:13.87,Chn,,0,0,0,,他们说这是Bono要求的 他们也没办法\N{\rEng}They say that Bono is demanding it and that their hands are tied.
+Dialogue: 0,0:15:13.90,0:15:18.33,Chn,,0,0,0,,对不起 Mr. Marsh, 以你目前的身体状况 坐飞机是非常不合适的\N{\rEng}I'm sorry Mr. Marsh, I I cannot condone you traveling on an airplane in your condition.
+Dialogue: 0,0:15:18.35,0:15:21.74,Chn,,0,0,0,,在你粪便成型期，出行是非常不安全的\N{\rEng}It is never safe to fly during your turd trimester.
+Dialogue: 0,0:15:27.76,0:15:33.54,Chn,,0,0,0,,Hi, 请问我能和Mr. Bono说几句话吗? - Mr. Bono, 您有位年轻的拜访者!\N{\rEng}Hi, could I speak to Mr. Bono, please? - Mr. Bono, you have a young gentleman caller!
+Dialogue: 0,0:15:38.04,0:15:40.91,Chn,,0,0,0,,把喷气机准备好, Bovis! 我要走了\N{\rEng}Get the jet ready, Bovis! I've got to be going.
+Dialogue: 0,0:15:41.75,0:15:45.51,Chn,,0,0,0,,Hi, 我的名字叫Stan Marsh 我父亲正向您的最大便便纪录发起挑战\N{\rEng}Hi, my name is Stan Marsh. My dad's trying to beat your record for biggest crap.
+Dialogue: 0,0:15:45.54,0:15:48.55,Chn,,0,0,0,,哦，对的，他赶不到苏黎世了，是吗？\N{\rEng}Oh right. He can't make it to Zurich, right?
+Dialogue: 0,0:15:48.58,0:15:52.48,Chn,,0,0,0,,这就是我到这里来的原因 这个最大便便的纪录，对你很重要吗？\N{\rEng}That's kind of what I'm here for. Do you really need the biggest crap record?
+Dialogue: 0,0:15:52.50,0:15:56.09,Chn,,0,0,0,,请问您能稍微退让一下，让我爸爸获得这个头衔吗?\N{\rEng}Could you maybe see your way to just letting my dad have this one?
+Dialogue: 0,0:15:56.50,0:15:59.36,Chn,,0,0,0,,让他获得? 为什么我要这么做?!\N{\rEng}Let him have it? Why would I do that?!
+Dialogue: 0,0:15:59.39,0:16:04.37,Chn,,0,0,0,,先生，您得理解我们，我老爸 以前从来没赢过任何东西..\N{\rEng}Look, you gotta understand, sir. My dad's never won an award for anything. Ever.
+Dialogue: 0,0:16:04.40,0:16:06.45,Chn,,0,0,0,,他从来就没有赢过任何一个奖项和奖杯\N{\rEng}He doesn't have one single trophy.
+Dialogue: 0,0:16:06.48,0:16:11.41,Chn,,0,0,0,,甚至我都有个销售体育画报第二名的奖杯\N{\rEng}I mean, even I have a second-place trophy for most Sports Illustrated subscriptions sold.
+Dialogue: 0,0:16:11.44,0:16:14.01,Chn,,0,0,0,,那是因为我拿了第一名\N{\rEng}I have the first-place trophy for that.
+Dialogue: 0,0:16:15.29,0:16:17.39,Chn,,0,0,0,,伙计，难道你还不满足吗? 我意思是..\N{\rEng}Dude, don't you have enough? I mean...
+Dialogue: 0,0:16:17.43,0:16:21.21,Chn,,0,0,0,,你有数不清的钱, 喷气式飞机，世界上最大的乐队 一个超性感的老婆\N{\rEng}you got tons of money, a jet and the biggest rock band in the world, a hot wife and...
+Dialogue: 0,0:16:21.21,0:16:25.96,Chn,,0,0,0,,你甚至被授予了爵位.. 我意思是，在某些地方，你就不能让一让吗？\N{\rEng}you've been knighted. I mean, at some point, can't you just kind of fuck off?
+Dialogue: 0,0:16:25.99,0:16:29.58,Chn,,0,0,0,,我要让大家都知道我的价值，我有多重要\N{\rEng}I want people to know that I'm worth something. That I matter.
+Dialogue: 0,0:16:29.60,0:16:33.69,Chn,,0,0,0,,我只是要求仅在这么一件事上， 您可以让我爸爸当一次第一名\N{\rEng}All I'm asking is that maybe with this one thing, let my dad be number 1.
+Dialogue: 0,0:16:33.71,0:16:35.82,Chn,,0,0,0,,你仍然可以当第二名啊\N{\rEng}And you can still be number 2.
+Dialogue: 0,0:16:36.38,0:16:39.98,Chn,,0,0,0,,第二名?! 第二名?!\N{\rEng}Number two?! Number two?!
+Dialogue: 0,0:16:40.68,0:16:43.38,Chn,,0,0,0,,谁都不能这么说我!\N{\rEng}Nobody calls me that anymore and gets away with it!
+Dialogue: 0,0:16:43.41,0:16:47.37,Chn,,0,0,0,,把这话收回去! 把它收回去! - 我收回!\N{\rEng}Take it back! Take it back! - I take it back!
+Dialogue: 0,0:16:47.40,0:16:49.93,Chn,,0,0,0,,说我不是第二名! - 你不是第二名!\N{\rEng}Say I'm not number two! - You're not number two!
+Dialogue: 0,0:16:49.96,0:16:52.48,Chn,,0,0,0,,这还差不多，我才不是呢！\N{\rEng}That's right! I'm not!
+Dialogue: 0,0:16:57.22,0:16:59.13,Chn,,0,0,0,,这家伙有什么病?\N{\rEng}What is wrong with that guy?
+Dialogue: 0,0:16:59.16,0:17:02.88,Chn,,0,0,0,,你爸爸现在有危险，跟我来\N{\rEng}Your father is in grave danger. Come with me!
+Dialogue: 0,0:17:20.13,0:17:22.47,Chn,,0,0,0,,这坨便便一定超大啊\N{\rEng}It must be quite a crap.
+Dialogue: 0,0:17:22.50,0:17:25.65,Chn,,0,0,0,,加油, Randy，你必须使劲!\N{\rEng}Come on, Randy. You have to push!
+Dialogue: 0,0:17:30.95,0:17:33.35,Chn,,0,0,0,,你在说什么?! 你怎么知道我爸爸会处于危险之中?!\N{\rEng}What are you saying?! How do you know my dad is gonna die?!
+Dialogue: 0,0:17:33.38,0:17:36.56,Chn,,0,0,0,,因为从没有人能拉这么大的屎\N{\rEng}Because nobody has ever taken a crap that big before!
+Dialogue: 0,0:17:36.59,0:17:38.62,Chn,,0,0,0,,那就是说Bono的新纪录确实是个谎言!\N{\rEng}So Bono's newest record is a lie!
+Dialogue: 0,0:17:38.65,0:17:43.71,Chn,,0,0,0,,我最初发现事情不对劲的时候，是我发现了 Bono的首个最大便便的奖杯\N{\rEng}Look, I first knew something was wrong when I looked at Bono's first award for biggest crap.
+Dialogue: 0,0:17:43.75,0:17:47.07,Chn,,0,0,0,,上面写着1960年颁发的奖杯 - 所以呢?\N{\rEng}It said he took it in 1960. - So?
+Dialogue: 0,0:17:47.09,0:17:51.94,Chn,,0,0,0,,那一年Bono刚刚出生 然后我什么都明白了\N{\rEng}So that's the year Bono was born. Then it all made sense to me.
+Dialogue: 0,0:17:51.97,0:17:56.86,Chn,,0,0,0,,为什么Bono能这么有才, 如此有爱心 可看上去依然和一坨屎没什么分别?\N{\rEng}How could Bono be so talented, so caring and yet seem like such a piece of crap?
+Dialogue: 0,0:17:56.88,0:18:03.26,Chn,,0,0,0,,因为他本来就是一坨屎 你明白了吗? Bono根本不是什么纪录保持者\N{\rEng}Because he is crap. Don't you get it? Bono is not the record holder...
+Dialogue: 0,0:18:04.46,0:18:07.54,Chn,,0,0,0,,他自己就是那个纪录 - 没错\N{\rEng}He's the record. - Yes.
+Dialogue: 0,0:18:12.38,0:18:15.19,Chn,,0,0,0,,我做不到! 我做不到!\N{\rEng}I can't do it! I can't do it!
+Dialogue: 0,0:18:15.20,0:18:19.74,Chn,,0,0,0,,这坨屎实在是太大了, Mr. Marsh. 我们必须剖开肚子把它取出来!\N{\rEng}The crap is simply too big, Mr. Marsh. We must perform a Caesarean!
+Dialogue: 0,0:18:19.77,0:18:22.94,Chn,,0,0,0,,可那样的话，还能算数吗? - 不算!\N{\rEng}But then, does it still count? - Oh, no!
+Dialogue: 0,0:18:22.94,0:18:27.69,Chn,,0,0,0,,最大的屎必须是你拉出来的! - 他说的没错\N{\rEng}A biggest crap means you crapped it out! - I believe that's true.
+Dialogue: 0,0:18:27.78,0:18:32.08,Chn,,0,0,0,,很遗憾, Mr. Marsh, 但是如果不是你亲自拉出来的话\N{\rEng}We are sorry, Mr. Marsh, but if you cannot crap out the crap...
+Dialogue: 0,0:18:32.10,0:18:34.26,Chn,,0,0,0,,那就不能算数\N{\rEng}it's not really a crap.
+Dialogue: 0,0:18:34.95,0:18:37.84,Chn,,0,0,0,,No... No.\N{\rEng}No... No.
+Dialogue: 0,0:18:38.25,0:18:41.74,Chn,,0,0,0,,没事的，Randy. 你已经尽了最大努力了\N{\rEng}There there Randy. You gave it your best shot.
+Dialogue: 0,0:18:41.77,0:18:45.23,Chn,,0,0,0,,我想见我的太太  Sharon? Sharon?\N{\rEng}I want my wife. Sharon? Sharon?
+Dialogue: 0,0:18:45.94,0:18:48.97,Chn,,0,0,0,,什么?! - 对不起, Sharon.\N{\rEng}What?! - I'm sorry, Sharon.
+Dialogue: 0,0:18:49.00,0:18:53.89,Chn,,0,0,0,,对不起让你失望了 对不起我没能赢Bono\N{\rEng}I'm sorry that I let you down. I'm sorry I can't crap like Bono.
+Dialogue: 0,0:18:54.46,0:18:58.59,Chn,,0,0,0,,恭喜你了, Bono, 看来你的纪录依旧保持\N{\rEng}Well congratulations, Bono, it appears your record is intact.
+Dialogue: 0,0:18:58.62,0:19:02.10,Chn,,0,0,0,,我早就知道是这样 - 等等！停一下！\N{\rEng}I had a feeling it would be. - Wait! Stop!
+Dialogue: 0,0:19:02.13,0:19:06.89,Chn,,0,0,0,,爸爸，你以前那坨屎就应该赢了！ Bono从来没有拉过能赢你的那坨！\N{\rEng}Dad, your old crap counts. Bono never took a second crap to beat yours.
+Dialogue: 0,0:19:06.92,0:19:10.58,Chn,,0,0,0,,把他赶出去！ - 你在说什么，年轻人?\N{\rEng}Get him out of here! - What are you talking about, young man?
+Dialogue: 0,0:19:10.61,0:19:16.33,Chn,,0,0,0,,某人有个秘密，Bono从来就不是这个纪录的 保持者! 他就是那坨屎!\N{\rEng}Somebody's been keeping it a secret. Bono was never the record holder! He's the record!
+Dialogue: 0,0:19:17.02,0:19:21.17,Chn,,0,0,0,,这不是真的! 杀了这个小孩! 我要他死!\N{\rEng}It's not true! Kill the kid! I want him dead!
+Dialogue: 0,0:19:21.42,0:19:25.79,Chn,,0,0,0,,太晚了, Bono. 这个小男孩已经知道了真相\N{\rEng}It's too late, Bono. The boy has learned the truth.
+Dialogue: 0,0:19:25.82,0:19:30.69,Chn,,0,0,0,,Broloff会长, 你关于这个知道什么? - 我恐怕那是真的\N{\rEng}Herr Broloff, what do you know of this? - It's true, I'm afraid.
+Dialogue: 0,0:19:30.72,0:19:36.30,Chn,,0,0,0,,直到Mr. Marsh出现前， 我才是世上最大便便纪录的保持者\N{\rEng}You see, until Mr. Marsh came along, I was the record holder for the biggest crap.
+Dialogue: 0,0:19:36.33,0:19:41.29,Chn,,0,0,0,,我在1960年拉的 那是我有生以来拉的最神奇的一坨屎\N{\rEng}I took it back in 1960. It was the most amazing crap I'd ever taken.
+Dialogue: 0,0:19:41.32,0:19:44.46,Chn,,0,0,0,,不，爸爸，别再说了！\N{\rEng}Poppa no! Say nothing more!
+Dialogue: 0,0:19:44.65,0:19:47.90,Chn,,0,0,0,,过来吧，我亲爱的孩子\N{\rEng}Come to me, my darling precious child.
+Dialogue: 0,0:19:53.37,0:19:56.67,Chn,,0,0,0,,当我获得纪录后，我把那坨便便 带回了家\N{\rEng}After I had broken the record I took the crap home.
+Dialogue: 0,0:19:56.70,0:20:02.13,Chn,,0,0,0,,我是如此的为它自豪，我决定留下它， 像照顾我自己的孩子一样照料它\N{\rEng}I was so proud of it that I decided to keep it, to try and raise it like a child.
+Dialogue: 0,0:20:02.16,0:20:06.87,Chn,,0,0,0,,不要说了，爸爸，不要说了 - 这就是了，我亲爱的小便便\N{\rEng}No Poppa. No Poppa. - There there, my little crap.
+Dialogue: 0,0:20:06.90,0:20:10.78,Chn,,0,0,0,,别哭了 这儿，想吸奶奶吗？\N{\rEng}Don't cry. Here, do you want the biddy?
+Dialogue: 0,0:20:11.55,0:20:13.81,Chn,,0,0,0,,Does Bono want the biddy?
+Dialogue: 0,0:20:15.61,0:20:18.18,Chn,,0,0,0,,是的，他爱吸奶奶，不是吗?\N{\rEng}Yes, he likes the biddy doesn't he?
+Dialogue: 0,0:20:18.99,0:20:20.08,Chn,,0,0,0,,我晕\N{\rEng}Dude.
+Dialogue: 0,0:20:20.10,0:20:23.99,Chn,,0,0,0,,我把那坨屎放在办公室，给它营养 给它喂奶\N{\rEng}I kept the crap in my office, nursed it, fed it biddy.
+Dialogue: 0,0:20:24.03,0:20:27.71,Chn,,0,0,0,,很快，它吸着奶奶长壮了，长大了!\N{\rEng}And soon biddy made him strong. Biddy made him grow up!
+Dialogue: 0,0:20:27.75,0:20:32.77,Chn,,0,0,0,,甚至成为了我们这个时代最有影响力的人物之一 轻点，Bono，那会弄疼了我的奶奶\N{\rEng}Into one of the most influential figures of our time.Easy Bono, that hurts the biddy.
+Dialogue: 0,0:20:33.31,0:20:34.63,Chn,,0,0,0,,奶奶\N{\rEng}Biddy.
+Dialogue: 0,0:20:35.76,0:20:38.53,Chn,,0,0,0,,我的小便便完成了很多精彩的壮举\N{\rEng}My little crap has accomplished many things.
+Dialogue: 0,0:20:38.56,0:20:42.98,Chn,,0,0,0,,但是他从来不能接受他自己其实是便便的事实 （美国俚语中，numer two有便便的意思）\N{\rEng}But he could never shed the fact that he was really a number two.
+Dialogue: 0,0:20:43.01,0:20:46.94,Chn,,0,0,0,,所以他用他一生的时间和精力要当第一名， 在所有事情上\N{\rEng}So he spent his life trying to be number one, in everything.
+Dialogue: 0,0:20:46.98,0:20:50.26,Chn,,0,0,0,,这就是他为什么在能完成那么多的事， 帮助那么多人后，\N{\rEng}That's why he's able to do so much, try to help so many people...
+Dialogue: 0,0:20:50.29,0:20:52.76,Chn,,0,0,0,,可让人觉得依然不过是一坨屎\N{\rEng}but still seem like such a piece of shit.
+Dialogue: 0,0:20:52.80,0:20:55.86,Chn,,0,0,0,,你的行为让我们神圣的协会有了污点，Broloff会长\N{\rEng}You have blemished this noble society's good name, Herr Broloff.
+Dialogue: 0,0:20:55.89,0:20:59.53,Chn,,0,0,0,,我有吗?! 瞧瞧我当年拉的这坨屎！\N{\rEng}Have I?! Look at the crap I took all those years ago!
+Dialogue: 0,0:20:59.56,0:21:03.74,Chn,,0,0,0,,Bono现在已经有6英尺高，重达80卡里克!\N{\rEng}Bono is now almost six feet tall and over 80 Courics in weight!
+Dialogue: 0,0:21:03.77,0:21:07.76,Chn,,0,0,0,,无论你们怎么看，它依旧是记录!\N{\rEng}No matter how you look at it, he is still the record!
+Dialogue: 0,0:21:07.79,0:21:11.19,Chn,,0,0,0,,欧，上帝啊，来了! 疼啊 疼 疼 疼 疼!\N{\rEng}Oh God, here it comes! Oh, hot, hot, hot, hot!
+Dialogue: 0,0:21:11.22,0:21:14.45,Chn,,0,0,0,,疼 疼 疼 疼 疼 疼!\N{\rEng}Hot, hot, hot, hot, hot! Hot! Hot!
+Dialogue: 0,0:21:20.73,0:21:24.98,Chn,,0,0,0,,我的上帝啊... - 这一定超过了100卡里克!\N{\rEng}My God... - It must be over a hundred Courics!
+Dialogue: 0,0:21:25.16,0:21:27.74,Chn,,0,0,0,,爸爸，你还好吗？ - 恩\N{\rEng}Dad, are you all right? - Yeah, I'm...
+Dialogue: 0,0:21:27.77,0:21:30.63,Chn,,0,0,0,,我很好! 感觉好多了\N{\rEng}No, I'm good! Feel a lot better.
+Dialogue: 0,0:21:30.66,0:21:34.44,Chn,,0,0,0,,Mr. Marsh, 非常抱歉 如果你不介意的话\N{\rEng}Mr. Marsh, we apologize and if it's okay with you...
+Dialogue: 0,0:21:34.47,0:21:38.91,Chn,,0,0,0,,请拿好早就应该属于你的奖杯\N{\rEng}we would like to present you... your long overdue trophy.

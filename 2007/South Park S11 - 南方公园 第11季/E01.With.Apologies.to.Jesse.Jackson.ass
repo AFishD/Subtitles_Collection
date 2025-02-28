@@ -1,0 +1,328 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: South.Park.S11E01.With.Apologies.to.Jesse.Jackson.1080p.BluRay.x264-SHORTBREHD
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 1916
+PlayResY: 1076
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,微软雅黑,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Git,Comic Sans MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Chn,微软雅黑,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,20,1
+Style: Eng,Comic Sans MS,60,&H002AF7FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.50,0:00:11.78,Chn,,0,0,0,,{\i1}我将去往南方公园 度过一段时光{\i0}\N{\rEng}{\i1}I'm going out to South Park gonna have myself a time{\i0}
+Dialogue: 0,0:00:11.84,0:00:15.13,Chn,,0,0,0,,{\i1}处处是无欲谦人 友善面庞{\i0}\N{\rEng}{\i1}Friendly faces everywhere humble folks without temptation{\i0}
+Dialogue: 0,0:00:15.18,0:00:18.47,Chn,,0,0,0,,{\i1}我将去往南方公园 远离我的悲伤{\i0}\N{\rEng}{\i1}I'm goin out to south park gonna leave my woes behind{\i0}
+Dialogue: 0,0:00:18.51,0:00:21.81,Chn,,0,0,0,,{\i1}日夜都有充足车位 邻居人人礼貌大方{\i0}\N{\rEng}{\i1}Ample parking day or night people spouting howdy neighbor{\i0}
+Dialogue: 0,0:00:21.85,0:00:24.95,Chn,,0,0,0,,{\i1}我将去往南方公园 试着放松一场{\i0}\N{\rEng}{\i1}I'm heading out to south park to see if i cant unwind{\i0}
+Dialogue: 0,0:00:24.98,0:00:28.27,Chn,,0,0,0,,{\i1}我爱女孩 大奶成双{\i0}\N{\rEng}{\i1}I like girls with big fat titties really big fat titties{\i0}
+Dialogue: 0,0:00:28.31,0:00:31.45,Chn,,0,0,0,,{\i1}快来南方公园吧 与我的朋友会一场{\i0}\N{\rEng}{\i1}So come on out to south park and meet some friends of mine{\i0}
+Dialogue: 0,0:00:31.55,0:00:33.55,Chn,,0,0,0,,{\i1} 南方公园 第11季第1季 "向Jackson神父的道歉"{\i0}\N{\rEng}{\i1}Episode 11x01 "With Apologies To Jesse Jackson"{\i0}
+Dialogue: 0,0:00:35.50,0:00:38.96,Chn,,0,0,0,,{\i1}现在回到《财富轮盘》{\i0}\N{\rEng}{\i1}And now back to, Wheel of Fortune.{\i0}
+Dialogue: 0,0:00:40.29,0:00:44.40,Chn,,0,0,0,,好了 Randy 恭喜你一直晋级到这一轮\N{\rEng}Allright, Randy. Congratulations on making it all the way to the bonus round.
+Dialogue: 0,0:00:44.43,0:00:47.57,Chn,,0,0,0,,-谢谢你 Pat -你有家人今晚一直在这里？\N{\rEng}Thanks, Pat. - You got some family here watching tonight.
+Dialogue: 0,0:00:47.60,0:00:49.14,Chn,,0,0,0,,对 他们都支持我\N{\rEng}Yeah, they're all rooting for me.
+Dialogue: 0,0:00:49.16,0:00:51.85,Chn,,0,0,0,,我相信肯定有很多朋友在家里看着\N{\rEng}And I'm sure you have lots of friends watching back home?
+Dialogue: 0,0:00:51.89,0:00:54.93,Chn,,0,0,0,,对 你们好 南方公园看电视的大家\N{\rEng}Yeah. Hi, everybody watching in South Park.
+Dialogue: 0,0:00:54.99,0:00:58.87,Chn,,0,0,0,,-说的是我们！ -祝你好运！\N{\rEng}That's us. - Good luck!
+Dialogue: 0,0:00:58.91,0:01:01.23,Chn,,0,0,0,,好 让我们看看你能不能让每个人感到骄傲\N{\rEng}Well let see if you can make everyone proud.
+Dialogue: 0,0:01:01.27,0:01:04.77,Chn,,0,0,0,,类别是“你讨厌的人”\N{\rEng}The category is: "People who annoy you."
+Dialogue: 0,0:01:04.83,0:01:05.80,Chn,,0,0,0,,好的\N{\rEng}Okay.
+Dialogue: 0,0:01:05.82,0:01:10.70,Chn,,0,0,0,,如往常一样 我们给你字母 "R" "T" "S" "L" 和"E"\N{\rEng}As always we give you the letters, "R", "T", "S", "L" and "E".
+Dialogue: 0,0:01:11.59,0:01:13.99,Chn,,0,0,0,,我们只需要另外三个辅音和一个元音\N{\rEng}We just need three more consonants and a vowel.
+Dialogue: 0,0:01:14.03,0:01:16.39,Chn,,0,0,0,,好的 我要一个“B”\N{\rEng}Okay, I'd like a "B".
+Dialogue: 0,0:01:16.52,0:01:18.80,Chn,,0,0,0,,一个"N"和一个"G"\N{\rEng}A "N" and a "G".
+Dialogue: 0,0:01:19.02,0:01:21.63,Chn,,0,0,0,,-元音呢？ -请给一个"O"\N{\rEng}And the vowel? - An "O", please.
+Dialogue: 0,0:01:21.67,0:01:24.55,Chn,,0,0,0,,好的 看上去你获得的帮助不少\N{\rEng}Okay well, looks like you're gonna get a lot of help here.
+Dialogue: 0,0:01:24.61,0:01:29.55,Chn,,0,0,0,,类别是“你讨厌的人” 观众请保持安静\N{\rEng}The category is: "People who annoy you." Audience keep quiet please.
+Dialogue: 0,0:01:32.69,0:01:34.16,Chn,,0,0,0,,呃...\N{\rEng}Uh...
+Dialogue: 0,0:01:34.32,0:01:35.94,Chn,,0,0,0,,嗯 呃...\N{\rEng}Well, uhm...
+Dialogue: 0,0:01:36.00,0:01:37.50,Chn,,0,0,0,,十秒钟 Marsh先生\N{\rEng}Ten seconds, Mr. Marsh.
+Dialogue: 0,0:01:37.54,0:01:41.80,Chn,,0,0,0,,-我知道这个词 但是我觉得不应该说 -五秒钟 Marsh先生\N{\rEng}I know it, but I don't think I should say it. - Five seconds, Mr. Marsh.
+Dialogue: 0,0:01:41.81,0:01:44.43,Chn,,0,0,0,,好的 我想解这个字谜\N{\rEng}Allright, I'd like to solve the puzzle.
+Dialogue: 0,0:01:45.08,0:01:47.34,Chn,,0,0,0,,Niggers.
+Dialogue: 0,0:02:01.76,0:02:05.49,Chn,,0,0,0,,哦 Naggers（唠叨鬼） 当然 Naggers 是啊\N{\rEng}Oh, naggers, of course. Naggers. Right.
+Dialogue: 0,0:02:05.53,0:02:08.87,Chn,,0,0,0,,呃 我们能切掉...\N{\rEng}Uh, can we cut to a...
+Dialogue: 0,0:02:08.90,0:02:10.33,Chn,,0,0,0,,{\i1}我们能不能切掉...{\i0}\N{\rEng}{\i1}Could we cut to a-{\i0}
+Dialogue: 0,0:02:20.21,0:02:22.64,Chn,,0,0,0,,嗯 我努力猜了\N{\rEng}Well, I gave it my best shot.
+Dialogue: 0,0:02:22.80,0:02:25.41,Chn,,0,0,0,,至少我们有了一次有趣的旅行 是吗 大伙？\N{\rEng}At least we had a fup trip, huh gang?
+Dialogue: 0,0:02:26.39,0:02:30.95,Chn,,0,0,0,,我不敢相信你居然在全国电视上说了“N”字\N{\rEng}I can't believe you said the "N" word on national television.
+Dialogue: 0,0:02:31.00,0:02:32.20,Chn,,0,0,0,,什么？\N{\rEng}What?
+Dialogue: 0,0:02:32.26,0:02:37.13,Chn,,0,0,0,,为什么 我该说什么 Sharon？ 我以为我能拿到3万块！\N{\rEng}Well, what i was supposed to do, Sharon? I thought I was gonna make $30.000!
+Dialogue: 0,0:02:37.23,0:02:42.22,Chn,,0,0,0,,Stanley老爸说这个词的唯一原因 就是他以为他能赢钱！\N{\rEng}Stanley, the only reason daddy used that word, is that he thought he would win money!
+Dialogue: 0,0:02:45.09,0:02:47.70,Chn,,0,0,0,,老兄 你爸爸知道这个节目是现场直播吗？\N{\rEng}Dude, did your dad know the show was being broadcast live?
+Dialogue: 0,0:02:47.72,0:02:51.88,Chn,,0,0,0,,老兄 这是我见过最有趣的事了 我在YouTube上看了不下60次\N{\rEng}Dude, the funniest thing I've ever seen. I watched it on YouTube about 60 times.
+Dialogue: 0,0:02:51.94,0:02:54.89,Chn,,0,0,0,,我们能不能不谈这个 拜托？ 我不像谈这个\N{\rEng}Can we just drop this, please? I don't wanna talk about it.
+Dialogue: 0,0:02:54.93,0:02:57.69,Chn,,0,0,0,,好啊 你需要担心的可不是我们\N{\rEng}Yeah, well, it's not us you have to worry about.
+Dialogue: 0,0:02:57.81,0:02:59.44,Chn,,0,0,0,,而是Token\N{\rEng}It's Token.
+Dialogue: 0,0:03:03.70,0:03:08.06,Chn,,0,0,0,,-他会把你打得满地找牙 -他不会的 他会吗？\N{\rEng}He is gonna wanna kick your cracker teeth in. - No, he's not. Is he?
+Dialogue: 0,0:03:08.11,0:03:10.53,Chn,,0,0,0,,-我不知道 -我只需要解释一下\N{\rEng}I don't know. - I just need to explain things.
+Dialogue: 0,0:03:12.21,0:03:13.72,Chn,,0,0,0,,嗨 Token\N{\rEng}Hey, Token.
+Dialogue: 0,0:03:13.94,0:03:17.34,Chn,,0,0,0,,听着 我不知道你昨晚有没有看财富轮盘 但是...\N{\rEng}Look, I don't know if you saw Wheel of Fortune last night, but...
+Dialogue: 0,0:03:17.38,0:03:19.11,Chn,,0,0,0,,是的 我们全家一起看了\N{\rEng}Yeah, I was watching with my whole family.
+Dialogue: 0,0:03:19.13,0:03:21.45,Chn,,0,0,0,,然后我们今早在新闻里看了所有的重播\N{\rEng}And then we saw all the replays this morning on the news.
+Dialogue: 0,0:03:21.49,0:03:24.99,Chn,,0,0,0,,听着 Token 我爸爸不是种族分子 他只是犯傻了 好不好？\N{\rEng}Listen, Token, my dad isn't an racist. He's just stupid, allright?
+Dialogue: 0,0:03:25.05,0:03:27.97,Chn,,0,0,0,,他只是脱口而出那个"N"字 没什么大不了的 对吧？\N{\rEng}He just blurted out the "N" word, and it's no big deal, okay?
+Dialogue: 0,0:03:28.00,0:03:31.52,Chn,,0,0,0,,哦 嗯 事实上这有什么大不了的 Stan\N{\rEng}Uh, well, actually it is kinda a big deal, Stan.
+Dialogue: 0,0:03:33.01,0:03:35.92,Chn,,0,0,0,,这可能是个错误 但你不明白听到这个字是什么感觉\N{\rEng}It may be a mistake, but you don't understand how it feels when that word comes up.
+Dialogue: 0,0:03:35.93,0:03:37.45,Chn,,0,0,0,,所以不要说没什么大不了的\N{\rEng}So don't say it isn't a big deal.
+Dialogue: 0,0:03:37.48,0:03:42.08,Chn,,0,0,0,,哦 狗屎 快来看啊 打起来了 种族战争\N{\rEng}Oh, shit, here we go. It's on! Race war!
+Dialogue: 0,0:03:42.27,0:03:44.70,Chn,,0,0,0,,种族战争！种族战争！\N{\rEng}Race war! Race war!
+Dialogue: 0,0:03:44.94,0:03:49.39,Chn,,0,0,0,,大家看 种族战争打起来啦！ 就要开打啦！就要开打啦！\N{\rEng}Race war is on, everybody! It's going down! Shit is going down!
+Dialogue: 0,0:03:49.77,0:03:52.64,Chn,,0,0,0,,Token 我爸爸没想冒犯 就让这事儿过去吧\N{\rEng}Token my dad wasn't trying to be offensive, just forget about it.
+Dialogue: 0,0:03:52.66,0:03:55.16,Chn,,0,0,0,,-你说起来倒是容易 Stan -好啊 快点 快打啊！\N{\rEng}That's easy for you to say, Stan. - Yeah, come on. Here we go!
+Dialogue: 0,0:03:55.19,0:03:57.66,Chn,,0,0,0,,对 但他没有含恨或在类似情绪下说那个字\N{\rEng}Yeah, but he didn't say it in anger or anything like that.
+Dialogue: 0,0:03:57.70,0:04:01.28,Chn,,0,0,0,,-那样不代表我就觉得没事了 -种族战争 快点 种族战争！\N{\rEng}That doesn't mean I can just be fine. - Race war, come on. Race war!
+Dialogue: 0,0:04:01.32,0:04:04.57,Chn,,0,0,0,,如果你真的觉得没什么大不了 那你就真的很无知\N{\rEng}If you really think it's not a big deal, then you really are ignorant.
+Dialogue: 0,0:04:04.63,0:04:07.57,Chn,,0,0,0,,就这样 我不会跟任何人打架\N{\rEng}That's all. I'm not fighting anybody!
+Dialogue: 0,0:04:09.13,0:04:10.79,Chn,,0,0,0,,Token弃权！\N{\rEng}Token forefits!
+Dialogue: 0,0:04:10.84,0:04:13.74,Chn,,0,0,0,,白人胜了！白人胜了!\N{\rEng}Whites win! Whites win!
+Dialogue: 0,0:04:13.80,0:04:17.20,Chn,,0,0,0,,大家看 种族战阵再次结束！ 白人再次胜利！\N{\rEng}Race war is over again, everybody! Whites won again!
+Dialogue: 0,0:04:18.14,0:04:24.09,Chn,,0,0,0,,我想真诚地深深地道歉 为我在财富轮盘上说了"N"字\N{\rEng}I want to apologize deeply and sincerely for using the "N" word on Wheel of Fortune.
+Dialogue: 0,0:04:24.15,0:04:29.17,Chn,,0,0,0,,我想向你保证 我并不是种族分子 Jackson神父\N{\rEng}And I want to assure you that I'm not a racist, reverend Jackson.
+Dialogue: 0,0:04:32.05,0:04:36.66,Chn,,0,0,0,,你要解的字谜是“你讨厌的人”\N{\rEng}The puzzle you were solving was: "People who annoy you?"
+Dialogue: 0,0:04:37.04,0:04:41.08,Chn,,0,0,0,,嗯 我是说 难道其他人 都想的是Naggers吗？是吧？\N{\rEng}Well, like anybody else thought it was naggers, I mean, right?
+Dialogue: 0,0:04:41.21,0:04:45.42,Chn,,0,0,0,,Marsh先生 你需要花点时间 了解一下非裔美国人的文化\N{\rEng}Mr. Marsh, you need to take time to understand African-American culture.
+Dialogue: 0,0:04:45.46,0:04:48.62,Chn,,0,0,0,,参观黑人博物馆 观看黑人表演者和艺术家\N{\rEng}Visit black museums, see black performers and artists.
+Dialogue: 0,0:04:48.65,0:04:53.30,Chn,,0,0,0,,哦 我会的 我很支持非裔美国人\N{\rEng}Oh, I will. I'm really down with African-Americans.
+Dialogue: 0,0:04:55.04,0:04:59.03,Chn,,0,0,0,,-你真的想道歉吗？你确定吗？ -是的 绝对是\N{\rEng}Do you really want to apologize? Are you sure? - Yes, absolutely.
+Dialogue: 0,0:04:59.96,0:05:03.95,Chn,,0,0,0,,很好 如果你想道歉 我会接受\N{\rEng}Very well. If you want to apologize. I will accept.
+Dialogue: 0,0:05:04.01,0:05:06.21,Chn,,0,0,0,,哦 谢谢你 Jackson先生 谢谢你\N{\rEng}Oh, thank you, Mr. Jackson. Thank you.
+Dialogue: 0,0:05:06.24,0:05:10.21,Chn,,0,0,0,,-Brian 拍一张Marsh先生道歉的照片 -准备好了 先生\N{\rEng}Brian, get a picture of Mr. Marsh apologizing. - Ready to go, sir.
+Dialogue: 0,0:05:13.99,0:05:16.10,Chn,,0,0,0,,-亲这边 -啊？\N{\rEng}Kiss it. - Uh?
+Dialogue: 0,0:05:16.15,0:05:19.11,Chn,,0,0,0,,道歉 亲这边\N{\rEng}Apologize. Kiss it.
+Dialogue: 0,0:05:20.05,0:05:23.91,Chn,,0,0,0,,-你要我亲你的-- -没错 道歉啊\N{\rEng}You want me to kiss your- - That's right, apologize.
+Dialogue: 0,0:05:24.94,0:05:27.41,Chn,,0,0,0,,啊 好吧 我 呃...\N{\rEng}Ah, okay. I'll uh...
+Dialogue: 0,0:05:27.99,0:05:29.38,Chn,,0,0,0,,让我听听 呃...\N{\rEng}Let's hear uh...
+Dialogue: 0,0:05:29.50,0:05:31.20,Chn,,0,0,0,,道歉啊\N{\rEng}Apologize.
+Dialogue: 0,0:05:38.64,0:05:42.20,Chn,,0,0,0,,嗨 Token 我只想让你知道 现在所有事都解决了\N{\rEng}Hey, Token, I just wanted to let you know, that everything is cool now.
+Dialogue: 0,0:05:42.23,0:05:45.01,Chn,,0,0,0,,我爸爸向Jackson神父道歉了\N{\rEng}My dad apologized to Jesse Jackson.
+Dialogue: 0,0:05:45.05,0:05:47.48,Chn,,0,0,0,,哦 我明白了 那我现在应该感觉好多了？\N{\rEng}Oh, I see. So I'm supposed to feel all better now?
+Dialogue: 0,0:05:47.70,0:05:50.57,Chn,,0,0,0,,-嗯 对啊 -你就是不明白 Stan\N{\rEng}Well, yeah. - You just don't get it, Stan.
+Dialogue: 0,0:05:50.64,0:05:52.75,Chn,,0,0,0,,老兄 Jackson神父说没事了\N{\rEng}Dude, Jesse Jackson said it's okay.
+Dialogue: 0,0:05:52.77,0:05:56.44,Chn,,0,0,0,,Jackson神父不是黑人皇帝\N{\rEng}Jesse Jackson is not the emporer of black people!
+Dialogue: 0,0:05:58.26,0:06:00.35,Chn,,0,0,0,,他告诉我爸爸他是\N{\rEng}He told my dad he was.
+Dialogue: 0,0:06:00.96,0:06:07.36,Chn,,0,0,0,,今天我们会有一位嘉宾演讲者 跟我们谈谈语言的敏感和力量\N{\rEng}Today we are going to have a guest speaker talk to us about sensitivity and the power of words.
+Dialogue: 0,0:06:07.41,0:06:10.26,Chn,,0,0,0,,马上你们会见到David Nelson博士\N{\rEng}In a moment, you will meet Dr. David Nelson.
+Dialogue: 0,0:06:10.29,0:06:13.15,Chn,,0,0,0,,他有着被恶意毁谤的第一手经验\N{\rEng}Who has firsthand experience in overcoming slander,
+Dialogue: 0,0:06:13.15,0:06:16.43,Chn,,0,0,0,,因为David自己就是小型人\N{\rEng}because David is himself a little person.
+Dialogue: 0,0:06:16.50,0:06:18.90,Chn,,0,0,0,,有谁知道"小型人"是什么意思？\N{\rEng}Who knows what a little person is?
+Dialogue: 0,0:06:20.16,0:06:23.12,Chn,,0,0,0,,-那边那位同学 -侏儒？\N{\rEng}Yes, over there? - A midget?
+Dialogue: 0,0:06:23.79,0:06:27.51,Chn,,0,0,0,,不太对 那个词事实上被认为是具有冒犯性的\N{\rEng}Not exactly. That term is actually considered offensive.
+Dialogue: 0,0:06:27.55,0:06:30.33,Chn,,0,0,0,,这就是为什么Nelson博士在学校作巡回演讲\N{\rEng}And that's why Dr. Nelson goes from school to school
+Dialogue: 0,0:06:30.33,0:06:33.62,Chn,,0,0,0,,他让我们都思考我们所说的\N{\rEng}getting us all to think about what we say.
+Dialogue: 0,0:06:33.69,0:06:39.95,Chn,,0,0,0,,他有两个博士学位 发表六本著作 让我们欢迎David Nelson\N{\rEng}He has two Ph. D.'s and has published six books. Please welcome David Nelson!
+Dialogue: 0,0:06:42.57,0:06:45.99,Chn,,0,0,0,,早上好 学生们 你们今天感觉如何？\N{\rEng}Good morning, students. How are we all feeling today?
+Dialogue: 0,0:06:56.14,0:06:59.53,Chn,,0,0,0,,我向跟你们分享一下我所有的--\N{\rEng}I would like to share with you all my-
+Dialogue: 0,0:07:00.12,0:07:03.00,Chn,,0,0,0,,不 老兄 他妈的不会吧\N{\rEng}No, dude! No, fucking way!
+Dialogue: 0,0:07:04.59,0:07:06.00,Chn,,0,0,0,,老兄\N{\rEng}Dude.
+Dialogue: 0,0:07:07.19,0:07:11.56,Chn,,0,0,0,,那些词就像子弹 如果你--\N{\rEng}That words are like bullets and if you give-
+Dialogue: 0,0:07:14.99,0:07:17.45,Chn,,0,0,0,,别 别 别\N{\rEng}Just stop, stop, stop!
+Dialogue: 0,0:07:18.22,0:07:21.39,Chn,,0,0,0,,-Eric 安静 -不 不 没关系\N{\rEng}Eric, be quiet. - No, no, it's okay.
+Dialogue: 0,0:07:21.41,0:07:24.18,Chn,,0,0,0,,他很快就会没劲了\N{\rEng}He will run out of steam here pretty soon.
+Dialogue: 0,0:07:37.59,0:07:40.90,Chn,,0,0,0,,看看 看看 他们还给他穿小西装！\N{\rEng}Look, look, look! They put a little suit on him!
+Dialogue: 0,0:07:53.21,0:07:54.51,Chn,,0,0,0,,所以我跟我老婆讲\N{\rEng}So I said to my wife:
+Dialogue: 0,0:07:54.52,0:07:59.03,Chn,,0,0,0,,"你叫我杀该死的蟑螂 别因为我弄乱屋子就冲我大喊大叫"\N{\rEng}"You told me to kill the damn cockroach, don't yell at me for making a mess!"
+Dialogue: 0,0:08:01.92,0:08:06.17,Chn,,0,0,0,,今晚我们观众不少 现在 有多少人真的从科罗拉多来？\N{\rEng}We got a great crowd here tonight. Now, how many people here are actually from Colorado?
+Dialogue: 0,0:08:09.04,0:08:12.48,Chn,,0,0,0,,礼拜五晚没事做 只能来喜剧俱乐部 啊？\N{\rEng}Got nothing better to do on a friday night than to go to a comedy club, uh?
+Dialogue: 0,0:08:15.24,0:08:17.80,Chn,,0,0,0,,嘿 我认识你吗？\N{\rEng}Hey, don't I know you from somewhere?
+Dialogue: 0,0:08:20.15,0:08:24.64,Chn,,0,0,0,,对 我认识你 你就是那个在财富轮盘说黑鬼的家伙\N{\rEng}Yeah, I know you. You're the guy that said nigger on Wheel of Fortune!
+Dialogue: 0,0:08:27.54,0:08:30.16,Chn,,0,0,0,,大家快看 这就是那个黑鬼男\N{\rEng}Look, everybody, it's the nigger guy.
+Dialogue: 0,0:08:31.34,0:08:32.88,Chn,,0,0,0,,嗨 是他\N{\rEng}Hey, it is him.
+Dialogue: 0,0:08:33.04,0:08:38.90,Chn,,0,0,0,,哦 俱乐部来了明星 大家向黑鬼男挥手 说 “嗨 黑鬼男”\N{\rEng}Oh, we got a star in the club. Everyone wave to the nigger guy, say "Hi, nigger guy."
+Dialogue: 0,0:08:38.96,0:08:40.75,Chn,,0,0,0,,嗨 黑鬼男！\N{\rEng}Hi, nigger guy!
+Dialogue: 0,0:08:43.22,0:08:46.28,Chn,,0,0,0,,没关系 黑鬼男 你知道我们只是玩玩\N{\rEng}That's allright, nigger guy, you know we just playing.
+Dialogue: 0,0:08:46.33,0:08:48.92,Chn,,0,0,0,,是的 没关系\N{\rEng}Yeah. No problem.
+Dialogue: 0,0:08:49.39,0:08:53.68,Chn,,0,0,0,,近来你们看见过车里的导航系统吗？\N{\rEng}Have y'all seen these navigation systems in these cars, these days?
+Dialogue: 0,0:08:54.10,0:08:57.80,Chn,,0,0,0,,该死的玩意儿 好像他们缺了牛B太空坚果似的 （牛B太空坚果是70年代一部电视剧）\N{\rEng}Damn things look like they're right out of space nuts.
+Dialogue: 0,0:08:57.84,0:09:00.82,Chn,,0,0,0,,也许黑鬼男有 你有的 黑鬼男？\N{\rEng}Maybe nigger guy has one, you got one, nigger guy?
+Dialogue: 0,0:09:09.52,0:09:12.49,Chn,,0,0,0,,嗨 Patty 快看 是那个黑鬼男\N{\rEng}Hey, look, Patty. It's that nigger guy.
+Dialogue: 0,0:09:17.39,0:09:19.40,Chn,,0,0,0,,黑鬼男 黑鬼男\N{\rEng}Nigger guy, nigger guy.
+Dialogue: 0,0:09:29.68,0:09:32.45,Chn,,0,0,0,,嗨 你觉得你在干什么？\N{\rEng}Hey, what do you think you're doing?
+Dialogue: 0,0:09:32.51,0:09:34.56,Chn,,0,0,0,,我只想买点阿司匹林\N{\rEng}I just need some aspirin.
+Dialogue: 0,0:09:34.60,0:09:37.96,Chn,,0,0,0,,这个店不欢迎你 黑鬼男\N{\rEng}You aren't welcome in this store, nigger guy.
+Dialogue: 0,0:09:40.12,0:09:42.13,Chn,,0,0,0,,好吧\N{\rEng}Fine.
+Dialogue: 0,0:09:49.04,0:09:53.51,Chn,,0,0,0,,Victoria校长 我很担心一个学生的行为\N{\rEng}Principal Victoria, I'm very concerned about the behavior of one of your students.
+Dialogue: 0,0:09:53.54,0:09:58.46,Chn,,0,0,0,,是的 对Eric Cartman的行为我们道歉 Nelson先生 我们很难过\N{\rEng}Yes, we apologize for Eric Cartman's behavior, Mr. Nelson. We feel terrible.
+Dialogue: 0,0:09:58.49,0:10:02.03,Chn,,0,0,0,,为什么？我不觉得难过 我根本没放在心上\N{\rEng}Why? I don't feel terrible. It doesn't bother me at all.
+Dialogue: 0,0:10:02.07,0:10:05.16,Chn,,0,0,0,,言语就像子弹 我让它们从我身体穿过\N{\rEng}Words are like bullets and I let them pass right through me.
+Dialogue: 0,0:10:05.19,0:10:09.20,Chn,,0,0,0,,我知道 跟这位Eric Cartman 单独相处一段时间\N{\rEng}I just know that with some one-on-one time together with this Eric Cartman.
+Dialogue: 0,0:10:09.23,0:10:12.22,Chn,,0,0,0,,我有机会改变他的想法\N{\rEng}I have a chance to change the way he thinks.
+Dialogue: 0,0:10:13.52,0:10:17.52,Chn,,0,0,0,,最好你就此算了 好吗？\N{\rEng}It might be best if you just let it go, OK?
+Dialogue: 0,0:10:17.54,0:10:20.85,Chn,,0,0,0,,你不明白 你看 言语像子弹\N{\rEng}You don't understand. You see, words are like bullets.
+Dialogue: 0,0:10:20.89,0:10:24.93,Chn,,0,0,0,,-如果你拿走火药-- -对对 我们明白了 Nelson先生\N{\rEng}And if you take away the gun powder- - Yeah, yeah, we get it, Mr. Nelson.
+Dialogue: 0,0:10:24.97,0:10:29.78,Chn,,0,0,0,,很好 Nelson先生 Stacy 去把Eric Cartman叫进来\N{\rEng}Very well, Mr. Nelson. Stacy, go ahead and send in Eric Cartman.
+Dialogue: 0,0:10:38.11,0:10:42.58,Chn,,0,0,0,,Eric Nelson先生很关注你对小型人的态度\N{\rEng}Eric, Mr. Nelson is concerned about how you respond to little people.
+Dialogue: 0,0:10:44.26,0:10:46.79,Chn,,0,0,0,,是不是我伤害了他的“小型感情”？\N{\rEng}Did I hurt his little feelings?
+Dialogue: 0,0:10:47.62,0:10:50.73,Chn,,0,0,0,,你知道 你以为你有能力让我觉得不舒服\N{\rEng}You know, you think you have the power to make me insecure.
+Dialogue: 0,0:10:50.72,0:10:52.96,Chn,,0,0,0,,但其实你的言语毫无力量\N{\rEng}But your words are actually completely powerless.
+Dialogue: 0,0:10:52.97,0:10:56.73,Chn,,0,0,0,,我们应该找8个这个 把他们打扮成小海狸 是吧？\N{\rEng}We should get like eight of these. We can dress them all up like little beavers, right?
+Dialogue: 0,0:10:56.77,0:10:59.87,Chn,,0,0,0,,然后把他们放在池塘里 看看他们能不能造出来水坝\N{\rEng}And then put them in a pond and see if they build a dam!
+Dialogue: 0,0:11:02.88,0:11:06.65,Chn,,0,0,0,,你看 无论你说什么 我仍然屹立不倒\N{\rEng}You see, no matter what you say, I'm still standing.
+Dialogue: 0,0:11:06.66,0:11:08.13,Chn,,0,0,0,,几乎没有\N{\rEng}Barely!
+Dialogue: 0,0:11:09.47,0:11:12.51,Chn,,0,0,0,,不管你有什么举动 我都能扛过去\N{\rEng}No matter how you act, I can rise above it.
+Dialogue: 0,0:11:12.81,0:11:15.41,Chn,,0,0,0,,扛过去 哈哈 明白吗？\N{\rEng}Rise above it. Get it?
+Dialogue: 0,0:11:15.43,0:11:19.21,Chn,,0,0,0,,-闭上你的鸟嘴！ -Nelson先生！\N{\rEng}Shut your fucking mouth! - Mr. Nelson!
+Dialogue: 0,0:11:22.30,0:11:25.79,Chn,,0,0,0,,他没有得逞 我刚才只是开玩笑\N{\rEng}He didn't get to me. I was just joking.
+Dialogue: 0,0:11:27.14,0:11:31.74,Chn,,0,0,0,,看看他的脸变得通红 他好像个小草莓啊\N{\rEng}Look, look how it's face gets all red. He's like a little strawberry.
+Dialogue: 0,0:11:42.01,0:11:44.37,Chn,,0,0,0,,{\i1}恶毒之言语 如影又随形{\i0}\N{\rEng}{\i1}words with venom, words that bind.{\i0}
+Dialogue: 0,0:11:44.41,0:11:47.35,Chn,,0,0,0,,{\i1}言语似武器 遮蔽我心灵{\i0}\N{\rEng}{\i1}words used like weapons to cloud my mind.{\i0}
+Dialogue: 0,0:11:47.40,0:11:49.50,Chn,,0,0,0,,{\i1}我是一个人 我也有尊严{\i0}\N{\rEng}{\i1}I'm a person, I'm a man{\i0}
+Dialogue: 0,0:11:49.53,0:11:51.91,Chn,,0,0,0,,{\i1}无论努力再三{\i0}\N{\rEng}{\i1}but no matter how hard I try{\i0}
+Dialogue: 0,0:11:51.95,0:11:56.05,Chn,,0,0,0,,{\i1}人们只会说 "嗨 这是黑鬼男"{\i0}\N{\rEng}{\i1}people just say: "Hey, there goes that nigger guy."{\i0}
+Dialogue: 0,0:11:57.38,0:12:01.01,Chn,,0,0,0,,{\i1}处处皆一样 难逃我恶名{\i0}\N{\rEng}{\i1}everywhere I go it's always the same, I can't get away from that terrible name.{\i0}
+Dialogue: 0,0:12:01.05,0:12:03.98,Chn,,0,0,0,,{\i1}嗨 黑鬼男 黑鬼男 黑鬼男 停！{\i0}\N{\rEng}{\i1}hey, nigger guy, nigger guy, nigger guy stop!{\i0}
+Dialogue: 0,0:12:06.01,0:12:07.04,Chn,,0,0,0,,{\i1}来吧{\i0}\N{\rEng}{\i1}now go.{\i0}
+Dialogue: 0,0:12:07.07,0:12:11.42,Chn,,0,0,0,,{\i1}叫我黑鬼男 仇恨我来担 想来放到我？ 哦 你已一步慢{\i0}\N{\rEng}{\i1}call me nigger guy, fill me with your hate, try to bring me down, oh, you're to late.{\i0}
+Dialogue: 0,0:12:11.47,0:12:15.31,Chn,,0,0,0,,{\i1}打击至如斯 我梦仍未死{\i0}\N{\rEng}{\i1}someone just beat you to it, but my dream will not die.{\i0}
+Dialogue: 0,0:12:15.46,0:12:20.49,Chn,,0,0,0,,{\i1}期盼有一天 不再是黑鬼男{\i0}\N{\rEng}{\i1}to be thought of as more, than just nigger guy.{\i0}
+Dialogue: 0,0:12:21.17,0:12:23.42,Chn,,0,0,0,,敬礼\N{\rEng}Respect.
+Dialogue: 0,0:12:25.06,0:12:26.99,Chn,,0,0,0,,Token 嗨 等等\N{\rEng}Token, hey, wait up.
+Dialogue: 0,0:12:27.40,0:12:29.25,Chn,,0,0,0,,我只想说 我现在明白了\N{\rEng}I just wanted to say, I get it now.
+Dialogue: 0,0:12:29.28,0:12:32.34,Chn,,0,0,0,,你知道 自从那天那个小型人在集会上演讲以后\N{\rEng}You know, after that little person talked at that assembly the other day.
+Dialogue: 0,0:12:32.38,0:12:35.58,Chn,,0,0,0,,我明白有人说“N”字的时候你是什么感受\N{\rEng}I understand how you feel about somebody saying the "N" word.
+Dialogue: 0,0:12:36.59,0:12:39.43,Chn,,0,0,0,,就是说...黑人是侏儒喽？\N{\rEng}So... black people are midgets?
+Dialogue: 0,0:12:40.62,0:12:41.89,Chn,,0,0,0,,该死的\N{\rEng}Goddammit!
+Dialogue: 0,0:12:41.92,0:12:46.86,Chn,,0,0,0,,对不起 请往这边 我需要所有学生到我这边\N{\rEng}Excuse me, over here please. I need all students to join me over here.
+Dialogue: 0,0:12:47.35,0:12:53.27,Chn,,0,0,0,,我叫你们来 是因为是时候我们给 Eric Cartman上一课了 一劳永逸\N{\rEng}I've called you here because it's time that we taught Eric Cartman a lesson, once and for all.
+Dialogue: 0,0:12:53.59,0:12:57.34,Chn,,0,0,0,,Eric马上就会到 当他走过那道门时\N{\rEng}And in a few seconds Eric will be sent in, when we walk through that door.
+Dialogue: 0,0:12:57.39,0:13:02.39,Chn,,0,0,0,,我要你们所有人同时向他喊 "你好 肥男"\N{\rEng}I want you all at the same time to yell, "Hello, fatso."
+Dialogue: 0,0:13:03.93,0:13:05.90,Chn,,0,0,0,,我觉得这不是好主意 先生\N{\rEng}I don't think that's a very good idea, sir.
+Dialogue: 0,0:13:05.93,0:13:09.77,Chn,,0,0,0,,他必须得到教训 你明白吗 言语就像子弹\N{\rEng}He has to learn his lesson, you see, words are like bullets.
+Dialogue: 0,0:13:09.80,0:13:11.77,Chn,,0,0,0,,好吧 好吧 他来了\N{\rEng}Allright, allright, here he comes.
+Dialogue: 0,0:13:15.18,0:13:17.51,Chn,,0,0,0,,早晨好 肥男\N{\rEng}Good morning fatso!
+Dialogue: 0,0:13:17.67,0:13:21.28,Chn,,0,0,0,,嗨 这他妈什么意思？ 你以为这他妈的很有趣？\N{\rEng}Hey, what the hell is that? You think that's fucking funny?
+Dialogue: 0,0:13:21.33,0:13:25.63,Chn,,0,0,0,,Kyle 是你让大家这么做的？ 我猜就是你 他妈的怎么回事？\N{\rEng}Kyle, did you put everybody up to this. I bet you did, what the hell is going on?!
+Dialogue: 0,0:13:25.67,0:13:28.58,Chn,,0,0,0,,现在你也尝到滋味了\N{\rEng}Now you know how it feels.
+Dialogue: 0,0:13:34.52,0:13:37.32,Chn,,0,0,0,,到你头上你也不乐意 对吧？\N{\rEng}You didn't like it when the tables were turned, did you?
+Dialogue: 0,0:13:37.35,0:13:40.85,Chn,,0,0,0,,好啊 好啊 是哪个天才给他穿小背带裤的？\N{\rEng}Allright, allright, who is the freaking genius who dressed up it in little suspenders.
+Dialogue: 0,0:13:40.86,0:13:42.37,Chn,,0,0,0,,Clyde是你吗？\N{\rEng}Clyde, was that you?
+Dialogue: 0,0:13:43.71,0:13:45.78,Chn,,0,0,0,,我荣幸地宣布...\N{\rEng}And so it is my honor...
+Dialogue: 0,0:13:45.82,0:13:51.01,Chn,,0,0,0,,Randy Marsh非裔美国人 奖学金基金会今天成立\N{\rEng}to announce today the Randy Marsh African-American scholarship foundation.
+Dialogue: 0,0:13:52.40,0:13:55.65,Chn,,0,0,0,,我希望这个基金会将证明...\N{\rEng}It is my hope that this foundation will prove...
+Dialogue: 0,0:13:55.68,0:13:59.35,Chn,,0,0,0,,我对非裔美国学生教育的承诺\N{\rEng}my commitment to the education of African-American students.
+Dialogue: 0,0:13:59.39,0:14:06.06,Chn,,0,0,0,,以及一次性洗刷掉我“黑鬼男”的身份\N{\rEng}And erase, once and for all my identity as the nigger guy.
+Dialogue: 0,0:14:07.67,0:14:09.22,Chn,,0,0,0,,你们真的...\N{\rEng}You really...
+Dialogue: 0,0:14:09.26,0:14:14.68,Chn,,0,0,0,,你们真的不了解你过去的污点被 一次次提起是多么痛苦\N{\rEng}you really don't know how hard it is to be constantly reminded of something\N{\rEng}lame that happened in your past.
+Dialogue: 0,0:14:15.58,0:14:19.84,Chn,,0,0,0,,我的意思是 我... 只想忘却财富轮盘上发生的那一幕 你知道\N{\rEng}I mean I... just wanna move on from what happened on Wheel of Fortune, you know.
+Dialogue: 0,0:14:20.04,0:14:23.08,Chn,,0,0,0,,当人们叫你黑鬼男...\N{\rEng}When people call me nigger guy...
+Dialogue: 0,0:14:23.13,0:14:25.49,Chn,,0,0,0,,就像他们翻开我历史上沉痛的一章\N{\rEng}they're bringing up a painfull chapter of my history
+Dialogue: 0,0:14:25.49,0:14:28.04,Chn,,0,0,0,,负面影响一直伴随着我\N{\rEng}and the negativity that went along with it.
+Dialogue: 0,0:14:28.51,0:14:32.23,Chn,,0,0,0,,你们不能想象这是怎样的感受\N{\rEng}You just, you can't imagine how that feels.
+Dialogue: 0,0:14:34.58,0:14:36.56,Chn,,0,0,0,,这个黑鬼男是认真的吗？\N{\rEng}Is this nigger guy serious?
+Dialogue: 0,0:14:36.60,0:14:40.00,Chn,,0,0,0,,无论如何 今天对我们所有人来说 都是新的开始 谢谢你们！\N{\rEng}Anyway, here is to a new start for us all, thank you!
+Dialogue: 0,0:14:46.88,0:14:50.42,Chn,,0,0,0,,嗨 Skeeter快看 这是电视上那个家伙\N{\rEng}Hey, look, Skeeter, that's that guy from the tv.
+Dialogue: 0,0:14:50.45,0:14:55.01,Chn,,0,0,0,,哈 哈 哈 咱们看见黑鬼男了\N{\rEng}Well, well, well. Looks like we got ourselves a nigger guy.
+Dialogue: 0,0:14:55.45,0:14:56.98,Chn,,0,0,0,,喔！\N{\rEng}Whoa !
+Dialogue: 0,0:15:09.51,0:15:11.97,Chn,,0,0,0,,你往哪儿跑啊 黑鬼男？\N{\rEng}Where you going, nigger guy?
+Dialogue: 0,0:15:12.05,0:15:15.97,Chn,,0,0,0,,-求你了 我不想惹麻烦 -哦 你已经有麻烦了...\N{\rEng}Please, I don't want any trouble. - Well, you got trouble!
+Dialogue: 0,0:15:16.01,0:15:20.64,Chn,,0,0,0,,当你一开始在财富轮盘上 决定侮辱整个种族的时候\N{\rEng}When you first decided to slander an entire race of people on Wheel of Fortune.
+Dialogue: 0,0:15:20.68,0:15:24.34,Chn,,0,0,0,,耶 你喜欢开少数民族的玩笑吗 黑鬼男？\N{\rEng}Yeah, you like making fun of minorities, nigger guy?
+Dialogue: 0,0:15:24.37,0:15:27.34,Chn,,0,0,0,,对社会无知分子 我们可不手软\N{\rEng}We don't take kindly to social ignorance.
+Dialogue: 0,0:15:27.44,0:15:29.79,Chn,,0,0,0,,说得好 Skeeter 说得好\N{\rEng}You tell him Skeeter, you tell him!
+Dialogue: 0,0:15:29.84,0:15:33.28,Chn,,0,0,0,,-你们要什么？ -我们要什么？\N{\rEng}What do you want? - What do we want?
+Dialogue: 0,0:15:34.60,0:15:41.06,Chn,,0,0,0,,我们要生活在一个世界 这个世界上没有人像你一样不能容忍非裔美国人\N{\rEng}We want to live in a world without people like you who are intolerant of African-Americans.
+Dialogue: 0,0:15:41.41,0:15:43.45,Chn,,0,0,0,,放过他\N{\rEng}Leave him alone.
+Dialogue: 0,0:15:44.68,0:15:47.54,Chn,,0,0,0,,嗨 他是另一个黑鬼男\N{\rEng}Hey, that's that other nigger guy.
+Dialogue: 0,0:15:48.16,0:15:52.04,Chn,,0,0,0,,是那个在Seinfeld上说了N次"N"字的家伙 （Seinfeld是著名情景喜剧）\N{\rEng}That's the guy from Seinfeld used the "N" word a whole bunch of times.
+Dialogue: 0,0:15:52.09,0:15:55.77,Chn,,0,0,0,,Michael Richards 狗娘养的\N{\rEng}Michael richards, well, son of a bitch.
+Dialogue: 0,0:15:55.81,0:16:01.19,Chn,,0,0,0,,咱们今天运气不错 一下子干掉两个黑鬼男\N{\rEng}Looks like it's our lucky day, we done got us two nigger guys.
+Dialogue: 0,0:16:01.44,0:16:03.40,Chn,,0,0,0,,是三个\N{\rEng}Make that three.
+Dialogue: 0,0:16:03.50,0:16:05.22,Chn,,0,0,0,,-Mark Fuhrman -谁？\N{\rEng}Mark Fuhrman. - Who?
+Dialogue: 0,0:16:05.27,0:16:08.11,Chn,,0,0,0,,他在辛普森案上说了"N"字\N{\rEng}He done said the "N" word in the O.J. case.
+Dialogue: 0,0:16:08.15,0:16:11.04,Chn,,0,0,0,,这算什么？黑鬼男大聚会？\N{\rEng}What is this a nigger guy convention?
+Dialogue: 0,0:16:12.47,0:16:14.56,Chn,,0,0,0,,我们不再逆来顺受了\N{\rEng}We aren't being pushed around anymore.
+Dialogue: 0,0:16:14.98,0:16:16.63,Chn,,0,0,0,,离开!\N{\rEng}Leave!
+Dialogue: 0,0:16:16.98,0:16:21.02,Chn,,0,0,0,,算了 Skeeter 这些黑鬼男不值得我们惹麻烦\N{\rEng}Come on, Skeeter, these nigger guys ain't worth our trouble.
+Dialogue: 0,0:16:21.64,0:16:24.92,Chn,,0,0,0,,该死的黑鬼男 我们会回来的！\N{\rEng}Damn nigger guys, we will be back!
+Dialogue: 0,0:16:29.10,0:16:30.93,Chn,,0,0,0,,你最好跟我们一起\N{\rEng}You better come with us.
+Dialogue: 0,0:16:31.78,0:16:34.22,Chn,,0,0,0,,进来 Marsh先生 我们给你冲点咖啡\N{\rEng}Come on in, Mr. Marsh, we'll make you coffee.
+Dialogue: 0,0:16:34.24,0:16:35.64,Chn,,0,0,0,,这是怎么回事？\N{\rEng}What's going on here?
+Dialogue: 0,0:16:35.67,0:16:38.73,Chn,,0,0,0,,看到新闻后 我们一直跟进你的消息\N{\rEng}We've been following your story since we first saw it on the news.
+Dialogue: 0,0:16:38.77,0:16:41.56,Chn,,0,0,0,,别担心 你现在跟朋友在一起\N{\rEng}Don't worry, you're with friends now.
+Dialogue: 0,0:16:41.70,0:16:44.66,Chn,,0,0,0,,Dale在工作中用"N"字讲了个种族笑话\N{\rEng}Dale here used the "N" word in a racial joke at work.
+Dialogue: 0,0:16:44.70,0:16:48.86,Chn,,0,0,0,,Scott用"N"字的复数 来指一群破坏他篱笆的园丁\N{\rEng}Scott used the plural "N" word to refer to a group of gardeners who broke his fence.
+Dialogue: 0,0:16:48.90,0:16:52.19,Chn,,0,0,0,,他们是墨西哥人 我只是讽刺一下\N{\rEng}They were Mexicans, I was being ironic.
+Dialogue: 0,0:16:52.30,0:16:54.33,Chn,,0,0,0,,我们都和你一样\N{\rEng}We're all just like you.
+Dialogue: 0,0:16:54.37,0:16:58.30,Chn,,0,0,0,,不 不 不 对不起 我跟你们不一样\N{\rEng}No, no, no, I'm sorry, but I'm not like you.
+Dialogue: 0,0:16:58.39,0:17:01.14,Chn,,0,0,0,,我只是错口说了"N"字 为了赢钱而已\N{\rEng}I just said the "N" word by mistake to win money.
+Dialogue: 0,0:17:01.18,0:17:05.09,Chn,,0,0,0,,我也犯了错 我只是想搞搞笑\N{\rEng}I made a mistake to, I was trying to be funny!
+Dialogue: 0,0:17:05.18,0:17:08.01,Chn,,0,0,0,,我很郁闷 以为我能收获一阵大笑呢\N{\rEng}I got frustrated and thought I would get some shock laughs.
+Dialogue: 0,0:17:08.06,0:17:12.36,Chn,,0,0,0,,我只是...不是个好的喜剧演员而已 如果你想知道真相的话\N{\rEng}I'm just... not that good of an comedian if you wanna know the real truth.
+Dialogue: 0,0:17:12.50,0:17:17.08,Chn,,0,0,0,,你当着黑人的面说"N"字 那可比我严重多了\N{\rEng}You said the "N" word to a black man's face. That's way worse than what I did.
+Dialogue: 0,0:17:17.12,0:17:19.84,Chn,,0,0,0,,你真以为有区别吗？\N{\rEng}You really think that matters?
+Dialogue: 0,0:17:20.59,0:17:24.11,Chn,,0,0,0,,你真以为人们会看到不同吗？\N{\rEng}You really think all those people out there see a difference?
+Dialogue: 0,0:17:24.36,0:17:29.28,Chn,,0,0,0,,哦 他们可能会将你的种族蔑称视为意外 甚至他们可能笑笑\N{\rEng}Oh, they might see your racial slur was more accidental, they might even laugh about it.
+Dialogue: 0,0:17:29.67,0:17:35.03,Chn,,0,0,0,,但到最后 对他们来说 你只不过是另一个黑鬼男\N{\rEng}But at the end of the day, all you are to them is just an another damn nigger guy.
+Dialogue: 0,0:17:36.45,0:17:39.12,Chn,,0,0,0,,哦 你不爽了 对吧？\N{\rEng}Oh, you don't like that, do you?
+Dialogue: 0,0:17:39.88,0:17:43.05,Chn,,0,0,0,,-不爽 -Randy 我们想你加入我们\N{\rEng}No. - Randy, we want you to join us.
+Dialogue: 0,0:17:43.10,0:17:47.01,Chn,,0,0,0,,我们有个计划可以一劳永逸的解决问题\N{\rEng}We have a plan to make this all go away, once and for all.
+Dialogue: 0,0:17:52.38,0:17:55.26,Chn,,0,0,0,,听着 Token 我尽我所能来纠正事情\N{\rEng}Now, look, token. I've done everything I can to make this right.
+Dialogue: 0,0:17:55.30,0:17:56.86,Chn,,0,0,0,,你没道理还在生气\N{\rEng}You have no reason to still be mad.
+Dialogue: 0,0:17:56.90,0:17:59.38,Chn,,0,0,0,,我有的是理由生气 你就是不明白\N{\rEng}I have every reason to be mad. You just don't get it.
+Dialogue: 0,0:17:59.42,0:18:01.36,Chn,,0,0,0,,我不能为我爸爸做点事情负责任\N{\rEng}I'm not responsible for what my dad did.
+Dialogue: 0,0:18:01.39,0:18:03.90,Chn,,0,0,0,,你不用 但你也不能假装什么都没发生\N{\rEng}No, but you can't just pretend it never happened either.
+Dialogue: 0,0:18:03.94,0:18:05.99,Chn,,0,0,0,,-你到底要我怎样？ -什么也不要\N{\rEng}What the hell do you want from me? - Nothing.
+Dialogue: 0,0:18:06.02,0:18:08.31,Chn,,0,0,0,,-那就别再生气 -不！\N{\rEng}Then stop being mad. - No!
+Dialogue: 0,0:18:08.34,0:18:12.36,Chn,,0,0,0,,伙计们 伙计们 快来 Cartman要跟侏儒打架\N{\rEng}Fellas, fellas, come quick! Cartman is gonna fight the midget!
+Dialogue: 0,0:18:21.57,0:18:23.32,Chn,,0,0,0,,嗨 快打啊\N{\rEng}Hey, come on now!
+Dialogue: 0,0:18:23.36,0:18:27.09,Chn,,0,0,0,,老兄 你真想打？很明显这家伙是空手道黑带\N{\rEng}Dude, you sure you wanna do this? Apparently this guy has a black belt in karate.
+Dialogue: 0,0:18:27.15,0:18:28.72,Chn,,0,0,0,,侏儒而已 老兄\N{\rEng}It's a midget, dude.
+Dialogue: 0,0:18:28.75,0:18:33.56,Chn,,0,0,0,,学生们 我会把这个小子打得屁滚尿流 来证明一点\N{\rEng}Students, I am going to beat the crap out of this kid to prove a point.
+Dialogue: 0,0:18:34.07,0:18:37.92,Chn,,0,0,0,,不 不 老兄 不能说话 这不公平 我会笑得太多的\N{\rEng}No, no, dude, it can't talk. That isn't fair, I'll laugh to much.
+Dialogue: 0,0:18:52.78,0:18:58.43,Chn,,0,0,0,,参议员们 我知道 美国人通常不禁用词\N{\rEng}Senators, I know it's not normally considered American to ban words.
+Dialogue: 0,0:18:58.48,0:19:01.69,Chn,,0,0,0,,但有一个贬义词造成诸多伤害\N{\rEng}But there is one slur that's caused so much damage...
+Dialogue: 0,0:19:01.74,0:19:05.25,Chn,,0,0,0,,我们相信它最终应该被定为非法\N{\rEng}that we believe it should finally be made illegal.
+Dialogue: 0,0:19:05.89,0:19:09.85,Chn,,0,0,0,,当然 我是说的是“黑鬼男”这个词\N{\rEng}I'm talking of course about the term nigger guy.
+Dialogue: 0,0:19:10.67,0:19:12.06,Chn,,0,0,0,,黑鬼男？\N{\rEng}Nigger-guy?
+Dialogue: 0,0:19:12.10,0:19:15.98,Chn,,0,0,0,,两个字分开使用是无害的 但合在一起...\N{\rEng}Two words which by themselves can be harmless, but which together...
+Dialogue: 0,0:19:16.03,0:19:19.43,Chn,,0,0,0,,-就构成了言语上的仇恨导弹 -对 说得对\N{\rEng}form a verbal missile of hate. - Yeah, that's right.
+Dialogue: 0,0:19:19.61,0:19:22.65,Chn,,0,0,0,,哦 当然 有人只是随便一说\N{\rEng}Oh, sure, some people just use the term in guest.
+Dialogue: 0,0:19:22.69,0:19:25.65,Chn,,0,0,0,,讲一两个黑鬼男笑话 觉得没什么大不了\N{\rEng}Tell a nigger guy joke or two, thinking it's no big deal.
+Dialogue: 0,0:19:25.69,0:19:30.82,Chn,,0,0,0,,但他们没意识到 这将导致这个词 被人们用来当作使用暴力的借口\N{\rEng}But they don't realise it can lead to people using the term as an excuse for violence.
+Dialogue: 0,0:19:30.88,0:19:34.49,Chn,,0,0,0,,该死的黑鬼男想玩政治正确了\N{\rEng}Goddamn nigger guy is trying to be all political right now.
+Dialogue: 0,0:19:34.60,0:19:40.68,Chn,,0,0,0,,参议员们 我承认我是不是 会有一些轻微的种族主义思维\N{\rEng}Senators, I've learned to admit I'm capable of having slightly racist thoughts once in a while.
+Dialogue: 0,0:19:40.84,0:19:43.02,Chn,,0,0,0,,有任何人敢说他从来没有吗？\N{\rEng}Can anybody say they never do?
+Dialogue: 0,0:19:43.07,0:19:47.20,Chn,,0,0,0,,需要多长时间所有人都被叫做黑鬼男呢？\N{\rEng}How long will it be, before you're all called nigger guys?
+Dialogue: 0,0:19:48.50,0:19:52.07,Chn,,0,0,0,,等一下 你在说"黑鬼男"可能成为...\N{\rEng}Hold on a second, are you suggesting that nigger guy could become
+Dialogue: 0,0:19:52.08,0:19:54.64,Chn,,0,0,0,,指代所有白人的贬义词？\N{\rEng}a slur that refers to all white people?
+Dialogue: 0,0:19:54.68,0:19:58.19,Chn,,0,0,0,,我绝对不是黑鬼男 我从没有任何种族主义思维\N{\rEng}I'm certainly not a nigger guy, I've never thought a racist thought.
+Dialogue: 0,0:19:58.23,0:20:01.19,Chn,,0,0,0,,哦 得了吧 你是华盛顿最大的黑鬼男\N{\rEng}Oh, come on, you're the biggest nigger guy in Washington.
+Dialogue: 0,0:20:01.25,0:20:03.87,Chn,,0,0,0,,Marsh先生 我们明白你们提案的重要性了\N{\rEng}Mr. Marsh, we see now the importance of your bill.
+Dialogue: 0,0:20:03.91,0:20:06.14,Chn,,0,0,0,,赞成禁用"黑鬼男"词的人\N{\rEng}All those in favor to ban the term nigger guy.
+Dialogue: 0,0:20:06.25,0:20:08.41,Chn,,0,0,0,,-赞成 -反对？\N{\rEng}Aye. - Opposed?
+Dialogue: 0,0:20:08.48,0:20:10.02,Chn,,0,0,0,,反对\N{\rEng}Nay.
+Dialogue: 0,0:20:10.10,0:20:12.51,Chn,,0,0,0,,动议通过了！\N{\rEng}The motion is passed!
+Dialogue: 0,0:20:15.19,0:20:17.32,Chn,,0,0,0,,-好的 -好的\N{\rEng}Allright! - Allright!
+Dialogue: 0,0:20:18.57,0:20:19.80,Chn,,0,0,0,,我们做到了！\N{\rEng}We did it!
+Dialogue: 0,0:20:19.85,0:20:24.45,Chn,,0,0,0,,美国历史上第一次 一个词被正式禁用\N{\rEng}For the first time in American history a word has been officially banned from use.
+Dialogue: 0,0:20:24.52,0:20:28.14,Chn,,0,0,0,,从现在起 如果有人使用"黑鬼"这个字\N{\rEng}From now on, if a person uses the word nigger
+Dialogue: 0,0:20:28.15,0:20:32.18,Chn,,0,0,0,,它必须与"男"这个字相隔至少7个字\N{\rEng}it must be atleast seven words away from the word guy.
+Dialogue: 0,0:20:34.49,0:20:39.66,Chn,,0,0,0,,Tom 看来这股"黑鬼男"传染病结束了 哦 妈的 我说了 是吧？\N{\rEng}Tom, it appears that the nigger guy epidemic is over. Oh, dammit, I said it, didn't I?
+Dialogue: 0,0:20:45.09,0:20:47.75,Chn,,0,0,0,,好 好 你赢了！\N{\rEng}Okay, okay, you win!
+Dialogue: 0,0:20:47.80,0:20:50.56,Chn,,0,0,0,,-叫叔叔 -叔叔\N{\rEng}Say uncle! - Uncle!
+Dialogue: 0,0:20:51.07,0:20:55.90,Chn,,0,0,0,,-现在说"Carol Anne别挂了" -Carol Anne别挂了\N{\rEng}Now say, Carol Anne don't go into the light. - Carol Anne don't go into the light.
+Dialogue: 0,0:20:59.07,0:21:02.08,Chn,,0,0,0,,现在你们都明白了...\N{\rEng}There, now you all see...
+Dialogue: 0,0:21:02.12,0:21:04.83,Chn,,0,0,0,,我没有受限于我的体型\N{\rEng}that I am not limited by my size!
+Dialogue: 0,0:21:07.15,0:21:11.09,Chn,,0,0,0,,我已经证明了我的观点 我这儿的任务完成了\N{\rEng}I have proven my point. My work here is done.
+Dialogue: 0,0:21:12.39,0:21:15.60,Chn,,0,0,0,,-他的观点是什么？ -我不知道\N{\rEng}What was his point? - I have no idea.
+Dialogue: 0,0:21:15.74,0:21:18.62,Chn,,0,0,0,,-老兄 我没弄明白 -我也不明白\N{\rEng}Dude, I don't get it. - I don't get it either.
+Dialogue: 0,0:21:18.78,0:21:22.38,Chn,,0,0,0,,等一下 就着这个 我不明白\N{\rEng}Wait a minute. That's it. I don't get it.
+Dialogue: 0,0:21:23.66,0:21:26.21,Chn,,0,0,0,,你没看出来吗 Kyle？ 我不明白\N{\rEng}Don't you see, Kyle? I don't get it!
+Dialogue: 0,0:21:26.21,0:21:29.43,Chn,,0,0,0,,Token 我现在明白了 我不明白\N{\rEng}Token, I get it now. I don't get it.
+Dialogue: 0,0:21:29.94,0:21:33.65,Chn,,0,0,0,,我试图说我理解你的感受 但我永远不会理解\N{\rEng}I've been trying to say that I understand how you feel, but I'll never understand.
+Dialogue: 0,0:21:33.69,0:21:37.61,Chn,,0,0,0,,我永远不会真正理解 当有人说"N"字的时候 一个黑人的感受\N{\rEng}I'm never really get how it feels for a black person to have somebody use the "N" word.
+Dialogue: 0,0:21:37.65,0:21:39.39,Chn,,0,0,0,,我不明白\N{\rEng}I don't get it.
+Dialogue: 0,0:21:39.44,0:21:43.40,Chn,,0,0,0,,-现在你明白了Stan -是的 我完全不明白\N{\rEng}Now you get it, Stan. - Yeah, I totally don't get it.
+Dialogue: 0,0:21:43.48,0:21:44.53,Chn,,0,0,0,,谢谢你 老兄\N{\rEng}Thanks, dude.
+Dialogue: 0,0:21:44.88,0:21:46.13,Chn,,0,0,0,,翻译:sansanfeng @ 1000fr.com 校对:sansanfeng @ 1000fr.com\N{\rEng}{\i1}Sranscipt: muter Sync: muter{\i0}\N{\rEng}双语合成 Lv&daisy

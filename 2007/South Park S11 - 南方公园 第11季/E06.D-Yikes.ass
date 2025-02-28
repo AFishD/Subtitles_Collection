@@ -1,0 +1,428 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: South.Park.S11E06.D-Yikes.1080p.WEB-DL.AAC2.0.H.264-Phr0stY
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 1916
+PlayResY: 1076
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,微软雅黑,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Git,Comic Sans MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Chn,微软雅黑,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,20,1
+Style: Eng,Comic Sans MS,60,&H002AF7FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.71,0:00:11.97,Chn,,0,0,0,,{\i1}I'm going out to South Park gonna have myself a time{\i0}
+Dialogue: 0,0:00:12.05,0:00:15.30,Chn,,0,0,0,,{\i1}Friendly faces everywhere humble folks without temptation{\i0}
+Dialogue: 0,0:00:15.34,0:00:18.64,Chn,,0,0,0,,{\i1}I'm goin out to south park gonna leave my woes behind{\i0}
+Dialogue: 0,0:00:18.64,0:00:21.98,Chn,,0,0,0,,{\i1}Ample parking day or night people spouting howdy neighbor{\i0}
+Dialogue: 0,0:00:22.02,0:00:25.19,Chn,,0,0,0,,{\i1}I'm heading out to south park to see if i cant unwind{\i0}
+Dialogue: 0,0:00:25.23,0:00:28.52,Chn,,0,0,0,,{\i1}I like girls with big fat titties really big fat titties{\i0}
+Dialogue: 0,0:00:28.57,0:00:32.15,Chn,,0,0,0,,{\i1}So come on out to south park and meet some friends of mine{\i0}
+Dialogue: 0,0:00:33.19,0:00:35.53,Chn,,0,0,0,,South Park - Season 11 Episode 6 "D-Yikes!"
+Dialogue: 0,0:00:38.75,0:00:42.00,Chn,,0,0,0,,所有人都他妈给我闭嘴，坐下！\N{\rEng}Everyone, sit down and shut the fuck up!
+Dialogue: 0,0:00:42.05,0:00:43.32,Chn,,0,0,0,,真操蛋！\N{\rEng}Goddamnit!
+Dialogue: 0,0:00:43.37,0:00:46.55,Chn,,0,0,0,,这些臭男人们，都是一丘之貉\N{\rEng}Stupid ass man! They're all the same!
+Dialogue: 0,0:00:47.02,0:00:48.33,Chn,,0,0,0,,哦，天啊，又来了！\N{\rEng}Oh God, here we go again.
+Dialogue: 0,0:00:48.38,0:00:50.38,Chn,,0,0,0,,所有男人都只关心性\N{\rEng}All men care about is SEX!
+Dialogue: 0,0:00:50.43,0:00:53.40,Chn,,0,0,0,,我为那愚蠢的约会花了两个小时准备\N{\rEng}I spent two hours getting ready for that stupid date!
+Dialogue: 0,0:00:53.45,0:00:56.18,Chn,,0,0,0,,可当那混蛋看到我的身体时，他居然说\N{\rEng}And when the bastard checks out my body, he just says,
+Dialogue: 0,0:00:56.23,0:00:58.39,Chn,,0,0,0,,“嘿，你以前是个男人吗？”\N{\rEng}"Hey, did you used to be a guy or somethin'?"
+Dialogue: 0,0:00:58.44,0:01:01.20,Chn,,0,0,0,,我现在是女人了，以前的事又怎么了？\N{\rEng}I'm a woman now, so what's it matter?!
+Dialogue: 0,0:01:01.25,0:01:02.71,Chn,,0,0,0,,啊偶，不太妙啊\N{\rEng}Uh oh, this isn't good.
+Dialogue: 0,0:01:02.76,0:01:05.21,Chn,,0,0,0,,我和你说话了吗，小崽子？！\N{\rEng}Did I say something to you, sugartits?!
+Dialogue: 0,0:01:05.33,0:01:06.28,Chn,,0,0,0,,没有，夫人\N{\rEng}No ma'am.
+Dialogue: 0,0:01:06.33,0:01:07.92,Chn,,0,0,0,,你们男孩就是让我讨厌\N{\rEng}You boys make me sick!
+Dialogue: 0,0:01:07.97,0:01:10.00,Chn,,0,0,0,,你们迟早有一天会变成男人，\N{\rEng}You're well on your way to being men,
+Dialogue: 0,0:01:10.05,0:01:12.30,Chn,,0,0,0,,只会用老二思考！\N{\rEng}who only think with their penises!
+Dialogue: 0,0:01:12.44,0:01:15.04,Chn,,0,0,0,,我要给你们全部布置回家作业\N{\rEng}I am assigning you all weekend homework!
+Dialogue: 0,0:01:15.12,0:01:17.11,Chn,,0,0,0,,你们得给我读完海明威的\N{\rEng}You are going to read Hemingway's book,
+Dialogue: 0,0:01:17.16,0:01:19.29,Chn,,0,0,0,,“老人与海”\N{\rEng}"The Old Man And The Sea"!
+Dialogue: 0,0:01:19.89,0:01:21.13,Chn,,0,0,0,,你疯了吗？\N{\rEng}Have you lost your mind?
+Dialogue: 0,0:01:21.18,0:01:23.37,Chn,,0,0,0,,伙计，我们不可能在一个周末的时间读完一整本书\N{\rEng}Dude, we can't read an entire book in one weekend.
+Dialogue: 0,0:01:23.42,0:01:25.30,Chn,,0,0,0,,哦，那太糟糕了，伙计\N{\rEng}Oh, that's too bad, dude.
+Dialogue: 0,0:01:25.35,0:01:28.42,Chn,,0,0,0,,也许你们男孩学会怎么把自己小jj关在裤子里不让它到处惹事的话\N{\rEng}Maybe if you boys could keep your penises in your pants
+Dialogue: 0,0:01:28.47,0:01:30.39,Chn,,0,0,0,,你们就能有足够的时间了\N{\rEng}once in a while you'd get more done!
+Dialogue: 0,0:01:30.44,0:01:32.76,Chn,,0,0,0,,但是老师， 我的小jj从来没有溜出过裤子哦.\N{\rEng}But Teacher, my penis never slips out of my pants.
+Dialogue: 0,0:01:32.81,0:01:35.13,Chn,,0,0,0,,呃，除了穿睡衣的时候有几次\N{\rEng}Eh-except sometimes when I'm wearin' pajamas.
+Dialogue: 0,0:01:35.18,0:01:37.63,Chn,,0,0,0,,如果周一你们的论文还没写好的话,\N{\rEng}If you do not have an essay written on Monday,
+Dialogue: 0,0:01:37.68,0:01:40.28,Chn,,0,0,0,,那就不及格! 都清楚了吗?!\N{\rEng}then you will fail! Is that clear?!
+Dialogue: 0,0:01:42.43,0:01:44.27,Chn,,0,0,0,,伙计，我们怎么可能在一个周末读完一整本书\N{\rEng}Dude, how are supposed to read an entire book
+Dialogue: 0,0:01:44.32,0:01:46.03,Chn,,0,0,0,,和写完论文\N{\rEng}over the weekend and write an essay?
+Dialogue: 0,0:01:46.08,0:01:47.53,Chn,,0,0,0,,我们整个周末算是毁了\N{\rEng}Our whole weekend is shot.
+Dialogue: 0,0:01:47.58,0:01:49.11,Chn,,0,0,0,,（我们他娘的怎么办捏？）\N{\rEng}(What the hell are we going to do?!)
+Dialogue: 0,0:01:49.11,0:01:50.67,Chn,,0,0,0,,伙计们，伙计们，放轻松\N{\rEng}You guys, you guys, relax.
+Dialogue: 0,0:01:50.72,0:01:53.83,Chn,,0,0,0,,我们不需要读这本书和写论文\N{\rEng}We don't have to read the book or write the essay.
+Dialogue: 0,0:01:53.88,0:01:55.28,Chn,,0,0,0,,- 我们不需要？ - 不需要\N{\rEng}- We don't? - No.
+Dialogue: 0,0:01:55.59,0:01:58.94,Chn,,0,0,0,,这世界上有种人叫枪手\N{\rEng}There's people you can hire to do these sorts of things.
+Dialogue: 0,0:02:03.43,0:02:05.15,Chn,,0,0,0,,伙计们，伙计们\N{\rEng}縌ue paso? 縌ue paso?
+Dialogue: 0,0:02:05.59,0:02:07.30,Chn,,0,0,0,,找工作吗？墨西哥佬\N{\rEng}Looking for work? S? Trabajo?
+Dialogue: 0,0:02:07.35,0:02:09.24,Chn,,0,0,0,,- 是的 - 我们找工作\N{\rEng}- Yeis. - We looking work, s?
+Dialogue: 0,0:02:09.29,0:02:11.77,Chn,,0,0,0,,好的，听好了，墨西哥佬， 我们需要你们帮我们读完\N{\rEng}Okay, listen up, Mexicans. We need you to read
+Dialogue: 0,0:02:11.82,0:02:14.39,Chn,,0,0,0,,“老人与海”这本书，懂了吗？\N{\rEng}"The Old Man And The Sea" for us. Comprende?
+Dialogue: 0,0:02:14.44,0:02:16.29,Chn,,0,0,0,,“老人与海” （墨西哥语）\N{\rEng}"The Old Man Y La Mer.
+Dialogue: 0,0:02:17.49,0:02:18.86,Chn,,0,0,0,,好的，没问题，没问题\N{\rEng}Okay. Sure. Okay. Yeah.
+Dialogue: 0,0:02:18.91,0:02:21.06,Chn,,0,0,0,,这里，我们需要你们读完这本书\N{\rEng}Here. We need you to work together, read the book
+Dialogue: 0,0:02:21.11,0:02:23.46,Chn,,0,0,0,,然后写四篇论文，懂了吗？\N{\rEng}and write four essays, comprende?
+Dialogue: 0,0:02:23.53,0:02:24.75,Chn,,0,0,0,,读后感（墨西哥语）\N{\rEng}La samaraisia.
+Dialogue: 0,0:02:24.95,0:02:27.61,Chn,,0,0,0,,- 好的，没问题 - 是的，我们能完成\N{\rEng}- Okay no problem. That's no problem. - Yeah, we can do that.
+Dialogue: 0,0:02:27.66,0:02:28.86,Chn,,0,0,0,,读后评论\N{\rEng}S? la samuraisia.
+Dialogue: 0,0:02:28.91,0:02:30.81,Chn,,0,0,0,,- 好的，谢谢（墨西哥语） - 谢谢\N{\rEng}- Okay, gracias. - Gracias.
+Dialogue: 0,0:02:31.15,0:02:33.43,Chn,,0,0,0,,伙计，这太酷了 我一点都不知道还可以这么搞\N{\rEng}Dude, that is awesome. I had no idea you could do that.
+Dialogue: 0,0:02:33.43,0:02:36.35,Chn,,0,0,0,,哦，是的，有这些墨西哥佬真他娘的棒极了\N{\rEng}Oh yeah, dude. Havin' Mexicans around totally kicks fuckin' ass.
+Dialogue: 0,0:02:36.40,0:02:38.39,Chn,,0,0,0,,{\i1\i0}\N{\rEng}{\i1\i0}
+Dialogue: 0,0:02:39.17,0:02:40.92,Chn,,0,0,0,,都给我见鬼去吧\N{\rEng}They can all rot in hell!
+Dialogue: 0,0:02:40.97,0:02:42.80,Chn,,0,0,0,,谁说没男人就不能活？\N{\rEng}Who needs men anyway?!
+Dialogue: 0,0:02:42.85,0:02:46.74,Chn,,0,0,0,,他们只是一群该死的自大狂罢了\N{\rEng}They're Goddamned arrogant self-centered assholes is what they are!
+Dialogue: 0,0:02:46.79,0:02:48.30,Chn,,0,0,0,,你没事吧，姐妹？\N{\rEng}Are you okay, hon?
+Dialogue: 0,0:02:48.35,0:02:49.91,Chn,,0,0,0,,我只是讨厌男人罢了\N{\rEng}I just hate men is all.
+Dialogue: 0,0:02:49.96,0:02:52.63,Chn,,0,0,0,,他们衡量女人的唯一标准就是你长的性不性感\N{\rEng}It's like all they care about is how hot you look!
+Dialogue: 0,0:02:52.68,0:02:54.49,Chn,,0,0,0,,是的，我也从来不喜欢男人\N{\rEng}Yeah, I've never been into men.
+Dialogue: 0,0:02:54.54,0:02:55.97,Chn,,0,0,0,,这就是为什么我来这里健身\N{\rEng}That's why I work out here.
+Dialogue: 0,0:02:56.02,0:02:59.13,Chn,,0,0,0,,因为这里只有女人，可以不被男人色迷迷的盯着\N{\rEng}Since it's women only we don't get ogled at or feel self-conscious.
+Dialogue: 0,0:02:59.18,0:03:00.32,Chn,,0,0,0,,深有同感\N{\rEng}Tell me about it!
+Dialogue: 0,0:03:00.37,0:03:02.24,Chn,,0,0,0,,在那些混合健身房我连伸展运动都不能做\N{\rEng}I can't even stretch at a normal gym
+Dialogue: 0,0:03:02.29,0:03:05.13,Chn,,0,0,0,,老有男人盯着我的乳沟\N{\rEng}without some guy trying to stare down my vage.
+Dialogue: 0,0:03:05.60,0:03:06.69,Chn,,0,0,0,,我是 Allyson.\N{\rEng}I'm Allyson.
+Dialogue: 0,0:03:06.74,0:03:09.74,Chn,,0,0,0,,哦，我是Janet. Janet Garrison.\N{\rEng}Oh, I'm Janet. Janet Garrison.
+Dialogue: 0,0:03:09.79,0:03:11.29,Chn,,0,0,0,,对不起，我心情不太好\N{\rEng}Sorry I'm so pissed off.
+Dialogue: 0,0:03:11.34,0:03:12.68,Chn,,0,0,0,,没关系的，我喜欢\N{\rEng}No, I like it.
+Dialogue: 0,0:03:12.73,0:03:14.57,Chn,,0,0,0,,你看上去是个强壮的女人啊\N{\rEng}You seem like a very strong woman.
+Dialogue: 0,0:03:14.62,0:03:15.92,Chn,,0,0,0,,是，很多人都这么说\N{\rEng}Yeah, I've been told that.
+Dialogue: 0,0:03:15.97,0:03:18.60,Chn,,0,0,0,,我怎么从来没看见你去女生酒吧？\N{\rEng}How come I've never seen you down at the girl bar?
+Dialogue: 0,0:03:18.65,0:03:21.21,Chn,,0,0,0,,女生酒吧? 我从不知道有这么个地方\N{\rEng}Girl bar? I never even knew there was such a place.
+Dialogue: 0,0:03:21.26,0:03:23.25,Chn,,0,0,0,,喔，你会喜欢那的。那是镇上唯一一个\N{\rEng}Oh you'd love it. It's the only bar in town
+Dialogue: 0,0:03:23.30,0:03:26.26,Chn,,0,0,0,,像我们这种女人能做回自己的地方\N{\rEng}where women like us can hang out and be ourselves.
+Dialogue: 0,0:03:26.31,0:03:28.06,Chn,,0,0,0,,名字叫“蕾丝堡”\N{\rEng}It's called "Les Bos."
+Dialogue: 0,0:03:33.39,0:03:34.76,Chn,,0,0,0,,Hi Linda, hi Kate.\N{\rEng}Hi Linda, hi Kate.
+Dialogue: 0,0:03:34.81,0:03:36.06,Chn,,0,0,0,,Hey Allyson.\N{\rEng}Hey Allyson.
+Dialogue: 0,0:03:36.63,0:03:37.74,Chn,,0,0,0,,这个新来的女的是谁？\N{\rEng}Who's the new girl?
+Dialogue: 0,0:03:37.79,0:03:40.61,Chn,,0,0,0,,Allyson总是喜欢强壮型的\N{\rEng}Allyson always goes for the butch ones.
+Dialogue: 0,0:03:40.72,0:03:42.97,Chn,,0,0,0,,Hey Nell. 过的好吗, Tracy?\N{\rEng}Hey Nell. What's up, Tracy?
+Dialogue: 0,0:03:43.02,0:03:44.76,Chn,,0,0,0,,这地方太棒了\N{\rEng}Oowhat a great place.
+Dialogue: 0,0:03:44.81,0:03:47.00,Chn,,0,0,0,,这里的女的好像都互相很熟吗\N{\rEng}All the girls here seem to know each other.
+Dialogue: 0,0:03:47.05,0:03:50.08,Chn,,0,0,0,,是啊，这里大多数的女的互相都做过\N{\rEng}Yeah. Well, most of the girls here have done each other.
+Dialogue: 0,0:03:50.13,0:03:52.54,Chn,,0,0,0,,咿呀，做什么？\N{\rEng}He-yeah. Done what?
+Dialogue: 0,0:03:52.59,0:03:55.59,Chn,,0,0,0,,你知道的啦，做爱啊\N{\rEng}You know. Had sex.
+Dialogue: 0,0:03:57.39,0:04:00.09,Chn,,0,0,0,,啊，天哪！这里是个女同酒吧??\N{\rEng}Oh my God, this is a lesbian bar??
+Dialogue: 0,0:04:00.31,0:04:02.91,Chn,,0,0,0,,是啊，我以为你早就知道呢。。。\N{\rEng}Yeah. I... thought you understood that.
+Dialogue: 0,0:04:03.02,0:04:04.85,Chn,,0,0,0,,哦，上帝啊\N{\rEng}Oh jeez.
+Dialogue: 0,0:04:05.05,0:04:08.21,Chn,,0,0,0,,对不起，我以为你知道“女生酒吧”的含义\N{\rEng}I'm sorry. I thought you knew what "girl bar" meant.
+Dialogue: 0,0:04:08.26,0:04:11.44,Chn,,0,0,0,,但是我不是一个。。。哇啊\N{\rEng}But I'm not a- ...whoa! Who-o-o-o-oa.
+Dialogue: 0,0:04:12.84,0:04:15.43,Chn,,0,0,0,,Janet, 真的对不起 只是在那体育馆里\N{\rEng}Janet, I'm really sorry. It's just that at the gym
+Dialogue: 0,0:04:15.48,0:04:18.19,Chn,,0,0,0,,你说你不喜欢和男人在一起，所以我以为\N{\rEng}you said you didn't like being with men, so I thought you were a-
+Dialogue: 0,0:04:18.24,0:04:19.72,Chn,,0,0,0,,我是不喜欢和男人在一起\N{\rEng}I don't like being with men!
+Dialogue: 0,0:04:19.77,0:04:22.07,Chn,,0,0,0,,他们全都是些自私的蠢猪!\N{\rEng}They're perverted selfish pigs!
+Dialogue: 0,0:04:23.11,0:04:29.00,Chn,,0,0,0,,那你。。有没有想过。。。和个女人在一起？\N{\rEng}Have you... never even... thought... of being... with another woman?
+Dialogue: 0,0:04:29.05,0:04:31.13,Chn,,0,0,0,,欧，天啊，没有\N{\rEng}Oho goodness no!
+Dialogue: 0,0:04:31.18,0:04:33.55,Chn,,0,0,0,,我当然没有这种念头\N{\rEng}Of course I haven't.
+Dialogue: 0,0:04:33.65,0:04:36.46,Chn,,0,0,0,,其实说真的我还根本不知道\N{\rEng}I mean... really I don't even understand
+Dialogue: 0,0:04:36.51,0:04:39.31,Chn,,0,0,0,,两个女的如何做爱\N{\rEng}how two women can make love.
+Dialogue: 0,0:04:39.60,0:04:43.13,Chn,,0,0,0,,我想，她们只能通过剪抱式摩擦吧\N{\rEng}I mean un, unless they just kinda scissor or something.
+Dialogue: 0,0:04:43.18,0:04:45.96,Chn,,0,0,0,,有很多做爱的方法, Janet.\N{\rEng}There are a lot of ways to make love, Janet.
+Dialogue: 0,0:04:46.01,0:04:47.20,Chn,,0,0,0,,我不得不承认\N{\rEng}I guess I'd be lying
+Dialogue: 0,0:04:47.25,0:04:50.67,Chn,,0,0,0,,我现在有些心痒痒的\N{\rEng}if I said I wasn't a little ...titillated.
+Dialogue: 0,0:04:51.84,0:04:54.58,Chn,,0,0,0,,我能吻你吗？\N{\rEng}Could I... maybe kiss you?
+Dialogue: 0,0:04:56.17,0:04:57.67,Chn,,0,0,0,,噢，这是不对的!\N{\rEng}Oh, this is wrong!
+Dialogue: 0,0:04:57.72,0:05:00.32,Chn,,0,0,0,,我们都是女人，这不合理！\N{\rEng}You're another woman; it doesn't make sense!
+Dialogue: 0,0:05:00.37,0:05:03.96,Chn,,0,0,0,,真的吗, Janet? 放开自己吧\N{\rEng}Is it wrong, Janet? Let your inhibitions go.
+Dialogue: 0,0:05:04.01,0:05:05.67,Chn,,0,0,0,,让我们过个愉快的夜晚\N{\rEng}Let's just have fun tonight.
+Dialogue: 0,0:05:05.72,0:05:08.07,Chn,,0,0,0,,不要太多的顾虑，就是享受\N{\rEng}No commitments. Just fun.
+Dialogue: 0,0:05:20.63,0:05:22.54,Chn,,0,0,0,,欧耶，磨我！\N{\rEng}Oh yeah, scissor!
+Dialogue: 0,0:05:22.60,0:05:24.22,Chn,,0,0,0,,耶，磨我，Allyson!\N{\rEng}Yeah, scissor me Allyson!
+Dialogue: 0,0:05:24.27,0:05:26.23,Chn,,0,0,0,,Janet, 你真浪！\N{\rEng}Janet, you're crazy!
+Dialogue: 0,0:05:26.28,0:05:28.15,Chn,,0,0,0,,欧，热辣的磨!\N{\rEng}Oh, this is hot scissoring!
+Dialogue: 0,0:05:28.20,0:05:30.75,Chn,,0,0,0,,欧，我的下面要起火了！\N{\rEng}Ohh! Scissor me timbers!
+Dialogue: 0,0:05:34.63,0:05:36.82,Chn,,0,0,0,,他们最好把作业写好了\N{\rEng}They'd better be done with the book reports!
+Dialogue: 0,0:05:36.87,0:05:38.57,Chn,,0,0,0,,还有15分钟就上课了\N{\rEng}School starts in 15 minutes!
+Dialogue: 0,0:05:38.62,0:05:40.02,Chn,,0,0,0,,他们会做好的\N{\rEng}They'll be done.
+Dialogue: 0,0:05:40.90,0:05:42.57,Chn,,0,0,0,,伙计们，伙计们\N{\rEng}縌ue paso? 縌ue paso?
+Dialogue: 0,0:05:42.78,0:05:44.25,Chn,,0,0,0,,你们读过那本书了吗？\N{\rEng}All right, did you read the book?
+Dialogue: 0,0:05:44.25,0:05:45.35,Chn,,0,0,0,,- 是的 - 是\N{\rEng}- S? - S?
+Dialogue: 0,0:05:45.40,0:05:47.83,Chn,,0,0,0,,写的什么？ 老师问的话怎么回答？\N{\rEng}What was it about? Ih-in case our teacher asks us.
+Dialogue: 0,0:05:47.88,0:05:50.70,Chn,,0,0,0,,这本书说的是一个老人，\N{\rEng}Eet starts there the old man,
+Dialogue: 0,0:05:50.75,0:05:53.75,Chn,,0,0,0,,他的工作是捕鱼，\N{\rEng}and his job is to catch the feesh,
+Dialogue: 0,0:05:54.18,0:05:57.90,Chn,,0,0,0,,所以他坐上一只小船，出海去抓鱼，\N{\rEng}so he get in the boht, to try and catch feesh.
+Dialogue: 0,0:05:58.22,0:06:01.71,Chn,,0,0,0,,然后他抓到一条鱼，但是这鱼非常强壮\N{\rEng}Saw he catch the feesh, but the feesh is very strong,
+Dialogue: 0,0:06:01.77,0:06:04.85,Chn,,0,0,0,,老人没法收线把鱼捞上来\N{\rEng}so the old man, cannot reel in the feesh.
+Dialogue: 0,0:06:04.90,0:06:08.06,Chn,,0,0,0,,所以他和鱼在海里搏斗了几天\N{\rEng}So then he fight the feesh. Some more.
+Dialogue: 0,0:06:08.89,0:06:11.44,Chn,,0,0,0,,最后他终于把鱼抓住了\N{\rEng}And he finally catch the feesh.
+Dialogue: 0,0:06:11.49,0:06:13.80,Chn,,0,0,0,,他把鱼抓到了，那他就赚到钱了？\N{\rEng}He catches the feesh so, then he can make money.
+Dialogue: 0,0:06:13.85,0:06:16.30,Chn,,0,0,0,,不，因为在回家的路上,\N{\rEng}No, because on the way home,
+Dialogue: 0,0:06:16.35,0:06:19.11,Chn,,0,0,0,,鲨鱼来了，把鱼肉都吃了.\N{\rEng}the sharks come and eat the feesh.
+Dialogue: 0,0:06:19.16,0:06:22.57,Chn,,0,0,0,,所以，他没有赚到钱.\N{\rEng}And so, he no make money.
+Dialogue: 0,0:06:24.68,0:06:26.43,Chn,,0,0,0,,完了吗？这就是整个故事？\N{\rEng}That's it, that's the whole story?
+Dialogue: 0,0:06:26.48,0:06:27.23,Chn,,0,0,0,,是的\N{\rEng}S?
+Dialogue: 0,0:06:27.44,0:06:29.15,Chn,,0,0,0,,好吧，你们写了四篇论文了吗？\N{\rEng}All right, did you write the four essays?
+Dialogue: 0,0:06:29.15,0:06:31.04,Chn,,0,0,0,,是的，都写好了\N{\rEng}S? we all wrote eses for you.
+Dialogue: 0,0:06:31.09,0:06:33.44,Chn,,0,0,0,,- 太好了! - OK，给我们吧.\N{\rEng}- All right! - Okay, let's have 'em.
+Dialogue: 0,0:06:34.14,0:06:35.54,Chn,,0,0,0,,给什么?\N{\rEng}Have what?
+Dialogue: 0,0:06:35.65,0:06:37.57,Chn,,0,0,0,,你不是说你帮我们写好论文了吗\N{\rEng}You said you all wrote essays.
+Dialogue: 0,0:06:37.62,0:06:38.87,Chn,,0,0,0,,它们在哪里?\N{\rEng}Where are they?
+Dialogue: 0,0:06:39.05,0:06:41.15,Chn,,0,0,0,,我ese住在迈阿密 （由于语言关系，墨西哥人理解错了，ese和essay混淆）\N{\rEng}Well, my ese lives in Miami.
+Dialogue: 0,0:06:41.20,0:06:42.80,Chn,,0,0,0,,按照你吩咐的，我写信给她了,\N{\rEng}I wrote to him like you said,
+Dialogue: 0,0:06:42.85,0:06:44.84,Chn,,0,0,0,,但我想她还没收到信吧.\N{\rEng}but I don't think he got the letter yet.
+Dialogue: 0,0:06:44.89,0:06:46.70,Chn,,0,0,0,,我也写给阿布儿开齐的ese了\N{\rEng}I wrote my ese in Albuquerque
+Dialogue: 0,0:06:46.75,0:06:48.44,Chn,,0,0,0,,我给三个ese都写了信\N{\rEng}I wrote three eses:
+Dialogue: 0,0:06:48.49,0:06:51.11,Chn,,0,0,0,,老家的, 丹佛的,\N{\rEng}my ese back home, my ese in Denver,
+Dialogue: 0,0:06:51.16,0:06:53.67,Chn,,0,0,0,,而我在格伦佛的ese还给我回了信\N{\rEng}and my ese in Glenwood even wrote me back.
+Dialogue: 0,0:06:53.72,0:06:56.02,Chn,,0,0,0,,"谢谢给我写信，ese."\N{\rEng}"Thanks for writing me, ese."
+Dialogue: 0,0:06:57.11,0:06:58.11,Chn,,0,0,0,,啊偶。。。\N{\rEng}(Uh oh...)
+Dialogue: 0,0:06:58.24,0:07:00.49,Chn,,0,0,0,,伙计，我们这下操蛋了!\N{\rEng}Dude, we're totally fucked now!
+Dialogue: 0,0:07:00.54,0:07:02.70,Chn,,0,0,0,,我们他妈的干吗要付钱让你们给你们的朋友们写信?!\N{\rEng}Why the hell would we pay you to write your friends?!
+Dialogue: 0,0:07:02.75,0:07:04.43,Chn,,0,0,0,,我们也是觉得有点奇怪.\N{\rEng}We thought it was kind of strange.
+Dialogue: 0,0:07:04.48,0:07:06.74,Chn,,0,0,0,,这都是你的错，Cartman! 现在我们要不及格了!\N{\rEng}This is your fault, Cartman! Now we're gonna fail!
+Dialogue: 0,0:07:06.79,0:07:08.58,Chn,,0,0,0,,走吧，还有10分钟就上课了\N{\rEng}You guys, school starts in ten minutes!
+Dialogue: 0,0:07:08.63,0:07:09.84,Chn,,0,0,0,,狗娘养的！\N{\rEng}Son of a bitch!
+Dialogue: 0,0:07:13.62,0:07:15.13,Chn,,0,0,0,,Clyde? Clyde! Hey hey Clyde!\N{\rEng}Clyde? Clyde! Hey hey Clyde!
+Dialogue: 0,0:07:15.18,0:07:17.15,Chn,,0,0,0,,你也没写评论，是吗?\N{\rEng}You didn't finish your essay either, right?
+Dialogue: 0,0:07:17.20,0:07:19.13,Chn,,0,0,0,,不，我写好了.\N{\rEng}No, I got it done.
+Dialogue: 0,0:07:19.18,0:07:20.83,Chn,,0,0,0,,Jimmy, 你的评论写好了吗？\N{\rEng}Jimmy, did you finish your book report?
+Dialogue: 0,0:07:20.83,0:07:23.56,Chn,,0,0,0,,是的，我觉得很不错\N{\rEng}Yeah. I feel pretty good about it. I finished my whole book report
+Dialogue: 0,0:07:23.56,0:07:25.64,Chn,,0,0,0,,我自己写了一遍\N{\rEng}and, I got a really nice letter from my ese
+Dialogue: 0,0:07:25.69,0:07:27.63,Chn,,0,0,0,,还让我在U-haul的朋友给润色了一遍\N{\rEng}who works down at the U-Haul.
+Dialogue: 0,0:07:30.27,0:07:31.75,Chn,,0,0,0,,- 日! - 我们死定了\N{\rEng}- Crap! - We're dead.
+Dialogue: 0,0:07:31.80,0:07:33.62,Chn,,0,0,0,,哈罗，同学们.\N{\rEng}Hello, class.
+Dialogue: 0,0:07:34.03,0:07:35.52,Chn,,0,0,0,,这是我的小桌子,\N{\rEng}Here's my little desk,
+Dialogue: 0,0:07:35.57,0:07:37.38,Chn,,0,0,0,,还有我亲爱的小黑板\N{\rEng}my nice lil' chalkboard ...
+Dialogue: 0,0:07:37.43,0:07:39.22,Chn,,0,0,0,,Mrs. Garrison, 关于我们的论文。。。\N{\rEng}Mrs. Garrison, about our book reports...
+Dialogue: 0,0:07:39.27,0:07:40.91,Chn,,0,0,0,,噢 没关系的 Eric\N{\rEng}Oho, that's okay Eric.
+Dialogue: 0,0:07:40.96,0:07:44.79,Chn,,0,0,0,,如果你需要多一点时间处理你的家庭作业， 只需要说一下就可以了\N{\rEng}If you need a little more time with your homework, just say so.
+Dialogue: 0,0:07:44.84,0:07:45.89,Chn,,0,0,0,,真的吗?\N{\rEng}Really?
+Dialogue: 0,0:07:45.96,0:07:47.73,Chn,,0,0,0,,孩子们, 我需要告诉你们一件事\N{\rEng}Kids, I need to tell you something
+Dialogue: 0,0:07:47.78,0:07:50.08,Chn,,0,0,0,,或许你们会很震惊\N{\rEng}that you might find shocking.
+Dialogue: 0,0:07:51.44,0:07:53.02,Chn,,0,0,0,,我是同性恋\N{\rEng}I'm gay.
+Dialogue: 0,0:07:54.36,0:07:55.30,Chn,,0,0,0,,又一次?\N{\rEng}Again?
+Dialogue: 0,0:07:55.50,0:07:57.29,Chn,,0,0,0,,我一开始也相当震惊\N{\rEng}It was a shock to me too.
+Dialogue: 0,0:07:57.34,0:07:59.61,Chn,,0,0,0,,我遇到了另一个女人\N{\rEng}I... met another woman and...
+Dialogue: 0,0:07:59.66,0:08:02.16,Chn,,0,0,0,,我们去了一间叫蕾丝堡的奇妙的酒吧\N{\rEng}we went to this fabulous bar called Lesbos
+Dialogue: 0,0:08:02.21,0:08:04.51,Chn,,0,0,0,,在那我就感觉在家一样\N{\rEng}where I finally felt at home.
+Dialogue: 0,0:08:04.81,0:08:07.93,Chn,,0,0,0,,Allyson和我聊着聊着，我们就互相打开了心扉\N{\rEng}Allyson and I talked, and really opened up to each other and...
+Dialogue: 0,0:08:07.98,0:08:11.14,Chn,,0,0,0,,然后我们...  磨了一个晚上.\N{\rEng}then we...  scissored all night long.
+Dialogue: 0,0:08:11.59,0:08:13.94,Chn,,0,0,0,,摩擦的时候要小心\N{\rEng}You have to be careful with scissors.
+Dialogue: 0,0:08:14.08,0:08:17.87,Chn,,0,0,0,,但是，听着, 我并没有要和Allison发展什么关系\N{\rEng}But listen, I am not going to just rush into a relationship with Allyson.
+Dialogue: 0,0:08:17.92,0:08:19.60,Chn,,0,0,0,,我这么晚才发现我是女同\N{\rEng}I'm a late-in-life lesbian.
+Dialogue: 0,0:08:19.65,0:08:22.27,Chn,,0,0,0,,所以我要好好尝试一下各种滋味，不是吗？\N{\rEng}So I need to play the field for a while, right?
+Dialogue: 0,0:08:22.32,0:08:23.87,Chn,,0,0,0,,我实在太高兴了\N{\rEng}Oh I'm so happy.
+Dialogue: 0,0:08:24.07,0:08:24.96,Chn,,0,0,0,,太棒了!\N{\rEng}That's great!
+Dialogue: 0,0:08:24.96,0:08:26.92,Chn,,0,0,0,,让我们为老师变成女同欢呼！\N{\rEng}Let's hear it for Teacher being a lesbian!
+Dialogue: 0,0:08:26.97,0:08:27.97,Chn,,0,0,0,,YAY!\N{\rEng}YAY!
+Dialogue: 0,0:08:32.85,0:08:34.66,Chn,,0,0,0,,Hey Tracy, hey Kate.\N{\rEng}Hey Tracy, hey Kate.
+Dialogue: 0,0:08:34.71,0:08:36.02,Chn,,0,0,0,,Hi Janet.\N{\rEng}Hi Janet.
+Dialogue: 0,0:08:36.36,0:08:37.58,Chn,,0,0,0,,看上去好正啊, Linda.\N{\rEng}Lookin' hot, Linda.
+Dialogue: 0,0:08:37.63,0:08:40.05,Chn,,0,0,0,,待会想去什么地方磨一下吗？\N{\rEng}Wanna go somewhere and scissor later on?
+Dialogue: 0,0:08:40.10,0:08:40.91,Chn,,0,0,0,,啊?\N{\rEng}Huh?
+Dialogue: 0,0:08:41.71,0:08:42.60,Chn,,0,0,0,,Hey Patty.\N{\rEng}Hey Patty.
+Dialogue: 0,0:08:42.65,0:08:43.98,Chn,,0,0,0,,什么事, Janet.\N{\rEng}What's up, Janet.
+Dialogue: 0,0:08:44.03,0:08:46.27,Chn,,0,0,0,,哦，不要这样看我.\N{\rEng}Ooo, stop giving me that look.
+Dialogue: 0,0:08:46.52,0:08:48.71,Chn,,0,0,0,,就像用眼神在磨我.\N{\rEng}Scissoring me with your eyes.
+Dialogue: 0,0:08:49.11,0:08:52.70,Chn,,0,0,0,,Hey Janet,你干嘛不去找个自己的女伴？\N{\rEng}Hey Janet, why don't you pick up on your own girl?
+Dialogue: 0,0:08:57.13,0:08:59.08,Chn,,0,0,0,,哦, 想打架吗!\N{\rEng}Oh yeah, dyke fight!
+Dialogue: 0,0:09:04.42,0:09:07.47,Chn,,0,0,0,,你踢中我的阴门了!\N{\rEng}You kicked me right in the pussy!
+Dialogue: 0,0:09:11.73,0:09:15.89,Chn,,0,0,0,,欧，欧，我们在磨？ 欧耶，磨吧！\N{\rEng}Uh? Oh! Oh, we're scissoring. Oh yeah, scissor!
+Dialogue: 0,0:09:16.76,0:09:18.88,Chn,,0,0,0,,你们两个，你们两个，停下\N{\rEng}You guys. You guys, stop it.
+Dialogue: 0,0:09:18.94,0:09:20.59,Chn,,0,0,0,,大家听我说\N{\rEng}Listen to me, everybody.
+Dialogue: 0,0:09:20.64,0:09:22.34,Chn,,0,0,0,,我有些坏消息\N{\rEng}I got some bad news.
+Dialogue: 0,0:09:22.39,0:09:24.02,Chn,,0,0,0,,怎么了, Katie?\N{\rEng}What is it, Katie?
+Dialogue: 0,0:09:24.49,0:09:27.69,Chn,,0,0,0,,他们要关了这个酒吧  永久的!\N{\rEng}They're closing down the bar. For good!
+Dialogue: 0,0:09:29.07,0:09:31.87,Chn,,0,0,0,,关了酒吧？他们不能这么做\N{\rEng}Closing it down? They can't do that.
+Dialogue: 0,0:09:32.05,0:09:33.42,Chn,,0,0,0,,这可是我们的家啊.\N{\rEng}This is our home.
+Dialogue: 0,0:09:33.77,0:09:35.91,Chn,,0,0,0,,是啊，这是我们的家\N{\rEng}Yeah, this is our home.
+Dialogue: 0,0:09:36.23,0:09:38.56,Chn,,0,0,0,,哎，是真的,我刚和酒吧老板谈过\N{\rEng}Well it's true, I just talked to the owners.
+Dialogue: 0,0:09:38.61,0:09:40.82,Chn,,0,0,0,,他们要吧这个酒吧卖给波斯人\N{\rEng}They've sold the bar to Persians.
+Dialogue: 0,0:09:42.45,0:09:43.90,Chn,,0,0,0,,波斯人？\N{\rEng}Persians?!
+Dialogue: 0,0:09:43.95,0:09:45.99,Chn,,0,0,0,,那我们能去哪里呢？\N{\rEng}So where are we supposed to go?
+Dialogue: 0,0:09:46.04,0:09:47.68,Chn,,0,0,0,,我们哪都不去！\N{\rEng}We aren't going anywhere!
+Dialogue: 0,0:09:47.73,0:09:49.53,Chn,,0,0,0,,这有我们的历史！\N{\rEng}We have a history here!
+Dialogue: 0,0:09:49.58,0:09:54.44,Chn,,0,0,0,,除非我死了，否则波斯人别想关掉这酒吧\N{\rEng}Persians are closing this bar over my dead lesbian body!
+Dialogue: 0,0:09:58.59,0:10:00.65,Chn,,0,0,0,,市长，这是暴行啊！\N{\rEng}Mayor, this is an outrage!
+Dialogue: 0,0:10:00.70,0:10:03.97,Chn,,0,0,0,,我们女同竟然受到如此歧视和欺凌！\N{\rEng}We are being discriminated against as lesbians!
+Dialogue: 0,0:10:05.66,0:10:07.21,Chn,,0,0,0,,你现在是女同了？\N{\rEng}You're a lesbian now?
+Dialogue: 0,0:10:07.26,0:10:09.90,Chn,,0,0,0,,没错，一个自豪的女同\N{\rEng}That's right. A proud lesbian!
+Dialogue: 0,0:10:09.95,0:10:12.14,Chn,,0,0,0,,我们的家园正被霸占\N{\rEng}And our home is being taken away!
+Dialogue: 0,0:10:12.19,0:10:14.49,Chn,,0,0,0,,酒吧被卖给了波斯业主\N{\rEng}The bar has been sold to Persian club owners.
+Dialogue: 0,0:10:14.54,0:10:16.39,Chn,,0,0,0,,我不知道你们要我做点什么\N{\rEng}I don't know what you want me to do about it.
+Dialogue: 0,0:10:16.39,0:10:17.91,Chn,,0,0,0,,禁止这笔交易！\N{\rEng}Forbid the transaction!
+Dialogue: 0,0:10:17.96,0:10:20.11,Chn,,0,0,0,,这些事情一次又一次的发生，市长大人\N{\rEng}This is happening all over the country, Mayor.
+Dialogue: 0,0:10:20.16,0:10:23.53,Chn,,0,0,0,,女同的酒吧被清空。。。被出售，这是不对的\N{\rEng}Lesbian bars being bought out, shut down, it isn't right!
+Dialogue: 0,0:10:23.58,0:10:24.89,Chn,,0,0,0,,是啊，她说的很对！\N{\rEng}Yeah, that's right!
+Dialogue: 0,0:10:24.94,0:10:26.88,Chn,,0,0,0,,对不起，我无能为力\N{\rEng}I'm sorry, but my hands are tied.
+Dialogue: 0,0:10:26.93,0:10:29.53,Chn,,0,0,0,,新的业主决定明天重新装修酒吧\N{\rEng}The new owners plan to start redecorating the bar tomorrow.
+Dialogue: 0,0:10:29.58,0:10:31.43,Chn,,0,0,0,,你们必须在那以前都清空\N{\rEng}You have to be out by then.
+Dialogue: 0,0:10:32.68,0:10:35.35,Chn,,0,0,0,,你知道波斯人怎么装修的吗？\N{\rEng}Have you seen how Persians decorate?
+Dialogue: 0,0:10:37.72,0:10:41.06,Chn,,0,0,0,,他们会在酒吧铺上劣质的蓝色的地毯，放上白色的雕像\N{\rEng}They will cover that bar in cheesy blue carpeting, white statues
+Dialogue: 0,0:10:41.11,0:10:44.76,Chn,,0,0,0,,还有金色的窗帘，俗的看了就想吐\N{\rEng}and gold curtain rods to the point that you will want to puke!
+Dialogue: 0,0:10:47.23,0:10:49.78,Chn,,0,0,0,,Mrs. Garrison, 请离开这里\N{\rEng}Mrs. Garrison, get out of here.
+Dialogue: 0,0:10:51.40,0:10:54.75,Chn,,0,0,0,,这一杯是为了这里曾经的美好时光\N{\rEng}Well, here's to some great times at this place.
+Dialogue: 0,0:10:55.25,0:10:58.95,Chn,,0,0,0,,没错，看来我们只能另外找个集会的地点了\N{\rEng}Yeah. Guess we'll just have to find somewhere else to hang out.
+Dialogue: 0,0:10:59.84,0:11:04.53,Chn,,0,0,0,,现在，女伴们，我不能相信我听到了什么！我们不能放弃！\N{\rEng}Now, come on gals ! I can't believe what I'm hearing ! We can't just give up !
+Dialogue: 0,0:11:04.78,0:11:08.08,Chn,,0,0,0,,- 我们应该怎么做呢, Janet? - 我们站出来斗争!\N{\rEng}- What are we supposed to do, Janet? - We stand and fight!
+Dialogue: 0,0:11:08.13,0:11:12.27,Chn,,0,0,0,,波斯人来的时候，我们就告诉他们，我们不会离开蕾丝堡\N{\rEng}When the Persians come we tell them "We aren't leaving Lesbos."
+Dialogue: 0,0:11:12.57,0:11:14.32,Chn,,0,0,0,,实际上，是蕾思堡\N{\rEng}Actually, it's "Les Bos."
+Dialogue: 0,0:11:14.99,0:11:17.36,Chn,,0,0,0,,不，就是蕾丝堡\N{\rEng}No, it's Lesbos!
+Dialogue: 0,0:11:17.99,0:11:20.38,Chn,,0,0,0,,我们就是蕾丝堡人！\N{\rEng}We... are Lesbos!
+Dialogue: 0,0:11:20.43,0:11:23.75,Chn,,0,0,0,,作为蕾丝堡人，我们不能就这么站着看着\N{\rEng}And as Lesbos, we cannot just stand and watch
+Dialogue: 0,0:11:23.80,0:11:27.78,Chn,,0,0,0,,一间间女同酒吧都被关掉\N{\rEng}as one girl bar after another gets shut dowwwwwn!
+Dialogue: 0,0:11:27.83,0:11:30.83,Chn,,0,0,0,,波斯人派了一些人来谈判\N{\rEng}The Persians have sent somebody to talk to us.
+Dialogue: 0,0:11:32.15,0:11:33.90,Chn,,0,0,0,,哈罗，我的名字叫 Emir Hadi.\N{\rEng}Hello, my name is Emir Hadi.
+Dialogue: 0,0:11:33.95,0:11:37.18,Chn,,0,0,0,,我老板派我来，因为他听说\N{\rEng}My boss sent me over here because he heard that you were upset
+Dialogue: 0,0:11:37.23,0:11:39.83,Chn,,0,0,0,,你们对我们接手这间酒吧很沮丧\N{\rEng}about us trying to take over the bar.
+Dialogue: 0,0:11:39.88,0:11:43.09,Chn,,0,0,0,,- 是的 - 我们可以向你们保证\N{\rEng}- Yes, we are. - Well, we want to assure you,
+Dialogue: 0,0:11:43.25,0:11:45.62,Chn,,0,0,0,,当这件酒吧变成波斯风格的时候\N{\rEng}that when this place becomes another Club Persh,
+Dialogue: 0,0:11:45.67,0:11:48.74,Chn,,0,0,0,,你们依然得到100%的欢迎\N{\rEng}you will all still be 100% welcome.
+Dialogue: 0,0:11:49.15,0:11:52.00,Chn,,0,0,0,,他们只是要把这地方改造一下而已\N{\rEng}All they want is to make the place really nice.
+Dialogue: 0,0:11:52.05,0:11:56.45,Chn,,0,0,0,,我们将铺上蓝色的波斯地毯，金色的窗帘\N{\rEng}We're going to put down some lovely blue carpet, and gold curtain rods.
+Dialogue: 0,0:11:56.67,0:11:58.62,Chn,,0,0,0,,我就知道！我就知道！\N{\rEng}I knew it! I knew it!
+Dialogue: 0,0:11:58.69,0:12:00.24,Chn,,0,0,0,,但是依然欢迎你们啊\N{\rEng}But you are still welcome to come.
+Dialogue: 0,0:12:00.29,0:12:04.60,Chn,,0,0,0,,我老板希望你们清楚，我们绝不会对女同性恋有任何歧视\N{\rEng}My boss wants you to know that you will not be discriminated against in any way.
+Dialogue: 0,0:12:04.65,0:12:07.34,Chn,,0,0,0,,你们会允许其他非女同的人进来吗？还有男人？\N{\rEng}Would you allow straight people in? Men?
+Dialogue: 0,0:12:07.39,0:12:09.20,Chn,,0,0,0,,哦。。我们会允许所有。。。\N{\rEng}Well... we would allow whoev-
+Dialogue: 0,0:12:09.25,0:12:13.00,Chn,,0,0,0,,请小心你说的下一个词，波斯佬\N{\rEng}Choose your next words wisely, Persian!
+Dialogue: 0,0:12:13.64,0:12:16.66,Chn,,0,0,0,,可是，我们没有任何义务只给女同提供服务\N{\rEng}Look uhh, we don't have to offer you anything, so...
+Dialogue: 0,0:12:16.71,0:12:19.45,Chn,,0,0,0,,我不理解你为什么要态度这么恶劣，这简直是疯了\N{\rEng}I don't know why you're being so difficult. This is crazy.
+Dialogue: 0,0:12:19.50,0:12:22.36,Chn,,0,0,0,,不，这一点也不疯\N{\rEng}No, this isn't crazy.
+Dialogue: 0,0:12:23.62,0:12:26.38,Chn,,0,0,0,,这就是蕾丝堡人!\N{\rEng}This... is... Lesbos!
+Dialogue: 0,0:12:31.79,0:12:33.24,Chn,,0,0,0,,你怎么能！\N{\rEng}How dare you!
+Dialogue: 0,0:12:36.06,0:12:38.14,Chn,,0,0,0,,{\i1}于是战争开始了.{\i0}\N{\rEng}{\i1}And so it had begun.{\i0}
+Dialogue: 0,0:12:38.19,0:12:43.05,Chn,,0,0,0,,{\i1}往波斯使者蛋蛋上的这一脚，就是蕾丝堡人的宣战书.{\i0}\N{\rEng}{\i1}By kicking the Persian messenger in the balls, the lesbos had sent a message.{\i0}
+Dialogue: 0,0:12:43.79,0:12:47.60,Chn,,0,0,0,,{\i1}全国的女同都听说了这勇敢的反抗{\i0}\N{\rEng}{\i1}All over the country lesbians heard of the brave standoff.{\i0}
+Dialogue: 0,0:12:47.65,0:12:50.27,Chn,,0,0,0,,{\i1}在科罗拉多有一群自称为蕾丝堡人的女同性恋{\i0}\N{\rEng}{\i1}As a group of lesbians in Colorado{\i0}
+Dialogue: 0,0:12:50.32,0:12:53.69,Chn,,0,0,0,,{\i1}正拼死守卫她们的女同酒吧{\i0}\N{\rEng}{\i1}are refusing to allow the new owners of their bar in.{\i0}
+Dialogue: 0,0:12:53.74,0:12:56.23,Chn,,0,0,0,,- 好样的! - 加油，姐妹们!\N{\rEng}- Good for them! - You go girls!
+Dialogue: 0,0:13:03.84,0:13:06.14,Chn,,0,0,0,,{\i1}波斯人回到了他们的办公室,{\i0}\N{\rEng}{\i1}The Persians returned to their office,{\i0}
+Dialogue: 0,0:13:06.19,0:13:10.99,Chn,,0,0,0,,{\i1}告诉了他们的同事他们被30个蕾丝堡人挡在门外的故事{\i0}\N{\rEng}{\i1}and told their coworkers how the thirty lesbos were refusing to let them in.{\i0}
+Dialogue: 0,0:13:11.21,0:13:14.40,Chn,,0,0,0,,好的，如果他们30人要堵住门口\N{\rEng}Well fine. If they're going to block the entrance,
+Dialogue: 0,0:13:14.45,0:13:18.51,Chn,,0,0,0,,我们就叫60个人去，我会在拉些波斯兄弟过来的\N{\rEng}we'll just bring like, sixty of us! I'll call more Persians for help.
+Dialogue: 0,0:13:29.47,0:13:34.61,Chn,,0,0,0,,{\i1}时间飞快的流逝着，蕾丝堡人勇敢地守在酒吧门口{\i0}\N{\rEng}{\i1}The hours pass quickly, and the lesbians boldly stood out in front of their bar{\i0}
+Dialogue: 0,0:13:34.66,0:13:36.91,Chn,,0,0,0,,{\i1}不让波斯人踏入一步{\i0}\N{\rEng}{\i1}to stop the Persians from entering.{\i0}
+Dialogue: 0,0:13:37.62,0:13:38.87,Chn,,0,0,0,,他们来了\N{\rEng}Here they come.
+Dialogue: 0,0:13:49.69,0:13:51.60,Chn,,0,0,0,,他们来了好多人啊\N{\rEng}There's so many of them.
+Dialogue: 0,0:13:52.83,0:13:55.32,Chn,,0,0,0,,蕾丝堡人，摆好架势\N{\rEng}Lesbos! Positions!
+Dialogue: 0,0:13:58.90,0:14:03.08,Chn,,0,0,0,,女同性恋们! 快让开吧 我们要进去重新装修了\N{\rEng}Lesbians! Stand aside. We're coming in to redecorate it!
+Dialogue: 0,0:14:03.32,0:14:07.51,Chn,,0,0,0,,你们都去下地狱吧!你们可以用你们的蓝色地毯和金色窗帘\N{\rEng}The hell you are! You can take your blue carpet and gold curtain rods
+Dialogue: 0,0:14:07.56,0:14:09.91,Chn,,0,0,0,,去堵上你们波斯佬的屁眼\N{\rEng}and shove them up your Persian buttholes!
+Dialogue: 0,0:14:09.96,0:14:13.36,Chn,,0,0,0,,好吧！给我上！他们拦不住我们的\N{\rEng}All right! Come on! They can't stop all of us!
+Dialogue: 0,0:14:20.01,0:14:22.26,Chn,,0,0,0,,蕾丝堡人，记住这一天！\N{\rEng}Lesbos! Remember this day!
+Dialogue: 0,0:14:22.50,0:14:24.40,Chn,,0,0,0,,记住这一战！\N{\rEng}Remember this fight!
+Dialogue: 0,0:14:33.89,0:14:35.59,Chn,,0,0,0,,一寸都不能相让！\N{\rEng}Don't give them an inch!
+Dialogue: 0,0:14:40.27,0:14:42.43,Chn,,0,0,0,,嗷！伊朗变态男！\N{\rEng}Ow! Iranian faggot!
+Dialogue: 0,0:14:43.44,0:14:45.90,Chn,,0,0,0,,说真的，让我们进去！\N{\rEng}Come on, seriously, let us in!
+Dialogue: 0,0:14:46.16,0:14:47.16,Chn,,0,0,0,,绝不！\N{\rEng}Never!
+Dialogue: 0,0:14:49.57,0:14:53.04,Chn,,0,0,0,,{\i1}好几个小时过去了,蕾丝堡人一直阻挡着波斯人,{\i0}\N{\rEng}{\i1}For hours, the Lesbos kept the Persians back,{\i0}
+Dialogue: 0,0:14:53.09,0:14:56.50,Chn,,0,0,0,,{\i1}把他们挡在门外， 挡住他们重新装修的计划{\i0}\N{\rEng}{\i1}holding them off, keeping them from decorating.{\i0}
+Dialogue: 0,0:14:58.58,0:15:01.05,Chn,,0,0,0,,{\i1}终于波斯人精疲力尽了,{\i0}\N{\rEng}{\i1}Finally the Persians grew tired,{\i0}
+Dialogue: 0,0:15:01.10,0:15:05.22,Chn,,0,0,0,,{\i1}很多波斯人想去逛街去选两幅最新式的太阳眼镜{\i0}\N{\rEng}{\i1}and many of them wanted to go shopping for more designer sunglasses.{\i0}
+Dialogue: 0,0:15:05.27,0:15:09.77,Chn,,0,0,0,,{\i1}他们撤退了，蕾丝堡人守住了胜利{\i0}\N{\rEng}{\i1}They retreated.  The Lesbos... had held.{\i0}
+Dialogue: 0,0:15:12.44,0:15:14.69,Chn,,0,0,0,,蕾丝堡！\N{\rEng}Lesbohhhs!!
+Dialogue: 0,0:15:17.75,0:15:19.87,Chn,,0,0,0,,{\i1}那些没有去购物的波斯人{\i0}\N{\rEng}{\i1}The Persians who did not go shopping{\i0}
+Dialogue: 0,0:15:19.92,0:15:23.16,Chn,,0,0,0,,{\i1}知道必须给他们老板一个交代{\i0}\N{\rEng}{\i1}now knew they must face their boss.{\i0}
+Dialogue: 0,0:15:23.21,0:15:24.49,Chn,,0,0,0,,他来了\N{\rEng}Here he comes.
+Dialogue: 0,0:15:29.57,0:15:33.84,Chn,,0,0,0,,{\i1}Rauf Xerxes. 他坐在一部纯金的悍马上面{\i0}\N{\rEng}{\i1}Rauf Xerxes. He sat atop a gold Hummer{\i0}
+Dialogue: 0,0:15:33.89,0:15:38.50,Chn,,0,0,0,,{\i1}全身戴满了订制的只有波斯人才觉得酷的Gucci的首饰{\i0}\N{\rEng}{\i1}with customized Gucci accessories which only a Persian would think was cool.{\i0}
+Dialogue: 0,0:15:42.49,0:15:47.74,Chn,,0,0,0,,Mr. Xerxes, 蕾丝堡人不肯挪窝啊 我们没法子进去重新装修\N{\rEng}Mr. Xerxes, the Lesbos wouldn't move. We could not get inside to redecorate.
+Dialogue: 0,0:15:49.67,0:15:53.48,Chn,,0,0,0,,Tumon, 你怎么连这么简单的任务都办不好？\N{\rEng}Tumon, how could you have failed me in this simple task?
+Dialogue: 0,0:15:53.68,0:15:58.27,Chn,,0,0,0,,我现在真的很生气，我可以捏爆一个睾丸\N{\rEng}I am so seriously pissed off right now. I could bust a testicle.
+Dialogue: 0,0:15:58.77,0:16:03.30,Chn,,0,0,0,,{\i1}就在那时波斯老板意识到了{\i0}\N{\rEng}{\i1}And with that the Persian club owner came to a realization.{\i0}
+Dialogue: 0,0:16:03.81,0:16:07.67,Chn,,0,0,0,,我得亲自和这些蕾丝堡人谈谈\N{\rEng}I shall have to deal with these lesbos myself.
+Dialogue: 0,0:16:13.17,0:16:16.76,Chn,,0,0,0,,姐妹们，我只是想说我太为你们骄傲了\N{\rEng}Girls, I just want to say that I am very proud of you.
+Dialogue: 0,0:16:16.96,0:16:21.25,Chn,,0,0,0,,我们阻止了波斯人的这一战简直是太屌了\N{\rEng}The way we kept those Persians from takin' over our bar was Les-tastic.
+Dialogue: 0,0:16:21.40,0:16:23.43,Chn,,0,0,0,,恩，是很棒，Janet 可是现在怎么办呢？\N{\rEng}Well that's great, Janet, but what now?
+Dialogue: 0,0:16:23.48,0:16:26.02,Chn,,0,0,0,,我们不能待在这里档波斯人一辈子吧\N{\rEng}We can't just stay here pushing them away our whole lives.
+Dialogue: 0,0:16:26.07,0:16:27.86,Chn,,0,0,0,,不能吗？我觉得很好玩啊\N{\rEng}We can't? I think it's pretty fun.
+Dialogue: 0,0:16:27.91,0:16:29.62,Chn,,0,0,0,,我们必须有个更实际的计划\N{\rEng}We have to have a more solid plan.
+Dialogue: 0,0:16:29.67,0:16:32.83,Chn,,0,0,0,,可以用来抵挡他们一辈子的计划\N{\rEng}Something we can use against them permanently.
+Dialogue: 0,0:16:32.88,0:16:36.06,Chn,,0,0,0,,也许我们能想办法抓到这个老板的把柄\N{\rEng}Maybe we can dig up some dirt on the club owner.
+Dialogue: 0,0:16:36.11,0:16:40.61,Chn,,0,0,0,,嘿，这是个好主意，我们需要一些人去打入他们内部\N{\rEng}Hey, that's a great idea, Betsy. We need somebody working on the inside.
+Dialogue: 0,0:16:40.88,0:16:41.87,Chn,,0,0,0,,具体什么意思？\N{\rEng}Whattaya mean?
+Dialogue: 0,0:16:41.92,0:16:44.05,Chn,,0,0,0,,如果我们能争取一些波斯人站在我们这边的话\N{\rEng}If we could get some Persians on our side,
+Dialogue: 0,0:16:44.10,0:16:46.90,Chn,,0,0,0,,我们可以派他们过去打探老板的把柄\N{\rEng}we could send them in to try to dig up some dirt on the owner!
+Dialogue: 0,0:16:46.95,0:16:50.08,Chn,,0,0,0,,可是谁能当这个间谍呢？我们不认识任何波斯人\N{\rEng}But who's gonna spy on them for us? We don't know any Persians.
+Dialogue: 0,0:16:50.13,0:16:54.33,Chn,,0,0,0,,没问题，有些人你随时可以雇佣\N{\rEng}It's okay. There's people you can hire for this kind of thing.
+Dialogue: 0,0:16:57.89,0:17:00.02,Chn,,0,0,0,,伙计们，伙计们\N{\rEng}縌ue paso? 縌ue paso?
+Dialogue: 0,0:17:00.57,0:17:02.70,Chn,,0,0,0,,找工作吗，墨西哥佬？\N{\rEng}Looking for work? S? Trabajo?
+Dialogue: 0,0:17:02.75,0:17:04.90,Chn,,0,0,0,,- 是 - 我们找工作\N{\rEng}- Yeis. - We looking work, s?
+Dialogue: 0,0:17:04.95,0:17:08.57,Chn,,0,0,0,,好的，我们需要你们渗入波斯人内部\N{\rEng}All right. We need you to infiltrate some Persians who run Club Persh,
+Dialogue: 0,0:17:08.62,0:17:11.32,Chn,,0,0,0,,打探隐私 抓住那个老板的把柄\N{\rEng}and dig up some dirt on the owner.
+Dialogue: 0,0:17:11.80,0:17:13.21,Chn,,0,0,0,,OK，可以啊\N{\rEng}Okay. Sure. Okay. Yeah.
+Dialogue: 0,0:17:13.26,0:17:15.72,Chn,,0,0,0,,Janet, 这怎么能成呢？他们看上去不像波斯人\N{\rEng}Janet, how is this gonna work? They don't look Persian.
+Dialogue: 0,0:17:15.77,0:17:17.12,Chn,,0,0,0,,他们会的\N{\rEng}Sure they do.
+Dialogue: 0,0:17:17.91,0:17:19.76,Chn,,0,0,0,,只需要抹点发胶\N{\rEng}Just have to- gel the hair,
+Dialogue: 0,0:17:21.17,0:17:24.68,Chn,,0,0,0,,穿上件丝绸衬衫，戴根金项链\N{\rEng}put on a silk shirt, some gold chains,
+Dialogue: 0,0:17:25.60,0:17:27.55,Chn,,0,0,0,,洒满古龙水\N{\rEng}and tons of cologne.
+Dialogue: 0,0:17:28.44,0:17:30.14,Chn,,0,0,0,,波斯人\N{\rEng}Persian.
+Dialogue: 0,0:17:30.19,0:17:30.94,Chn,,0,0,0,,看？\N{\rEng}S?
+Dialogue: 0,0:17:31.71,0:17:32.71,Chn,,0,0,0,,WOW!\N{\rEng}Wow!
+Dialogue: 0,0:17:32.81,0:17:34.89,Chn,,0,0,0,,好吧，墨西哥佬，其余人赶快化妆准备干活\N{\rEng}All right, Mexicans, take the rest of these outfits
+Dialogue: 0,0:17:34.94,0:17:37.56,Chn,,0,0,0,,去看看你们能发现什么 地址就在里面\N{\rEng}and see what you can find out. The address is in there too.
+Dialogue: 0,0:17:37.61,0:17:39.86,Chn,,0,0,0,,OK，没问题\N{\rEng}Okay. No problem. Yes. S?
+Dialogue: 0,0:17:40.71,0:17:45.01,Chn,,0,0,0,,墨西哥人，摆脱快一点 我们的酒吧没多少时间了\N{\rEng}And Mexicans, please hurry. Our girl bar has very little time.
+Dialogue: 0,0:17:46.47,0:17:49.90,Chn,,0,0,0,,{\i1}一整天过去了，蕾丝堡人知道{\i0}\N{\rEng}{\i1}A full day passed, and the Lesbos knew{\i0}
+Dialogue: 0,0:17:49.95,0:17:52.68,Chn,,0,0,0,,{\i1}波斯人的第二次进攻随时都可能发起{\i0}\N{\rEng}{\i1}a second Persian attack was imminent.{\i0}
+Dialogue: 0,0:17:52.73,0:17:58.20,Chn,,0,0,0,,{\i1}在外面，蕾丝堡人一直紧密的监视着 随时准备发出警报{\i0}\N{\rEng}{\i1}Outside, Lesbo lookouts kept watch, ready to alert the others.{\i0}
+Dialogue: 0,0:17:59.04,0:18:02.39,Chn,,0,0,0,,{\i1}蕾丝堡的老大在酒吧内坐立不安{\i0}\N{\rEng}{\i1}The Lesbo leader sat nervously inside.{\i0}
+Dialogue: 0,0:18:02.44,0:18:06.19,Chn,,0,0,0,,{\i1}>她派墨西哥人装扮成波斯人去侦测的计划{\i0}\N{\rEng}{\i1}>Her plan to dress Mexicans as Persians to act as spies,{\i0}
+Dialogue: 0,0:18:06.24,0:18:07.88,Chn,,0,0,0,,{\i1}也许已经失败了{\i0}\N{\rEng}{\i1}perhaps it had failed.{\i0}
+Dialogue: 0,0:18:08.00,0:18:12.64,Chn,,0,0,0,,{\i1}她观察了下周围的蕾丝堡战友 他们都疲累不堪了{\i0}\N{\rEng}{\i1}She looked around at her fellow Lesbos. They were tired.{\i0}
+Dialogue: 0,0:18:12.69,0:18:17.00,Chn,,0,0,0,,{\i1}为了保持蕾丝堡人的清醒，她没有别的选择{\i0}\N{\rEng}{\i1}In order to keep her Lesbos awake, she had no choice:{\i0}
+Dialogue: 0,0:18:17.05,0:18:19.20,Chn,,0,0,0,,{\i1}她不得不去煮咖啡{\i0}\N{\rEng}{\i1}she would have to make coffee.{\i0}
+Dialogue: 0,0:18:39.03,0:18:44.60,Chn,,0,0,0,,{\i1}由于咖啡的作用，蕾丝堡人仿佛重生了一般 但是她们能支撑多久呢？{\i0}\N{\rEng}{\i1}With fresh coffee brewed, the Lesbos found new life, but would it be enough ?{\i0}
+Dialogue: 0,0:18:45.18,0:18:47.33,Chn,,0,0,0,,那些波斯人又打过来了！\N{\rEng}The Persians are attacking again!
+Dialogue: 0,0:18:47.82,0:18:50.95,Chn,,0,0,0,,- 做好准备，蕾丝堡人! - 出去决战!\N{\rEng}- Take positions, Lesbos! - Get outside!
+Dialogue: 0,0:18:51.42,0:18:54.97,Chn,,0,0,0,,不，等等，等等，他们不是波斯人 是墨西哥人\N{\rEng}No wait, wait! That's not the Persians, it's the Mexicans.
+Dialogue: 0,0:18:55.04,0:18:56.98,Chn,,0,0,0,,- 真的吗? - 你怎么知道?\N{\rEng}- Really? - How can you tell?
+Dialogue: 0,0:18:57.03,0:18:59.03,Chn,,0,0,0,,让他们进来，没关系的\N{\rEng}Let them through. It's okay.
+Dialogue: 0,0:18:59.16,0:19:01.01,Chn,,0,0,0,,- 你们好 - 你们好\N{\rEng}- Hola, 緾髆o est醩? - Hola.
+Dialogue: 0,0:19:01.06,0:19:04.41,Chn,,0,0,0,,你们发现什么了吗？ 波斯人有在干什么违法的勾当吗？\N{\rEng}Did you uncover anything? Are the Persians doing anything illegal?
+Dialogue: 0,0:19:04.46,0:19:07.79,Chn,,0,0,0,,哦，不，他们没有做任何非法的生意\N{\rEng}Ahh, no. They're not doing anything illegal.
+Dialogue: 0,0:19:08.51,0:19:09.51,Chn,,0,0,0,,你们确定吗？\N{\rEng}A-are you sure??
+Dialogue: 0,0:19:09.56,0:19:13.53,Chn,,0,0,0,,但是我们却发现了那个老板的一个小秘密。。。\N{\rEng}No, but we did find out a kind of secret about the Persian in charge.
+Dialogue: 0,0:19:13.58,0:19:14.73,Chn,,0,0,0,,什么秘密？\N{\rEng}What secret?!
+Dialogue: 0,0:19:17.43,0:19:20.12,Chn,,0,0,0,,- 哦，天啊，你们确定吗？ - 确定\N{\rEng}- Oh my God, are you sure about this? - S?
+Dialogue: 0,0:19:20.17,0:19:25.05,Chn,,0,0,0,,Janet ! Janet, 那个波斯老板来了 他要和你单独谈一谈\N{\rEng}Janet ! Janet, the Persian boss is here. He wants to talk to you and you alone.
+Dialogue: 0,0:19:25.57,0:19:29.94,Chn,,0,0,0,,没关系的，是时候去和这个波斯富佬面对面谈一下了\N{\rEng}It's okay. It's time I met this rich Persian asshole face to face.
+Dialogue: 0,0:19:35.79,0:19:38.99,Chn,,0,0,0,,你们这些女同性恋为什么要这么难搞？\N{\rEng}Why are you lesbians being so difficult?
+Dialogue: 0,0:19:39.44,0:19:42.34,Chn,,0,0,0,,因为我们在保护我们唯一的家\N{\rEng}Because we're protecting the only home we have.
+Dialogue: 0,0:19:42.47,0:19:45.54,Chn,,0,0,0,,我不知道你们为什么要对这件事 这么小题大做\N{\rEng}I don't know why you have to be all superlame about this.
+Dialogue: 0,0:19:45.59,0:19:49.05,Chn,,0,0,0,,你知道吗，很久以前，当我第一次知道我是个 女同性恋的时候\N{\rEng}You know, a long time ago when I first realized I was a lesbian,
+Dialogue: 0,0:19:49.10,0:19:51.28,Chn,,0,0,0,,我感到傍徨和孤立\N{\rEng}I felt isolated, confused.
+Dialogue: 0,0:19:51.33,0:19:54.91,Chn,,0,0,0,,只到我找到了这个能包容我，承认我的地方\N{\rEng}And finally I found a place that accepts me for who I am.
+Dialogue: 0,0:19:54.96,0:20:00.81,Chn,,0,0,0,,OK，这样如何，我让你当这个酒吧的总经理\N{\rEng}Okay, how about this? I will make you the manager of Club Persh.
+Dialogue: 0,0:20:00.86,0:20:02.36,Chn,,0,0,0,,你将有丰厚的薪水\N{\rEng}You'll make good money.
+Dialogue: 0,0:20:02.41,0:20:04.46,Chn,,0,0,0,,这实在是个慷慨的提议, Xerxes.\N{\rEng}That's a generous offers, Xerxes.
+Dialogue: 0,0:20:04.51,0:20:07.46,Chn,,0,0,0,,但是你知道吗，我知道你的一个小秘密\N{\rEng}But you see, there's something I know about you.
+Dialogue: 0,0:20:08.71,0:20:11.41,Chn,,0,0,0,,我知道你实际上是个女人\N{\rEng}I know you're actually a woman.
+Dialogue: 0,0:20:14.52,0:20:16.52,Chn,,0,0,0,,How did you find that out?
+Dialogue: 0,0:20:16.62,0:20:18.93,Chn,,0,0,0,,我雇佣了墨西哥人做间谍监视你\N{\rEng}I hired Mexicans to spy on you!
+Dialogue: 0,0:20:18.98,0:20:21.90,Chn,,0,0,0,,他们看见你在“曲线美”健身\N{\rEng}They saw you working out at Curves.
+Dialogue: 0,0:20:21.95,0:20:26.37,Chn,,0,0,0,,你不理解的，在波斯传统里面，女人不能当老板\N{\rEng}You don't understand. Women can't be the boss in Persian culture.
+Dialogue: 0,0:20:26.42,0:20:28.32,Chn,,0,0,0,,这件事不能泄露给任何人\N{\rEng}Nobody can know about this.
+Dialogue: 0,0:20:28.68,0:20:32.96,Chn,,0,0,0,,耶，你知道为什么吗？ 因为男人都是混蛋\N{\rEng}Yeah. And you know why? Because men are all assholes!
+Dialogue: 0,0:20:33.01,0:20:37.46,Chn,,0,0,0,,不过因为你长的稍微高大和男性化了一点， 他们就百般嘲笑，羞辱你\N{\rEng}They make you feel ashamed for being a little... big, or, manly looking.
+Dialogue: 0,0:20:38.40,0:20:43.24,Chn,,0,0,0,,但是蕾丝堡人不会，我们尊敬女人，是因为她们的内在\N{\rEng}But not Lesbos. We accept other women for who they are inside!
+Dialogue: 0,0:20:43.74,0:20:45.54,Chn,,0,0,0,,真的吗？\N{\rEng}You do? Seriously?
+Dialogue: 0,0:20:45.73,0:20:49.80,Chn,,0,0,0,,你有没有。。。有没有想过 和个女人一起做爱\N{\rEng}Have you never... even thought, of being with another woman before?
+Dialogue: 0,0:20:50.27,0:20:54.93,Chn,,0,0,0,,没有，我根本就不知道两个女人能怎么做爱\N{\rEng}No. I don't even know how two women... can make love.
+Dialogue: 0,0:20:55.66,0:20:59.36,Chn,,0,0,0,,除非他们只是互相磨来磨去还是什么\N{\rEng}Unless they just kind of scissor or something.
+Dialogue: 0,0:21:01.42,0:21:04.37,Chn,,0,0,0,,欧耶，磨擦我， Xerxes!\N{\rEng}Ohh yeah! Scissor me, Xerxes!
+Dialogue: 0,0:21:04.48,0:21:07.05,Chn,,0,0,0,,欧，感觉真是太棒了！\N{\rEng}Ohh, that feels so supercool!
+Dialogue: 0,0:21:07.13,0:21:10.53,Chn,,0,0,0,,- 耶，摩擦! - 欧，我是个全新的女人!\N{\rEng}- Yeah, scissor! - Ohh, I'm a new woman!
+Dialogue: 0,0:21:11.10,0:21:14.53,Chn,,0,0,0,,{\i1}故事就是这样，蕾丝堡被保住了{\i0}\N{\rEng}{\i1}And so it was that Lesbos was saved.{\i0}
+Dialogue: 0,0:21:14.58,0:21:17.91,Chn,,0,0,0,,{\i1}波斯人同意保持蕾丝堡原封不动{\i0}\N{\rEng}{\i1}The Persians had agreed to leave it a lesbian bar,{\i0}
+Dialogue: 0,0:21:17.96,0:21:20.97,Chn,,0,0,0,,{\i1}就像没有个女同性恋能离开鸡尾酒一样{\i0}\N{\rEng}{\i1}for no dyke should be without cocktails.{\i0}
+Dialogue: 0,0:21:21.02,0:21:25.68,Chn,,0,0,0,,- 谢谢你所做的一切, Xerxes. - 不，谢谢你，朋友\N{\rEng}- Thanks for everything, Xerxes. - No. Thank you, friend.
+Dialogue: 0,0:21:25.79,0:21:28.15,Chn,,0,0,0,,嘿，你现在不是应该在学校教书吗?\N{\rEng}Hey, aren't you supposed to be teaching school right now?
+Dialogue: 0,0:21:28.20,0:21:31.05,Chn,,0,0,0,,学校雇了一个代课老师替代我\N{\rEng}The school hired a substitute to cover for me.
+Dialogue: 0,0:21:32.01,0:21:35.55,Chn,,0,0,0,,所以捏，要求两个分数之和,\N{\rEng}Hand so to find the sum of the two fractions,
+Dialogue: 0,0:21:35.60,0:21:39.25,Chn,,0,0,0,,你必须先求出最小公分母.\N{\rEng}zhyou must always check for the lowest common denominator.
+Dialogue: 0,0:21:39.33,0:21:41.83,Chn,,0,0,0,,是的，是的\N{\rEng}S? S? Yes. Yes. S?
+Dialogue: 0,0:21:41.90,0:21:43.20,Chn,,0,0,0,,这些人教的真好\N{\rEng}These guys are pretty good.
+Dialogue: 0,0:21:43.20,0:21:45.56,Chn,,0,0,0,,耶，我想我终于实习学到点东西了\N{\rEng}Yeah. I think I'm actually learning something.
+Dialogue: 0,0:21:45.61,0:21:46.98,Chn,,0,0,0,,双语合成 Lv&daisy

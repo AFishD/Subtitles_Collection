@@ -1,0 +1,389 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: South.Park.S11E05.Fantastic.Easter.Special.1080p.WEB-DL.AAC2.0.H.264-Phr0stY
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 1916
+PlayResY: 1076
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,微软雅黑,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Git,Comic Sans MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Chn,微软雅黑,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,20,1
+Style: Eng,Comic Sans MS,60,&H002AF7FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.71,0:00:11.97,Chn,,0,0,0,,{\i1}I'm going out to South Park gonna have myself a time{\i0}
+Dialogue: 0,0:00:12.05,0:00:15.30,Chn,,0,0,0,,{\i1}Friendly faces everywhere humble folks without temptation{\i0}
+Dialogue: 0,0:00:15.34,0:00:18.64,Chn,,0,0,0,,{\i1}I'm goin out to south park gonna leave my woes behind{\i0}
+Dialogue: 0,0:00:18.64,0:00:21.98,Chn,,0,0,0,,{\i1}Ample parking day or night people spouting howdy neighbor{\i0}
+Dialogue: 0,0:00:22.02,0:00:25.19,Chn,,0,0,0,,{\i1}I'm heading out to south park to see if i cant unwind{\i0}
+Dialogue: 0,0:00:25.23,0:00:28.52,Chn,,0,0,0,,{\i1}I like girls with big fat titties really big fat titties{\i0}
+Dialogue: 0,0:00:28.57,0:00:32.15,Chn,,0,0,0,,{\i1}So come on out to south park and meet some friends of mine{\i0}
+Dialogue: 0,0:00:33.19,0:00:35.53,Chn,,0,0,0,,South Park - Season 11 Episode 5 "Fantastic Easter Special" "复活节特别节目"\N{\rEng}双语合成 Lv&daisy
+Dialogue: 0,0:00:35.76,0:00:39.90,Chn,,0,0,0,,...In my Easter Bonnet, with all the frills upon it,
+Dialogue: 0,0:00:39.95,0:00:44.49,Chn,,0,0,0,,I'll be the grandest lady in the Easter parade.
+Dialogue: 0,0:00:45.02,0:00:46.36,Chn,,0,0,0,,看这个, 哈?\N{\rEng}Look at that one, huh?
+Dialogue: 0,0:00:46.41,0:00:49.73,Chn,,0,0,0,,一半紫,一半黄,还有环状的花纹\N{\rEng}Half purple and half yellow with a chikadee sticker.
+Dialogue: 0,0:00:49.78,0:00:50.93,Chn,,0,0,0,,太棒了.\N{\rEng}I'm good.
+Dialogue: 0,0:00:51.54,0:00:53.48,Chn,,0,0,0,,恩, 能问个问题吗?\N{\rEng}Uh, can I ask a question?
+Dialogue: 0,0:00:53.53,0:00:55.09,Chn,,0,0,0,,为什么我们要干这个?\N{\rEng}Why do we do this?
+Dialogue: 0,0:00:56.62,0:00:59.29,Chn,,0,0,0,,什么...你什么意思, "为什么我们要干这个?" 因为是复活节(Easter)啊 !\N{\rEng}Wha... what do you mean, "Why do we do this?" It's Easter!
+Dialogue: 0,0:00:59.34,0:01:01.94,Chn,,0,0,0,,对, 那么, 为什么我们给蛋涂上颜色?\N{\rEng}Right, so, why do we color eggs?
+Dialogue: 0,0:01:03.73,0:01:06.94,Chn,,0,0,0,,呃,这样复活节兔子(Easter bunny) 就能把它们藏起来了\N{\rEng}Wulll, ssso that the Easter bunny can hide them.
+Dialogue: 0,0:01:06.99,0:01:08.54,Chn,,0,0,0,,是啊, 但是为什么呢?\N{\rEng}Yeah, but why?
+Dialogue: 0,0:01:08.63,0:01:11.88,Chn,,0,0,0,,Stanley, 复活节是用来庆祝 耶稣复活的那一天的\N{\rEng}Stanley, Easter celebrates the day that Jesus was resurrected
+Dialogue: 0,0:01:11.93,0:01:14.53,Chn,,0,0,0,,就在替我们赎罪 而被钉死在十字架上之后\N{\rEng}after being crucified for our sins.
+Dialogue: 0,0:01:15.48,0:01:18.41,Chn,,0,0,0,,所以我们把蛋放进用彩色的醋里 然后一只巨大的兔子就可以把它们藏起来了?\N{\rEng}So we dip eggs in colored vinegar and a giant rabbit hides them?
+Dialogue: 0,0:01:18.46,0:01:19.34,Chn,,0,0,0,,就是这样.\N{\rEng}That's right.
+Dialogue: 0,0:01:19.39,0:01:21.74,Chn,,0,0,0,,你没发现这里面有点逻辑错误吗?\N{\rEng}You don't see the missteps in logic with that?
+Dialogue: 0,0:01:21.97,0:01:24.88,Chn,,0,0,0,,你看, 我是说耶稣死在十字架上\N{\rEng}Look, I'm just saying that somewhere between Jesus dying on the Cross
+Dialogue: 0,0:01:24.93,0:01:28.09,Chn,,0,0,0,,和一只兔子藏鸡蛋 这之间好象没什么联系.\N{\rEng}and a giant bunny hiding eggs there seems to be a, a gap of information.
+Dialogue: 0,0:01:28.14,0:01:30.37,Chn,,0,0,0,,Stanley, 只管涂好你的蛋!\N{\rEng}Stanley, just dye your Goddamned eggs!
+Dialogue: 0,0:01:30.42,0:01:33.41,Chn,,0,0,0,,我不喜欢涂蛋! 我不明白!\N{\rEng}I don't feel like coloring eggs! I don't get it!
+Dialogue: 0,0:01:33.46,0:01:35.17,Chn,,0,0,0,,他这是怎么了?!\N{\rEng}What is wrong with him?!
+Dialogue: 0,0:01:35.22,0:01:37.31,Chn,,0,0,0,,他长大了, Randy.\N{\rEng}Well, he's just getting older, Randy.
+Dialogue: 0,0:01:37.36,0:01:40.86,Chn,,0,0,0,,也许他已经知道了复活节兔子不是真的\N{\rEng}Maybe he figured out the Easter bunny isn't real.
+Dialogue: 0,0:01:43.81,0:01:45.41,Chn,,0,0,0,,你一无所知!\N{\rEng}You know so little!
+Dialogue: 0,0:01:47.11,0:01:50.19,Chn,,0,0,0,,{\i1\i0}\N{\rEng}{\i1\i0}
+Dialogue: 0,0:01:50.65,0:01:53.00,Chn,,0,0,0,,复活节我想要个Baltor玩具兵\N{\rEng}And I want a Baltor soldier doll for Easter,
+Dialogue: 0,0:01:53.12,0:01:55.90,Chn,,0,0,0,,和5辆 Crash'n'Go RC小汽车, 你听懂了没?!\N{\rEng}and five Crash'n'Go RC cars, you got that?!
+Dialogue: 0,0:01:55.95,0:01:56.80,Chn,,0,0,0,,你能办到吗?!\N{\rEng}Do you HAVE that?!
+Dialogue: 0,0:01:56.86,0:01:59.99,Chn,,0,0,0,,- 啊啊, 你不觉得这有点太- - 不不! 你不能问我问题!\N{\rEng}- Ahh, don't you think that's- - Nono! You don't ask me questions!
+Dialogue: 0,0:02:00.04,0:02:01.95,Chn,,0,0,0,,你是兔子! 我是人.\N{\rEng}You are a rabbit! I am a human.
+Dialogue: 0,0:02:02.00,0:02:05.59,Chn,,0,0,0,,如果复活节你不能给我这些 我就宰了你!\N{\rEng}So if you don't bring me what I want for Easter, I can fucking kill you!
+Dialogue: 0,0:02:05.64,0:02:06.79,Chn,,0,0,0,,笑!\N{\rEng}Smile!
+Dialogue: 0,0:02:08.11,0:02:09.89,Chn,,0,0,0,,88, 复活节兔子!\N{\rEng}Bye, Easter bunny!
+Dialogue: 0,0:02:09.94,0:02:11.09,Chn,,0,0,0,,噢 上帝.\N{\rEng}Oh My God.
+Dialogue: 0,0:02:11.76,0:02:13.76,Chn,,0,0,0,,那么, 你能不能解释下这到底怎么回事?\N{\rEng}All right, can you explain to me what's going on?
+Dialogue: 0,0:02:13.81,0:02:14.57,Chn,,0,0,0,,啊?\N{\rEng}Huh?
+Dialogue: 0,0:02:14.57,0:02:17.15,Chn,,0,0,0,,给蛋涂颜色然后你把它们藏起来\N{\rEng}What is the deal with the coloring the eggs and you hiding them and all that?
+Dialogue: 0,0:02:17.20,0:02:20.15,Chn,,0,0,0,,这些和耶稣死在十字架上有什么关系?\N{\rEng}What does that have to do with Jesus dying on the Cross?
+Dialogue: 0,0:02:20.45,0:02:21.62,Chn,,0,0,0,,有象征意义吗?\N{\rEng}It is symbolic?
+Dialogue: 0,0:02:21.67,0:02:24.73,Chn,,0,0,0,,你是不是在暗示圣经里的故事?\N{\rEng}Are you trying to reference something that happened in Biblical times?
+Dialogue: 0,0:02:24.78,0:02:25.73,Chn,,0,0,0,,回答我!\N{\rEng}Answer me!
+Dialogue: 0,0:02:26.35,0:02:29.05,Chn,,0,0,0,,你看, 孩子 恩, 我,我只不过是个演员.\N{\rEng}Look, kid ahh, I'm j-, I'm just a guy in a costume.
+Dialogue: 0,0:02:29.10,0:02:30.10,Chn,,0,0,0,,我知道!\N{\rEng}I know that!
+Dialogue: 0,0:02:30.15,0:02:32.35,Chn,,0,0,0,,但是我觉得你应该知道一些复活节的事情\N{\rEng}But I figure you must have some knowledge of what Easter's about
+Dialogue: 0,0:02:32.36,0:02:34.92,Chn,,0,0,0,,因为你在这商场里表演复活节兔子!\N{\rEng}if you're playing the Easter Bunny at the mall!
+Dialogue: 0,0:02:34.97,0:02:37.58,Chn,,0,0,0,,复活节就是复活节. 一个节日而已,孩子.\N{\rEng}Easter's just Easter. Just, just go with it, kid.
+Dialogue: 0,0:02:37.63,0:02:41.78,Chn,,0,0,0,,不, 我不会就这么算了! 我要知道这背后到底有什么!\N{\rEng}NO, I'm not gonna just go with it! I'm gonna find out what's behind all this!
+Dialogue: 0,0:02:42.05,0:02:44.80,Chn,,0,0,0,,我想休息下. 可以吗?\N{\rEng}I need a break. Can I have a break?
+Dialogue: 0,0:02:49.91,0:02:51.56,Chn,,0,0,0,,出事了.\N{\rEng}We have a problem.
+Dialogue: 0,0:02:52.28,0:02:54.32,Chn,,0,0,0,,有人要调查我们.\N{\rEng}Somebody's onto us.
+Dialogue: 0,0:02:54.37,0:02:56.62,Chn,,0,0,0,,是的, 他问了许多问题.\N{\rEng}Yeah, he's askin' a lot of questions.
+Dialogue: 0,0:02:57.19,0:03:01.69,Chn,,0,0,0,,他能不能找到复活节的秘密只是个时间问题了.\N{\rEng}Only a matter of time before he finds out what Easter's really about.
+Dialogue: 0,0:03:01.81,0:03:04.31,Chn,,0,0,0,,好, 我明白要干什么.\N{\rEng}Yes, I understand what must be done.
+Dialogue: 0,0:03:05.05,0:03:06.50,Chn,,0,0,0,,通知其他人.\N{\rEng}Call the others.
+Dialogue: 0,0:03:13.92,0:03:20.00,Chn,,0,0,0,,{\i1\i0}\N{\rEng}{\i1\i0}
+Dialogue: 0,0:03:47.35,0:03:48.55,Chn,,0,0,0,,妈? 爸?\N{\rEng}Mom? Dad?
+Dialogue: 0,0:03:50.27,0:03:51.68,Chn,,0,0,0,,有人在家吗??\N{\rEng}Anybody home??
+Dialogue: 0,0:03:51.68,0:03:54.57,Chn,,0,0,0,,等会, Stanley, 我在厕所!\N{\rEng}Not now, Stanley, I'm on the toilet!
+Dialogue: 0,0:03:54.68,0:03:58.38,Chn,,0,0,0,,- 爸! 救救我! - 等会, 我在大便.\N{\rEng}- Dad! You've gotta help me! - Hang on, I'm taking a crap.
+Dialogue: 0,0:03:58.46,0:04:00.33,Chn,,0,0,0,,爸! 复活节兔子在追我!\N{\rEng}Dad! There's Easter bunnies chasing me!
+Dialogue: 0,0:04:00.38,0:04:01.13,Chn,,0,0,0,,什么?\N{\rEng}What?
+Dialogue: 0,0:04:01.14,0:04:03.74,Chn,,0,0,0,,他们从商场一直追到这里! 我不知道他们要干什么\N{\rEng}They chased me from the mall! I don't know what they want!
+Dialogue: 0,0:04:03.74,0:04:06.09,Chn,,0,0,0,,他们进来了! 爸, 开门!\N{\rEng}They're coming in! Dad, open the DOOR!
+Dialogue: 0,0:04:10.78,0:04:11.63,Chn,,0,0,0,,Dad??
+Dialogue: 0,0:04:12.08,0:04:14.47,Chn,,0,0,0,,我们...得谈谈, Stan.\N{\rEng}We... need to talk, Stan.
+Dialogue: 0,0:04:15.51,0:04:17.08,Chn,,0,0,0,,没事了,兄弟们\N{\rEng}Ih, it's okay guys.
+Dialogue: 0,0:04:17.94,0:04:19.39,Chn,,0,0,0,,- Randy? - 对.\N{\rEng}- Randy? - Yeah.
+Dialogue: 0,0:04:19.93,0:04:23.33,Chn,,0,0,0,,因为那孩子就是我儿子\N{\rEng}'Cause it turns out the kid we're after is my son.
+Dialogue: 0,0:04:23.64,0:04:24.89,Chn,,0,0,0,,哦.\N{\rEng}Ohhh.
+Dialogue: 0,0:04:25.43,0:04:27.88,Chn,,0,0,0,,告诉Grand 这里没事了.\N{\rEng}Tell the Grand Hare everything is okay.
+Dialogue: 0,0:04:28.60,0:04:30.40,Chn,,0,0,0,,我会搞定的.\N{\rEng}I'll take it from here.
+Dialogue: 0,0:04:31.52,0:04:33.47,Chn,,0,0,0,,我原本不想告诉你, Stan.\N{\rEng}I wanted to keep this from you, Stan.
+Dialogue: 0,0:04:34.02,0:04:36.49,Chn,,0,0,0,,我想等你长大些,但是...\N{\rEng}I really wanted to wait until you were older but...
+Dialogue: 0,0:04:36.50,0:04:38.55,Chn,,0,0,0,,你一直在纠缠那个问题!\N{\rEng}you just had to keep asking questions!
+Dialogue: 0,0:04:38.55,0:04:40.67,Chn,,0,0,0,,为什么这些人要追我?!\N{\rEng}Why were those other rabbit guys chasing me?!
+Dialogue: 0,0:04:40.67,0:04:43.74,Chn,,0,0,0,,我们以为有人在调查我们 我们必须得小心.\N{\rEng}We have to be careful when we think somebody's onto us.
+Dialogue: 0,0:04:43.79,0:04:46.85,Chn,,0,0,0,,我们属于一个秘密组织, Stan.\N{\rEng}We are all part of a secret society, Stan.
+Dialogue: 0,0:04:46.90,0:04:49.70,Chn,,0,0,0,,一个非常古老的,非常重要的组织\N{\rEng}A very ancient, very important society of men
+Dialogue: 0,0:04:49.75,0:04:54.33,Chn,,0,0,0,,沿着兔子的足迹, 守护着复活节兔子的秘密\N{\rEng}who follow the way of the Rabbit, and protect the secret of the Easter bunny.
+Dialogue: 0,0:04:54.67,0:04:57.67,Chn,,0,0,0,,我们称为野兔男俱乐部(the Hare Club For Men).\N{\rEng}We are called... the Hare Club For Men.
+Dialogue: 0,0:05:00.46,0:05:02.09,Chn,,0,0,0,,妈妈知道这个吗?\N{\rEng}Does Mom know about this?
+Dialogue: 0,0:05:02.14,0:05:05.28,Chn,,0,0,0,,不, 这是野兔"男"俱乐部. 女人们是不会明白的.\N{\rEng}Duh, it's the Hare Club For Men. Chicks wouldn't understand.
+Dialogue: 0,0:05:05.33,0:05:06.89,Chn,,0,0,0,,我也不明白!\N{\rEng}I don't understand!
+Dialogue: 0,0:05:06.94,0:05:10.69,Chn,,0,0,0,,我属于一个已经成立了上千年的秘密组织!\N{\rEng}I belong to a secret society that has been around for thousands of years!
+Dialogue: 0,0:05:10.74,0:05:12.79,Chn,,0,0,0,,我们不能透露身份!\N{\rEng}Our identities have to be protected!
+Dialogue: 0,0:05:12.87,0:05:14.94,Chn,,0,0,0,,你能,你能拿,拿掉耳朵吗?\N{\rEng}Could, could you, take off, the ears, please?
+Dialogue: 0,0:05:14.99,0:05:17.52,Chn,,0,0,0,,Stan, 你好象还没明白这事的严重性!\N{\rEng}Stan, you don't seem to understand how serious this is!
+Dialogue: 0,0:05:17.52,0:05:19.10,Chn,,0,0,0,,我们所守护的复活节秘密\N{\rEng}The secret of Easter that we protect
+Dialogue: 0,0:05:19.15,0:05:23.08,Chn,,0,0,0,,足可以颠覆整个世界!\N{\rEng}is something that could rock the foundation of the entire world!
+Dialogue: 0,0:05:23.19,0:05:24.97,Chn,,0,0,0,,那么复活节秘密是什么?\N{\rEng}So what is the secret of Easter?
+Dialogue: 0,0:05:25.02,0:05:29.47,Chn,,0,0,0,,我不能告诉你. 你必须先加入这个组织, 但是...\N{\rEng}I can't tell you. You have to be allowed into the Society first, but...
+Dialogue: 0,0:05:29.75,0:05:32.25,Chn,,0,0,0,,但是也许... 是时候了.\N{\rEng}but perhaps... it's time.
+Dialogue: 0,0:05:35.26,0:05:36.91,Chn,,0,0,0,,我早知道这一天会来的,\N{\rEng}I always knew this day would come,
+Dialogue: 0,0:05:36.91,0:05:39.51,Chn,,0,0,0,,我的儿子会加入这个组织\N{\rEng}when my son would be brought into the society.
+Dialogue: 0,0:05:39.56,0:05:41.83,Chn,,0,0,0,,这让我想起我父亲把我带进这个组织的那一天.\N{\rEng}Reminds me of the day I was brought in by my father.
+Dialogue: 0,0:05:41.83,0:05:44.22,Chn,,0,0,0,,- 爷爷也在里面? - 当然了.\N{\rEng}- Grandpa's in it too? - Of course.
+Dialogue: 0,0:05:44.27,0:05:47.15,Chn,,0,0,0,,Marshe家族在这里面已经有好几代人了.\N{\rEng}Marshes have been in the Hare Club For Men for generations.
+Dialogue: 0,0:05:47.20,0:05:48.75,Chn,,0,0,0,,现在又回到了起点.\N{\rEng}All the way back to the beginning.
+Dialogue: 0,0:05:48.86,0:05:51.35,Chn,,0,0,0,,爸, 我要一直戴着这个包吗?\N{\rEng}Dad, do I have to wear this bag over my head the entire time?
+Dialogue: 0,0:05:51.40,0:05:55.80,Chn,,0,0,0,,你现在还不是会员. 不能让你知道秘密会议的地点.\N{\rEng}You aren't a member yet. You can't know where our secret meetings take place.
+Dialogue: 0,0:05:55.85,0:05:57.93,Chn,,0,0,0,,我们要走好一段路\N{\rEng}We're going to a distant location,
+Dialogue: 0,0:05:57.98,0:06:00.71,Chn,,0,0,0,,一个湖旁的老房子,大概40分钟路程\N{\rEng}an old building near a lake about 40 minutes away.
+Dialogue: 0,0:06:00.76,0:06:03.96,Chn,,0,0,0,,你是说 old Galveston Lodge?\N{\rEng}You mean the old Galveston Lodge?
+Dialogue: 0,0:06:07.77,0:06:09.04,Chn,,0,0,0,,见鬼.\N{\rEng}Damnit.
+Dialogue: 0,0:06:13.24,0:06:14.84,Chn,,0,0,0,,- 嘿 Bill. - Evenin' Marcus.\N{\rEng}- Hey Bill. - Evenin' Marcus.
+Dialogue: 0,0:06:14.89,0:06:17.74,Chn,,0,0,0,,- 嘿嘿嘿, 看看你! - 大家好.\N{\rEng}- Heh heh hey, look at you! - Hey everybody.
+Dialogue: 0,0:06:20.83,0:06:23.83,Chn,,0,0,0,,Stan Marsh, 欢迎! 你肯定很兴奋.\N{\rEng}Stan Marsh, welcome! You must be very excited.
+Dialogue: 0,0:06:24.67,0:06:25.66,Chn,,0,0,0,,我肯定?\N{\rEng}Must I?
+Dialogue: 0,0:06:25.71,0:06:28.29,Chn,,0,0,0,,他来了! 那是我孙子!\N{\rEng}There he is! There's my grandson!
+Dialogue: 0,0:06:28.53,0:06:31.32,Chn,,0,0,0,,- 嗨 爷爷. - 我为你骄傲, Billy.\N{\rEng}- Hi Grandpa. - I'm proud of ya, Billy.
+Dialogue: 0,0:06:31.37,0:06:32.17,Chn,,0,0,0,,...我是Stan.\N{\rEng}...Stan.
+Dialogue: 0,0:06:53.11,0:06:57.61,Chn,,0,0,0,,今晚,我们要决定一个新成员 能不能守护这个秘密\N{\rEng}Tonight, we determine if a new member is worthy of protecting the Secret.
+Dialogue: 0,0:06:58.48,0:07:00.79,Chn,,0,0,0,,有请... 兔子.\N{\rEng}Bring out... the rabbit.
+Dialogue: 0,0:07:01.51,0:07:08.18,Chn,,0,0,0,,Sanctum Piter oteum, Deus ore uneum.\N{\rEng}Sanctum Piter oteum, Deus ore uneum.
+Dialogue: 0,0:07:08.23,0:07:13.02,Chn,,0,0,0,,Hippitus hoppitus reus homine.\N{\rEng}Hippitus hoppitus reus homine.
+Dialogue: 0,0:07:13.07,0:07:19.58,Chn,,0,0,0,,In suspiratoreum, lepus in re sanctum.\N{\rEng}In suspiratoreum, lepus in re sanctum.
+Dialogue: 0,0:07:19.63,0:07:25.38,Chn,,0,0,0,,Hippitus hoppitus Deus Domine.\N{\rEng}Hippitus hoppitus Deus Domine.
+Dialogue: 0,0:07:30.69,0:07:33.52,Chn,,0,0,0,,向可爱的兔子下跪,雪球!\N{\rEng}All hail the cute rabbit, Snowball!
+Dialogue: 0,0:07:33.57,0:07:35.48,Chn,,0,0,0,,雪球万岁.\N{\rEng}Hail Snowball.
+Dialogue: 0,0:07:35.53,0:07:36.85,Chn,,0,0,0,,Stan Marsh,\N{\rEng}Stan Marsh,
+Dialogue: 0,0:07:37.24,0:07:40.10,Chn,,0,0,0,,你准备好了来听复活节的秘密了吗?\N{\rEng}are you ready to hear the secret of Easter?
+Dialogue: 0,0:07:40.54,0:07:42.55,Chn,,0,0,0,,- 是的. - 你肯定, 孩子?\N{\rEng}- Yeah. - Are you sure, son?
+Dialogue: 0,0:07:42.60,0:07:46.13,Chn,,0,0,0,,一旦你知道了秘密, 你将永远属于这个组织.\N{\rEng}Once you hear the secret, you will be bound to The Hare Club For Men forever.
+Dialogue: 0,0:07:46.18,0:07:47.83,Chn,,0,0,0,,是的, 我准备好了.\N{\rEng}Yeah, I wanna know already.
+Dialogue: 0,0:07:48.16,0:07:49.40,Chn,,0,0,0,,非常好.\N{\rEng}Very well.
+Dialogue: 0,0:07:49.45,0:07:53.10,Chn,,0,0,0,,最后的晚餐,上帝召见了他的12个门徒.\N{\rEng}At the Last Supper, Jesus Christ met with his 12 Disciples.
+Dialogue: 0,0:07:53.15,0:07:54.40,Chn,,0,0,0,,就在那一刻\N{\rEng}It was there that-
+Dialogue: 0,0:07:57.64,0:08:00.79,Chn,,0,0,0,,- 他们来了! - 保护雪球!\N{\rEng}- They found us! - Protect Snowball!
+Dialogue: 0,0:08:07.24,0:08:08.64,Chn,,0,0,0,,他们人太多了!\N{\rEng}They're everywhere!
+Dialogue: 0,0:08:17.77,0:08:19.67,Chn,,0,0,0,,来, 我们得离开这!\N{\rEng}Come on, we've gotta go!
+Dialogue: 0,0:08:22.10,0:08:24.25,Chn,,0,0,0,,Stan, 带上雪球快跑!\N{\rEng}Stan, take Snowball and get out of here!
+Dialogue: 0,0:08:24.30,0:08:27.05,Chn,,0,0,0,,- 往哪跑? - 快跑!!!\N{\rEng}- Where am I supposed to go? - JUST GET OUT OF HERE!!!
+Dialogue: 0,0:08:32.77,0:08:34.12,Chn,,0,0,0,,兔子哪去了?!\N{\rEng}Where is the rabbit?!
+Dialogue: 0,0:08:43.05,0:08:44.82,Chn,,0,0,0,,你带我们去哪??\N{\rEng}Where are you taking us??
+Dialogue: 0,0:08:45.17,0:08:47.07,Chn,,0,0,0,,不! 我哪也不去!\N{\rEng}No! I'm not goin' anywhere!
+Dialogue: 0,0:08:50.59,0:08:51.74,Chn,,0,0,0,,上帝啊!\N{\rEng}Jesus Christ!
+Dialogue: 0,0:08:52.77,0:08:54.67,Chn,,0,0,0,,你把兔子给谁了?!\N{\rEng}Who did you give the rabbit to?!
+Dialogue: 0,0:08:57.80,0:09:01.15,Chn,,0,0,0,,搜查这里! 那孩子走不了多远!\N{\rEng}Search the area! The boy could not have gotten far!
+Dialogue: 0,0:09:01.49,0:09:02.39,Chn,,0,0,0,,噢 不...\N{\rEng}Oh no...
+Dialogue: 0,0:09:17.04,0:09:18.04,Chn,,0,0,0,,救命.\N{\rEng}Help.
+Dialogue: 0,0:09:18.58,0:09:19.74,Chn,,0,0,0,,怎么了?\N{\rEng}What happened?
+Dialogue: 0,0:09:19.79,0:09:22.63,Chn,,0,0,0,,我爸在一个叫"野兔男俱乐部"的组织里\N{\rEng}My Dad's in a rabbit-worshiping cult called the Hare Club For Men
+Dialogue: 0,0:09:22.63,0:09:25.31,Chn,,0,0,0,,他们守护着复活节的秘密 但是就在他们要告诉我这秘密的时候\N{\rEng}they protect the secret of Easter but before they said what it was
+Dialogue: 0,0:09:25.31,0:09:27.83,Chn,,0,0,0,,有一群忍者闯了进来 他们要我带走雪球.\N{\rEng}they were attacked by ninjas and put me in charge of Snowball.
+Dialogue: 0,0:09:29.28,0:09:31.64,Chn,,0,0,0,,...我正在玩手指涂鸦.\N{\rEng}...I'm kind of fingerpainting right now.
+Dialogue: 0,0:09:31.69,0:09:34.86,Chn,,0,0,0,,兄弟, 他们抓了我爸. 他们还杀了几个人.\N{\rEng}Dude, they took my Dad away. They even shot one of his fellow hares.
+Dialogue: 0,0:09:34.86,0:09:36.50,Chn,,0,0,0,,而且现在他们在追我!\N{\rEng}And now they're after me!
+Dialogue: 0,0:09:36.51,0:09:37.69,Chn,,0,0,0,,你知道复活节吗?\N{\rEng}Do you know anything about Easter?
+Dialogue: 0,0:09:37.69,0:09:40.53,Chn,,0,0,0,,耶稣,兔子,彩蛋这之间到底有什么联系?\N{\rEng}What is the connection between Jesus and rabbits and colored eggs?
+Dialogue: 0,0:09:41.67,0:09:44.17,Chn,,0,0,0,,兄弟, 我信犹太教的. 我不知道.\N{\rEng}Dude, I'm Jewish. I have no idea.
+Dialogue: 0,0:09:51.74,0:09:52.64,Chn,,0,0,0,,Nelson.\N{\rEng}Nelson.
+Dialogue: 0,0:09:54.45,0:09:56.60,Chn,,0,0,0,,Nelson? Nelson, 回答我.\N{\rEng}Nelson? Nelson, say something.
+Dialogue: 0,0:09:56.65,0:09:59.88,Chn,,0,0,0,,我的腿. 可能断了.\N{\rEng}My legs. I... I think they're broken.
+Dialogue: 0,0:10:00.18,0:10:02.94,Chn,,0,0,0,,Nelson, 你知道我们在哪吗? 他们把我们带到哪了?\N{\rEng}Nelson, do you know where we are? Where did they take us?
+Dialogue: 0,0:10:02.99,0:10:07.99,Chn,,0,0,0,,不知道... 我们走了好几个小时... 一路都是黑的 ...\N{\rEng}Don't know... we traveled for hours... kept blacking out...
+Dialogue: 0,0:10:13.43,0:10:14.28,Chn,,0,0,0,,你...\N{\rEng}You...
+Dialogue: 0,0:10:19.24,0:10:22.94,Chn,,0,0,0,,嗨, 我们想和Teabag教授谈谈\N{\rEng}Hi, we'd like to speak to a Professor Teabag?
+Dialogue: 0,0:10:23.45,0:10:26.40,Chn,,0,0,0,,- 谈什么? - 复活节的历史.\N{\rEng}- What is it in regard to? - The history of Easter.
+Dialogue: 0,0:10:27.22,0:10:31.57,Chn,,0,0,0,,抱歉孩子们, 现在上课有点迟了.\N{\rEng}Sorry boys, it's a little late for me to be giving lectures.
+Dialogue: 0,0:10:31.66,0:10:35.56,Chn,,0,0,0,,求您了? 你知道野兔男俱乐部吗?\N{\rEng}Please? Do you know anything about the Hare Club For Men?
+Dialogue: 0,0:10:37.50,0:10:40.88,Chn,,0,0,0,,守护者? 秘密的守护者?\N{\rEng}The Keepers? The Guardians of the Secret?
+Dialogue: 0,0:10:41.22,0:10:44.10,Chn,,0,0,0,,我爸是. 这只... 兔子也是.\N{\rEng}My Dad is in it. This... rabbit is too somehow.
+Dialogue: 0,0:10:44.15,0:10:45.20,Chn,,0,0,0,,进来吧.\N{\rEng}Come on in.
+Dialogue: 0,0:10:47.83,0:10:51.12,Chn,,0,0,0,,野兔男俱乐部已经有几个世纪了.\N{\rEng}The Hare Club For Men has been around for centuries.
+Dialogue: 0,0:10:51.17,0:10:54.67,Chn,,0,0,0,,其中最有名的成员是达芬奇(Leonardo da Vinci).\N{\rEng}One of its most famous members was Leonardo da Vinci.
+Dialogue: 0,0:10:57.52,0:10:58.97,Chn,,0,0,0,,看看<<最后的晚餐>>( the Last Supper).\N{\rEng}Behold the Last Supper.
+Dialogue: 0,0:10:59.37,0:11:03.61,Chn,,0,0,0,,在耶稣被钉死之前和他的门徒们的晚餐\N{\rEng}The dinner Christ had with his disciples the night before he was crucified.
+Dialogue: 0,0:11:03.90,0:11:06.54,Chn,,0,0,0,,看看桌子上有什么食物?\N{\rEng}What food do you see on the table?
+Dialogue: 0,0:11:06.59,0:11:08.56,Chn,,0,0,0,,- 只有面包... - 真的?\N{\rEng}- Just bread... - Really?
+Dialogue: 0,0:11:09.09,0:11:10.72,Chn,,0,0,0,,看看耶稣的右边.\N{\rEng}Look to Jesus' right.
+Dialogue: 0,0:11:10.77,0:11:14.07,Chn,,0,0,0,,这个东西和其他的颜色有点不同.\N{\rEng}The food which is a little different color than the others.
+Dialogue: 0,0:11:15.03,0:11:17.44,Chn,,0,0,0,,有点象... 鸡蛋.\N{\rEng}It kind of looks like... an egg.
+Dialogue: 0,0:11:17.91,0:11:20.31,Chn,,0,0,0,,是的. 鸡蛋暗示了秘密.\N{\rEng}Yes. The egg marks the secret.
+Dialogue: 0,0:11:20.65,0:11:23.67,Chn,,0,0,0,,它就放在Saint Peter的正前方.\N{\rEng}It lies directly in front of... Saint Peter.
+Dialogue: 0,0:11:24.05,0:11:25.37,Chn,,0,0,0,,Saint Peter是谁?\N{\rEng}Who is Saint Peter?
+Dialogue: 0,0:11:25.42,0:11:28.11,Chn,,0,0,0,,他是耶稣的门徒, 第一个由耶稣指任为教皇的门徒\N{\rEng}He was the disciple that Jesus made into the first pope.
+Dialogue: 0,0:11:28.11,0:11:29.38,Chn,,0,0,0,,是的.\N{\rEng}Eggsactly.
+Dialogue: 0,0:11:29.96,0:11:32.81,Chn,,0,0,0,,但是这里有教会没有告诉你们的事.\N{\rEng}But there's something the Church didn't tell you.
+Dialogue: 0,0:11:32.86,0:11:35.81,Chn,,0,0,0,,实际上, Peter 根本就不是人.\N{\rEng}In actuality, Peter wasn't a man at all.
+Dialogue: 0,0:11:36.22,0:11:39.05,Chn,,0,0,0,,Saint Peter... 是一只兔子.\N{\rEng}Saint Peter... was a rabbit.
+Dialogue: 0,0:11:40.99,0:11:42.16,Chn,,0,0,0,,Peter 兔.\N{\rEng}Peter Rabbit.
+Dialogue: 0,0:11:42.21,0:11:45.25,Chn,,0,0,0,,当然, 教会不会让达芬奇把他画成一只兔子\N{\rEng}Of course, the Church wouldn't allow da Vinci to paint Peter as a rabbit,
+Dialogue: 0,0:11:45.30,0:11:49.65,Chn,,0,0,0,,所以把他画成了一个人, 但是留下了线索. 看近点.\N{\rEng}so he painted him as a man, but left clues. Look closely.
+Dialogue: 0,0:11:49.99,0:11:52.64,Chn,,0,0,0,,- 我没看见. - 再看近点.\N{\rEng}- I don't see it. - Look closelier.
+Dialogue: 0,0:11:53.60,0:11:57.41,Chn,,0,0,0,,- 他看起来象是个人. - 再看近点.\N{\rEng}- He looks like a guy. - Look more closelier.
+Dialogue: 0,0:12:00.63,0:12:03.26,Chn,,0,0,0,,使用激光技术 我们可以看到画下面的东西,\N{\rEng}With laser technology we can look beneath the paint,
+Dialogue: 0,0:12:03.31,0:12:06.01,Chn,,0,0,0,,达芬奇最先画上去的东西.\N{\rEng}the way da Vinci originally painted it.
+Dialogue: 0,0:12:08.62,0:12:10.66,Chn,,0,0,0,,这就是...Saint Peter.\N{\rEng}That... is Saint Peter.
+Dialogue: 0,0:12:11.35,0:12:13.90,Chn,,0,0,0,,基督教的第一个教皇.\N{\rEng}The original Pope of Christianity.
+Dialogue: 0,0:12:14.00,0:12:15.25,Chn,,0,0,0,,我不信.\N{\rEng}I don't believe it.
+Dialogue: 0,0:12:15.57,0:12:18.81,Chn,,0,0,0,,证据很多. 看看教皇的帽子 看起来一点也不合适\N{\rEng}Proof is everywhere. Look at the Pope's hat. It makes no sense,
+Dialogue: 0,0:12:18.86,0:12:22.41,Chn,,0,0,0,,除非它是为兔子设计的 就好看多了\N{\rEng}except that it was originally designed... for a rabbit.
+Dialogue: 0,0:12:22.92,0:12:25.38,Chn,,0,0,0,,但是为什么耶稣会让兔子来管理教会?\N{\rEng}But why would Jesus want a rabbit to run his church?
+Dialogue: 0,0:12:25.43,0:12:27.67,Chn,,0,0,0,,因为耶稣知道所有教会里的人\N{\rEng}Because Jesus knew no one man
+Dialogue: 0,0:12:27.72,0:12:29.85,Chn,,0,0,0,,都不可能没有私心.\N{\rEng}could speak for everyone in a religion.
+Dialogue: 0,0:12:29.90,0:12:32.88,Chn,,0,0,0,,人类很自私; 兔子则不会.\N{\rEng}Men can be intolerant; rabbits are pure.
+Dialogue: 0,0:12:32.93,0:12:36.12,Chn,,0,0,0,,但是天主教掩埋了真相, 用一个人替换了兔子\N{\rEng}But the Catholic Church buried the truth, put a man in charge,
+Dialogue: 0,0:12:36.17,0:12:39.03,Chn,,0,0,0,,然后野兔男俱乐部从此开始涂蛋\N{\rEng}and the Hare Club For Men has been decorating eggs ever since
+Dialogue: 0,0:12:39.08,0:12:42.35,Chn,,0,0,0,,为了让秘密在达芬奇的画中延续.\N{\rEng}to keep the secret in da Vinci's painting alive.
+Dialogue: 0,0:12:42.40,0:12:45.80,Chn,,0,0,0,,所以梵蒂冈抓了Stan的爸爸?\N{\rEng}So... the Vatican took Stan's dad?
+Dialogue: 0,0:12:53.46,0:12:57.79,Chn,,0,0,0,,你怎么可以告诉人们St. Peter是一只兔子\N{\rEng}You dare to mock God by telling people St. Peter was a rabbit?
+Dialogue: 0,0:12:57.84,0:13:01.29,Chn,,0,0,0,,你这怪物! 你无权戴这个帽子!\N{\rEng}You monster! You have no right to wear that hat!
+Dialogue: 0,0:13:01.34,0:13:05.03,Chn,,0,0,0,,说St. Peter是兔子是对神的亵渎!\N{\rEng}Trying to tell people that St. Peter was a rabbit is blasphemy!
+Dialogue: 0,0:13:05.47,0:13:08.68,Chn,,0,0,0,,你必须认罪,否则你将在地狱被烧死!\N{\rEng}You must admit you are wrong or burn in hell!
+Dialogue: 0,0:13:08.73,0:13:10.57,Chn,,0,0,0,,说耶稣让兔子管理教会\N{\rEng}It's saying stupid things like that
+Dialogue: 0,0:13:10.57,0:13:12.99,Chn,,0,0,0,,是一件很蠢的事.\N{\rEng}that made Jesus wanna put a rabbit in charge.
+Dialogue: 0,0:13:13.04,0:13:15.41,Chn,,0,0,0,,很抱歉我没能给您抓到兔子,教皇殿下\N{\rEng}I'm sorry I couldn't bring you the rabbit, Your Holiness,
+Dialogue: 0,0:13:15.41,0:13:17.02,Chn,,0,0,0,,但是他们知道在哪!\N{\rEng}but they know where it is!
+Dialogue: 0,0:13:17.07,0:13:20.01,Chn,,0,0,0,,你们那只叫雪球的兔子对基督教是个威胁\N{\rEng}The rabbit you call Snowball is a threat to Christ's Church.
+Dialogue: 0,0:13:20.01,0:13:21.63,Chn,,0,0,0,,它在哪?!\N{\rEng}Where is the rabbit?!
+Dialogue: 0,0:13:22.06,0:13:25.43,Chn,,0,0,0,,我不知道!而且就算我知道...\N{\rEng}I don't know! And even if I did know...
+Dialogue: 0,0:13:25.48,0:13:28.67,Chn,,0,0,0,,呃, 我应该会告诉你们 因为我不想再待在这里了.\N{\rEng}well, I'd probably tell you because I don't wanna be here anymore.
+Dialogue: 0,0:13:28.72,0:13:32.44,Chn,,0,0,0,,- 带他去用刑! - 用刑, 呃, 但是 Bill,\N{\rEng}- Take him to be tortured! - Tortured, huh, but Bill,
+Dialogue: 0,0:13:32.49,0:13:36.65,Chn,,0,0,0,,所有这些事...用刑,忍者 看起来好象不是基督教的做法\N{\rEng}all this... torturing and ninjas, it just doesn't seem very Christian.
+Dialogue: 0,0:13:36.70,0:13:39.26,Chn,,0,0,0,,是你在请求美国天主教联盟的帮助\N{\rEng}You asked for the help of the American Catholic League,
+Dialogue: 0,0:13:39.31,0:13:41.72,Chn,,0,0,0,,交给我们来干! 带走他!\N{\rEng}let us do our job! Take him!
+Dialogue: 0,0:13:41.77,0:13:45.94,Chn,,0,0,0,,不! 不, 你这个兔崽子! 别动我!\N{\rEng}No! No, you bunny-hating bastards! Don't do this!
+Dialogue: 0,0:13:48.48,0:13:52.23,Chn,,0,0,0,,我不明白. 为什么教皇抓我爸当人质?\N{\rEng}I don't get it. Why would the pope be holding my Dad hostage for Snowball?
+Dialogue: 0,0:13:52.28,0:13:56.05,Chn,,0,0,0,,我认为雪球一定是St. Peter的后代\N{\rEng}I believe Snowball must be a direct descendant of St. Peter himself,
+Dialogue: 0,0:13:56.10,0:13:58.69,Chn,,0,0,0,,而且是教皇皇位的真正继承人\N{\rEng}and therefor the true heir of the pope's throne.
+Dialogue: 0,0:14:03.17,0:14:04.88,Chn,,0,0,0,,Mr. Teabag! 快走!\N{\rEng}Mr. Teabag! Get out!
+Dialogue: 0,0:14:06.77,0:14:09.82,Chn,,0,0,0,,- 他们来了! - 孩子们, 快跑!\N{\rEng}- They found me! - Boys, get out of here!
+Dialogue: 0,0:14:10.86,0:14:13.98,Chn,,0,0,0,,跑到树林去! 我会给你们争取些时间.\N{\rEng}Head to the woods! I'll try to buy you some time.
+Dialogue: 0,0:14:14.03,0:14:15.44,Chn,,0,0,0,,检查楼上!\N{\rEng}Check upstairs!
+Dialogue: 0,0:14:15.49,0:14:17.08,Chn,,0,0,0,,{\i1\i0}\N{\rEng}{\i1\i0}
+Dialogue: 0,0:14:18.13,0:14:20.73,Chn,,0,0,0,,楼上clear! 检查办公室!\N{\rEng}Upstairs clear! Try the office!
+Dialogue: 0,0:14:28.28,0:14:29.37,Chn,,0,0,0,,在这里!\N{\rEng}In here!
+Dialogue: 0,0:14:30.71,0:14:32.26,Chn,,0,0,0,,这是什么?\N{\rEng}What's that?
+Dialogue: 0,0:14:36.64,0:14:38.00,Chn,,0,0,0,,PEEEEPS!\N{\rEng}PEEEEPS!
+Dialogue: 0,0:14:44.56,0:14:46.10,Chn,,0,0,0,,现在怎么办?\N{\rEng}So what now?
+Dialogue: 0,0:14:46.15,0:14:47.90,Chn,,0,0,0,,如果教皇抓了我爸...\N{\rEng}If the pope has my Dad...
+Dialogue: 0,0:14:48.68,0:14:50.22,Chn,,0,0,0,,我只好给他想要的东西了.\N{\rEng}I have to give him what he wants.
+Dialogue: 0,0:14:50.27,0:14:52.02,Chn,,0,0,0,,你不是要把雪球给他们吧?\N{\rEng}You aren't just gonna hand Snowball over?
+Dialogue: 0,0:14:52.07,0:14:55.76,Chn,,0,0,0,,我有选择吗?! 没人可以帮我们!\N{\rEng}What choice do I have?! There's nobody left who can help us!
+Dialogue: 0,0:14:55.81,0:14:56.71,Chn,,0,0,0,,等等...\N{\rEng}Wait...
+Dialogue: 0,0:14:57.50,0:14:58.70,Chn,,0,0,0,,除非...\N{\rEng}unless...
+Dialogue: 0,0:14:59.19,0:15:01.04,Chn,,0,0,0,,也许.\N{\rEng}maybe there is.
+Dialogue: 0,0:15:01.79,0:15:03.12,Chn,,0,0,0,,来, 拿着.\N{\rEng}Here, hold this.
+Dialogue: 0,0:15:08.31,0:15:09.21,Chn,,0,0,0,,上帝,\N{\rEng}Jesus,
+Dialogue: 0,0:15:09.88,0:15:12.65,Chn,,0,0,0,,我知道我们很长时间没聊过了,\N{\rEng}I know we haven't talked in a long time,
+Dialogue: 0,0:15:12.70,0:15:16.42,Chn,,0,0,0,,而且每次总聊的我想杀了你, 但是...\N{\rEng}and I know that every time you appear we end up killing you somehow, but...
+Dialogue: 0,0:15:16.47,0:15:18.27,Chn,,0,0,0,,我不知道该怎么办.\N{\rEng}I don't know what to do.
+Dialogue: 0,0:15:18.37,0:15:20.87,Chn,,0,0,0,,你能帮我吗.\N{\rEng}And I could really use your help.
+Dialogue: 0,0:15:30.98,0:15:33.34,Chn,,0,0,0,,这兔子刚才在我衣服上拉屎了.\N{\rEng}I think the rabbit just crapped on my jacket.
+Dialogue: 0,0:15:34.47,0:15:38.99,Chn,,0,0,0,,狂欢吧,梵蒂冈 这是我们的复活节之夜.\N{\rEng}{\i1}Live, from the Vatican, it's our Easter Vigil coverage.{\i0}
+Dialogue: 0,0:15:39.50,0:15:44.11,Chn,,0,0,0,,神圣的星期六就要结束了, 梵蒂冈的复活节之夜开始了.\N{\rEng}As Holy Saturday comes to an end, the Easter vigil at the Vatican begins.
+Dialogue: 0,0:15:44.55,0:15:48.88,Chn,,0,0,0,,数千人来到这里会见教皇然后庆祝复活节\N{\rEng}Thousand have turned out to hear the Pope and celebrate the Resurrection.
+Dialogue: 0,0:15:48.93,0:15:52.32,Chn,,0,0,0,,在这个复活节之夜教皇也将展示他的仁慈\N{\rEng}For this Easter vigil the Pope is also showing his divine grace
+Dialogue: 0,0:15:52.37,0:15:56.12,Chn,,0,0,0,,施舍穷人食物, 一大锅的炖兔肉.\N{\rEng}by feeding the poor, with a massive rabbit stew.
+Dialogue: 0,0:15:57.35,0:15:58.33,Chn,,0,0,0,,不!\N{\rEng}NOOO!
+Dialogue: 0,0:15:58.60,0:16:00.12,Chn,,0,0,0,,不!别, 不要\N{\rEng}Noo! No, don't put m-
+Dialogue: 0,0:16:01.34,0:16:03.33,Chn,,0,0,0,,Bill, 做的太过头了.\N{\rEng}Bill, this seems extreme.
+Dialogue: 0,0:16:03.38,0:16:05.08,Chn,,0,0,0,,必须让那个带着雪球的孩子知道\N{\rEng}The child who has the rabbit has to know
+Dialogue: 0,0:16:05.13,0:16:08.48,Chn,,0,0,0,,如果他不把兔子给我们,我们就杀掉人质.\N{\rEng}that we are willing to kill the hostages if he doesn't hand it over.
+Dialogue: 0,0:16:08.53,0:16:11.68,Chn,,0,0,0,,教皇殿下, 有一个带着兔子的孩子求见!\N{\rEng}Your Holiness, a child has arrived witha the rabbit!
+Dialogue: 0,0:16:11.93,0:16:13.03,Chn,,0,0,0,,你看?\N{\rEng}Ya see?
+Dialogue: 0,0:16:15.95,0:16:17.22,Chn,,0,0,0,,噢 感谢上帝!\N{\rEng}Oh thank God!
+Dialogue: 0,0:16:17.27,0:16:20.32,Chn,,0,0,0,,给他们, Stan! 他们要杀我! 把兔子给他们!\N{\rEng}Hand it over, Stan! They're gonna kill me! Give them the rabbit!
+Dialogue: 0,0:16:20.37,0:16:21.82,Chn,,0,0,0,,是的,给我们!\N{\rEng}Yes, hand it over!
+Dialogue: 0,0:16:22.39,0:16:24.95,Chn,,0,0,0,,首先, 你得保证不会伤害它!\N{\rEng}First, you have to promise you won't hurt it!
+Dialogue: 0,0:16:24.96,0:16:26.76,Chn,,0,0,0,,还有你会放了所有人\N{\rEng}And that you'll let everybody go!
+Dialogue: 0,0:16:26.76,0:16:30.04,Chn,,0,0,0,,- 我们保证. - 我们发誓, 对着十字架发誓.\N{\rEng}- We promise. - We swear it, on the cross.
+Dialogue: 0,0:16:30.15,0:16:32.33,Chn,,0,0,0,,给他们兔子, STAN!!\N{\rEng}JUST HAND OVER THE BUNNY, STAN!!
+Dialogue: 0,0:16:32.38,0:16:33.83,Chn,,0,0,0,,好的, 好的.\N{\rEng}Okay, fine.
+Dialogue: 0,0:16:37.14,0:16:38.72,Chn,,0,0,0,,Stanley, 你干嘛那么做?\N{\rEng}Stanley, why did you do that?
+Dialogue: 0,0:16:38.77,0:16:40.76,Chn,,0,0,0,,我情愿为兔子死掉.\N{\rEng}I would have proudly died for that rabbit.
+Dialogue: 0,0:16:40.81,0:16:42.88,Chn,,0,0,0,,- 是你说 "给兔子"的 - 不!\N{\rEng}- You said "hand over the bunny." - No!
+Dialogue: 0,0:16:42.93,0:16:44.69,Chn,,0,0,0,,以后你得换个方式来回忆这事\N{\rEng}That is NOT the way we're remembering it!
+Dialogue: 0,0:16:44.69,0:16:46.49,Chn,,0,0,0,,带他们下去!\N{\rEng}Take them into custody!
+Dialogue: 0,0:16:46.55,0:16:48.04,Chn,,0,0,0,,嘿, 怎么回事!\N{\rEng}Hey, what the hell!
+Dialogue: 0,0:16:48.09,0:16:50.49,Chn,,0,0,0,,Bill, 我们得到兔子了, 不需要别的了.\N{\rEng}Bill, we have zeh rabbit, it's all we need.
+Dialogue: 0,0:16:50.49,0:16:52.23,Chn,,0,0,0,,别太软弱, 教皇殿下!\N{\rEng}Don't be soft, Your Holiness!
+Dialogue: 0,0:16:52.28,0:16:54.89,Chn,,0,0,0,,这些"异教徒"必须在众人面前接受惩罚!\N{\rEng}These "whores" must be punished in front of everyone!
+Dialogue: 0,0:16:54.94,0:16:57.01,Chn,,0,0,0,,你对着十字架发誓的, 混蛋!\N{\rEng}You swore on the cross, fatso!
+Dialogue: 0,0:16:57.06,0:16:59.33,Chn,,0,0,0,,是的. 但很不幸的是...\N{\rEng}Yeah. Too bad for you...
+Dialogue: 0,0:16:59.38,0:17:01.23,Chn,,0,0,0,,我有2个十字架!\N{\rEng}it was a double cross!
+Dialogue: 0,0:17:02.41,0:17:04.36,Chn,,0,0,0,,噢, 我们早该料到了!\N{\rEng}Oh, we should've seen that coming!
+Dialogue: 0,0:17:04.57,0:17:08.40,Chn,,0,0,0,,Bill, 恐怕2个十字架不是基督教的做法\N{\rEng}Bill, I'm not sure that double crossing people is very Christian.
+Dialogue: 0,0:17:08.45,0:17:10.80,Chn,,0,0,0,,就算是耶稣也会这么干的!\N{\rEng}IT IS WHAT CHRIST WOULD'VE WANTED!
+Dialogue: 0,0:17:10.94,0:17:13.22,Chn,,0,0,0,,谁让你这么说的?!\N{\rEng}Who are you to say that?!
+Dialogue: 0,0:17:16.70,0:17:18.53,Chn,,0,0,0,,不... 可能.\N{\rEng}It... can't be.
+Dialogue: 0,0:17:18.89,0:17:19.70,Chn,,0,0,0,,上帝!\N{\rEng}Jesus!
+Dialogue: 0,0:17:20.41,0:17:25.91,Chn,,0,0,0,,{\i1}	He is risen. He is risen.{\i0}\N{\rEng}{\i1}	He is risen. He is risen.{\i0}
+Dialogue: 0,0:17:26.22,0:17:31.70,Chn,,0,0,0,,{\i1}Let the voices sing his praises on this holy day.{\i0}\N{\rEng}{\i1}Let the voices sing his praises on this holy day.{\i0}
+Dialogue: 0,0:17:31.75,0:17:34.17,Chn,,0,0,0,,{\i1}He is risen!{\i0}\N{\rEng}{\i1}He is risen!{\i0}
+Dialogue: 0,0:17:34.22,0:17:37.37,Chn,,0,0,0,,上帝, 我们以为你死了. 在伊拉克.\N{\rEng}Jesus, we thought you died. In Iraq.
+Dialogue: 0,0:17:37.42,0:17:40.82,Chn,,0,0,0,,我有复活的本事. 你忘了吗?\N{\rEng}I have the power of resurrection. Or have you forgotten?
+Dialogue: 0,0:17:40.88,0:17:43.49,Chn,,0,0,0,,看起来你们忘记了很多事情.\N{\rEng}You all seem to have forgotten a lot of things.
+Dialogue: 0,0:17:43.54,0:17:45.22,Chn,,0,0,0,,上帝,你听到我的祈祷了!\N{\rEng}Jesus, you did answer my prayer!
+Dialogue: 0,0:17:45.27,0:17:47.96,Chn,,0,0,0,,事实上, 我听到的是Nick Donovan的祈祷.\N{\rEng}Actually, I was answering the prayer of Nick Donovan.
+Dialogue: 0,0:17:48.01,0:17:49.81,Chn,,0,0,0,,噢, 是我  太棒了!\N{\rEng}Ohh, that's me Neato!
+Dialogue: 0,0:17:49.96,0:17:53.75,Chn,,0,0,0,,这就是我让兔子管理教会的原因!\N{\rEng}This is exactly why I put a rabbit in charge of the Church, Benedictus!
+Dialogue: 0,0:17:53.80,0:17:56.50,Chn,,0,0,0,,人太容易走错路了.\N{\rEng}Because men are so easily led astray.
+Dialogue: 0,0:17:56.55,0:18:00.68,Chn,,0,0,0,,St. Peter 是一只兔子. 一只该当教皇的兔子.\N{\rEng}St. Peter was a rabbit. And a rabbit should be Pope.
+Dialogue: 0,0:18:02.38,0:18:03.95,Chn,,0,0,0,,- 杀了他! - 什么?!\N{\rEng}- Kill him! - WHAT?!
+Dialogue: 0,0:18:04.06,0:18:06.02,Chn,,0,0,0,,他反对教会. 他必须死!\N{\rEng}He goes against the Church. He must die!
+Dialogue: 0,0:18:06.02,0:18:07.22,Chn,,0,0,0,,好吧, 这样做的话, Bill.\N{\rEng}All right, that does it, Bill.
+Dialogue: 0,0:18:07.27,0:18:10.28,Chn,,0,0,0,,我很肯定杀了上帝不是基督教的做法.\N{\rEng}I'm pretty sure that killing Jesus is not very Christian.
+Dialogue: 0,0:18:10.33,0:18:14.63,Chn,,0,0,0,,你这懦夫! 你逼我的,抓住他们!\N{\rEng}You are soft! Weak! You leave me no choice: take them!
+Dialogue: 0,0:18:14.85,0:18:16.21,Chn,,0,0,0,,你干什么?!\N{\rEng}What are you doing?!
+Dialogue: 0,0:18:16.26,0:18:17.46,Chn,,0,0,0,,我是教皇!\N{\rEng}I am the Pope!
+Dialogue: 0,0:18:17.51,0:18:20.79,Chn,,0,0,0,,你可以下台了!\N{\rEng}You are no longer able to fulfill your duties to the Lord!
+Dialogue: 0,0:18:20.84,0:18:23.22,Chn,,0,0,0,,复活节之夜会照计划进行!\N{\rEng}The Easter vigil will go on as planned!
+Dialogue: 0,0:18:23.27,0:18:25.47,Chn,,0,0,0,,所有野兔男成员, 大人和小孩,\N{\rEng}Every Hare Club member, young and old,
+Dialogue: 0,0:18:25.52,0:18:28.30,Chn,,0,0,0,,会看着他们的救世主死掉!\N{\rEng}will watch as their precious savior dies!
+Dialogue: 0,0:18:28.35,0:18:30.15,Chn,,0,0,0,,你有毛病吗, 老兄?!\N{\rEng}What is your problem, guy?!
+Dialogue: 0,0:18:30.20,0:18:33.64,Chn,,0,0,0,,把这2个犹太人关起来! 等会处置他们.\N{\rEng}Lock up those two Jews! We'll deal with them later.
+Dialogue: 0,0:18:34.00,0:18:35.42,Chn,,0,0,0,,别! 别!\N{\rEng}No! No!
+Dialogue: 0,0:18:35.74,0:18:38.27,Chn,,0,0,0,,梵蒂冈发生了些奇怪的事\N{\rEng}A strange turn of events here at the Vatican:
+Dialogue: 0,0:18:38.32,0:18:40.48,Chn,,0,0,0,,教皇Benedictus退位了,\N{\rEng}Pope Benedictus has stepped down,
+Dialogue: 0,0:18:40.53,0:18:43.49,Chn,,0,0,0,,取而代之的是...新教皇Bill Donohue\N{\rEng}ushering the new era of... Pope Bill Donohue
+Dialogue: 0,0:18:44.02,0:18:45.16,Chn,,0,0,0,,我们的人民!\N{\rEng}My people!
+Dialogue: 0,0:18:45.23,0:18:48.43,Chn,,0,0,0,,我将以炖兔子肉开始复活节\N{\rEng}This Easter I'm gonna start by making our rabbit stew
+Dialogue: 0,0:18:48.48,0:18:50.48,Chn,,0,0,0,,大量的炖兔子肉!\N{\rEng}ten times meatier!
+Dialogue: 0,0:18:51.59,0:18:54.44,Chn,,0,0,0,,不!听我说! 我们不是兔子!\N{\rEng}No! Listen! We aren't rabbits!
+Dialogue: 0,0:18:57.38,0:18:58.93,Chn,,0,0,0,,原谅我, 上帝.\N{\rEng}Forgive me, Jesus.
+Dialogue: 0,0:18:59.05,0:19:00.97,Chn,,0,0,0,,我们来不及阻止他了!\N{\rEng}We'll never get out in time to stop him!
+Dialogue: 0,0:19:01.02,0:19:03.00,Chn,,0,0,0,,你没有什么超能力了吗?\N{\rEng}Don't you have any superpowers?
+Dialogue: 0,0:19:03.19,0:19:06.14,Chn,,0,0,0,,作为一个凡人我没有.除非我死了.\N{\rEng}Not as a mortal. Only in death.
+Dialogue: 0,0:19:06.31,0:19:07.81,Chn,,0,0,0,,等等. 有办法了.\N{\rEng}Wait. That's it.
+Dialogue: 0,0:19:08.58,0:19:11.63,Chn,,0,0,0,,我们没有选择了, Kyle. 你必须得杀了我.\N{\rEng}We have no choice, Kyle. You're going to have to kill me.
+Dialogue: 0,0:19:13.10,0:19:14.95,Chn,,0,0,0,,- 什么?? - 用这个捅我.\N{\rEng}- What?? - Stab me with this.
+Dialogue: 0,0:19:15.00,0:19:18.21,Chn,,0,0,0,,我死了就能在外面复活了.\N{\rEng}If I die I can resurrect outside the bars.
+Dialogue: 0,0:19:18.26,0:19:20.46,Chn,,0,0,0,,不行! 你自己捅.\N{\rEng}N-no way! Do it yourself.
+Dialogue: 0,0:19:20.51,0:19:23.64,Chn,,0,0,0,,自杀是一种亵渎. 没有选择了, Kyle!\N{\rEng}Suicide is blasphemy. There's no choice here, Kyle!
+Dialogue: 0,0:19:23.69,0:19:27.55,Chn,,0,0,0,,兄弟, 你不明白, 我是犹太人. 犹太人不能杀上帝.\N{\rEng}Dude, you don't understand, I'm a Jew. I have a few hangups about killing Jesus.
+Dialogue: 0,0:19:27.60,0:19:31.55,Chn,,0,0,0,,快点吧. 对着脖子捅. 我会马上复活的.\N{\rEng}Just make it quick. Through the neck. I'll arise again immediately.
+Dialogue: 0,0:19:32.47,0:19:33.71,Chn,,0,0,0,,别逼我.\N{\rEng}Don't make me do this.
+Dialogue: 0,0:19:33.71,0:19:36.21,Chn,,0,0,0,,孩子,没时间了! 捅!\N{\rEng}My son, there is no time! DO IT!
+Dialogue: 0,0:19:36.68,0:19:39.12,Chn,,0,0,0,,永远别让Eric Cartman 知道这个.\N{\rEng}Eric Cartman can never know about this.
+Dialogue: 0,0:19:39.17,0:19:41.46,Chn,,0,0,0,,我明白. 还有 Kyle,\N{\rEng}I understand. And Kyle,
+Dialogue: 0,0:19:41.89,0:19:44.64,Chn,,0,0,0,,- 复活节快乐. - 复活节快乐, 上帝.\N{\rEng}- happy Easter. - Happy Easter, Jesus.
+Dialogue: 0,0:19:59.48,0:20:00.33,Chn,,0,0,0,,...上帝?\N{\rEng}...Jesus?
+Dialogue: 0,0:20:01.29,0:20:05.96,Chn,,0,0,0,,看吧, 再也不会有复活节兔子和彩蛋了!\N{\rEng}Behold, no longer will Easter be about bunnies and colored eggs!
+Dialogue: 0,0:20:06.70,0:20:07.95,Chn,,0,0,0,,杀了这兔子!\N{\rEng}Kill the rabbit!
+Dialogue: 0,0:20:09.81,0:20:11.34,Chn,,0,0,0,,很遗憾, 小兔子.\N{\rEng}Sorry, little bunny.
+Dialogue: 0,0:20:12.94,0:20:14.24,Chn,,0,0,0,,雪球!\N{\rEng}Snowball!
+Dialogue: 0,0:20:21.13,0:20:22.03,Chn,,0,0,0,,上帝?\N{\rEng}Jesus?
+Dialogue: 0,0:20:22.22,0:20:23.17,Chn,,0,0,0,,别!\N{\rEng}Stop!
+Dialogue: 0,0:20:23.39,0:20:25.69,Chn,,0,0,0,,那兔子是圣灵的后代!\N{\rEng}That rabbit is of holy descent!
+Dialogue: 0,0:20:25.82,0:20:28.34,Chn,,0,0,0,,你就不能离远点?!\N{\rEng}Why won't you go away?!
+Dialogue: 0,0:20:28.56,0:20:31.81,Chn,,0,0,0,,教会不能只由一个人主宰!\N{\rEng}One man cannot be the voice of the Church!
+Dialogue: 0,0:20:31.94,0:20:35.10,Chn,,0,0,0,,我受够了这亵渎! 我现在是教皇!\N{\rEng}Enough of this blasphemy! I'm the Pope now!
+Dialogue: 0,0:20:35.42,0:20:38.67,Chn,,0,0,0,,我是上帝的代言人!!\N{\rEng}That means I am the voice of God!!
+Dialogue: 0,0:20:38.97,0:20:42.66,Chn,,0,0,0,,不再是了. 我要解雇你.\N{\rEng}Not anymore. I'm removing you from your position.
+Dialogue: 0,0:20:57.41,0:20:59.41,Chn,,0,0,0,,耶!!!\N{\rEng}YAAAY!!!
+Dialogue: 0,0:20:59.61,0:21:00.86,Chn,,0,0,0,,太棒了 上帝!\N{\rEng}All right Jesus!
+Dialogue: 0,0:21:04.68,0:21:11.27,Chn,,0,0,0,,{\i1}Sanctum Piter oteum, Deus ore uneum.{\i0}
+Dialogue: 0,0:21:11.32,0:21:16.39,Chn,,0,0,0,,{\i1}Hippitus hoppitus reus homine.{\i0}
+Dialogue: 0,0:21:16.63,0:21:18.01,Chn,,0,0,0,,教皇殿下,\N{\rEng}Your Holiness,
+Dialogue: 0,0:21:18.06,0:21:21.71,Chn,,0,0,0,,我们该如何告诉世人们怎样过好生活\N{\rEng}what should we tell the world about how to run their lives?
+Dialogue: 0,0:21:24.08,0:21:25.76,Chn,,0,0,0,,它不说话.\N{\rEng}It isn't saying anything.
+Dialogue: 0,0:21:25.81,0:21:28.67,Chn,,0,0,0,,是的, 就象上帝安排的那样.\N{\rEng}Yes, just as a-Jesus intended it.
+Dialogue: 0,0:21:31.26,0:21:33.10,Chn,,0,0,0,,Stanley, 我为你骄傲.\N{\rEng}Stanley, I'm so proud of you.
+Dialogue: 0,0:21:33.15,0:21:35.20,Chn,,0,0,0,,这个复活节你学到了不少东西.\N{\rEng}You've learned so very much this Easter.
+Dialogue: 0,0:21:35.20,0:21:37.08,Chn,,0,0,0,,是的. 我学会了不要问问题.\N{\rEng}Yeah. I've learned not to ask questions.
+Dialogue: 0,0:21:37.08,0:21:38.88,Chn,,0,0,0,,只管涂蛋,还有闭上我的嘴.\N{\rEng}Just dye the eggs and keep my mouth shut.
+Dialogue: 0,0:21:38.88,0:21:40.28,Chn,,0,0,0,,这才是我的儿子.\N{\rEng}That's my boy.
+Dialogue: 0,0:21:40.33,0:21:44.69,Chn,,0,0,0,,{\i1}Hippitus hoppitus Deus Domine.{\i0}

@@ -1,0 +1,394 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: South.Park.S11E02.Cartman.Sucks.1080p.BluRay.x264-SHORTBREHD
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 1916
+PlayResY: 1076
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,微软雅黑,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Git,Comic Sans MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Chn,微软雅黑,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,20,1
+Style: Eng,Comic Sans MS,60,&H002AF7FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.20,0:00:12.48,Chn,,0,0,0,,{\i1}我将去往南方公园 度过一段时光{\i0}\N{\rEng}{\i1}I'm going out to South Park gonna have myself a time{\i0}
+Dialogue: 0,0:00:12.54,0:00:15.80,Chn,,0,0,0,,{\i1}处处是无欲谦人 友善面庞{\i0}\N{\rEng}{\i1}Friendly faces everywhere humble folks without temptation{\i0}
+Dialogue: 0,0:00:15.83,0:00:19.14,Chn,,0,0,0,,{\i1}我将去往南方公园 远离我的悲伤{\i0}\N{\rEng}{\i1}I'm goin out to south park gonna leave my woes behind{\i0}
+Dialogue: 0,0:00:19.16,0:00:22.49,Chn,,0,0,0,,{\i1}日夜都有充足车位 邻居人人礼貌大方{\i0}\N{\rEng}{\i1}Ample parking day or night people spouting howdy neighbor{\i0}
+Dialogue: 0,0:00:22.52,0:00:25.68,Chn,,0,0,0,,{\i1}我将去往南方公园 试着放松一场{\i0}\N{\rEng}{\i1}I'm heading out to south park to see if i cant unwind{\i0}
+Dialogue: 0,0:00:25.71,0:00:29.04,Chn,,0,0,0,,{\i1}我爱女孩 大奶成双{\i0}\N{\rEng}{\i1}I like girls with big fat titties really big fat titties{\i0}
+Dialogue: 0,0:00:29.07,0:00:32.28,Chn,,0,0,0,,{\i1}快来南方公园吧 与我的朋友会一场{\i0}\N{\rEng}{\i1}So come on out to south park and meet some friends of mine{\i0}
+Dialogue: 0,0:00:33.57,0:00:34.57,Chn,,0,0,0,,{\i1} 南方公园 第11季第2集 "Cartman吸了（双关语：Cartman锉了）"{\i0}\N{\rEng}{\i1}Episode 11x02 "Cartman Sucks"{\i0}
+Dialogue: 0,0:00:35.81,0:00:38.57,Chn,,0,0,0,,这张照片我把它叫做"皮埃尔"\N{\rEng}This picture I like to call "The Pierre."
+Dialogue: 0,0:00:38.62,0:00:40.12,Chn,,0,0,0,,我邀请Butters来过夜\N{\rEng}I invited Butters to stay the night.
+Dialogue: 0,0:00:40.12,0:00:44.02,Chn,,0,0,0,,他睡着的时候 我用猫屎在他脸上做了胡子\N{\rEng}And while he was sleeping I made a mustache on his face with cat poo.
+Dialogue: 0,0:00:44.06,0:00:47.62,Chn,,0,0,0,,还有这次Butters过夜的时候 我把卫生棉棒塞到他嘴里\N{\rEng}And this time, when Butters stayed the night, I put a tampon in his mouth.
+Dialogue: 0,0:00:47.65,0:00:50.70,Chn,,0,0,0,,我把这幅叫做"沉睡月经"\N{\rEng}I call this picture "The Sleeping Menstrual."
+Dialogue: 0,0:00:51.87,0:00:54.42,Chn,,0,0,0,,这幅我叫做“星期一热软糖”\N{\rEng}This one, I call "Hot Fudge Mondae."
+Dialogue: 0,0:00:54.46,0:00:56.67,Chn,,0,0,0,,我特别喜欢这幅的背景光\N{\rEng}I really like how the light plays with the background on this one.
+Dialogue: 0,0:00:56.70,0:01:00.17,Chn,,0,0,0,,-你把我们喊过来就为看这个？ -哦 不 还有好多\N{\rEng}Is this all you brought us here to see? - Oh no, there's much more.
+Dialogue: 0,0:01:00.20,0:01:03.53,Chn,,0,0,0,,我们看看 哦 对了 看看这幅 我称之为“新月升起”\N{\rEng}Let's see. Oh yes, look at this one. I call it "New Moon Rising."
+Dialogue: 0,0:01:03.56,0:01:05.74,Chn,,0,0,0,,如何用屁股我可做了好多研究\N{\rEng}I did a whole study using my ass.
+Dialogue: 0,0:01:05.77,0:01:08.33,Chn,,0,0,0,,这副用的是高对比度\N{\rEng}Here it is using some high-contrast stuff.
+Dialogue: 0,0:01:08.36,0:01:11.27,Chn,,0,0,0,,试了不同的滤光器\N{\rEng}Trying out some different light filters here.
+Dialogue: 0,0:01:12.96,0:01:15.29,Chn,,0,0,0,,不过都不比上今天我计划做的\N{\rEng}But this is nothing compared to what I have planned.
+Dialogue: 0,0:01:15.32,0:01:18.40,Chn,,0,0,0,,因为今晚就是我的致命一击\N{\rEng}Because tonight is going to be my coup de grace.
+Dialogue: 0,0:01:18.43,0:01:20.41,Chn,,0,0,0,,-Butters今晚过来过夜？ -是的\N{\rEng}Butters is staying over tonight? - Yes.
+Dialogue: 0,0:01:20.42,0:01:23.25,Chn,,0,0,0,,今晚 当Butters睡着时 我将－\N{\rEng}And tonight, while Butters is asleep, I am going to-
+Dialogue: 0,0:01:23.25,0:01:25.08,Chn,,0,0,0,,嗨 伙计们\N{\rEng}Hey, fellas!
+Dialogue: 0,0:01:25.19,0:01:27.92,Chn,,0,0,0,,哦 嗨 Butters！我没想到你这么快\N{\rEng}Oh, oh hey, Butters! I wasn't expecting you so soon.
+Dialogue: 0,0:01:27.95,0:01:30.52,Chn,,0,0,0,,对 我做完家务 所以就早点过来了\N{\rEng}Yeah. I finished my chores so I came over a little early.
+Dialogue: 0,0:01:30.53,0:01:34.30,Chn,,0,0,0,,-嗨 你们都留下来过夜吗？ -不 不 这些家伙就走了\N{\rEng}Hey! Are you guys all sleeping over too? - No, no, these guys were just leaving.
+Dialogue: 0,0:01:34.33,0:01:36.72,Chn,,0,0,0,,伙计们 对吧？\N{\rEng}Weren't you guys?
+Dialogue: 0,0:01:36.76,0:01:38.80,Chn,,0,0,0,,快点 我们走吧\N{\rEng}Come on, let's go.
+Dialogue: 0,0:01:39.89,0:01:41.99,Chn,,0,0,0,,等等 我不能让这个发生\N{\rEng}Wait, wait, I can't let this happen.
+Dialogue: 0,0:01:42.03,0:01:44.39,Chn,,0,0,0,,-Butters -嗯 Kyle？\N{\rEng}Butters. - Yeah, Kyle?
+Dialogue: 0,0:01:44.42,0:01:48.19,Chn,,0,0,0,,你不觉得Cartman老是请你过夜有点奇怪吗？\N{\rEng}Don't you think it's a little strange that Cartman keeps asking you to stay over?
+Dialogue: 0,0:01:48.22,0:01:49.06,Chn,,0,0,0,,Kyle！\N{\rEng}Kyle!
+Dialogue: 0,0:01:49.07,0:01:50.97,Chn,,0,0,0,,-你是什么意思？ -我的意思是 如果－\N{\rEng}What do you mean? - I mean, that if-
+Dialogue: 0,0:01:50.98,0:01:54.44,Chn,,0,0,0,,他的意思就是 他嫉妒你取代他 成为我最好的朋友！\N{\rEng}What he means is that he's jealous that you've taken his place as my new best friend!
+Dialogue: 0,0:01:54.47,0:01:56.95,Chn,,0,0,0,,但是 成熟点吧 Kyle！ 变化是生活的一部分\N{\rEng}But grow up, Kyle! Change is a part of life.
+Dialogue: 0,0:01:56.97,0:01:59.46,Chn,,0,0,0,,对啊 成熟起来 Kyle\N{\rEng}Yeah, grow up, Kyle.
+Dialogue: 0,0:02:01.26,0:02:04.79,Chn,,0,0,0,,Eric 你想先做什么？ 你想玩游戏还是聊会儿天？\N{\rEng}So what do you wanna do first, Eric? You wanna play a game or just chitchat for a while?
+Dialogue: 0,0:02:04.82,0:02:07.16,Chn,,0,0,0,,嗯 其实 Butters 我想我们不如早点上床\N{\rEng}Well actually, Butters, I think we'd better hit the hay pretty soon.
+Dialogue: 0,0:02:07.18,0:02:10.47,Chn,,0,0,0,,-但是 这才6点半 -对 我累死了\N{\rEng}But, it's only 6:30. - Yeah, and I'm exhausted.
+Dialogue: 0,0:02:10.50,0:02:14.66,Chn,,0,0,0,,如果你还不困 我有夜间感冒药你可以喝\N{\rEng}If you are not sleepy yet, I have some more of that nighttime cold medicine you can drink.
+Dialogue: 0,0:02:17.67,0:02:20.34,Chn,,0,0,0,,伙计们 我搞到了 是真的\N{\rEng}You guys! I got it! It seriously!
+Dialogue: 0,0:02:20.37,0:02:22.91,Chn,,0,0,0,,这是最伟大的照片！哦老天呐！\N{\rEng}It's the greatest picture ever! Oh my God!
+Dialogue: 0,0:02:22.94,0:02:25.70,Chn,,0,0,0,,-这次Butters做什么了？ -这是天才之作\N{\rEng}What'cha do to Butters this time? - It was genius!
+Dialogue: 0,0:02:25.74,0:02:27.91,Chn,,0,0,0,,我等到他睡熟了 对吧？\N{\rEng}I waited till he was totally asleep, right?
+Dialogue: 0,0:02:27.94,0:02:30.94,Chn,,0,0,0,,然后我拿出照相机 脱下他裤子\N{\rEng}And then I got my camera and I pulled down his pants
+Dialogue: 0,0:02:30.97,0:02:34.90,Chn,,0,0,0,,然后我拍了张他小鸡鸡在我嘴里的照片\N{\rEng}and then I took a picture of his wiener in my mouth!
+Dialogue: 0,0:02:36.03,0:02:37.93,Chn,,0,0,0,,-老兄！ -我知道 我知道 快来看看\N{\rEng}Dude! - I know, I know, check it out, look.
+Dialogue: 0,0:02:37.97,0:02:42.62,Chn,,0,0,0,,他整个小鸡鸡都在我嘴里 看见没？ 哦 哥们 我把他耍得狠吧\N{\rEng}I got his whole wiener in my mouth, see? Oh man, I got him good!
+Dialogue: 0,0:02:42.73,0:02:45.17,Chn,,0,0,0,,老兄 把Butters的鸡鸡放在你嘴里 如何能说是耍了他？\N{\rEng}Dude, how is putting Butters wiener in your mouth getting him?
+Dialogue: 0,0:02:45.20,0:02:49.12,Chn,,0,0,0,,-因为这样就让Butters成了兔子！ -不 老兄 这样让你成了兔子！\N{\rEng}Because that makes Butters gay now! - No dude, that makes you gay!
+Dialogue: 0,0:02:49.15,0:02:50.29,Chn,,0,0,0,,嗯 什么？\N{\rEng}Eh... what?
+Dialogue: 0,0:02:50.31,0:02:54.09,Chn,,0,0,0,,把一个家伙的鸡鸡放在你嘴里 你就成了兔子 傻瓜！\N{\rEng}You put a guy's wiener in your mouth, that makes you gay, stupid!
+Dialogue: 0,0:02:54.60,0:02:56.85,Chn,,0,0,0,,-不会吧 -会的！\N{\rEng}Nuh uh. - Yeah huh!
+Dialogue: 0,0:02:56.99,0:03:00.67,Chn,,0,0,0,,-Kenny 那样不会让我成了兔子 对吧？ -那样他妈的就让你成了兔子\N{\rEng}Kenny, that doesn't make me gay, huh? - That makes you very fucking gay.
+Dialogue: 0,0:03:00.71,0:03:03.47,Chn,,0,0,0,,-但我不是...我不是兔子 伙计们！ -你现在是了\N{\rEng}But I'm not- I'm not gay, you guys! - You are now.
+Dialogue: 0,0:03:03.49,0:03:06.89,Chn,,0,0,0,,-不 不 这是个愚蠢的错误 -无关紧要 你现在是兔子了\N{\rEng}No, no, it was a stupid mistake! - Doesn't matter. You're gay now.
+Dialogue: 0,0:03:06.92,0:03:09.25,Chn,,0,0,0,,不 就几秒钟时间！\N{\rEng}No, it was just for a second!
+Dialogue: 0,0:03:09.28,0:03:11.46,Chn,,0,0,0,,我 我能做什么？我怎样才能变回来？\N{\rEng}What, what can I do? How how can I reverse this?
+Dialogue: 0,0:03:11.49,0:03:12.94,Chn,,0,0,0,,-你不能了 -不 等等\N{\rEng}You can't! - No, wait.
+Dialogue: 0,0:03:12.94,0:03:15.41,Chn,,0,0,0,,-我知道你怎样可以变回来 Cartman. -怎么做？\N{\rEng}I know how you can reverse it, Cartman. - How?
+Dialogue: 0,0:03:15.44,0:03:20.87,Chn,,0,0,0,,唯一抵消的办法就是让Butters 把你的鸡鸡放在嘴里\N{\rEng}The only way you can cancel it out is to get Butters to put your wiener in his mouth.
+Dialogue: 0,0:03:21.36,0:03:25.19,Chn,,0,0,0,,-真的？ -对 这就抵消了你的兔性\N{\rEng}Really? - Yeah. Then it cancels out the gay polarity.
+Dialogue: 0,0:03:25.74,0:03:28.32,Chn,,0,0,0,,狗屎 我得找到Butters\N{\rEng}Shit, I gotta find Butters!
+Dialogue: 0,0:03:29.74,0:03:31.06,Chn,,0,0,0,,白痴\N{\rEng}Idiot.
+Dialogue: 0,0:03:36.86,0:03:39.93,Chn,,0,0,0,,-Butters -嗨 Eric\N{\rEng}Butters. - Hey, Eric.
+Dialogue: 0,0:03:40.04,0:03:42.88,Chn,,0,0,0,,Butters 你猜怎么着 我有个惊喜给你\N{\rEng}Butters, guess what? I have a surprise for you.
+Dialogue: 0,0:03:42.91,0:03:46.81,Chn,,0,0,0,,-惊喜？是什么啊？ -这他妈的很棒的\N{\rEng}A surprise? What is it? - It's so fucking awesome.
+Dialogue: 0,0:03:46.84,0:03:49.76,Chn,,0,0,0,,你会大吃一惊的 这是前所未有的惊喜\N{\rEng}You're gonna be soo stoked. It's the best surprise ever!
+Dialogue: 0,0:03:49.79,0:03:50.97,Chn,,0,0,0,,哦 小子\N{\rEng}Oh boy!
+Dialogue: 0,0:03:51.00,0:03:52.46,Chn,,0,0,0,,-你准备好了？ -好了\N{\rEng}You ready? - Yeah!
+Dialogue: 0,0:03:52.46,0:03:55.65,Chn,,0,0,0,,好了 张开嘴 闭上眼 跪下来\N{\rEng}Okay! Just open your mouth and close your eyes and and get on your knees!
+Dialogue: 0,0:03:55.68,0:03:57.09,Chn,,0,0,0,,哦 好的\N{\rEng}Oh, okay!
+Dialogue: 0,0:03:57.12,0:03:59.72,Chn,,0,0,0,,-等一下下啊 -为什么我看不见了？\N{\rEng}Hang on a second here. - How come uh, I can't see?
+Dialogue: 0,0:03:59.75,0:04:03.08,Chn,,0,0,0,,-因为要不是这样 就不算惊喜了 对吧？ -哦 对的\N{\rEng}Cause then it wouldn't be a surprise, would it? - Oh, yeah.
+Dialogue: 0,0:04:03.11,0:04:06.56,Chn,,0,0,0,,好的 不错 张开嘴巴 Butters\N{\rEng}All right, that's good. Okay, open your mouth, Butters?
+Dialogue: 0,0:04:06.83,0:04:08.66,Chn,,0,0,0,,-做的好 就这样 -嗨！\N{\rEng}That's good, just like that. - Hey!
+Dialogue: 0,0:04:08.69,0:04:11.11,Chn,,0,0,0,,嗨 等一下 这不是耍我的吧？\N{\rEng}Hey wait a minute. This ain't a trick, is it?
+Dialogue: 0,0:04:11.13,0:04:14.94,Chn,,0,0,0,,你不会往我嘴里塞什么恶心东西吧？\N{\rEng}Why you're not gonna, stick something icky in my mouth, are ya?
+Dialogue: 0,0:04:15.51,0:04:17.53,Chn,,0,0,0,,我以我母亲的生命发誓 Butters\N{\rEng}I swear on my mother's life, Butters.
+Dialogue: 0,0:04:17.53,0:04:19.91,Chn,,0,0,0,,我不会往你嘴里塞任何恶心的东西\N{\rEng}I am not going to stick anything icky in your mouth.
+Dialogue: 0,0:04:19.94,0:04:21.17,Chn,,0,0,0,,好的\N{\rEng}Okay!
+Dialogue: 0,0:04:21.21,0:04:24.41,Chn,,0,0,0,,好了 你准备好了？好的 你只要-- 好的 张嘴 好的好的 这就来了\N{\rEng}All right, you ready? All right just- Okay, open. Okay, okay, here it comes.
+Dialogue: 0,0:04:24.44,0:04:27.37,Chn,,0,0,0,,就坐稳了 好吧？我们开始\N{\rEng}Just sit very still, okay? Here we go.
+Dialogue: 0,0:04:27.40,0:04:30.47,Chn,,0,0,0,,-Butters！ -嗨 爸爸！\N{\rEng}Butters! - Hey Dad!
+Dialogue: 0,0:04:30.49,0:04:34.30,Chn,,0,0,0,,-Butters！你在干什么？！ -我在接受惊喜\N{\rEng}Butters! What are you doing?! - I'm getting a surprise!
+Dialogue: 0,0:04:34.31,0:04:37.91,Chn,,0,0,0,,哦 老天！我 我唯一的儿子 堕落成这样子！\N{\rEng}Oh my God! My, my only son, reduced to this!
+Dialogue: 0,0:04:37.94,0:04:39.41,Chn,,0,0,0,,嗨 Eric去哪儿了？\N{\rEng}Hey. Where'd Eric go?
+Dialogue: 0,0:04:39.43,0:04:42.02,Chn,,0,0,0,,Butters 你做这样的事已经多久了？\N{\rEng}Butters, how long have you been doing stuff like this?
+Dialogue: 0,0:04:42.05,0:04:44.36,Chn,,0,0,0,,-什么样的事？ -别对我撒谎 Butters！\N{\rEng}Like what? - Don't lie to me, Butters!
+Dialogue: 0,0:04:44.38,0:04:45.83,Chn,,0,0,0,,我现在知道你的秘密了\N{\rEng}I know your secret now!
+Dialogue: 0,0:04:45.86,0:04:48.76,Chn,,0,0,0,,不 等等 没事 没事 Butters\N{\rEng}No wait, wait. It's okay. It's okay, Butters.
+Dialogue: 0,0:04:48.77,0:04:52.43,Chn,,0,0,0,,这个不是严重的问题 你只不过是有了同性好奇\N{\rEng}This isn't a serious problem. You're just bi-curious.
+Dialogue: 0,0:04:52.46,0:04:55.74,Chn,,0,0,0,,-什么是同性好奇？ -你就是\N{\rEng}What's bi-curious? - You are.
+Dialogue: 0,0:04:55.77,0:04:58.51,Chn,,0,0,0,,只是无害的好奇心 并不能说明什么\N{\rEng}Just harmless curiosity and it doesn't mean anything.
+Dialogue: 0,0:04:58.54,0:05:00.34,Chn,,0,0,0,,我们只需要给你寻求些帮助Butters\N{\rEng}We just need to get you some help, Butters.
+Dialogue: 0,0:05:00.38,0:05:04.38,Chn,,0,0,0,,-你们俩在干什么？ -没事 妈妈 我只不过有点同性好奇\N{\rEng}What's going on, you two? - Nothing mom, I'm just a little bi-curious.
+Dialogue: 0,0:05:06.51,0:05:09.82,Chn,,0,0,0,,Maxi神父 我不知道还有谁可以找\N{\rEng}Father Maxi, I just don't know where else to turn.
+Dialogue: 0,0:05:09.85,0:05:13.71,Chn,,0,0,0,,你看 我才了解到我的儿子有同性好奇\N{\rEng}You see, I've just learned that my son is bi-curious.
+Dialogue: 0,0:05:13.74,0:05:18.06,Chn,,0,0,0,,这是真的吗 孩子？ 你是不是感觉困惑？\N{\rEng}Is that true, son? Are you feeling confused?
+Dialogue: 0,0:05:18.21,0:05:21.00,Chn,,0,0,0,,-对 我非常困惑 -你看见没？\N{\rEng}Yeah, I'm pretty confused alright. - You see?
+Dialogue: 0,0:05:21.03,0:05:24.05,Chn,,0,0,0,,年轻人 你的这些困惑...\N{\rEng}Young man, these confused feelings that you're having
+Dialogue: 0,0:05:24.05,0:05:27.82,Chn,,0,0,0,,只不过是魔鬼试图控制你的方式\N{\rEng}are simply the devil's way of trying to get a hold of you.
+Dialogue: 0,0:05:28.00,0:05:30.09,Chn,,0,0,0,,-真的吗？ -我可以做什么 神父？\N{\rEng}Really? - What can I do, Father?
+Dialogue: 0,0:05:30.12,0:05:33.93,Chn,,0,0,0,,有一个特殊集训营 像你儿子一样感到困惑的年轻人...\N{\rEng}There is a special camp where young men who are confused, like your son
+Dialogue: 0,0:05:33.93,0:05:36.58,Chn,,0,0,0,,可以去利用上帝的力量纯净自己\N{\rEng}can go and be cleansed by the power of God.
+Dialogue: 0,0:05:36.62,0:05:40.46,Chn,,0,0,0,,许多有同性好奇的男孩 在集训营里面被完全治愈了\N{\rEng}Many bi-curious boys come out the camp completely cured.
+Dialogue: 0,0:05:40.49,0:05:44.81,Chn,,0,0,0,,很多有同性好奇的男孩 放在一起的隔离集中营？\N{\rEng}A secluded camp where lots of bicurious boys are all put together?
+Dialogue: 0,0:05:44.84,0:05:48.49,Chn,,0,0,0,,-听上去是个好主意 -哦 伙计 集训营！\N{\rEng}That sounds like a good idea. - Whoa boy! Camp!
+Dialogue: 0,0:05:52.13,0:05:55.62,Chn,,0,0,0,,很好笑！我猜你们以为真的耍到我了！\N{\rEng}Very funny! I suppose you really think you got me!
+Dialogue: 0,0:05:55.65,0:05:59.28,Chn,,0,0,0,,-你说什么呢 肥男？ -我在互联网上查过了 Kyle\N{\rEng}What are you talking about, fatass? - I checked on the internet, Kyle.
+Dialogue: 0,0:05:59.31,0:06:03.17,Chn,,0,0,0,,让Butters含我的小鸡鸡并不会 像你说的一样把我变成兔子！\N{\rEng}And getting Butters to put my wiener in his mouth wouldn't make me not gay like you said!
+Dialogue: 0,0:06:03.21,0:06:05.17,Chn,,0,0,0,,-你搞明白啦？ -没错\N{\rEng}You figured that out, huh? - That's right.
+Dialogue: 0,0:06:05.21,0:06:09.04,Chn,,0,0,0,,从互联网上我还知道 把Butters的小鸡鸡放在我嘴里\N{\rEng}And I also learned from the Internet that just because I put Butters wiener in my mouth
+Dialogue: 0,0:06:09.04,0:06:10.39,Chn,,0,0,0,,并不意味着我就是兔子！\N{\rEng}doesn't mean I'm gay!
+Dialogue: 0,0:06:10.39,0:06:12.23,Chn,,0,0,0,,我所需要做的就是扔掉照片\N{\rEng}All I have to do is throw away the picture
+Dialogue: 0,0:06:12.23,0:06:15.32,Chn,,0,0,0,,忘掉这事 以后没人会知道了\N{\rEng}forget it ever happened and nobody will every know.
+Dialogue: 0,0:06:15.35,0:06:18.25,Chn,,0,0,0,,-除了我们 -对 除了你们\N{\rEng}Except for us. - Right, except for you.
+Dialogue: 0,0:06:18.28,0:06:20.60,Chn,,0,0,0,,和所有我们告诉的人\N{\rEng}And all the people we tell.
+Dialogue: 0,0:06:21.92,0:06:25.78,Chn,,0,0,0,,-你们为什么要告诉别人？ -因为这个真的 真的很搞笑\N{\rEng}Why would you tell anybody? - Because it's really, really funny.
+Dialogue: 0,0:06:25.81,0:06:28.95,Chn,,0,0,0,,不是那么搞笑的 还有很多很多事情要搞笑多了\N{\rEng}It's not that funny. There's lots, there's lots of things that are way funnier.
+Dialogue: 0,0:06:28.98,0:06:31.30,Chn,,0,0,0,,-比如呢？ -比如...\N{\rEng}Like what? - Like...
+Dialogue: 0,0:06:31.33,0:06:36.80,Chn,,0,0,0,,在学校食堂某人的午饭里出现卫生棉棒\N{\rEng}a tampon in the school cafeteria, in somebody's lunch.
+Dialogue: 0,0:06:38.80,0:06:40.36,Chn,,0,0,0,,比如...\N{\rEng}Like...
+Dialogue: 0,0:06:40.40,0:06:43.99,Chn,,0,0,0,,一只狗在一个家伙脸上撇大条\N{\rEng}a dog crap, on a guy's face!
+Dialogue: 0,0:06:44.02,0:06:45.87,Chn,,0,0,0,,-那不好笑 -很好笑\N{\rEng}That isn't funny. - Yes, it is!
+Dialogue: 0,0:06:45.89,0:06:49.47,Chn,,0,0,0,,你们这些家伙 我现在怒了 你们最好别告诉别人\N{\rEng}Now you guys, I'm getting pissed off! You'd better not tell anybody!
+Dialogue: 0,0:06:49.50,0:06:51.09,Chn,,0,0,0,,嗯 我们也许会 也许不会\N{\rEng}Well, maybe we will, maybe we won't.
+Dialogue: 0,0:06:51.11,0:06:54.76,Chn,,0,0,0,,好吧！无所谓！ 你们没有证据说我含Butters的鸡鸡\N{\rEng}Fine! Whatever! You guys don't have any proof I put Butters wiener in my mouth!
+Dialogue: 0,0:06:54.79,0:06:56.61,Chn,,0,0,0,,我们的话将互相矛盾\N{\rEng}It will be your word against mine!
+Dialogue: 0,0:06:56.62,0:07:00.76,Chn,,0,0,0,,我们都知道每个人都更相信我！\N{\rEng}And we all know that everyone trusts me way more than you guys!
+Dialogue: 0,0:07:02.91,0:07:04.69,Chn,,0,0,0,,伙计们 求求你们别告诉别人\N{\rEng}You guys, please don't tell anybody.
+Dialogue: 0,0:07:04.80,0:07:09.09,Chn,,0,0,0,,好的 我们就不告诉别人 只要你从今以后每天对我们超级好\N{\rEng}Okay. We won't tell anybody as long as you are supernice to us, every day, from now on.
+Dialogue: 0,0:07:09.13,0:07:11.65,Chn,,0,0,0,,哦 好吧 你们做梦 好吧 无所谓！\N{\rEng}Oh right, like that's possible! Alright, fine!
+Dialogue: 0,0:07:11.68,0:07:15.28,Chn,,0,0,0,,你知道我会怎么做 Kyle？ 我会回家用Photoshop做那幅照片\N{\rEng}You know what I'm gonna do, Kyle?! I'm gonna go home and photoshop the picture
+Dialogue: 0,0:07:15.28,0:07:17.63,Chn,,0,0,0,,这样就是你含着Butters的鸡鸡\N{\rEng}so that it is your face with Butters wiener in his mouth here!
+Dialogue: 0,0:07:17.66,0:07:22.87,Chn,,0,0,0,,如果你们任何一个告诉任何人 我就会给他们看Kyle的照片\N{\rEng}And if any of you say anything to anybody, I'll simply show them the picture of Kyle.
+Dialogue: 0,0:07:24.56,0:07:29.44,Chn,,0,0,0,,{\i1}新仁慈集训营 "祈祷不再同性恋"{\i0}\N{\rEng}{\i1}Camp New Grace "Pray The Gay Away."{\i0}
+Dialogue: 0,0:07:30.76,0:07:33.94,Chn,,0,0,0,,大家欢迎我们的新营员 Butters\N{\rEng}Everyone, say hello to our new camper, Butters.
+Dialogue: 0,0:07:33.98,0:07:36.19,Chn,,0,0,0,,嗨 Butters 你好\N{\rEng}Hi Butters. Hello. - Hi. Hello Butters.
+Dialogue: 0,0:07:36.20,0:07:39.13,Chn,,0,0,0,,-非常感谢你们接收他 -别担心\N{\rEng}Thank you so much for taking him in. - Don't worry.
+Dialogue: 0,0:07:39.16,0:07:43.46,Chn,,0,0,0,,你儿子只是需要知道 如果他想正常 他就能正常\N{\rEng}Your son just needs to learn that he can be straight if he chooses to be.
+Dialogue: 0,0:07:44.21,0:07:47.77,Chn,,0,0,0,,-你知道你为什么来集训营吗 Butters？ -因为我有点同性好奇？\N{\rEng}Do you know why you're here at camp, Butters? - Because I'm bi-curious?
+Dialogue: 0,0:07:47.78,0:07:52.90,Chn,,0,0,0,,没错 跟所有营员一样 你很困惑 你不知道出路何在\N{\rEng}That's right. Like all the campers here, you're confused and you don't think there's a way out.
+Dialogue: 0,0:07:52.93,0:07:56.14,Chn,,0,0,0,,但是尽管有人已经让你相信 你不能控制自己所想\N{\rEng}But even though some people would have you believe you can't control how you feel
+Dialogue: 0,0:07:56.18,0:08:00.14,Chn,,0,0,0,,实情是耶稣基督的力量可以让你正常\N{\rEng}the truth is that with the power of Jesus Christ you can be normal.
+Dialogue: 0,0:08:00.17,0:08:02.74,Chn,,0,0,0,,现在 为了确保你在营里不再犯错\N{\rEng}Now, just to make sure you don't slip up while in camp
+Dialogue: 0,0:08:02.74,0:08:05.53,Chn,,0,0,0,,我们给每个营员安排了一位责任人\N{\rEng}we assign every camper an accountabilibuddy.
+Dialogue: 0,0:08:05.57,0:08:07.98,Chn,,0,0,0,,我们见一见Ryan 你的责任人\N{\rEng}Let's meet Ryan, your accountabilibuddy.
+Dialogue: 0,0:08:08.01,0:08:09.95,Chn,,0,0,0,,Ryan以为他永远不能改变了\N{\rEng}Ryan thought he could never change.
+Dialogue: 0,0:08:09.98,0:08:12.87,Chn,,0,0,0,,但是现在他知道了 借助耶稣的力量和祈祷\N{\rEng}But now he's learning that with the power of Christ and prayer
+Dialogue: 0,0:08:12.87,0:08:15.25,Chn,,0,0,0,,他能拥有全新的人生\N{\rEng}he can have a whole new life.
+Dialogue: 0,0:08:19.70,0:08:23.09,Chn,,0,0,0,,这边有食堂 三餐都在这里\N{\rEng}Over this way we have the cafeteria. All the meals are served there.
+Dialogue: 0,0:08:23.12,0:08:25.96,Chn,,0,0,0,,Bradley 你做Butters的责任人如何？\N{\rEng}Bradley! How about you be Butters' accountabilibuddy?
+Dialogue: 0,0:08:25.99,0:08:30.00,Chn,,0,0,0,,所以你们要自卑 服在神大能的手下 到时他必叫你们升高 彼得前书 5:6\N{\rEng}Humble yourselves therefore under God's mighty hand, that he may lift you up. Peter 5:6
+Dialogue: 0,0:08:30.05,0:08:33.58,Chn,,0,0,0,,Butters是营里的新人 他被选中来接触自己的痛苦\N{\rEng}Butters here is new to the camp. He's chosen to rid himself of his affliction
+Dialogue: 0,0:08:33.58,0:08:36.35,Chn,,0,0,0,,与耶稣基督结成亲密关系\N{\rEng}and forge a personal relationship with Jesus Christ.
+Dialogue: 0,0:08:36.39,0:08:37.83,Chn,,0,0,0,,我有同性好奇\N{\rEng}I'm bi-curious.
+Dialogue: 0,0:08:37.86,0:08:41.68,Chn,,0,0,0,,不可像与女人一样与男人苟合 这本是可憎恶的 利未记 18:22.\N{\rEng}Do not lie with a man as one lies with a woman, that is detestible. Leviticus 18:22.
+Dialogue: 0,0:08:41.71,0:08:45.34,Chn,,0,0,0,,这就对了 Bradley 我想你正在被治好\N{\rEng}That's right, Bradley. I think we're well on our way to being healed.
+Dialogue: 0,0:08:45.41,0:08:48.50,Chn,,0,0,0,,-又有一个 22号房 -哦 该死的\N{\rEng}We've got another one, room 22. - Oh, darnit!
+Dialogue: 0,0:08:52.23,0:08:56.22,Chn,,0,0,0,,-哦 哥们 我得配个高分辨率光谱仪 -好了 轮到我了\N{\rEng}Aw man, I've got H O R S now. - Okay, my turn.
+Dialogue: 0,0:08:57.82,0:08:59.82,Chn,,0,0,0,,东西在哪儿 你这个猥琐犹太人？\N{\rEng}Where is it, you filthy jew?
+Dialogue: 0,0:08:59.85,0:09:02.26,Chn,,0,0,0,,-什么在哪儿？ -你他妈的肯定知道的\N{\rEng}Where's what? - You know goddamn well what!
+Dialogue: 0,0:09:02.29,0:09:04.49,Chn,,0,0,0,,-放开我 -你到底在干吗 Cartman？\N{\rEng}Let go of me. - What the hell are you doing, Cartman?!
+Dialogue: 0,0:09:04.52,0:09:07.45,Chn,,0,0,0,,我回家去想把那张我含Butters 阳物的照片改成Kyle\N{\rEng}I went home to alter the picture of me with Butters penis in my mouth to look like Kyle
+Dialogue: 0,0:09:07.45,0:09:08.54,Chn,,0,0,0,,但是找不到了！\N{\rEng}but it was gone!
+Dialogue: 0,0:09:08.57,0:09:12.98,Chn,,0,0,0,,-你把我照片拿哪儿去了？ -放手！我没拿你的傻照片！\N{\rEng}What did you do with my picture?! - Knock it off! I don't have your stupid picture!
+Dialogue: 0,0:09:13.13,0:09:15.52,Chn,,0,0,0,,-还给我 Kyle -我没拿\N{\rEng}Give it back, Kyle! - I don't have it!
+Dialogue: 0,0:09:15.57,0:09:17.73,Chn,,0,0,0,,我向上帝发誓 Kyle 如果你现在不还给我\N{\rEng}I swear to God, Kyle, if you don't give it back right now
+Dialogue: 0,0:09:17.74,0:09:19.77,Chn,,0,0,0,,我会在这儿打断你操蛋的犹太腿!\N{\rEng}I'm gonna break your fucking Jew legs right here!
+Dialogue: 0,0:09:19.80,0:09:21.58,Chn,,0,0,0,,-闭嘴！ -你闭嘴！\N{\rEng}Shut up! - You shut up!
+Dialogue: 0,0:09:21.61,0:09:24.21,Chn,,0,0,0,,你在撒谎 你们俩在给他打掩护\N{\rEng}You're lying and you two are covering up for him!
+Dialogue: 0,0:09:24.24,0:09:26.79,Chn,,0,0,0,,知道吗 你们就跟犹太人一样了\N{\rEng}You know what? You're just like Jews yourselves!
+Dialogue: 0,0:09:26.82,0:09:31.10,Chn,,0,0,0,,Stan 你是犹太人 Kenny 你是犹太人 你们都是犹太人\N{\rEng}Stan, you're a Jew and Kenny, you're a Jew! You're all Jews!
+Dialogue: 0,0:09:38.82,0:09:41.49,Chn,,0,0,0,,{\i1}主因此爱之{\i0}\N{\rEng}{\i1}The Lord is love this for{\i0}
+Dialogue: 0,0:09:41.52,0:09:47.18,Chn,,0,0,0,,{\i1}有了基督 我不再困惑{\i0}\N{\rEng}{\i1}With Jesus I can just say no and not be confused anymore.{\i0}
+Dialogue: 0,0:09:49.01,0:09:51.82,Chn,,0,0,0,,我们现在聆听菲利普牧师的布道\N{\rEng}We will now hear a sermon from Pastor Phillips.
+Dialogue: 0,0:09:51.85,0:09:53.25,Chn,,0,0,0,,新来的营员们\N{\rEng}For those of you who are new to camp
+Dialogue: 0,0:09:53.25,0:09:56.95,Chn,,0,0,0,,菲利普牧师曾慧剑斩情丝 不再有与你们一样的痛苦\N{\rEng}Pastor Phillips is somebody who has broken free of the bonds that afflict you.
+Dialogue: 0,0:09:56.98,0:09:59.04,Chn,,0,0,0,,他也有同性好奇？\N{\rEng}He's bi-curious too?
+Dialogue: 0,0:09:59.07,0:10:02.04,Chn,,0,0,0,,不再有了 因为菲利普牧师祈祷了\N{\rEng}Not anymore. Because Pastor Phillips prayed
+Dialogue: 0,0:10:02.04,0:10:05.64,Chn,,0,0,0,,经耶稣基督之手 他已经痊愈了\N{\rEng}and by the hand of Jesus Christ he's now completely cured!
+Dialogue: 0,0:10:05.68,0:10:08.52,Chn,,0,0,0,,让我们听听菲利普牧师的故事 孩子们\N{\rEng}Let's hear it for Pastor Phillips, kids!
+Dialogue: 0,0:10:08.94,0:10:12.15,Chn,,0,0,0,,你们好 营员们\N{\rEng}Hello, campers!
+Dialogue: 0,0:10:12.87,0:10:16.68,Chn,,0,0,0,,是的无论你是否相信 我自己曾有不洁的欲望\N{\rEng}Yes, believe it or not, I myself used to have unclean urges
+Dialogue: 0,0:10:16.68,0:10:22.36,Chn,,0,0,0,,跟你们很多人一样 我以为我天生如此 没有选择\N{\rEng}and like a lot of you I thought I was just made that way, that I didn't have a choice.
+Dialogue: 0,0:10:22.40,0:10:26.13,Chn,,0,0,0,,但我意识到上帝不想我们如此\N{\rEng}But then I realized that God didn't want me to be that way!
+Dialogue: 0,0:10:26.16,0:10:28.00,Chn,,0,0,0,,上帝想让我们成为男人！\N{\rEng}God wanted me to be a man!
+Dialogue: 0,0:10:28.04,0:10:32.30,Chn,,0,0,0,,所以我穿上我的西装 祈祷能变正常 你们猜如何？\N{\rEng}So I buckled up in my little suit and I prayed to be normal and guess what?
+Dialogue: 0,0:10:32.33,0:10:34.63,Chn,,0,0,0,,这样做很有用！\N{\rEng}It worked!
+Dialogue: 0,0:10:34.67,0:10:38.71,Chn,,0,0,0,,没错 孩子们 你看 现在你们就像回形针\N{\rEng}That's right, kids. You see, right now you're like a paper clip.
+Dialogue: 0,0:10:38.74,0:10:42.80,Chn,,0,0,0,,就像回形针一样 上帝需要扳动你 塑造你\N{\rEng}And just like a paper clip, God needs to bend you and shape you
+Dialogue: 0,0:10:42.80,0:10:45.87,Chn,,0,0,0,,让你变直 （双关语：直等于正常）\N{\rEng}and make you straight.
+Dialogue: 0,0:10:51.72,0:10:53.32,Chn,,0,0,0,,{\i1}公园县警察局{\i0}\N{\rEng}{\i1}Park County Police Station{\i0}
+Dialogue: 0,0:10:53.90,0:10:58.15,Chn,,0,0,0,,-你说你被抢劫了？ -是的 一张照片\N{\rEng}So you say you were robbed. - Yes. A photograph.
+Dialogue: 0,0:10:58.18,0:11:01.23,Chn,,0,0,0,,我知道谁抢的 他的名字是Kyle Broflovski\N{\rEng}And I know who took it! His name is Kyle Broflovski!
+Dialogue: 0,0:11:01.26,0:11:04.81,Chn,,0,0,0,,如果是张照片 有什么大不了的？ 你再打印一张不就行了\N{\rEng}If it's a photo, what's the big deal? Why don't you just print out another one?
+Dialogue: 0,0:11:04.84,0:11:09.38,Chn,,0,0,0,,事情很大条啊 那张照片是我的财产 我要它回来\N{\rEng}It's a big deal, okay?! That picture is my property and I want it back!
+Dialogue: 0,0:11:09.41,0:11:12.40,Chn,,0,0,0,,好吧 这张是什么照片？\N{\rEng}Okay, what is the picture of?
+Dialogue: 0,0:11:13.42,0:11:15.86,Chn,,0,0,0,,那个有什么关系？\N{\rEng}Why does that matter?
+Dialogue: 0,0:11:15.89,0:11:19.04,Chn,,0,0,0,,不知道是什么照片 我们怎么去找它？\N{\rEng}Well how are we gonna find your picture unless we know what it is?
+Dialogue: 0,0:11:19.07,0:11:23.13,Chn,,0,0,0,,-好吧 是关于我的照片 -还有呢？\N{\rEng}All right. It's a picture of me. - Yes?
+Dialogue: 0,0:11:23.49,0:11:26.30,Chn,,0,0,0,,这张照片上有我...\N{\rEng}It's a picture of me...
+Dialogue: 0,0:11:26.41,0:11:30.36,Chn,,0,0,0,,和一个看上去象阳物的东西...\N{\rEng}and what appears to be a penis...
+Dialogue: 0,0:11:30.47,0:11:32.12,Chn,,0,0,0,,在我嘴里\N{\rEng}in my mouth.
+Dialogue: 0,0:11:33.92,0:11:37.46,Chn,,0,0,0,,-你在吃别人的阳物？ -不 不 我没有\N{\rEng}You were sucking somebody's penis. - No, no, I was not!
+Dialogue: 0,0:11:37.49,0:11:41.66,Chn,,0,0,0,,我睡着了 这个人把阳物放在我嘴里 我当时不知道\N{\rEng}I was asleep and this person just puts a penis in my mouth without me knowing!
+Dialogue: 0,0:11:41.68,0:11:43.32,Chn,,0,0,0,,然后他拍了照片\N{\rEng}And and took the picture!
+Dialogue: 0,0:11:43.35,0:11:45.45,Chn,,0,0,0,,-我明白了 -是的\N{\rEng}I see. - Yes.
+Dialogue: 0,0:11:45.50,0:11:49.86,Chn,,0,0,0,,可能看上去在照片里 阳物就在我嘴里的时候\N{\rEng}Now it may appear in the picture that I'm actually looking at the camera lens and smiling
+Dialogue: 0,0:11:49.86,0:11:52.81,Chn,,0,0,0,,我在笑着看照相机镜头 还竖起拇指\N{\rEng}with the penis in my mouth and giving a thumbs up.
+Dialogue: 0,0:11:52.84,0:11:55.18,Chn,,0,0,0,,但我向你保证 我在熟睡中\N{\rEng}But I assure you, I was fast asleep!
+Dialogue: 0,0:11:55.21,0:11:58.60,Chn,,0,0,0,,好吧 我们得先申请 由初审陪审团批准的搜捕令\N{\rEng}Well we'd have to get a warrant first, approved by a grand jury
+Dialogue: 0,0:11:58.63,0:12:01.40,Chn,,0,0,0,,我没时间了 明天就要上学了\N{\rEng}I don't have time for that! We have school tomorrow!
+Dialogue: 0,0:12:01.42,0:12:05.38,Chn,,0,0,0,,我知道Kyle会在宣讲课上 给每个人看那张照片\N{\rEng}And I know that Kyle is gonna show the picture to everybody during Show and Tell!
+Dialogue: 0,0:12:05.41,0:12:08.02,Chn,,0,0,0,,那样的话 你就惨了\N{\rEng}Well then, you're screwed.
+Dialogue: 0,0:12:08.88,0:12:13.98,Chn,,0,0,0,,你们两个都明白我们在努力拯救 你们的灵魂于永恒的地狱生活 对吧？\N{\rEng}You both do understand that we're trying to save your souls from eternal life in hell?
+Dialogue: 0,0:12:14.01,0:12:15.32,Chn,,0,0,0,,当然 我想\N{\rEng}Well sure, I guess.
+Dialogue: 0,0:12:15.40,0:12:17.17,Chn,,0,0,0,,只有通过基督我们才能洗净自己的灵魂\N{\rEng}Only through Christ can we cleanse our souls.
+Dialogue: 0,0:12:17.20,0:12:24.23,Chn,,0,0,0,,你们也知道有条规矩声明 不允许看不纯洁或不道德的图片？\N{\rEng}And you do know the rule which states that no impure or immoral images are allowed to be seen by the eye?
+Dialogue: 0,0:12:24.26,0:12:25.42,Chn,,0,0,0,,是的 当然\N{\rEng}Well yeah, sure.
+Dialogue: 0,0:12:25.45,0:12:28.00,Chn,,0,0,0,,让我们洁净自己 除去身体灵魂一切的污秽\N{\rEng}So let's purify ourselves from everything that makes the body or soul unclean.
+Dialogue: 0,0:12:28.00,0:12:29.04,Chn,,0,0,0,,哥林多后书 第七章\N{\rEng}Corinthians, chapter 7.
+Dialogue: 0,0:12:29.07,0:12:37.57,Chn,,0,0,0,,那你们介不介意告诉我们 为什么我们可以在你们房间找到1979年希尔斯男士内衣目录？\N{\rEng}Then do you mind telling us why we found this, 1979 Sears mens underwear catalog in your room?
+Dialogue: 0,0:12:39.11,0:12:41.13,Chn,,0,0,0,,是我的\N{\rEng}That's mine.
+Dialogue: 0,0:12:41.16,0:12:42.97,Chn,,0,0,0,,你知道这是严格禁止的！\N{\rEng}You know this is strictly forbidden!
+Dialogue: 0,0:12:43.00,0:12:45.76,Chn,,0,0,0,,我不明白 内衣有什么问题\N{\rEng}Ah I don't understand. What's wrong with underwear?
+Dialogue: 0,0:12:45.80,0:12:49.71,Chn,,0,0,0,,什么问题？！ 这就是让你困惑的东西\N{\rEng}What's wrong?! This is what makes you confused!
+Dialogue: 0,0:12:49.74,0:12:53.22,Chn,,0,0,0,,你不明白吗？ 这个就在让你困惑 不是吗？\N{\rEng}Don't you get it?! This is confusing you right now, isn't it?!
+Dialogue: 0,0:12:53.25,0:12:55.39,Chn,,0,0,0,,是的 这些都很令人困惑\N{\rEng}Yes, it's all very confusing!
+Dialogue: 0,0:12:55.42,0:12:59.91,Chn,,0,0,0,,这也是你的错 Butters Bradley是你的责任人\N{\rEng}This is just as much your fault, Butters! Bradley is your accountabilibuddy!
+Dialogue: 0,0:12:59.94,0:13:02.69,Chn,,0,0,0,,你得负上连带责任\N{\rEng}That makes you accountabilibuddyable.
+Dialogue: 0,0:13:02.89,0:13:09.07,Chn,,0,0,0,,你们俩的行为威胁到 我们所有拯救这里孩子的努力\N{\rEng}Both of your boys behavior has jeopardizing all of the work we're doing here to save these kids!
+Dialogue: 0,0:13:15.59,0:13:19.76,Chn,,0,0,0,,对 因为在房间里有违禁品 你们两个将在接下来四天手抄圣经\N{\rEng}Right. For having contraband in your room, you will both do penance
+Dialogue: 0,0:13:19.77,0:13:22.93,Chn,,0,0,0,,以作忏悔\N{\rEng}by writing scripture for the next four days!
+Dialogue: 0,0:13:24.07,0:13:27.46,Chn,,0,0,0,,那个婊子养的 他会给每个人看照片\N{\rEng}That son of a bitch. He's gonna show everyone that picture.
+Dialogue: 0,0:13:27.49,0:13:29.51,Chn,,0,0,0,,只有十二个小时了\N{\rEng}Only twelve hours from now.
+Dialogue: 0,0:13:30.02,0:13:34.70,Chn,,0,0,0,,就这样 我没有选择了 我不得不把妈妈拉进来\N{\rEng}That's it. I don't have a choice. I'm gonna have to bring mom in on this one!
+Dialogue: 0,0:13:34.84,0:13:37.13,Chn,,0,0,0,,我不得不告诉她真相\N{\rEng}I'm going to have to tell her the truth.
+Dialogue: 0,0:13:42.84,0:13:46.17,Chn,,0,0,0,,Eric？出什么 出什么事了？\N{\rEng}Eric? What's the, what's the matter?
+Dialogue: 0,0:13:46.80,0:13:50.59,Chn,,0,0,0,,我明天不想去学校\N{\rEng}I don't wanna go to school tomorrow.
+Dialogue: 0,0:13:50.64,0:13:54.46,Chn,,0,0,0,,甜心 告诉妈妈怎么了\N{\rEng}Sweetie, tell mommy what happened.
+Dialogue: 0,0:13:54.67,0:13:59.58,Chn,,0,0,0,,Kyle有我一张照片 他会在宣讲课上给每个人看\N{\rEng}Kyle, has a picture of me and he's gonna show everyone during Show and Tell.
+Dialogue: 0,0:13:59.58,0:14:02.67,Chn,,0,0,0,,大家都会笑话我\N{\rEng}And everyone's gonna laugh at me.
+Dialogue: 0,0:14:02.72,0:14:05.50,Chn,,0,0,0,,哦 那为什么他会这么做？\N{\rEng}Oh, now why would he do that?
+Dialogue: 0,0:14:05.61,0:14:09.32,Chn,,0,0,0,,因为他嫉妒我比他聪明\N{\rEng}Because, he's jealous of how much smarter I am than him.
+Dialogue: 0,0:14:09.35,0:14:13.04,Chn,,0,0,0,,所以他会给每个人看那张照片\N{\rEng}So, he's gonna show everyone the picture.
+Dialogue: 0,0:14:13.46,0:14:16.67,Chn,,0,0,0,,什么样的照片 Eric？\N{\rEng}What is the picture of, Eric?
+Dialogue: 0,0:14:18.41,0:14:22.25,Chn,,0,0,0,,上次Butters来过夜的时候 我对他真的很好\N{\rEng}Last time, when Butters spent the night, I was being really nice to him
+Dialogue: 0,0:14:22.26,0:14:26.15,Chn,,0,0,0,,我想给他拍张照片给他妈妈看\N{\rEng}and I was gonna take a picture of him for his mom to have.
+Dialogue: 0,0:14:26.18,0:14:27.87,Chn,,0,0,0,,哦 那很好啊\N{\rEng}Oh, that's nice.
+Dialogue: 0,0:14:27.90,0:14:31.20,Chn,,0,0,0,,但是 就在我拍完照片以后 Butters变得很热\N{\rEng}But then, right when I took the picture, Butters got really hot
+Dialogue: 0,0:14:31.20,0:14:35.01,Chn,,0,0,0,,他就脱了脱了他的裤扣子 然后我跌倒了\N{\rEng}so he pulled his pajama bottoms down and then I tripped and fell down
+Dialogue: 0,0:14:35.01,0:14:38.76,Chn,,0,0,0,,我的嘴巴正好对上他的阳物 当时我想到一些搞笑的事情\N{\rEng}and my mouth landed right on his penis and then I thought of something funny
+Dialogue: 0,0:14:38.76,0:14:41.73,Chn,,0,0,0,,所以我就笑了 照相机就拍到了 还有竖着拇指\N{\rEng}so I smiled up at, the camera and gave like a, thumbs up
+Dialogue: 0,0:14:41.73,0:14:45.20,Chn,,0,0,0,,Kyle拿走了照片 他要给每个人看了\N{\rEng}and then Kyle took the picture from me and he's gonna show it to everybody
+Dialogue: 0,0:14:45.20,0:14:48.28,Chn,,0,0,0,,让他们以为我是兔子\N{\rEng}and make them think I'm gay.
+Dialogue: 0,0:14:49.14,0:14:52.33,Chn,,0,0,0,,哦 过来 甜心 没事的\N{\rEng}Oh, there there, sweetie. It'll be okay.
+Dialogue: 0,0:14:52.36,0:14:55.09,Chn,,0,0,0,,这些事情常有的\N{\rEng}These things happen.
+Dialogue: 0,0:14:55.12,0:15:00.26,Chn,,0,0,0,,但是妈妈 我试过拿回照片 他就是不肯给\N{\rEng}But, mom, I've been trying to get the picture back, but he won't give it to me.
+Dialogue: 0,0:15:00.68,0:15:04.59,Chn,,0,0,0,,没事 Eric 我来跟Kyle的妈妈谈谈\N{\rEng}It's okay, Eric. I'll have a talk with Kyle's mother.
+Dialogue: 0,0:15:05.17,0:15:07.61,Chn,,0,0,0,,你会谈？\N{\rEng}You will?
+Dialogue: 0,0:15:07.82,0:15:12.50,Chn,,0,0,0,,但他爱我们 派他唯一的儿子 来赎我们的罪孽\N{\rEng}But that he loved us and sent his only son to be the satisfaction of our sins.
+Dialogue: 0,0:15:12.53,0:15:13.89,Chn,,0,0,0,,五十份！\N{\rEng}Neato!
+Dialogue: 0,0:15:13.92,0:15:17.71,Chn,,0,0,0,,-Butters我很抱歉把你扯进来 -哦 没事 Bradley\N{\rEng}Butters, I'm sorry for getting you into trouble. - Aw, that's okay, Bradley.
+Dialogue: 0,0:15:17.74,0:15:19.21,Chn,,0,0,0,,我真的想变好\N{\rEng}I really want to get better.
+Dialogue: 0,0:15:19.21,0:15:23.82,Chn,,0,0,0,,我努力做每一件辅导员说的事 但不知怎的 我始终感觉困惑\N{\rEng}I try to do everything the counselors say, but somehow I still feel confused.
+Dialogue: 0,0:15:23.87,0:15:26.31,Chn,,0,0,0,,嗯 希望我们写完这些经文\N{\rEng}Yeah, well hopefully, when we finish writing all these verses
+Dialogue: 0,0:15:26.31,0:15:29.06,Chn,,0,0,0,,我们不再有同性好奇 就可以回家了\N{\rEng}we won't be bi-curious no more and then we can go home!
+Dialogue: 0,0:15:29.30,0:15:33.22,Chn,,0,0,0,,你真的很棒 Butters 我是说 我觉得你很好\N{\rEng}You're really terrific, Butters. I mean, I think you're great.
+Dialogue: 0,0:15:35.00,0:15:37.64,Chn,,0,0,0,,哦 上帝！坏思想！坏思想！\N{\rEng}Oh God! Bad thought! Bad thought!
+Dialogue: 0,0:15:37.67,0:15:41.92,Chn,,0,0,0,,-怎么了？ -我想 我想我喜欢你\N{\rEng}What's the matter? - I think, I think I like you.
+Dialogue: 0,0:15:41.95,0:15:44.73,Chn,,0,0,0,,-我也喜欢你 Bradley -真的吗？\N{\rEng}Well I like you too, Bradley. - You do?
+Dialogue: 0,0:15:44.76,0:15:46.94,Chn,,0,0,0,,-是的 -你喜欢喜欢我？\N{\rEng}Well, yeah! - You like like me?
+Dialogue: 0,0:15:46.98,0:15:49.41,Chn,,0,0,0,,当然 我喜欢喜欢你多多的\N{\rEng}Sure, I like like you a lot a lot.
+Dialogue: 0,0:15:49.44,0:15:52.68,Chn,,0,0,0,,哦上帝 我们都是不可救药的 你没看出来我们注定失败吗？\N{\rEng}Oh God, we're both unfixable! Don't you see we're lost causes?!
+Dialogue: 0,0:15:52.71,0:15:54.70,Chn,,0,0,0,,我们是邪恶的 没有什么可以改变我们\N{\rEng}We're just evil and nothing can change us!
+Dialogue: 0,0:15:54.74,0:15:58.26,Chn,,0,0,0,,没有出路了 Butters 我们不得不自杀\N{\rEng}There's no other way out, Butters! We have to kill ourselves!
+Dialogue: 0,0:15:58.30,0:16:02.79,Chn,,0,0,0,,不 Bradley 你不能离开 你是我的责任人\N{\rEng}No! Bradley! You can't leave, you're my accountabilibuddy!
+Dialogue: 0,0:16:08.09,0:16:12.16,Chn,,0,0,0,,-你好 -你好 Sheila。我是Liane，Eric的妈妈\N{\rEng}Hello? - Hello, Sheila? It's Liane, Eric's mother.
+Dialogue: 0,0:16:12.20,0:16:14.47,Chn,,0,0,0,,哦 你好 Cartman夫人\N{\rEng}Oh, hello, Mrs. Cartman.
+Dialogue: 0,0:16:14.51,0:16:16.92,Chn,,0,0,0,,Sheila 我很抱歉麻烦你\N{\rEng}Sheila, I'm sorry to trouble you with this
+Dialogue: 0,0:16:16.93,0:16:22.20,Chn,,0,0,0,,不过很明显你的儿子有一张 Eric含着其他男孩阳物的照片\N{\rEng}but apparently your son has a picture of Eric with another boy's penis in his mouth.
+Dialogue: 0,0:16:24.48,0:16:25.81,Chn,,0,0,0,,对不起？\N{\rEng}Excuse me?
+Dialogue: 0,0:16:28.23,0:16:30.86,Chn,,0,0,0,,别担心 甜心 没问题了\N{\rEng}Don't worry, sweetie, everything is fine.
+Dialogue: 0,0:16:30.89,0:16:32.89,Chn,,0,0,0,,没问题了？真的？\N{\rEng}It is? Really?
+Dialogue: 0,0:16:32.92,0:16:35.53,Chn,,0,0,0,,哦 妈妈 谢谢你 谢谢你\N{\rEng}Oh, mommy, thank you! Thank you!
+Dialogue: 0,0:16:35.57,0:16:38.11,Chn,,0,0,0,,你明天在学校不用担心了\N{\rEng}You have nothing to worry about in school tomorrow.
+Dialogue: 0,0:16:38.14,0:16:42.49,Chn,,0,0,0,,Broflovski夫人向我保证 Kyle没有拿那张照片\N{\rEng}Mrs. Broflovski assured me that Kyle doesn't have the picture.
+Dialogue: 0,0:16:42.67,0:16:43.98,Chn,,0,0,0,,什么？\N{\rEng}What?
+Dialogue: 0,0:16:44.02,0:16:46.73,Chn,,0,0,0,,她和她儿子谈过了 说他没有拿\N{\rEng}She talked with her son and says he doesn't have it.
+Dialogue: 0,0:16:46.77,0:16:50.82,Chn,,0,0,0,,-妈妈 她在撒谎 -她说她保证 Eric\N{\rEng}Mom, she's lying! - She said she was sure, Eric.
+Dialogue: 0,0:16:50.85,0:16:54.54,Chn,,0,0,0,,妈妈 你根本不了解犹太人 他们一直在撒谎\N{\rEng}Mom, you don't know anything about Jews! They lie all the time!
+Dialogue: 0,0:16:54.57,0:16:57.86,Chn,,0,0,0,,Eric 我做不了更多的了\N{\rEng}Well, Eric, there's nothing more I can do about it.
+Dialogue: 0,0:16:58.94,0:17:02.11,Chn,,0,0,0,,只能如此了 Kyle赢了\N{\rEng}Then that's it. Kyle wins.
+Dialogue: 0,0:17:02.70,0:17:04.29,Chn,,0,0,0,,但是他不会完全胜利\N{\rEng}But he won't win completely!
+Dialogue: 0,0:17:04.32,0:17:08.45,Chn,,0,0,0,,我会打印另一份照片 自己给全班看\N{\rEng}I'm going to print out another copy of that picture and show it to the class myself!
+Dialogue: 0,0:17:08.48,0:17:11.95,Chn,,0,0,0,,我至少能够抢掉他最终的大笑\N{\rEng}I can at least rob Kyle of his final laugh.
+Dialogue: 0,0:17:12.72,0:17:18.24,Chn,,0,0,0,,你介不介意告诉我们 你是怎样丢掉你的责任人的？\N{\rEng}Do you mind telling me how you managed to lose your accountabilibuddy?!
+Dialogue: 0,0:17:18.27,0:17:21.22,Chn,,0,0,0,,我去找他的 但他跑的太快了\N{\rEng}I went looking for him, but he runs real fast.
+Dialogue: 0,0:17:21.23,0:17:23.87,Chn,,0,0,0,,你看起来没把这个集训营当回事 Butters\N{\rEng}You don't seem to take this camp seriously, Butters.
+Dialogue: 0,0:17:23.91,0:17:27.40,Chn,,0,0,0,,-我已经打电话叫你爸爸来谈谈了 -哦 不 我爸爸？\N{\rEng}I've called your father in for a talk. - Oh no, my dad?
+Dialogue: 0,0:17:27.43,0:17:29.26,Chn,,0,0,0,,你明不明白地狱的概念？\N{\rEng}Do you understand the concept of hell?
+Dialogue: 0,0:17:29.29,0:17:33.73,Chn,,0,0,0,,你有没有意识到如果我们不治好你 你就会在火海中燃烧直至永远？\N{\rEng}Do you realize that if we don't fix you, you will burn in a lake of fire for eternity?
+Dialogue: 0,0:17:33.77,0:17:37.08,Chn,,0,0,0,,嗯 是的 但是我不是很明白 你们在治疗什么\N{\rEng}Well yeah, but I just don't quite understand what you're fixing.
+Dialogue: 0,0:17:37.12,0:17:41.07,Chn,,0,0,0,,-我们在治疗你的困惑 -你在这儿 Butters\N{\rEng}We're fixing your confusion! - There you are, Butters!
+Dialogue: 0,0:17:41.12,0:17:43.63,Chn,,0,0,0,,-哦 嗨 爸爸 -他做了什么？\N{\rEng}Oh, hey dad. - What's he done now?!
+Dialogue: 0,0:17:43.66,0:17:47.61,Chn,,0,0,0,,Stotch先生 你的儿子很顽固 他不愿意改变 更糟的是\N{\rEng}Mr. Stotch, your son is insubordinate, unwilling to change and worse yet
+Dialogue: 0,0:17:47.64,0:17:49.94,Chn,,0,0,0,,他丢了他的责任人\N{\rEng}he's lost his accountabilibuddy!
+Dialogue: 0,0:17:50.07,0:17:53.79,Chn,,0,0,0,,他们找到他了！他们找到Bradley了！ 你们最好快点\N{\rEng}They found him! They found Bradley! You'd better come quick!
+Dialogue: 0,0:18:00.92,0:18:04.11,Chn,,0,0,0,,哦天上的主啊！不要跳 Bradley！\N{\rEng}Oh Lord in Heaven! Don't jump, Bradley!
+Dialogue: 0,0:18:04.14,0:18:07.28,Chn,,0,0,0,,退 退后！上帝憎恶我！\N{\rEng}Stay back! I'm an abomination of God!
+Dialogue: 0,0:18:07.40,0:18:09.52,Chn,,0,0,0,,不 我们在治疗你！\N{\rEng}No, we're fixing you!
+Dialogue: 0,0:18:15.45,0:18:19.18,Chn,,0,0,0,,我猜你以为今天是大日子 啊 Kyle? 想在大伙面前羞辱我？\N{\rEng}Guess you think today is your big day, huh Kyle? To embarrass me in front of everyone?
+Dialogue: 0,0:18:19.21,0:18:22.30,Chn,,0,0,0,,你猜怎么着？我不会让你得逞的！\N{\rEng}Well guess what? I'm not giving you the satisfaction!
+Dialogue: 0,0:18:23.96,0:18:26.39,Chn,,0,0,0,,好的 学生们 我们上课\N{\rEng}Okay students, let's all take our seats.
+Dialogue: 0,0:18:26.43,0:18:29.21,Chn,,0,0,0,,今天是礼拜一 我们照往常一样从宣讲开始\N{\rEng}Since it is Monday, we'll start as always with Show And Tell.
+Dialogue: 0,0:18:29.21,0:18:31.59,Chn,,0,0,0,,谁想第一个来？\N{\rEng}Who'd like to go first?
+Dialogue: 0,0:18:31.63,0:18:32.99,Chn,,0,0,0,,哦！放弃吧 老兄！\N{\rEng}Ow! Quit it, dude!
+Dialogue: 0,0:18:33.03,0:18:36.31,Chn,,0,0,0,,好的 Eric 老天 冷静下来 你可以第一个来\N{\rEng}Okay Eric, Jesus, calm down. You can go first.
+Dialogue: 0,0:18:41.51,0:18:44.90,Chn,,0,0,0,,在今天的宣讲会上 我想和你们分享一些非常特别的\N{\rEng}For Show And Tell today, I would like to share with you some very special,
+Dialogue: 0,0:18:44.90,0:18:49.60,Chn,,0,0,0,,在追求成为受尊敬的摄影家的道路上 我拍摄的非常艺术的照片\N{\rEng}very artsy photographs I've taken in pursuit of being a respected photographer.
+Dialogue: 0,0:18:49.96,0:18:52.69,Chn,,0,0,0,,第一张照片我称其为“冬天的心情”\N{\rEng}This first picture I like to call "Moods of Winter."
+Dialogue: 0,0:18:52.71,0:18:54.97,Chn,,0,0,0,,一幅简单的高黑白对比度的 白杨林照片\N{\rEng}A simple aspen grove shot in high-contrast black and white
+Dialogue: 0,0:18:54.97,0:18:58.92,Chn,,0,0,0,,表现了树干的痛苦 使我们想起死亡\N{\rEng}shows the brittleness of the trunks and reminds one of death.
+Dialogue: 0,0:19:00.82,0:19:04.54,Chn,,0,0,0,,这幅照片是我在日出时拍摄 这个孤独的人正步行上班\N{\rEng}This picture I took just as the sun was rising and this lonely man was walking to work.
+Dialogue: 0,0:19:04.58,0:19:06.70,Chn,,0,0,0,,也许表达了我们所有的孤独？\N{\rEng}A statement about all of our loneliness, perhaps?
+Dialogue: 0,0:19:06.73,0:19:08.66,Chn,,0,0,0,,他不会想给每个人看--\N{\rEng}He isn't actually going to show everyone.
+Dialogue: 0,0:19:08.69,0:19:10.24,Chn,,0,0,0,,下一张照片...\N{\rEng}And now this next picture...
+Dialogue: 0,0:19:11.60,0:19:15.67,Chn,,0,0,0,,别跳 Bradley 你只会让上帝对你更加生气\N{\rEng}Don't jump, Bradley! You will only make god angrier with you!
+Dialogue: 0,0:19:15.72,0:19:17.59,Chn,,0,0,0,,太晚了\N{\rEng}It's too late.
+Dialogue: 0,0:19:17.64,0:19:21.74,Chn,,0,0,0,,Bradley 求你了 你是我的责任人 你这样让我怎么见人？\N{\rEng}Bradley, please. You're my accountabilibuddy. How will this make me look?
+Dialogue: 0,0:19:21.77,0:19:23.88,Chn,,0,0,0,,你退后 你只会让事情更糟\N{\rEng}You get back. You're only gonna make things worse.
+Dialogue: 0,0:19:23.91,0:19:26.69,Chn,,0,0,0,,我不正常 我永远不会正常了\N{\rEng}I'm not normal. I'll never be normal!
+Dialogue: 0,0:19:26.72,0:19:31.37,Chn,,0,0,0,,-你完全正常 Bradley -退后 你跟他一样困惑\N{\rEng}You're perfectly normal, Bradley. - Get back! You're just as confused as he is!
+Dialogue: 0,0:19:31.41,0:19:33.64,Chn,,0,0,0,,好吧 好吧 就这样了\N{\rEng}All right. All right that does it!
+Dialogue: 0,0:19:33.67,0:19:38.04,Chn,,0,0,0,,我恶心和厌倦了每个人 告诉我说我很困惑\N{\rEng}I am sick and tired of everyone telling me I'm confused!
+Dialogue: 0,0:19:38.09,0:19:42.08,Chn,,0,0,0,,在其他人说我困惑之前 我根本不困惑\N{\rEng}I wasn't confused until other people started telling me I was!
+Dialogue: 0,0:19:43.93,0:19:48.04,Chn,,0,0,0,,你知道我怎么想的吗？ 我想有可能是你们困惑了！\N{\rEng}You know what I think? I think maybe you are the ones who are confused!
+Dialogue: 0,0:19:48.24,0:19:49.18,Chn,,0,0,0,,是啊\N{\rEng}Yeah.
+Dialogue: 0,0:19:49.21,0:19:53.42,Chn,,0,0,0,,我不再仅仅因为你们说我困惑 我就困惑下去了\N{\rEng}I'm not gonna be confused anymore just because you say I should be!
+Dialogue: 0,0:19:53.45,0:19:59.47,Chn,,0,0,0,,我的名字叫Butters 我八岁 我的血型是O型 我有同性好奇\N{\rEng}My name is Butters, I'm eight years old, I'm blood type O and I'm bi-curious!
+Dialogue: 0,0:19:59.76,0:20:05.34,Chn,,0,0,0,,即便如此也不要紧 因为如果我有同性好奇 我也是上帝因某种原因造出来的\N{\rEng}And even that's okay! Because if I'm bi-curious and I'm somehow made from God.
+Dialogue: 0,0:20:05.37,0:20:09.87,Chn,,0,0,0,,我想上帝自己一定也有点同性好奇\N{\rEng}Then I think your God must be a little bi-curious himself!
+Dialogue: 0,0:20:14.36,0:20:17.39,Chn,,0,0,0,,我认为 我认为我现在想下来了\N{\rEng}I think. I think I'd like to come down now.
+Dialogue: 0,0:20:17.83,0:20:21.26,Chn,,0,0,0,,他要下来了 我们做到了\N{\rEng}He's coming down! We did it!
+Dialogue: 0,0:20:21.56,0:20:24.81,Chn,,0,0,0,,借助基督的力量 我们拯救了这个孩子\N{\rEng}Through the power of Christ we have saved this child!
+Dialogue: 0,0:20:25.25,0:20:27.50,Chn,,0,0,0,,Butters 我想我们也可以回家了\N{\rEng}Well Butters, I guess we might as well go home.
+Dialogue: 0,0:20:27.53,0:20:31.57,Chn,,0,0,0,,-看上去你永远不会改变了 -不了 我喜欢有点同性好奇\N{\rEng}Looks like you're never gonna change. - No. I like being bi-curious.
+Dialogue: 0,0:20:31.60,0:20:35.33,Chn,,0,0,0,,你知道吗？我也是\N{\rEng}Well you know something? So do I.
+Dialogue: 0,0:20:36.97,0:20:39.16,Chn,,0,0,0,,等等 我现在困惑了\N{\rEng}Wait. Now I am confused.
+Dialogue: 0,0:20:39.64,0:20:42.88,Chn,,0,0,0,,这张照片是我在电厂附近拍摄的日落\N{\rEng}And this photograph I took of a sunset near the power plant.
+Dialogue: 0,0:20:42.91,0:20:46.85,Chn,,0,0,0,,注意着对比强烈的画面表达了 我们对于地球深深的影响\N{\rEng}Note how the contrasting images make a statement about our impact on the Earth.
+Dialogue: 0,0:20:46.88,0:20:50.33,Chn,,0,0,0,,接着是我最后一张照片\N{\rEng}Which brings us to my last picture.
+Dialogue: 0,0:20:51.37,0:20:54.92,Chn,,0,0,0,,这张照片你们可能觉得有点争议性\N{\rEng}This picture you may find somewhat controversial.
+Dialogue: 0,0:21:00.22,0:21:01.39,Chn,,0,0,0,,老兄\N{\rEng}Dude.
+Dialogue: 0,0:21:01.42,0:21:05.08,Chn,,0,0,0,,是的 这张照片以5.6光圈 使用低光滤镜拍摄\N{\rEng}Yes. This is shot at a 5.6 aperture using a low-light filter.
+Dialogue: 0,0:21:05.11,0:21:07.02,Chn,,0,0,0,,你可以看见高速胶片上的颗粒\N{\rEng}You can see the grain from the high-speed film...
+Dialogue: 0,0:21:07.02,0:21:08.83,Chn,,0,0,0,,这里大概有个阳物在我嘴里\N{\rEng}there's sort of a penis in my mouth right here...
+Dialogue: 0,0:21:08.83,0:21:11.19,Chn,,0,0,0,,场地的低深度使得背景柔和\N{\rEng}and the low depth of field keeps the background soft.
+Dialogue: 0,0:21:11.22,0:21:13.34,Chn,,0,0,0,,Eric 这到底是什么？\N{\rEng}Eric, what the hell is this?!
+Dialogue: 0,0:21:13.37,0:21:16.14,Chn,,0,0,0,,这里是一个反对伊拉克战争的声明\N{\rEng}What this is, is a statement against the war in Iraq.
+Dialogue: 0,0:21:16.17,0:21:18.60,Chn,,0,0,0,,我们的军队还在伊拉克是错误的 是错误的！\N{\rEng}It's wrong that we still have our troops there. It's wrong!
+Dialogue: 0,0:21:18.63,0:21:20.62,Chn,,0,0,0,,-我认为-- -Eric Cartman？\N{\rEng}And what I think that- - Eric Cartman?
+Dialogue: 0,0:21:20.67,0:21:23.64,Chn,,0,0,0,,我们收到你妈妈的紧急信息\N{\rEng}We got an emergency message from your mother?
+Dialogue: 0,0:21:23.67,0:21:28.21,Chn,,0,0,0,,{\i1}别放照片 Kyle没拿{\i0}\N{\rEng}{\i1}Do not show picture. Kyle didn't have it after all.{\i0}
+Dialogue: 0,0:21:28.24,0:21:30.35,Chn,,0,0,0,,{\i1}在你桌底找到了{\i0}\N{\rEng}{\i1}Found it under your desk.{\i0}
+Dialogue: 0,0:21:30.38,0:21:33.16,Chn,,0,0,0,,她说你知道是什么意思 好吧？\N{\rEng}She said you'd know what that means, mkay?
+Dialogue: 0,0:21:43.60,0:21:45.20,Chn,,0,0,0,,靠\N{\rEng}Lame.
+Dialogue: 0,0:21:45.30,0:21:47.80,Chn,,0,0,0,,翻译：sansanfeng @ 1000fr.com 校对：sansanfeng @ 1000fr.com\N{\rEng}{\i1}Transcript: spscriptorium Sync: muter - forom.com{\i0}\N{\rEng}双语合成 Lv&daisy

@@ -1,0 +1,522 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: South.Park.S11E10.Imaginationland.1080p.BluRay.x264-SHORTBREHD
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 1916
+PlayResY: 1076
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,微软雅黑,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Git,Comic Sans MS,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Chn,微软雅黑,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,20,1
+Style: Eng,Comic Sans MS,60,&H002AF7FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.34,0:00:09.17,Chn,,0,0,0,,♪ I'm going down to South Park ♪
+Dialogue: 0,0:00:09.30,0:00:12.76,Chn,,0,0,0,,♪ Gonna have myself a time ♪
+Dialogue: 0,0:00:12.88,0:00:13.51,Chn,,0,0,0,,♪ Friendly faces everywhere ♪
+Dialogue: 0,0:00:13.68,0:00:14.89,Chn,,0,0,0,,♪ Humble folks without temptation ♪
+Dialogue: 0,0:00:15.01,0:00:16.22,Chn,,0,0,0,,♪ Going down to South Park ♪
+Dialogue: 0,0:00:16.35,0:00:18.39,Chn,,0,0,0,,♪ Gonna leave my woes behind ♪
+Dialogue: 0,0:00:18.52,0:00:19.89,Chn,,0,0,0,,♪ Ample parking day or night ♪
+Dialogue: 0,0:00:20.02,0:00:21.77,Chn,,0,0,0,,♪ People spouting "howdy neighbor" ♪
+Dialogue: 0,0:00:21.89,0:00:22.81,Chn,,0,0,0,,♪ Headed on up to South Park ♪
+Dialogue: 0,0:00:22.94,0:00:24.73,Chn,,0,0,0,,♪ Gonna see if I can't unwind ♪
+Dialogue: 0,0:00:28.19,0:00:29.61,Chn,,0,0,0,,♪ Come on down to South Park ♪
+Dialogue: 0,0:00:29.73,0:00:31.82,Chn,,0,0,0,,♪ And meet some friends of mine ♪
+Dialogue: 0,0:00:31.82,0:00:34.28,Chn,,0,0,0,,{\c&H00ffff&}-=风软FRM字幕组=-\N{\rEng}听译:无伤 校对：无伤 iTunes：Tearemix\N{\rEng}双语合成 Lv&daisy
+Dialogue: 0,0:00:38.28,0:00:40.45,Chn,,0,0,0,,好啦 就是这个地方\N{\rEng}All right, let's try over here.
+Dialogue: 0,0:00:40.58,0:00:42.71,Chn,,0,0,0,,把索子捆在这里 还有那里\N{\rEng}Set up traps there and there as well.
+Dialogue: 0,0:00:42.83,0:00:45.21,Chn,,0,0,0,,上次我见到它的时候 就是在这个地方\N{\rEng}Last time I saw him, he ran right through here.
+Dialogue: 0,0:00:45.33,0:00:47.79,Chn,,0,0,0,,这也太扯了吧 cartman\N{\rEng}This is so retarded, Cartman.
+Dialogue: 0,0:00:47.92,0:00:49.63,Chn,,0,0,0,,你居然把大家都骗得团团转\N{\rEng}You've got everyone believing your stupid story.
+Dialogue: 0,0:00:49.75,0:00:51.42,Chn,,0,0,0,,我才没骗人呢 我说的是真的！\N{\rEng}It isn't a story, it's true.
+Dialogue: 0,0:00:51.55,0:00:53.59,Chn,,0,0,0,,我看见了一个小妖精\N{\rEng}I saw a leprechaun.
+Dialogue: 0,0:00:53.72,0:00:56.80,Chn,,0,0,0,,三天前 就在这个地方 可惜它跑掉了\N{\rEng}I've seen him come through here three days in a row, now.
+Dialogue: 0,0:00:56.93,0:00:58.01,Chn,,0,0,0,,鹰眼 我是龙息\N{\rEng}Hawkeyes, this is Dragonwind.
+Dialogue: 0,0:00:58.14,0:00:59.39,Chn,,0,0,0,,你那准备得如何了？\N{\rEng}Do you copy?
+Dialogue: 0,0:00:59.51,0:01:01.14,Chn,,0,0,0,,我是鹰眼\N{\rEng}This is Hawkeyes.
+Dialogue: 0,0:01:01.27,0:01:03.02,Chn,,0,0,0,,我们现在正在吊网呢\N{\rEng}We've set up the net and we're standing by.
+Dialogue: 0,0:01:03.14,0:01:04.06,Chn,,0,0,0,,继续努力 鹰眼\N{\rEng}Copy that, Hawkeyes.
+Dialogue: 0,0:01:04.19,0:01:05.40,Chn,,0,0,0,,千万不要松懈\N{\rEng}Keep surveillance tag alpha-niner.
+Dialogue: 0,0:01:05.52,0:01:06.94,Chn,,0,0,0,,龙翼完毕\N{\rEng}Dragonwind out.
+Dialogue: 0,0:01:07.06,0:01:08.06,Chn,,0,0,0,,快承认你自己的谎言吧 cartman\N{\rEng}Just admit you were lying, Cartman,
+Dialogue: 0,0:01:08.19,0:01:09.61,Chn,,0,0,0,,这样大家都可以回家了\N{\rEng}so that everyone can go home.
+Dialogue: 0,0:01:09.73,0:01:11.32,Chn,,0,0,0,,噢 才不呢 我们可是有协议的哦 kyle\N{\rEng}Oh, no, we have a deal, Kyle.
+Dialogue: 0,0:01:11.44,0:01:12.86,Chn,,0,0,0,,如果世上真的有小妖精的存在\N{\rEng}If I can prove there's a leprechaun,
+Dialogue: 0,0:01:12.99,0:01:14.49,Chn,,0,0,0,,那你可就要舔我的蛋蛋 别忘了哦\N{\rEng}you have to suck my balls, remember?
+Dialogue: 0,0:01:14.61,0:01:16.36,Chn,,0,0,0,,龙息呼叫小黑黑\N{\rEng}Dragonwind to Blackie.
+Dialogue: 0,0:01:16.49,0:01:19.08,Chn,,0,0,0,,那边情况如何？ 小黑黑\N{\rEng}What's your six, Blackie?
+Dialogue: 0,0:01:20.20,0:01:22.12,Chn,,0,0,0,,我不想被叫做“小黑黑”\N{\rEng}I don't want the code name "Blackie."
+Dialogue: 0,0:01:22.25,0:01:23.45,Chn,,0,0,0,,顺其自然吧 小黑黑\N{\rEng}Code names are what they are, Blackie.
+Dialogue: 0,0:01:23.58,0:01:25.71,Chn,,0,0,0,,仔细观察你的四周\N{\rEng}Check your six and alert when in position.
+Dialogue: 0,0:01:25.83,0:01:27.42,Chn,,0,0,0,,这也他妈太蠢了吧？\N{\rEng}This is fucking retarded.
+Dialogue: 0,0:01:27.54,0:01:28.88,Chn,,0,0,0,,哈哈 紧张了是吧 kyle\N{\rEng}Getting nervous, Kyle?
+Dialogue: 0,0:01:29.00,0:01:31.13,Chn,,0,0,0,,只要小妖精一出现 你就非得舔我的蛋蛋不可\N{\rEng}When that leprechaun shows up you {\i1}must{\i0} suck my balls.
+Dialogue: 0,0:01:31.25,0:01:32.88,Chn,,0,0,0,,别忘了我们可是签了合同的哦\N{\rEng}Don't forget, I have a signed contract from you.
+Dialogue: 0,0:01:33.01,0:01:34.26,Chn,,0,0,0,,没错 如果你不能证明\N{\rEng}Yeah, and if you couldn't prove
+Dialogue: 0,0:01:34.38,0:01:36.05,Chn,,0,0,0,,小妖精的存在的话 你就要给我10块钱\N{\rEng}there was a leprechaun, you had to give me $10.
+Dialogue: 0,0:01:36.18,0:01:38.60,Chn,,0,0,0,,快把钱给我吧 不要再装啦\N{\rEng}Now just pay up and stop being stupid!
+Dialogue: 0,0:01:38.72,0:01:40.56,Chn,,0,0,0,,日哦 它怎么还不出现呀\N{\rEng}Goddamn it, why hasn't it shown up yet?
+Dialogue: 0,0:01:40.68,0:01:42.47,Chn,,0,0,0,,龙息呼叫娘娘腔\N{\rEng}Dragonwind to Faggot, come in, Faggot.
+Dialogue: 0,0:01:42.60,0:01:45.27,Chn,,0,0,0,,这是娘娘腔\N{\rEng}This is Faggot.
+Dialogue: 0,0:01:45.39,0:01:46.23,Chn,,0,0,0,,请讲\N{\rEng}Go ahead.
+Dialogue: 0,0:01:46.52,0:01:48.15,Chn,,0,0,0,,娘娘腔 我需要你多注意东北方\N{\rEng}Faggot, I need you to keep surveillance north, northeast.
+Dialogue: 0,0:01:48.27,0:01:49.61,Chn,,0,0,0,,有情况就及时汇报！\N{\rEng}Check back in five.
+Dialogue: 0,0:01:49.73,0:01:50.77,Chn,,0,0,0,,好的 没问题\N{\rEng}Okay, will do.
+Dialogue: 0,0:01:50.90,0:01:52.94,Chn,,0,0,0,,娘娘腔完毕\N{\rEng}Faggot out... Ugh.
+Dialogue: 0,0:01:54.19,0:01:55.45,Chn,,0,0,0,,好啦 我受够了\N{\rEng}Okay, that's enough.
+Dialogue: 0,0:01:55.57,0:01:57.78,Chn,,0,0,0,,各位 cartman不过是在\N{\rEng}Everybody... Cartman is just pulling one of his
+Dialogue: 0,0:01:57.91,0:01:59.16,Chn,,0,0,0,,欺骗大家的感情罢了\N{\rEng}stupid tricks on everyone
+Dialogue: 0,0:01:59.28,0:02:01.12,Chn,,0,0,0,,因为他想混过他的合同!\N{\rEng}because he's trying to get out of a deal he made.
+Dialogue: 0,0:02:01.24,0:02:02.37,Chn,,0,0,0,,它就在这的 我发誓！\N{\rEng}It was here, I swear it!
+Dialogue: 0,0:02:02.49,0:02:04.12,Chn,,0,0,0,,我只是不知道它今天怎么还没出现\N{\rEng}I don't know why it's not showing up this time!
+Dialogue: 0,0:02:04.25,0:02:06.25,Chn,,0,0,0,,你才没见过小妖精呢 死胖子\N{\rEng}You didn't see a leprechaun, fat ass!
+Dialogue: 0,0:02:06.37,0:02:08.00,Chn,,0,0,0,,如果你能证明它的存在的话 我就舔你的蛋蛋\N{\rEng}If you could prove it, I had to suck your balls,
+Dialogue: 0,0:02:08.12,0:02:10.21,Chn,,0,0,0,,可如果你不能 你就得给我十块钱！\N{\rEng}and if you couldn't, you had to pay me $10.
+Dialogue: 0,0:02:10.34,0:02:11.79,Chn,,0,0,0,,给钱\N{\rEng}Pay up!
+Dialogue: 0,0:02:11.92,0:02:13.55,Chn,,0,0,0,,噢 我看见什么啦\N{\rEng}I got something!
+Dialogue: 0,0:02:13.67,0:02:15.17,Chn,,0,0,0,,我看见啦！\N{\rEng}I got it!
+Dialogue: 0,0:02:15.30,0:02:18.26,Chn,,0,0,0,,它看起来好象..我想它应该是个小妖精\N{\rEng}It's a-- whoa, jeez, I think it's a leprechaun!
+Dialogue: 0,0:02:18.38,0:02:20.09,Chn,,0,0,0,,小黑黑 快放陷阱！\N{\rEng}Set off diversion trap "c"!
+Dialogue: 0,0:02:25.43,0:02:27.98,Chn,,0,0,0,,天哪\N{\rEng}Dude!
+Dialogue: 0,0:02:28.10,0:02:29.94,Chn,,0,0,0,,我..我..日.. 真的是小妖精\N{\rEng}F- fuck me, it's a leprechaun.
+Dialogue: 0,0:02:30.06,0:02:31.36,Chn,,0,0,0,,抓住它！\N{\rEng}Get it!
+Dialogue: 0,0:02:32.86,0:02:34.19,Chn,,0,0,0,,抓住这该死的小妖精！\N{\rEng}Get that fucking leprechaun!
+Dialogue: 0,0:02:34.32,0:02:36.07,Chn,,0,0,0,,要活的\N{\rEng}I want it alive!
+Dialogue: 0,0:02:47.75,0:02:50.25,Chn,,0,0,0,,- 酷 - 不可能吧\N{\rEng}Wow! - Cool! - No way! - Whoa!
+Dialogue: 0,0:02:50.38,0:02:52.04,Chn,,0,0,0,,让开 让开！\N{\rEng}Move aside, move aside!
+Dialogue: 0,0:02:52.17,0:02:55.55,Chn,,0,0,0,,好啦 小屁眼 黄金在哪儿？\N{\rEng}All right, butthole, where's the gold?
+Dialogue: 0,0:02:55.67,0:02:58.22,Chn,,0,0,0,,我不知道你们在说虾米啊\N{\rEng}You lads don't know what you're doing!
+Dialogue: 0,0:02:58.34,0:02:59.88,Chn,,0,0,0,,我有份急件要送\N{\rEng}I need to deliver an important message!
+Dialogue: 0,0:03:00.01,0:03:01.34,Chn,,0,0,0,,有一场入侵即将发生！\N{\rEng}There's going to be an attack!
+Dialogue: 0,0:03:01.47,0:03:03.30,Chn,,0,0,0,,快说黄金在哪儿！ 不然你就得死！\N{\rEng}Tell me where the gold is or you die...
+Dialogue: 0,0:03:03.43,0:03:05.31,Chn,,0,0,0,,凌迟！\N{\rEng}Slow.
+Dialogue: 0,0:03:07.48,0:03:09.14,Chn,,0,0,0,,它去哪了？\N{\rEng}Where'd he go?!
+Dialogue: 0,0:03:10.73,0:03:12.15,Chn,,0,0,0,,我本来是要送一份紧急的军机情报的\N{\rEng}I was sent to warn of a terrorist attack,
+Dialogue: 0,0:03:12.27,0:03:13.61,Chn,,0,0,0,,可你们这些臭小子害我把时间给耽误了\N{\rEng}but you boys have made me late!
+Dialogue: 0,0:03:13.73,0:03:14.86,Chn,,0,0,0,,现在恐怖分子就要来啦\N{\rEng}Now the terrorists will prevail!
+Dialogue: 0,0:03:14.98,0:03:16.48,Chn,,0,0,0,,我们要完蛋了\N{\rEng}The end is near!
+Dialogue: 0,0:03:18.32,0:03:21.45,Chn,,0,0,0,,Dude.
+Dialogue: 0,0:03:22.70,0:03:23.83,Chn,,0,0,0,,Kyle...
+Dialogue: 0,0:03:23.95,0:03:26.49,Chn,,0,0,0,,舔..我..的..蛋..蛋\N{\rEng}Suck my balls.
+Dialogue: 0,0:03:30.87,0:03:32.67,Chn,,0,0,0,,(南方公园)
+Dialogue: 0,0:03:34.47,0:03:38.07,Chn,,0,0,0,,(犹太人勇斗肥仔睾丸)
+Dialogue: 0,0:03:39.87,0:03:43.17,Chn,,0,0,0,,(三部曲)
+Dialogue: 0,0:03:54.36,0:03:56.57,Chn,,0,0,0,,老爸 小妖精是从哪来的呀?\N{\rEng}Dad, where do leprechauns come from?
+Dialogue: 0,0:03:56.69,0:03:59.03,Chn,,0,0,0,,爱尔兰呀\N{\rEng}From Ireland.
+Dialogue: 0,0:03:59.15,0:04:00.61,Chn,,0,0,0,,那么 他们怎么会跑到美国\N{\rEng}So why would one come to America
+Dialogue: 0,0:04:00.74,0:04:02.66,Chn,,0,0,0,,来报告恐怖分子入侵呢?\N{\rEng}to warn us about a terrorist attack?
+Dialogue: 0,0:04:02.78,0:04:04.95,Chn,,0,0,0,,kyle 小妖精不是真实存在着的\N{\rEng}Kyle, leprechauns aren't real.
+Dialogue: 0,0:04:05.07,0:04:06.45,Chn,,0,0,0,,你都差不多九岁了\N{\rEng}You're almost nine now.
+Dialogue: 0,0:04:06.58,0:04:08.04,Chn,,0,0,0,,该明白真实和幻想\N{\rEng}You need to understand the difference
+Dialogue: 0,0:04:08.16,0:04:10.00,Chn,,0,0,0,,之间的区别了呀\N{\rEng}between real and imaginary.
+Dialogue: 0,0:04:10.12,0:04:11.54,Chn,,0,0,0,,我原来是明白的..\N{\rEng}I thought I did.
+Dialogue: 0,0:04:15.17,0:04:17.17,Chn,,0,0,0,,哈罗 Broflovski太太\N{\rEng}Ah, Mrs. Broflovski,
+Dialogue: 0,0:04:17.30,0:04:18.17,Chn,,0,0,0,,见到您真高兴!\N{\rEng}how are you this fine evening?
+Dialogue: 0,0:04:18.30,0:04:19.59,Chn,,0,0,0,,噢 哈罗 eric\N{\rEng}Oh, hello, Eric.
+Dialogue: 0,0:04:19.71,0:04:21.30,Chn,,0,0,0,,kyle 你的小朋友来啦\N{\rEng}Kyle, your friend is here.
+Dialogue: 0,0:04:21.42,0:04:23.26,Chn,,0,0,0,,哈罗 Broflovski先生 ike\N{\rEng}Hello, Mr. Broflovski, Ike.
+Dialogue: 0,0:04:23.38,0:04:24.93,Chn,,0,0,0,,今晚天气真好呀 不是吗?\N{\rEng}Nice evening, isn't it?
+Dialogue: 0,0:04:25.05,0:04:26.18,Chn,,0,0,0,,恩 kyle 我们可以去你的房间\N{\rEng}Well, Kyle, shall we go up to your room
+Dialogue: 0,0:04:26.30,0:04:28.18,Chn,,0,0,0,,单独聊几分钟吗?\N{\rEng}for a few minutes?
+Dialogue: 0,0:04:28.31,0:04:29.68,Chn,,0,0,0,,滚出去 cartman 我们在吃晚饭呢\N{\rEng}Get out of here, Cartman, we're eating dinner.
+Dialogue: 0,0:04:29.81,0:04:32.60,Chn,,0,0,0,,恩 kyle 我想似乎有些人有义务\N{\rEng}Uh, Kyle, I believe a certain someone is supposed to
+Dialogue: 0,0:04:32.73,0:04:34.69,Chn,,0,0,0,,把某些球状物体放入自己的嘴巴哦\N{\rEng}put a certain set of balls in their mouth.
+Dialogue: 0,0:04:34.81,0:04:35.90,Chn,,0,0,0,,我才不干呢 死胖子\N{\rEng}I'm not doing it, fat ass!
+Dialogue: 0,0:04:36.02,0:04:37.15,Chn,,0,0,0,,干什么?\N{\rEng}Doing what?
+Dialogue: 0,0:04:37.27,0:04:38.86,Chn,,0,0,0,,我们有协议的 kyle\N{\rEng}We had a deal, Kyle!
+Dialogue: 0,0:04:38.98,0:04:40.11,Chn,,0,0,0,,快给我滚出去!\N{\rEng}Just get out of here!
+Dialogue: 0,0:04:40.23,0:04:42.11,Chn,,0,0,0,,你可是签了合同的! kyle\N{\rEng}You signed an agreement, Kyle!
+Dialogue: 0,0:04:42.24,0:04:44.49,Chn,,0,0,0,,我才不理什么鸟合同呢!\N{\rEng}I don't care if I signed an agreement!
+Dialogue: 0,0:04:44.61,0:04:46.53,Chn,,0,0,0,,这样不对哦 kyle 如果你和他人签了合同的话\N{\rEng}Hey now, Kyle, if you made a deal with somebody,
+Dialogue: 0,0:04:46.66,0:04:47.87,Chn,,0,0,0,,就要遵守上面的条款\N{\rEng}you have to stick by it.
+Dialogue: 0,0:04:47.99,0:04:49.83,Chn,,0,0,0,,多谢啦 Broflovski先生\N{\rEng}Thank you, Mr. Broflovski.
+Dialogue: 0,0:04:49.95,0:04:51.75,Chn,,0,0,0,,你们签的合同是什么?\N{\rEng}What was the agreement?
+Dialogue: 0,0:04:51.87,0:04:53.25,Chn,,0,0,0,,如果他能证明小妖精的存在\N{\rEng}That if he could prove leprechauns exist
+Dialogue: 0,0:04:53.37,0:04:54.87,Chn,,0,0,0,,我就添他的蛋蛋\N{\rEng}I would suck his balls.
+Dialogue: 0,0:04:55.00,0:04:56.25,Chn,,0,0,0,,虾...米...!!!\N{\rEng}What-what-what?!
+Dialogue: 0,0:04:56.38,0:04:57.59,Chn,,0,0,0,,而的确小妖精!\N{\rEng}And there was a leprechaun!
+Dialogue: 0,0:04:57.71,0:04:59.09,Chn,,0,0,0,,你看见了 kyle\N{\rEng}You saw it, Kyle!
+Dialogue: 0,0:05:01.84,0:05:03.05,Chn,,0,0,0,,嗨 伙计们\N{\rEng}Hey, dudes.
+Dialogue: 0,0:05:03.17,0:05:04.97,Chn,,0,0,0,,嗨 kyle\N{\rEng}Hey, Kyle.
+Dialogue: 0,0:05:05.09,0:05:07.47,Chn,,0,0,0,,怎样 感觉如何?\N{\rEng}So... How was it?
+Dialogue: 0,0:05:07.60,0:05:08.89,Chn,,0,0,0,,什么感觉如何?\N{\rEng}How was what?
+Dialogue: 0,0:05:09.01,0:05:11.60,Chn,,0,0,0,,舔cartman的蛋..蛋啊?\N{\rEng}Sucking Cartman's ba-balls.
+Dialogue: 0,0:05:11.72,0:05:13.31,Chn,,0,0,0,,我没舔他的蛋蛋!\N{\rEng}I didn't suck his balls, all right!
+Dialogue: 0,0:05:13.43,0:05:14.77,Chn,,0,0,0,,而且我也不准备舔!\N{\rEng}And I'm not going to!
+Dialogue: 0,0:05:14.89,0:05:15.77,Chn,,0,0,0,,那你一开始的时候为什么\N{\rEng}Dude, why did you ever agree
+Dialogue: 0,0:05:15.90,0:05:17.56,Chn,,0,0,0,,要签那种协议呢?\N{\rEng}to suck his balls in the first place?
+Dialogue: 0,0:05:17.69,0:05:19.90,Chn,,0,0,0,,我那时根本不相信有小妖精的存在\N{\rEng}I didn't think there would actually be a leprechaun!
+Dialogue: 0,0:05:20.02,0:05:21.15,Chn,,0,0,0,,而且我现在也不相信!\N{\rEng}And I still don't!
+Dialogue: 0,0:05:21.28,0:05:22.53,Chn,,0,0,0,,小妖精怎么会告诉我们关于\N{\rEng}Why would a leprechaun be warning us
+Dialogue: 0,0:05:22.65,0:05:24.11,Chn,,0,0,0,,恐怖分子入侵的事呢?\N{\rEng}of a terrorist attack?
+Dialogue: 0,0:05:24.24,0:05:25.61,Chn,,0,0,0,,这一切也太无厘头了\N{\rEng}There's another explanation for all this.
+Dialogue: 0,0:05:25.74,0:05:27.41,Chn,,0,0,0,,不好意思哦\N{\rEng}Excuse me,
+Dialogue: 0,0:05:27.53,0:05:30.20,Chn,,0,0,0,,孩子们 你们最近有没见过一只小妖精?\N{\rEng}have you boys seen a leprechaun anywhere lately?
+Dialogue: 0,0:05:30.33,0:05:33.08,Chn,,0,0,0,,你知道什么关于小妖精的事吗?\N{\rEng}What do you know about the leprechaun?
+Dialogue: 0,0:05:33.20,0:05:34.79,Chn,,0,0,0,,噢 那么说你们见过它咯?\N{\rEng}Oh, then you did see him!
+Dialogue: 0,0:05:34.91,0:05:36.96,Chn,,0,0,0,,这实在太赞啦\N{\rEng}That's wondiferous!
+Dialogue: 0,0:05:37.08,0:05:38.79,Chn,,0,0,0,,我希望你们把它说的话都告诉我\N{\rEng}I want you to tell me everything he said!
+Dialogue: 0,0:05:38.92,0:05:40.71,Chn,,0,0,0,,你们在哪见到它的 它那时在干什么?\N{\rEng}Where was he? What was he doing?
+Dialogue: 0,0:05:40.84,0:05:41.92,Chn,,0,0,0,,好啦 我受够啦\N{\rEng}All right, I've had enough!
+Dialogue: 0,0:05:42.05,0:05:43.59,Chn,,0,0,0,,小妖精不过是幻想出来的事物罢了\N{\rEng}Leprechauns are imaginary!
+Dialogue: 0,0:05:43.71,0:05:45.68,Chn,,0,0,0,,没错 它们当然是幻想出来的\N{\rEng}Well, of course, they are.
+Dialogue: 0,0:05:45.80,0:05:47.13,Chn,,0,0,0,,可它们是幻想出来的\N{\rEng}But just because they're imaginary,
+Dialogue: 0,0:05:47.26,0:05:50.10,Chn,,0,0,0,,并不表示它们不是真实的存在\N{\rEng}doesn't mean they aren't real!
+Dialogue: 0,0:05:50.22,0:05:53.98,Chn,,0,0,0,,孩子们 你们有没有开动过自己的想象力?\N{\rEng}Haven't you boys ever used your imagination?
+Dialogue: 0,0:05:54.10,0:05:56.52,Chn,,0,0,0,,你 孩子 难道不想当个牛仔\N{\rEng}You, young man, how would you like to be a cowboy
+Dialogue: 0,0:05:56.64,0:05:58.77,Chn,,0,0,0,,或者是太空舰船长什么的?\N{\rEng}or a swashbuckling pirate?
+Dialogue: 0,0:05:58.90,0:06:00.31,Chn,,0,0,0,,而你\N{\rEng}And you!
+Dialogue: 0,0:06:00.44,0:06:02.02,Chn,,0,0,0,,难道不想当个宇航员\N{\rEng}How would you like to be an astronaut
+Dialogue: 0,0:06:02.15,0:06:03.99,Chn,,0,0,0,,去探索未知的外太空?\N{\rEng}far out in space?
+Dialogue: 0,0:06:04.11,0:06:07.99,Chn,,0,0,0,,这一切 都只需要一点点想象力而已\N{\rEng}All it takes is a little imagination.
+Dialogue: 0,0:06:08.11,0:06:09.62,Chn,,0,0,0,,你到底是谁啊?\N{\rEng}Who the hell are you?
+Dialogue: 0,0:06:09.74,0:06:11.12,Chn,,0,0,0,,还没被我说服吗?\N{\rEng}Still not convinced, eh?
+Dialogue: 0,0:06:11.24,0:06:12.74,Chn,,0,0,0,,我告诉你们哦 孩子们\N{\rEng}I tell you what, boys,
+Dialogue: 0,0:06:12.87,0:06:14.45,Chn,,0,0,0,,不如我们一起去我的\N{\rEng}what say we all take a ride on my
+Dialogue: 0,0:06:14.58,0:06:17.54,Chn,,0,0,0,,幻想飞行器上兜兜风吧\N{\rEng}Imagination Flying Machine?
+Dialogue: 0,0:06:21.09,0:06:22.04,Chn,,0,0,0,,天哪\N{\rEng}Dude.
+Dialogue: 0,0:06:22.17,0:06:23.55,Chn,,0,0,0,,快上来吧 孩子们\N{\rEng}Hop aboard, kids!
+Dialogue: 0,0:06:23.67,0:06:25.46,Chn,,0,0,0,,我可有好东西要给你们看哦\N{\rEng}I have something to show you!
+Dialogue: 0,0:06:25.59,0:06:28.13,Chn,,0,0,0,,厄 你会不会猥亵我们?\N{\rEng}Ah, are you gonna rape us?
+Dialogue: 0,0:06:28.26,0:06:32.60,Chn,,0,0,0,,厄..不会啊..\N{\rEng}Ubla... Uh... No.
+Dialogue: 0,0:06:32.72,0:06:34.89,Chn,,0,0,0,,恩 那就好\N{\rEng}Oh, all right then.
+Dialogue: 0,0:06:35.02,0:06:37.39,Chn,,0,0,0,,快来吧 伙计们\N{\rEng}Come on, guys.
+Dialogue: 0,0:06:37.52,0:06:38.48,Chn,,0,0,0,,小心哦 伙计们\N{\rEng}Watch it, fellas.
+Dialogue: 0,0:06:38.60,0:06:41.11,Chn,,0,0,0,,我很肯定这人想要猥亵我们\N{\rEng}I'm pretty sure this guy wants to rape us.
+Dialogue: 0,0:06:41.23,0:06:44.28,Chn,,0,0,0,,全部上船啦 幻想气球启动!\N{\rEng}All aboard the Imagination Balloon!
+Dialogue: 0,0:06:47.53,0:06:51.16,Chn,,0,0,0,,有些人觉得幻想是不切实际的东西\N{\rEng}Some people feel imagination isn't real.
+Dialogue: 0,0:06:51.28,0:06:52.91,Chn,,0,0,0,,可我要说他们全部都错了\N{\rEng}But I tell them that they're wrong!
+Dialogue: 0,0:06:53.03,0:06:55.45,Chn,,0,0,0,,以为每当我想要开动想象力的时候\N{\rEng}'Cause whenever I want to play and pretend,
+Dialogue: 0,0:06:55.58,0:06:56.83,Chn,,0,0,0,,我都会唱这首\N{\rEng}I just sing the
+Dialogue: 0,0:06:56.95,0:07:00.29,Chn,,0,0,0,,"幻想之歌"\N{\rEng}♪ Imagination song ♪
+Dialogue: 0,0:07:01.83,0:07:08.13,Chn,,0,0,0,,♪ Imagi-na-tion ♪
+Dialogue: 0,0:07:09.63,0:07:12.76,Chn,,0,0,0,,♪ Imagi-na-tion ♪
+Dialogue: 0,0:07:14.35,0:07:16.93,Chn,,0,0,0,,♪ Imagina-tion ♪
+Dialogue: 0,0:07:18.73,0:07:22.31,Chn,,0,0,0,,♪ Imagi-nation ♪
+Dialogue: 0,0:07:23.02,0:07:26.48,Chn,,0,0,0,,♪ Imagi-nation ♪
+Dialogue: 0,0:07:27.40,0:07:30.28,Chn,,0,0,0,,♪ Imagina-tion ♪
+Dialogue: 0,0:07:31.95,0:07:35.79,Chn,,0,0,0,,♪ Ima-gination ♪
+Dialogue: 0,0:07:36.99,0:07:39.79,Chn,,0,0,0,,♪ Imagi-nation ♪
+Dialogue: 0,0:07:41.21,0:07:43.75,Chn,,0,0,0,,♪ Imagination ♪
+Dialogue: 0,0:07:43.88,0:07:45.38,Chn,,0,0,0,,♪ Imagination ♪
+Dialogue: 0,0:07:45.50,0:07:48.34,Chn,,0,0,0,,♪ Imagina-tion ♪
+Dialogue: 0,0:07:50.05,0:07:51.84,Chn,,0,0,0,,♪ Imagination ♪
+Dialogue: 0,0:07:51.97,0:07:53.43,Chn,,0,0,0,,♪ Imagination ♪
+Dialogue: 0,0:07:53.55,0:07:55.68,Chn,,0,0,0,,你到底是要带我们去哪玩 还是怎样?\N{\rEng}Are you gonna take us somewhere or not?!
+Dialogue: 0,0:07:55.81,0:07:57.06,Chn,,0,0,0,,噢..\N{\rEng}O-o-oh!
+Dialogue: 0,0:07:57.18,0:08:00.31,Chn,,0,0,0,,可是 孩子们 我们已经到了呀\N{\rEng}But, my boy, we're already here.
+Dialogue: 0,0:08:17.74,0:08:18.91,Chn,,0,0,0,,!Hoaoa! Whoa!Hoa !Hoaoa! Whoa!Hoa
+Dialogue: 0,0:08:19.04,0:08:20.04,Chn,,0,0,0,,这是哪呀?\N{\rEng}What is this place?
+Dialogue: 0,0:08:20.16,0:08:23.54,Chn,,0,0,0,,这 就是幻想仙境\N{\rEng}This is Imaginationland.
+Dialogue: 0,0:08:23.67,0:08:25.79,Chn,,0,0,0,,这儿全部都是人类在发展过程中\N{\rEng}It's where all the wonderful and goofy things
+Dialogue: 0,0:08:25.92,0:08:29.63,Chn,,0,0,0,,所想像出来的美好的事物\N{\rEng}that humans have made up over the years, live together.
+Dialogue: 0,0:08:41.48,0:08:43.73,Chn,,0,0,0,,各位幻想仙境的居民们\N{\rEng}Citizens of Imaginationland!
+Dialogue: 0,0:08:43.85,0:08:46.90,Chn,,0,0,0,,我们有幸请到了来自遥远的人间的客人\N{\rEng}We have distinguished guests from the world beyond!
+Dialogue: 0,0:08:47.02,0:08:49.32,Chn,,0,0,0,,你们好\N{\rEng}Ooh! - Ahh! - Ooh! - Hello!
+Dialogue: 0,0:08:51.44,0:08:53.57,Chn,,0,0,0,,欢迎来到幻想仙境\N{\rEng}Welcome to Imaginationland.
+Dialogue: 0,0:08:53.70,0:08:56.74,Chn,,0,0,0,,我是棒棒糖国王\N{\rEng}I am the Lollipop King.
+Dialogue: 0,0:08:56.87,0:09:00.08,Chn,,0,0,0,,很荣幸能见到我们国度的创造者们\N{\rEng}We are honored to have creators in our kingdom.
+Dialogue: 0,0:09:00.20,0:09:02.16,Chn,,0,0,0,,还有好消息哦 各位\N{\rEng}Now, good news, everyone.
+Dialogue: 0,0:09:02.29,0:09:04.83,Chn,,0,0,0,,这些孩子们说他们看到小妖精了!\N{\rEng}These boys did see the leprechaun!
+Dialogue: 0,0:09:04.96,0:09:06.50,Chn,,0,0,0,,Yeah! Woo-hoo ! Woo! Yeah!
+Dialogue: 0,0:09:06.63,0:09:08.46,Chn,,0,0,0,,小妖精和你们说什么了?\N{\rEng}What did the leprechaun tell you?
+Dialogue: 0,0:09:08.59,0:09:10.46,Chn,,0,0,0,,它有什么情报吗?\N{\rEng}Did he have any news?
+Dialogue: 0,0:09:10.59,0:09:14.09,Chn,,0,0,0,,它说 即将会有..\N{\rEng}Well, he said there was gonna be a...
+Dialogue: 0,0:09:14.22,0:09:15.84,Chn,,0,0,0,,即将会有..\N{\rEng}That there was gonna be a--
+Dialogue: 0,0:09:15.97,0:09:18.76,Chn,,0,0,0,,阿拉!\N{\rEng}Allah!
+Dialogue: 0,0:09:19.85,0:09:22.43,Chn,,0,0,0,,日 不要呀!\N{\rEng}Oh, fuck, no!
+Dialogue: 0,0:09:25.35,0:09:27.06,Chn,,0,0,0,,Augh!
+Dialogue: 0,0:10:04.52,0:10:07.02,Chn,,0,0,0,,stan 我们得离开这儿!\N{\rEng}Stan, we have to get out of here!
+Dialogue: 0,0:10:10.69,0:10:13.40,Chn,,0,0,0,,快 孩子们 快到我背上来\N{\rEng}Quickly, boys, get on my back!
+Dialogue: 0,0:10:15.36,0:10:16.49,Chn,,0,0,0,,伙计们..\N{\rEng}Fellas!
+Dialogue: 0,0:10:16.61,0:10:17.99,Chn,,0,0,0,,伙计们..等等呀!\N{\rEng}Fellas, wait!
+Dialogue: 0,0:10:18.11,0:10:19.57,Chn,,0,0,0,,别丢下我呀 伙计们!\N{\rEng}Hold on, fellas!
+Dialogue: 0,0:10:19.70,0:10:20.53,Chn,,0,0,0,,Butters!
+Dialogue: 0,0:10:20.66,0:10:21.87,Chn,,0,0,0,,别抛弃我 伙计们\N{\rEng}Don't leave me, fellas!
+Dialogue: 0,0:10:21.99,0:10:22.87,Chn,,0,0,0,,回来!\N{\rEng}Come back!
+Dialogue: 0,0:10:22.99,0:10:24.08,Chn,,0,0,0,,Ugh!
+Dialogue: 0,0:10:25.87,0:10:27.00,Chn,,0,0,0,,天哪!\N{\rEng}Dude!
+Dialogue: 0,0:10:29.47,0:10:30.97,Chn,,0,0,0,,butters!
+Dialogue: 0,0:10:38.13,0:10:39.39,Chn,,0,0,0,,Agh!
+Dialogue: 0,0:10:39.51,0:10:41.85,Chn,,0,0,0,,怎么回事 哪儿啊\N{\rEng}Aghgh! What, where?
+Dialogue: 0,0:10:41.97,0:10:43.85,Chn,,0,0,0,,噢..天哪\N{\rEng}Oh, oh, dude.
+Dialogue: 0,0:10:43.97,0:10:45.72,Chn,,0,0,0,,还好 只是一场梦罢了\N{\rEng}Oh, it was just a dream.
+Dialogue: 0,0:10:45.85,0:10:48.73,Chn,,0,0,0,,一场疯狂的梦\N{\rEng}It was all just a crazy dream.
+Dialogue: 0,0:10:48.73,0:10:49.67,Chn,,0,0,0,,Oh, my God.\N{\rEng}噢..主啊
+Dialogue: 0,0:10:54.98,0:10:56.15,Chn,,0,0,0,,哈罗?\N{\rEng}Hello.
+Dialogue: 0,0:10:56.28,0:10:58.53,Chn,,0,0,0,,兄弟 数学作业写完了吗?\N{\rEng}Dude, did you finish your math homework?
+Dialogue: 0,0:10:58.65,0:11:00.70,Chn,,0,0,0,,我昨天晚上的时间似乎迷失了\N{\rEng}I kind of lost track of time last night.
+Dialogue: 0,0:11:00.82,0:11:02.58,Chn,,0,0,0,,没呢 我整晚没休息好\N{\rEng}No, no, I hardly got any sleep.
+Dialogue: 0,0:11:02.70,0:11:03.99,Chn,,0,0,0,,我梦到一个基佬\N{\rEng}I had this whole messed-up dream
+Dialogue: 0,0:11:04.12,0:11:06.41,Chn,,0,0,0,,带我们去了个什么幻想仙境\N{\rEng}about some gay mayor guy taking us to Imaginationland
+Dialogue: 0,0:11:06.54,0:11:09.17,Chn,,0,0,0,,所有幻想出来的事物都在那生活着\N{\rEng}where all these imaginary characters lived.
+Dialogue: 0,0:11:09.29,0:11:12.46,Chn,,0,0,0,,然后他们就被恐怖分子攻击了?\N{\rEng}And then it got attacked by terrorists?
+Dialogue: 0,0:11:12.59,0:11:14.21,Chn,,0,0,0,,没错 你怎么知道的?\N{\rEng}Yeah, how'd you know?
+Dialogue: 0,0:11:14.34,0:11:16.01,Chn,,0,0,0,,伙计 我们做了同一个梦!\N{\rEng}Dude, I had the same dream!
+Dialogue: 0,0:11:16.13,0:11:17.17,Chn,,0,0,0,,我们上了龙背\N{\rEng}We jumped on a dragon's back
+Dialogue: 0,0:11:17.30,0:11:18.97,Chn,,0,0,0,,可是butters落下了\N{\rEng}and Butters got left behind!
+Dialogue: 0,0:11:18.97,0:11:19.97,Chn,,0,0,0,,stan stanley..
+Dialogue: 0,0:11:20.43,0:11:22.39,Chn,,0,0,0,,你最近有没有见过butters呀?\N{\rEng}You haven't seen your little friend Butters, have you?
+Dialogue: 0,0:11:22.51,0:11:24.05,Chn,,0,0,0,,怎么啦?\N{\rEng}Why?
+Dialogue: 0,0:11:24.18,0:11:27.06,Chn,,0,0,0,,我们亲爱的小buttters昨晚一直没有回家\N{\rEng}Our darling Butters never came home last night.
+Dialogue: 0,0:11:27.18,0:11:28.23,Chn,,0,0,0,,他们说什么?\N{\rEng}What did they say?!
+Dialogue: 0,0:11:28.35,0:11:30.10,Chn,,0,0,0,,我们不敢想象后果\N{\rEng}We don't want to jump to conclusions,
+Dialogue: 0,0:11:30.23,0:11:32.23,Chn,,0,0,0,,但很有可能 butters被某些变态绑架了\N{\rEng}but we're worried that maybe somebody kidnapped Butters,
+Dialogue: 0,0:11:32.35,0:11:33.86,Chn,,0,0,0,,被一遍遍的猥亵\N{\rEng}sodomized him over and over again
+Dialogue: 0,0:11:33.98,0:11:35.57,Chn,,0,0,0,,他的小宝贝也很有可能被切下来喂动物去了\N{\rEng}and then fed his genitals to wild animals.
+Dialogue: 0,0:11:37.44,0:11:38.74,Chn,,0,0,0,,别哭了 亲爱的\N{\rEng}There, there, darling.
+Dialogue: 0,0:11:38.86,0:11:41.07,Chn,,0,0,0,,天哪\N{\rEng}Dude.
+Dialogue: 0,0:11:45.20,0:11:47.95,Chn,,0,0,0,,女士们先生们 我有紧急情报\N{\rEng}Ladies and gentlemen, I have dire news.
+Dialogue: 0,0:11:48.08,0:11:51.54,Chn,,0,0,0,,昨天 准确的说是18小时前\N{\rEng}Yesterday, at approximately 1800 hours,
+Dialogue: 0,0:11:51.67,0:11:53.92,Chn,,0,0,0,,恐怖分子成功的入侵了\N{\rEng}terrorists successfully attacked...
+Dialogue: 0,0:11:54.04,0:11:56.00,Chn,,0,0,0,,我们的想象\N{\rEng}Our imagination.
+Dialogue: 0,0:11:58.38,0:11:59.63,Chn,,0,0,0,,我们的想象?\N{\rEng}Our imagination?
+Dialogue: 0,0:11:59.76,0:12:00.84,Chn,,0,0,0,,他们怎么弄的?\N{\rEng}How?
+Dialogue: 0,0:12:00.97,0:12:02.26,Chn,,0,0,0,,他们对这次攻击\N{\rEng}The imaginary attack appears to have been
+Dialogue: 0,0:12:02.38,0:12:03.76,Chn,,0,0,0,,策划了很久了\N{\rEng}in the works for years.
+Dialogue: 0,0:12:03.89,0:12:07.64,Chn,,0,0,0,,至于他们是如何做到的 根本无法想象\N{\rEng}The effects of the attack are so far unimaginable.
+Dialogue: 0,0:12:07.77,0:12:09.43,Chn,,0,0,0,,我们查到了这份恐怖分子\N{\rEng}We've intercepted this videotape
+Dialogue: 0,0:12:09.56,0:12:11.52,Chn,,0,0,0,,制作的录像带\N{\rEng}the terrorists made for broadcast.
+Dialogue: 0,0:12:11.64,0:12:14.90,Chn,,0,0,0,,幸好它没有被公众们看到\N{\rEng}Luckily, we've kept it from being broadcast to the public.
+Dialogue: 0,0:12:20.57,0:12:22.82,Chn,,0,0,0,,不要啊 它不过是只彩虹熊罢了\N{\rEng}No, he's just a {\i1}Care Bear{\i0}!
+Dialogue: 0,0:12:22.95,0:12:24.28,Chn,,0,0,0,,Agh!
+Dialogue: 0,0:12:24.41,0:12:26.24,Chn,,0,0,0,,噢 主啊\N{\rEng}Oh, my God.
+Dialogue: 0,0:12:26.37,0:12:29.41,Chn,,0,0,0,,在录像带的后半部分 我们还可以看见一名想象中的人质\N{\rEng}Later in the video, we can see another imaginary hostage,
+Dialogue: 0,0:12:29.54,0:12:31.83,Chn,,0,0,0,,在读恐怖分子的宣言\N{\rEng}this one reading a forced statement.
+Dialogue: 0,0:12:31.96,0:12:33.83,Chn,,0,0,0,,赞美唯一真主阿拉\N{\rEng}"Praise to the mighty Allah.
+Dialogue: 0,0:12:33.96,0:12:37.09,Chn,,0,0,0,,它创造了整个世界..\N{\rEng}His divine grace and will have brought forth this day."
+Dialogue: 0,0:12:38.84,0:12:40.17,Chn,,0,0,0,,厄..\N{\rEng}Whoa, jeez!
+Dialogue: 0,0:12:40.30,0:12:45.59,Chn,,0,0,0,,看见了没 现在你们的想象都掌握在我们手中吧\N{\rEng}"Uh, now see your safety is at our whim.
+Dialogue: 0,0:12:45.72,0:12:47.60,Chn,,0,0,0,,这就是你们的代价 美国佬!\N{\rEng}"this is the price you pay, America!
+Dialogue: 0,0:12:47.72,0:12:49.31,Chn,,0,0,0,,你们玷污了真主阿拉\N{\rEng}"You have defiled Allah,
+Dialogue: 0,0:12:49.43,0:12:52.06,Chn,,0,0,0,,而我们现在将要摧毁你们的幻想世界!\N{\rEng}"and now we shall turn your imagination against you!
+Dialogue: 0,0:12:52.18,0:12:54.40,Chn,,0,0,0,,干掉异教徒！\N{\rEng}Death to the infidels!"
+Dialogue: 0,0:12:54.52,0:12:57.40,Chn,,0,0,0,,我现在可以走了没?\N{\rEng}Can I go now?
+Dialogue: 0,0:12:57.52,0:13:01.74,Chn,,0,0,0,,stan kyle 快来救我呀!\N{\rEng}Stan, Kyle, could-could ya get me outta here?!
+Dialogue: 0,0:13:01.86,0:13:04.20,Chn,,0,0,0,,先生们 恐怖分子已经取得了\N{\rEng}Gentlemen, the terrorists appear to have
+Dialogue: 0,0:13:04.32,0:13:07.03,Chn,,0,0,0,,我们的幻想世界的全部控制权\N{\rEng}complete control of our imagination.
+Dialogue: 0,0:13:07.16,0:13:08.66,Chn,,0,0,0,,这一切只是时间问题而已\N{\rEng}It's only a matter of time before...
+Dialogue: 0,0:13:08.78,0:13:12.54,Chn,,0,0,0,,我们的幻想世界即将变得疯狂起来\N{\rEng}Our imaginations start running wild.
+Dialogue: 0,0:13:15.00,0:13:16.79,Chn,,0,0,0,,我认为 民主的名义\N{\rEng}I believe a serious blow to democracy
+Dialogue: 0,0:13:16.92,0:13:18.34,Chn,,0,0,0,,正在遭受玷污\N{\rEng}has just been dealt.
+Dialogue: 0,0:13:18.46,0:13:21.30,Chn,,0,0,0,,一个污点正在诞生之中 我需要公证\N{\rEng}A travesty has occurred, and I want justice.
+Dialogue: 0,0:13:19.47,0:13:20.87,Chn,,0,0,0,,??
+Dialogue: 0,0:13:21.42,0:13:23.01,Chn,,0,0,0,,kyle Broflovski是在知情并且自愿的情况下\N{\rEng}Kyle Broflovski did willingly and knowingly
+Dialogue: 0,0:13:23.13,0:13:24.26,Chn,,0,0,0,,签署这个合同的\N{\rEng}sign a contract
+Dialogue: 0,0:13:24.38,0:13:26.47,Chn,,0,0,0,,可是知道目前为止 他没有表现出\N{\rEng}and yet, as to date, he has made no effort,
+Dialogue: 0,0:13:26.59,0:13:27.93,Chn,,0,0,0,,哪怕是稍微一点点\N{\rEng}nor does he show any intention
+Dialogue: 0,0:13:28.05,0:13:30.43,Chn,,0,0,0,,想要履行承诺 舔我蛋蛋的意思\N{\rEng}of ever sucking my balls.
+Dialogue: 0,0:13:30.56,0:13:32.85,Chn,,0,0,0,,我已经给了他多次机会来兑现承诺\N{\rEng}I have given him ample time to fulfill his obligation
+Dialogue: 0,0:13:32.98,0:13:34.23,Chn,,0,0,0,,可他却一直拒绝\N{\rEng}and he has thus refused.
+Dialogue: 0,0:13:34.35,0:13:38.02,Chn,,0,0,0,,我带着干巴巴的蛋蛋站在您的面前 法官大人\N{\rEng}I stand before you with dry balls, your honor.
+Dialogue: 0,0:13:38.15,0:13:39.65,Chn,,0,0,0,,我已经尽了最大努力与妥协\N{\rEng}I have provided witnesses, collected testimonials,
+Dialogue: 0,0:13:39.77,0:13:41.82,Chn,,0,0,0,,可我的蛋蛋还是干巴巴的\N{\rEng}and still my balls remain dry.
+Dialogue: 0,0:13:41.94,0:13:45.03,Chn,,0,0,0,,我希望得到属于我的东西\N{\rEng}I want what I'm entitled to.
+Dialogue: 0,0:13:45.15,0:13:48.07,Chn,,0,0,0,,Broflovski先生 你是否有签署用嘴部\N{\rEng}Mr. Broflovski, did you agree to orally imbibe
+Dialogue: 0,0:13:48.20,0:13:51.87,Chn,,0,0,0,,接触cartman先生胯下球状物的协议?\N{\rEng}Mr. Cartman's scrotum and testicles?
+Dialogue: 0,0:13:53.12,0:13:55.12,Chn,,0,0,0,,我..\N{\rEng}I...
+Dialogue: 0,0:13:55.25,0:13:58.29,Chn,,0,0,0,,这个合同上面是你自己签的名字吗?\N{\rEng}Is this not your signature on the contract?
+Dialogue: 0,0:13:58.42,0:14:01.05,Chn,,0,0,0,,Uh...
+Dialogue: 0,0:14:01.17,0:14:03.26,Chn,,0,0,0,,可是..\N{\rEng}Oh, uh, but...
+Dialogue: 0,0:14:03.38,0:14:05.59,Chn,,0,0,0,,拜托..真的要吗?\N{\rEng}Come on, really?
+Dialogue: 0,0:14:05.72,0:14:06.93,Chn,,0,0,0,,我是说 法庭就不能审理点\N{\rEng}I mean, aren't there more important things
+Dialogue: 0,0:14:07.05,0:14:08.59,Chn,,0,0,0,,更重要的案子吗?\N{\rEng}going on right now?
+Dialogue: 0,0:14:08.72,0:14:10.89,Chn,,0,0,0,,就我所得到的证据来看\N{\rEng}From what I have been presented and the evidence put forth,
+Dialogue: 0,0:14:11.01,0:14:12.68,Chn,,0,0,0,,法庭裁定你别无选择 必须得把catman的先生\N{\rEng}the court has no choice but to order you to place
+Dialogue: 0,0:14:12.81,0:14:15.14,Chn,,0,0,0,,胯下的球状物放入自己的嘴里\N{\rEng}Mr. Cartman's pubical sack in your mouth
+Dialogue: 0,0:14:15.27,0:14:18.27,Chn,,0,0,0,,并且要含着它不少于30秒钟\N{\rEng}and draw upon it succulently for no less than 30 seconds.
+Dialogue: 0,0:14:18.40,0:14:19.98,Chn,,0,0,0,,Yes!
+Dialogue: 0,0:14:20.11,0:14:23.44,Chn,,0,0,0,,你有24小时的时间去添那两个蛋蛋\N{\rEng}You have 24 hours to suck aforementioned balls.
+Dialogue: 0,0:14:23.57,0:14:25.44,Chn,,0,0,0,,如果你到时仍未履行这个合同\N{\rEng}If after that time you've still refused,
+Dialogue: 0,0:14:25.57,0:14:27.45,Chn,,0,0,0,,法庭将会以诈骗罪逮捕你\N{\rEng}the court will be forced to arrest you for contempt.
+Dialogue: 0,0:14:27.57,0:14:28.86,Chn,,0,0,0,,好啦 下一个案子\N{\rEng}Next case.
+Dialogue: 0,0:14:29.91,0:14:30.95,Chn,,0,0,0,,多谢啦 法官大人\N{\rEng}Thank you, Your Honor.
+Dialogue: 0,0:14:31.08,0:14:32.33,Chn,,0,0,0,,这不是我的胜诉\N{\rEng}This isn't a victory for me.
+Dialogue: 0,0:14:32.45,0:14:34.20,Chn,,0,0,0,,这是整个司法系统的胜诉\N{\rEng}This is a victory for the justice system...
+Dialogue: 0,0:14:34.33,0:14:36.08,Chn,,0,0,0,,还有....我的小蛋蛋\N{\rEng}And my balls.
+Dialogue: 0,0:14:38.29,0:14:41.42,Chn,,0,0,0,,我将要告诉你的事情可是高度机密\N{\rEng}What I am about to tell you is highly classified.
+Dialogue: 0,0:14:41.54,0:14:46.17,Chn,,0,0,0,,两天以前 穆斯林恐怖分子劫持了我们的想象\N{\rEng}Two days ago Muslim terrorists hijacked our imagination.
+Dialogue: 0,0:14:46.30,0:14:47.97,Chn,,0,0,0,,我们不知道他们接下来要做什么\N{\rEng}Frankly, we don't know what their next move is
+Dialogue: 0,0:14:48.09,0:14:49.55,Chn,,0,0,0,,如何阻止他们\N{\rEng}or how to stop them.
+Dialogue: 0,0:14:49.68,0:14:51.60,Chn,,0,0,0,,每当遇到这种情况 政府都会\N{\rEng}In times like these, the government often turns to
+Dialogue: 0,0:14:51.72,0:14:53.43,Chn,,0,0,0,,向好莱坞求助\N{\rEng}Hollywood for help.
+Dialogue: 0,0:14:53.56,0:14:56.10,Chn,,0,0,0,,你们这些电影人总是可以想到我们想不到的点子\N{\rEng}You creative filmmakers can think of ideas we just can't.
+Dialogue: 0,0:14:56.23,0:14:57.68,Chn,,0,0,0,,这正是我们找你来的原因\N{\rEng}That's why we've asked you here,
+Dialogue: 0,0:14:57.81,0:14:59.98,Chn,,0,0,0,,Night Shyamalan先生\N{\rEng}Mr. Night Shyamalan.
+Dialogue: 0,0:15:00.10,0:15:01.65,Chn,,0,0,0,,第六感 灵异村庄\N{\rEng}{\i1}The Sixth Sense, Signs, The Village--{\i0}
+Dialogue: 0,0:15:01.77,0:15:03.61,Chn,,0,0,0,,都是非常了不起的电影\N{\rEng}all very clever films.
+Dialogue: 0,0:15:03.73,0:15:05.90,Chn,,0,0,0,,但你现在能运用你那神奇的头脑\N{\rEng}But can you use your amazing idea brain now
+Dialogue: 0,0:15:06.03,0:15:08.03,Chn,,0,0,0,,来帮助我们阻止恐怖分子吗?\N{\rEng}to help us stop the terrorists?
+Dialogue: 0,0:15:08.15,0:15:11.12,Chn,,0,0,0,,如果..\N{\rEng}What if...
+Dialogue: 0,0:15:11.24,0:15:14.16,Chn,,0,0,0,,如果实际上他们不是恐怖分子\N{\rEng}What if it turns out they aren't terrorists,
+Dialogue: 0,0:15:14.28,0:15:16.70,Chn,,0,0,0,,而是来自未来的狼人?\N{\rEng}but they're actually werewolves from the future?
+Dialogue: 0,0:15:16.83,0:15:20.67,Chn,,0,0,0,,不呢 他们真的是恐怖分子\N{\rEng}No, no, they're terrorists.
+Dialogue: 0,0:15:20.79,0:15:22.46,Chn,,0,0,0,,他们是穆斯林\N{\rEng}They've been linked to Al Qaeda.
+Dialogue: 0,0:15:22.58,0:15:24.09,Chn,,0,0,0,,可如果实际上穆斯林\N{\rEng}But what if Al Qaeda, it turns out,
+Dialogue: 0,0:15:24.21,0:15:27.01,Chn,,0,0,0,,是由外星人所控制的恐怖分子?\N{\rEng}is the group being terrorized... By aliens?
+Dialogue: 0,0:15:27.13,0:15:29.59,Chn,,0,0,0,,不呀 这才不是什么点子呢\N{\rEng}No, that's not an idea.
+Dialogue: 0,0:15:29.72,0:15:31.18,Chn,,0,0,0,,这是个"曲折的情节"\N{\rEng}That's a twist.
+Dialogue: 0,0:15:31.30,0:15:32.97,Chn,,0,0,0,,我们要的是点子\N{\rEng}We need ideas.
+Dialogue: 0,0:15:33.10,0:15:34.43,Chn,,0,0,0,,那么 也许我们都只是想象自己\N{\rEng}How about we make everyone think that
+Dialogue: 0,0:15:34.56,0:15:36.18,Chn,,0,0,0,,在被恐怖分子攻击而已\N{\rEng}terrorists attacked us...
+Dialogue: 0,0:15:36.31,0:15:39.56,Chn,,0,0,0,,实际上我们早就都死了\N{\rEng}But really we were all already dead?
+Dialogue: 0,0:15:39.69,0:15:41.94,Chn,,0,0,0,,把他赶出去!\N{\rEng}Get him out of here.
+Dialogue: 0,0:15:43.52,0:15:44.86,Chn,,0,0,0,,bay先生 你能想出什么\N{\rEng}Mr. Bay, can you think of any ideas
+Dialogue: 0,0:15:44.98,0:15:47.07,Chn,,0,0,0,,阻止这些恐怖分子的点子吗?\N{\rEng}how to outwit these terrorists?
+Dialogue: 0,0:15:47.19,0:15:48.82,Chn,,0,0,0,,我想我们可以的\N{\rEng}I believe I can.
+Dialogue: 0,0:15:48.94,0:15:51.11,Chn,,0,0,0,,首先 我们用CG做一栋大楼\N{\rEng}We start by making a big c-g building,
+Dialogue: 0,0:15:51.24,0:15:53.45,Chn,,0,0,0,,再让它坍塌\N{\rEng}and then we have a meteor go fweoooshh!
+Dialogue: 0,0:15:53.57,0:15:55.53,Chn,,0,0,0,,然后就是"咔啦! 咔啦!"\N{\rEng}And then it's all like crawwwww!
+Dialogue: 0,0:15:55.66,0:15:57.33,Chn,,0,0,0,,接着是摩托车..\N{\rEng}And motorcycles burst into flame
+Dialogue: 0,0:15:57.45,0:15:58.87,Chn,,0,0,0,,在直升飞机上从天而降\N{\rEng}while they jump over these helicopters, right?
+Dialogue: 0,0:15:59.00,0:16:00.16,Chn,,0,0,0,,不!\N{\rEng}No, no.
+Dialogue: 0,0:16:00.29,0:16:03.13,Chn,,0,0,0,,我们要的是可以阻止恐怖分子的点子!\N{\rEng}We need ideas how to stop the terrorists.
+Dialogue: 0,0:16:03.25,0:16:04.88,Chn,,0,0,0,,一辆18轮大货车忽然失去控制...\N{\rEng}An 18-wheeler spins out of control,
+Dialogue: 0,0:16:05.00,0:16:06.67,Chn,,0,0,0,,"卟啦!"\N{\rEng}and it's all like brashshh
+Dialogue: 0,0:16:06.80,0:16:08.30,Chn,,0,0,0,,然后满车的钻石就\N{\rEng}into this huge tanker full of dynamite!
+Dialogue: 0,0:16:08.42,0:16:10.84,Chn,,0,0,0,,"呵嚨!"\N{\rEng}It's like craw-rawwww-boosh...
+Dialogue: 0,0:16:10.97,0:16:12.34,Chn,,0,0,0,,这些才不是什么点子\N{\rEng}Those aren't ideas.
+Dialogue: 0,0:16:12.47,0:16:14.60,Chn,,0,0,0,,这些是特效!\N{\rEng}Those are special effects.
+Dialogue: 0,0:16:14.72,0:16:18.52,Chn,,0,0,0,,这两者之间有什么区别吗?\N{\rEng}I don't understand the difference.
+Dialogue: 0,0:16:18.64,0:16:19.81,Chn,,0,0,0,,你当然不知道!\N{\rEng}I know you don't.
+Dialogue: 0,0:16:19.93,0:16:22.14,Chn,,0,0,0,,把他赶出去!\N{\rEng}Get him out of here!
+Dialogue: 0,0:16:22.27,0:16:24.77,Chn,,0,0,0,,因为我们都是mel gibson的超级粉丝哦\N{\rEng}And being that we are all big Mel Gibson film fans,
+Dialogue: 0,0:16:24.90,0:16:26.94,Chn,,0,0,0,,所以我想你可以帮助我们\N{\rEng}we thought maybe you could help us.
+Dialogue: 0,0:16:27.07,0:16:28.61,Chn,,0,0,0,,啊 我的小咪咪好痛啊\N{\rEng}Oh, my nipples, they hurt!
+Dialogue: 0,0:16:28.73,0:16:30.36,Chn,,0,0,0,,我一扭它们 它们就好痛呀\N{\rEng}They hurt when I twist them!
+Dialogue: 0,0:16:30.49,0:16:33.03,Chn,,0,0,0,,恩..\N{\rEng}Yes, uh...
+Dialogue: 0,0:16:33.16,0:16:35.32,Chn,,0,0,0,,我也不大指望你能想出什么\N{\rEng}I don't suppose you have any creative ideas
+Dialogue: 0,0:16:35.45,0:16:37.08,Chn,,0,0,0,,可以解决掉恐怖分子的点子\N{\rEng}how to fight these terrorists?
+Dialogue: 0,0:16:37.20,0:16:39.08,Chn,,0,0,0,,这个如何\N{\rEng}How about this--
+Dialogue: 0,0:16:39.20,0:16:41.21,Chn,,0,0,0,,你们有那柄恐怖分子做的录像带呀 不是吗?\N{\rEng}you have that video tape that the terrorists made, right?
+Dialogue: 0,0:16:41.33,0:16:43.50,Chn,,0,0,0,,当你们仔细检查\N{\rEng}Well, maybe if you did a background check
+Dialogue: 0,0:16:43.62,0:16:45.00,Chn,,0,0,0,,那柄录像带的背景时\N{\rEng}on the video tape,
+Dialogue: 0,0:16:45.13,0:16:47.25,Chn,,0,0,0,,也许你们会发现某些人并不属于那个国度\N{\rEng}you might find somebody who doesn't belong,
+Dialogue: 0,0:16:47.38,0:16:49.59,Chn,,0,0,0,,某些人根本不可能在幻想仙境中出现..\N{\rEng}somebody who doesn't fit in Imaginationland.
+Dialogue: 0,0:16:49.71,0:16:51.13,Chn,,0,0,0,,噢!\N{\rEng}Oh!
+Dialogue: 0,0:16:51.26,0:16:55.26,Chn,,0,0,0,,嘿 这主意可不坏!\N{\rEng}Hey... That's not a bad idea.
+Dialogue: 0,0:16:55.39,0:16:56.89,Chn,,0,0,0,,没错\N{\rEng}Yeah.
+Dialogue: 0,0:16:57.01,0:16:58.18,Chn,,0,0,0,,不管你怎么看mel gibson\N{\rEng}Say what you want about Mel Gibson,
+Dialogue: 0,0:16:58.31,0:17:00.31,Chn,,0,0,0,,但这婊子养的知道如何处理剧本结构!\N{\rEng}but the son of a bitch knows story structure.
+Dialogue: 0,0:17:00.43,0:17:01.39,Chn,,0,0,0,,快去把录像带找来\N{\rEng}Get the videotape and do a background check
+Dialogue: 0,0:17:01.52,0:17:02.48,Chn,,0,0,0,,并且仔细检查里面的每一个人!\N{\rEng}on everyone in it.
+Dialogue: 0,0:17:02.60,0:17:04.98,Chn,,0,0,0,,啊!! 真爽啊!\N{\rEng}Oh, yes!
+Dialogue: 0,0:17:05.10,0:17:07.73,Chn,,0,0,0,,录像带中的所有幻想人物\N{\rEng}All the imaginary characters in the tape
+Dialogue: 0,0:17:07.86,0:17:09.32,Chn,,0,0,0,,都已被确认 长官\N{\rEng}were identified, sir.
+Dialogue: 0,0:17:09.44,0:17:11.65,Chn,,0,0,0,,吸血鬼 灰姑娘 来自闪电猫的snarf\N{\rEng}Count Chocula, Cinderella, Snarf from {\i1}Thundercats.{\i0}
+Dialogue: 0,0:17:11.78,0:17:13.28,Chn,,0,0,0,,但..这儿\N{\rEng}But here.
+Dialogue: 0,0:17:13.40,0:17:14.70,Chn,,0,0,0,,没有任何一项美国民间传说\N{\rEng}Nothing in American folklore
+Dialogue: 0,0:17:14.82,0:17:16.87,Chn,,0,0,0,,有涉及这个孩子\N{\rEng}or story-telling matched this kid.
+Dialogue: 0,0:17:16.99,0:17:19.45,Chn,,0,0,0,,他应该..就是个孩子而已\N{\rEng}He appears to be just some kid.
+Dialogue: 0,0:17:19.58,0:17:22.83,Chn,,0,0,0,,(stan kyle 你们快来救我呀!)\N{\rEng}Stan, Kyle, could-could ya get me outta here?!
+Dialogue: 0,0:17:22.96,0:17:24.41,Chn,,0,0,0,,我要求所有资料室\N{\rEng}I want digital imaging
+Dialogue: 0,0:17:24.54,0:17:26.71,Chn,,0,0,0,,全线调查!\N{\rEng}and resource magnification done {\i1}stat.{\i0}
+Dialogue: 0,0:17:26.83,0:17:27.92,Chn,,0,0,0,,如果这个孩子不是想象出来的\N{\rEng}If that kid isn't imaginary,
+Dialogue: 0,0:17:28.04,0:17:29.42,Chn,,0,0,0,,那我希望知道他是谁\N{\rEng}I want to know who he is,
+Dialogue: 0,0:17:29.55,0:17:31.42,Chn,,0,0,0,,他从哪来 他的朋友是什么人!\N{\rEng}where he's from, and who his friends are!
+Dialogue: 0,0:17:31.55,0:17:32.88,Chn,,0,0,0,,是的 长官!\N{\rEng}Yes, sir.
+Dialogue: 0,0:17:34.88,0:17:36.76,Chn,,0,0,0,,你..是..谁?\N{\rEng}Who are you?
+Dialogue: 0,0:17:45.31,0:17:48.44,Chn,,0,0,0,,厄..不好意思 恐怖分子先生\N{\rEng}Uh, excuse me, Mr. Terrorist, sir?
+Dialogue: 0,0:17:48.56,0:17:51.40,Chn,,0,0,0,,厄 我实际上不是被想象出来的\N{\rEng}Uh, I'm actually not imaginary,
+Dialogue: 0,0:17:51.53,0:17:54.07,Chn,,0,0,0,,而且我父母会惩罚我 如果我没在..\N{\rEng}and, um, my parents are gonna ground me if I don't--
+Dialogue: 0,0:17:55.78,0:17:56.74,Chn,,0,0,0,,啊..\N{\rEng}Ahh!
+Dialogue: 0,0:17:56.86,0:17:59.28,Chn,,0,0,0,,ok..对8起..对8起..\N{\rEng}Okay, sorry, sorry!
+Dialogue: 0,0:17:59.41,0:18:01.83,Chn,,0,0,0,,那些恐怖分子到底在干什么?\N{\rEng}Can you tell what the terrorists are doing?
+Dialogue: 0,0:18:01.95,0:18:05.62,Chn,,0,0,0,,他们好像要把火箭小子捆起来呀\N{\rEng}They're doing something to Rockety Rocket!
+Dialogue: 0,0:18:05.75,0:18:07.08,Chn,,0,0,0,,啊..放开我..啊..\N{\rEng}No, leave me alone!
+Dialogue: 0,0:18:07.21,0:18:08.13,Chn,,0,0,0,,Ahg!
+Dialogue: 0,0:18:08.25,0:18:09.67,Chn,,0,0,0,,这一切有什么意义呢\N{\rEng}It doesn't make sense.
+Dialogue: 0,0:18:09.79,0:18:11.34,Chn,,0,0,0,,他们要拿火箭小子干什么?\N{\rEng}What do they want with Rockety?
+Dialogue: 0,0:18:11.46,0:18:13.46,Chn,,0,0,0,,他们这样做只有一个理由..\N{\rEng}The only reason they would...
+Dialogue: 0,0:18:13.59,0:18:15.17,Chn,,0,0,0,,噢..主啊..\N{\rEng}Oh, my God.
+Dialogue: 0,0:18:15.30,0:18:17.13,Chn,,0,0,0,,他们将要摧毁防护栏!\N{\rEng}They're gonna blow up the barrier!
+Dialogue: 0,0:18:17.26,0:18:19.55,Chn,,0,0,0,,防护栏是什么?\N{\rEng}What's the barrier?
+Dialogue: 0,0:18:19.68,0:18:21.72,Chn,,0,0,0,,那堵墙 那堵墙分隔了\N{\rEng}The wall, the wall which separates
+Dialogue: 0,0:18:21.85,0:18:23.89,Chn,,0,0,0,,幻想仙境的\N{\rEng}the evil side of Imaginationland
+Dialogue: 0,0:18:24.02,0:18:25.98,Chn,,0,0,0,,美好部分和邪恶部分\N{\rEng}from the good side!
+Dialogue: 0,0:18:26.10,0:18:27.14,Chn,,0,0,0,,不\N{\rEng}No!
+Dialogue: 0,0:18:27.27,0:18:28.85,Chn,,0,0,0,,你们不能摧毁那堵墙 这太疯狂啦\N{\rEng}No, you can't blow up the barrier!
+Dialogue: 0,0:18:28.98,0:18:30.36,Chn,,0,0,0,,你们发疯了吗\N{\rEng}Are you insane?!
+Dialogue: 0,0:18:31.90,0:18:33.32,Chn,,0,0,0,,我们不能坐视不理啊\N{\rEng}We can't let this happen!
+Dialogue: 0,0:18:33.44,0:18:35.19,Chn,,0,0,0,,不然幻想仙境会灭亡的!\N{\rEng}It'll be the end of Imaginationland!
+Dialogue: 0,0:18:35.32,0:18:36.36,Chn,,0,0,0,,没错\N{\rEng}Yeah!
+Dialogue: 0,0:18:36.49,0:18:38.11,Chn,,0,0,0,,你得阻止他们! 孩子\N{\rEng}You have to stop them, kid!
+Dialogue: 0,0:18:38.24,0:18:39.28,Chn,,0,0,0,,我?\N{\rEng}Me?
+Dialogue: 0,0:18:39.41,0:18:41.03,Chn,,0,0,0,,我能做些什么捏?\N{\rEng}What am I supposed to do?
+Dialogue: 0,0:18:41.16,0:18:42.62,Chn,,0,0,0,,你还不明白吗!\N{\rEng}Don't you get it?!
+Dialogue: 0,0:18:42.74,0:18:44.20,Chn,,0,0,0,,如果恐怖分子把那堵墙撞开\N{\rEng}If the terrorists blow that barrier,
+Dialogue: 0,0:18:44.33,0:18:45.87,Chn,,0,0,0,,人类历史所想像过的所有最邪恶的东西\N{\rEng}all the most evil things ever imagined
+Dialogue: 0,0:18:46.00,0:18:47.62,Chn,,0,0,0,,都将出山\N{\rEng}are gonna pour out
+Dialogue: 0,0:18:47.75,0:18:50.13,Chn,,0,0,0,,把幻想仙境的美好部分摧毁得一干二净!\N{\rEng}and take over Imaginationland for good!
+Dialogue: 0,0:18:50.25,0:18:52.25,Chn,,0,0,0,,你必须得做点什么!\N{\rEng}You have to do something!
+Dialogue: 0,0:18:52.38,0:18:53.80,Chn,,0,0,0,,Wahghgh!
+Dialogue: 0,0:18:59.84,0:19:01.22,Chn,,0,0,0,,感谢各位的到来\N{\rEng}Thanks for coming, everyone.
+Dialogue: 0,0:19:01.35,0:19:02.55,Chn,,0,0,0,,盛大的仪式即将进行\N{\rEng}The big moment is almost here,
+Dialogue: 0,0:19:02.68,0:19:04.06,Chn,,0,0,0,,只要kyle来到现场\N{\rEng}as soon as Kyle arrives.
+Dialogue: 0,0:19:04.18,0:19:06.14,Chn,,0,0,0,,他是不可能会过来舔你的蛋蛋的 伙计\N{\rEng}He's not gonna show up to suck your balls, dude.
+Dialogue: 0,0:19:06.27,0:19:07.68,Chn,,0,0,0,,他必须来\N{\rEng}He has to.
+Dialogue: 0,0:19:07.81,0:19:09.60,Chn,,0,0,0,,法庭已经警告过他了\N{\rEng}He's been ordered by the court.
+Dialogue: 0,0:19:09.73,0:19:11.27,Chn,,0,0,0,,嘿 他来了哦\N{\rEng}Hey, he's here.
+Dialogue: 0,0:19:11.40,0:19:13.15,Chn,,0,0,0,,噢 让开 让开!\N{\rEng}Wha-- move aside, move aside!
+Dialogue: 0,0:19:13.27,0:19:15.11,Chn,,0,0,0,,伙计 你真的准备要做吗?\N{\rEng}Dude, do you really have to do it?
+Dialogue: 0,0:19:15.23,0:19:16.74,Chn,,0,0,0,,我只是想让这件事早些结束!\N{\rEng}Let's just get this over with.
+Dialogue: 0,0:19:16.86,0:19:18.90,Chn,,0,0,0,,噢 快进来吧 kyle\N{\rEng}Yes, come on in, Peasant Kyle,
+Dialogue: 0,0:19:19.03,0:19:20.91,Chn,,0,0,0,,对我的蛋蛋臣服吧!\N{\rEng}and pay homage to the Sultan's balls!
+Dialogue: 0,0:19:21.03,0:19:22.87,Chn,,0,0,0,,我操!\N{\rEng}Goddamn it.
+Dialogue: 0,0:19:22.99,0:19:25.45,Chn,,0,0,0,,Yes...yes!
+Dialogue: 0,0:19:35.55,0:19:36.67,Chn,,0,0,0,,这就是他们 长官\N{\rEng}That's them, sir.
+Dialogue: 0,0:19:36.80,0:19:38.30,Chn,,0,0,0,,stan marsh和kyle Broflovski\N{\rEng}Stan Marsh and Kyle Broflovski.
+Dialogue: 0,0:19:38.42,0:19:39.84,Chn,,0,0,0,,你们两个孩子得和我走一趟\N{\rEng}You boys need to come with us
+Dialogue: 0,0:19:39.97,0:19:41.51,Chn,,0,0,0,,以国家安全的名义\N{\rEng}on a matter of national security.
+Dialogue: 0,0:19:41.64,0:19:42.89,Chn,,0,0,0,,你们是谁\N{\rEng}Who are you?
+Dialogue: 0,0:19:43.01,0:19:45.06,Chn,,0,0,0,,没时间啦 你们现在就得跟我们走!\N{\rEng}There's no time, you need to come with us right now!
+Dialogue: 0,0:19:45.18,0:19:46.81,Chn,,0,0,0,,嘿 放开他!\N{\rEng}Hey, let go of him!
+Dialogue: 0,0:19:46.93,0:19:48.14,Chn,,0,0,0,,我们不会伤害你的小朋友的\N{\rEng}We aren't going to hurt your little friends.
+Dialogue: 0,0:19:48.27,0:19:49.56,Chn,,0,0,0,,我们只是像他们询问一些信息而已\N{\rEng}We just need information.
+Dialogue: 0,0:19:49.69,0:19:50.48,Chn,,0,0,0,,不!\N{\rEng}No!
+Dialogue: 0,0:19:50.60,0:19:51.94,Chn,,0,0,0,,不行! 他得先舔我的蛋蛋!\N{\rEng}No, he has to suck my balls!
+Dialogue: 0,0:19:54.65,0:19:56.82,Chn,,0,0,0,,不!\N{\rEng}No!
+Dialogue: 0,0:19:56.94,0:19:59.15,Chn,,0,0,0,,不要啊!\N{\rEng}No!
+Dialogue: 0,0:20:00.95,0:20:02.78,Chn,,0,0,0,,阿拉\N{\rEng}Allah! Allah ! Allah!
+Dialogue: 0,0:20:03.41,0:20:05.49,Chn,,0,0,0,,No, no!
+Dialogue: 0,0:20:05.62,0:20:07.20,Chn,,0,0,0,,稍等\N{\rEng}Hold on!
+Dialogue: 0,0:20:07.33,0:20:09.62,Chn,,0,0,0,,稍等一下好吗\N{\rEng}Hold on a second!
+Dialogue: 0,0:20:11.37,0:20:13.92,Chn,,0,0,0,,你们得认真想想这个问题\N{\rEng}Now... You really should think about this.
+Dialogue: 0,0:20:14.04,0:20:16.21,Chn,,0,0,0,,我是说 你们觉得劫持我们的想象\N{\rEng}I mean, uh, I know you think
+Dialogue: 0,0:20:16.34,0:20:18.21,Chn,,0,0,0,,会给你们带来什么好处\N{\rEng}attacking our imagination will get you somewhere,
+Dialogue: 0,0:20:18.34,0:20:20.84,Chn,,0,0,0,,可是真的会有什么好处吗?\N{\rEng}but will it really?
+Dialogue: 0,0:20:20.97,0:20:23.01,Chn,,0,0,0,,如果你们撞坏那堵墙的话\N{\rEng}If you destroy that wall,
+Dialogue: 0,0:20:23.14,0:20:25.22,Chn,,0,0,0,,一群人类想象史上最邪恶的东西\N{\rEng}all the most evil parts of our imagination
+Dialogue: 0,0:20:25.35,0:20:27.22,Chn,,0,0,0,,都将出来摧毁这个世界\N{\rEng}are gonna break loose.
+Dialogue: 0,0:20:27.35,0:20:31.23,Chn,,0,0,0,,可这样会使你们这些恐怖分子好受点吗?\N{\rEng}But will it really make you terrorists feel better?
+Dialogue: 0,0:20:31.35,0:20:35.40,Chn,,0,0,0,,也许现在正是我们大家开始友好相处的开端呢\N{\rEng}Maybe it's time for us all to just... Get along.
+Dialogue: 0,0:20:36.44,0:20:37.98,Chn,,0,0,0,,啊啦!\N{\rEng}Allah! Allah ! Allah!
+Dialogue: 0,0:20:38.11,0:20:41.49,Chn,,0,0,0,,耶稣基督啊!不要啊！\N{\rEng}Arrg, Jesus Christ, no!
+Dialogue: 0,0:20:44.20,0:20:46.32,Chn,,0,0,0,,Yay!ay Yay! Yay!ay Yay!
+Dialogue: 0,0:20:46.45,0:20:48.24,Chn,,0,0,0,,这就是你所谓的"阻止"?\N{\rEng}That was your plan to stop them?!
+Dialogue: 0,0:20:48.37,0:20:50.41,Chn,,0,0,0,,是呀 一篇发自内心深处的演讲\N{\rEng}Yeah, a nice little heartfelt speech.
+Dialogue: 0,0:20:50.54,0:20:52.75,Chn,,0,0,0,,这也他娘的太蠢了吧?\N{\rEng}That's fucking stupid!
+Dialogue: 0,0:21:02.30,0:21:04.80,Chn,,0,0,0,,他们要来了..\N{\rEng}They are coming.
+Dialogue: 0,0:21:14.23,0:21:15.56,Chn,,0,0,0,,还好我给你搭了个便车呢 孩子\N{\rEng}Glad I picked you up, kid.
+Dialogue: 0,0:21:15.69,0:21:18.36,Chn,,0,0,0,,像你这么大的孩子一个人上路 可是很危险的\N{\rEng}It's dangerous for someone your age to be hitchhiking.
+Dialogue: 0,0:21:18.48,0:21:22.32,Chn,,0,0,0,,恩 可是当一个人被背叛过以后\N{\rEng}Yeah, well, when a man has been wronged...
+Dialogue: 0,0:21:22.44,0:21:25.57,Chn,,0,0,0,,他就不会在乎什么危险了\N{\rEng}He no longer cares about danger.
+Dialogue: 0,0:21:25.70,0:21:28.37,Chn,,0,0,0,,你到华盛顿是去看你的家人吗?\N{\rEng}You goin' to Washington to visit family?
+Dialogue: 0,0:21:28.49,0:21:30.20,Chn,,0,0,0,,我有些不得不做的事情要完成\N{\rEng}I've got unfinished business.
+Dialogue: 0,0:21:30.33,0:21:32.75,Chn,,0,0,0,,你花费一生的时间去追寻公正\N{\rEng}You go through life being told there's justice.
+Dialogue: 0,0:21:32.87,0:21:34.33,Chn,,0,0,0,,可你最终会意识到\N{\rEng}Then you learn that the only real justice...
+Dialogue: 0,0:21:34.46,0:21:37.04,Chn,,0,0,0,,只有自己争取到的 才是真正的公正\N{\rEng}Is the justice you {\i1}take.{\i0}
+Dialogue: 0,0:21:37.63,0:21:40.30,Chn,,0,0,0,,不要心存侥幸 kyle\N{\rEng}Make no mistake, Kyle...
+Dialogue: 0,0:21:40.42,0:21:41.57,Chn,,0,0,0,,在这一切结束之前\N{\rEng}Before this is over,
+Dialogue: 0,0:21:41.57,0:21:43.67,Chn,,0,0,0,,you {\i1}will{\i0} suck my balls.\N{\rEng}我一定会把蛋蛋放入你的嘴里!
+Dialogue: 0,0:21:44.37,0:21:48.37,Chn,,0,0,0,,{\c&H00ffff&}风软FRM字幕组出品\N{\rEng}-==http://www.1000fr.com==-\N{\rEng}欢迎加入
